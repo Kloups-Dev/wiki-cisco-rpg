@@ -1,7 +1,7 @@
 # Larmes ardentes
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/fiery_tears.png" alt="Larmes ardentes">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/fiery_tears.png" alt="Larmes ardentes">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Larmes ardentes</div>
 <div class="mc-tooltip-card__alias">Fiery Tears</div>

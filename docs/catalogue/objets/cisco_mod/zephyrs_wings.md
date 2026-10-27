@@ -1,7 +1,7 @@
 # Zephyrs Wings
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/zephyrs_wings.png" alt="Zephyrs Wings">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cisco_mod/zephyrs_wings.png" alt="Zephyrs Wings">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Zephyrs Wings</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

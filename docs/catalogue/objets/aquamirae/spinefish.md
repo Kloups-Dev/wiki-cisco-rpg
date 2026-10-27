@@ -1,7 +1,7 @@
 # Spinefish
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/spinefish.png" alt="Spinefish">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/spinefish.png" alt="Spinefish">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Spinefish</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

@@ -1,7 +1,7 @@
 # Ender Rune
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/ender_rune.png" alt="Ender Rune">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/ender_rune.png" alt="Ender Rune">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ender Rune</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>
@@ -14,14 +14,14 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>irons_spellbooks:ender_rune</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span><a class="jei-slot" href="../../../catalogue/objets/irons_spellbooks/blank_rune.md" title="Blank Runestone (irons_spellbooks:blank_rune)"><img src="../../../assets/generated/items/irons_spellbooks/blank_rune.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/irons_spellbooks/ender_rune.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : irons_spellbooks-1.19.2-3.4.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>irons_spellbooks:ender_rune</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span><a class="jei-slot" href="../../../../catalogue/objets/irons_spellbooks/blank_rune/" title="Blank Runestone (irons_spellbooks:blank_rune)"><img src="../../../../assets/generated/items/irons_spellbooks/blank_rune.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:ender_focus">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/irons_spellbooks/ender_rune.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : irons_spellbooks-1.19.2-3.4.0.jar</div></div>
 
 ## Utilisé dans
 
 - [Ender Upgrade Orb](../../../catalogue/objets/irons_spellbooks/ender_upgrade_orb.md) — <code>irons_spellbooks:ender_upgrade_orb</code>
-- [Shadow-Walker Mask](../../../catalogue/objets/irons_spellbooks/shadowwalker_helmet.md) — <code>irons_spellbooks:shadowwalker_helmet</code>
-- [Shadow-Walker Armor](../../../catalogue/objets/irons_spellbooks/shadowwalker_chestplate.md) — <code>irons_spellbooks:shadowwalker_chestplate</code>
 - [Shadow-Walker Boots](../../../catalogue/objets/irons_spellbooks/shadowwalker_boots.md) — <code>irons_spellbooks:shadowwalker_boots</code>
+- [Shadow-Walker Armor](../../../catalogue/objets/irons_spellbooks/shadowwalker_chestplate.md) — <code>irons_spellbooks:shadowwalker_chestplate</code>
+- [Shadow-Walker Mask](../../../catalogue/objets/irons_spellbooks/shadowwalker_helmet.md) — <code>irons_spellbooks:shadowwalker_helmet</code>
 - [Shadow-Walker Leggings](../../../catalogue/objets/irons_spellbooks/shadowwalker_leggings.md) — <code>irons_spellbooks:shadowwalker_leggings</code>
 
 ## Effets et caractéristiques

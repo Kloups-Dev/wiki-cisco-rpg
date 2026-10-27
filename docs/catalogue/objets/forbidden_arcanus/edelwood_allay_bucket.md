@@ -1,7 +1,7 @@
 # Edelwood Bucket of Allay
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/edelwood_allay_bucket.png" alt="Edelwood Bucket of Allay">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/edelwood_allay_bucket.png" alt="Edelwood Bucket of Allay">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Edelwood Bucket of Allay</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

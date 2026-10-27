@@ -1,7 +1,7 @@
 # Darksteel Block
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/darksteel_block.png" alt="Darksteel Block">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/darksteel_block.png" alt="Darksteel Block">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Darksteel Block</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

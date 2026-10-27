@@ -1,7 +1,7 @@
 # Champ de force violet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/violet_force_field.png" alt="Champ de force violet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/violet_force_field.png" alt="Champ de force violet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Champ de force violet</div>
 <div class="mc-tooltip-card__alias">Violet Force Field</div>

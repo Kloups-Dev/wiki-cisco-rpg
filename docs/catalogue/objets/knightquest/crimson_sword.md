@@ -1,7 +1,7 @@
 # Épée Cramoisi
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/knightquest/crimson_sword.png" alt="Épée Cramoisi">
+<img class="mc-item-icon" src="../../../../assets/generated/items/knightquest/crimson_sword.png" alt="Épée Cramoisi">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épée Cramoisi</div>
 <div class="mc-tooltip-card__mod">Knight Quest</div>

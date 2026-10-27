@@ -1,7 +1,7 @@
 # Relic Experience Bottle
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/relic_experience_bottle.png" alt="Relic Experience Bottle">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/relic_experience_bottle.png" alt="Relic Experience Bottle">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Relic Experience Bottle</div>
 <div class="mc-tooltip-card__mod">Relics</div>

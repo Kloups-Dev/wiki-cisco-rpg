@@ -1,7 +1,7 @@
 # Three-Bolt Helmet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/three_bolt_helmet.png" alt="Three-Bolt Helmet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/three_bolt_helmet.png" alt="Three-Bolt Helmet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Three-Bolt Helmet</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

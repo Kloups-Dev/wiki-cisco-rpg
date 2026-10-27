@@ -1,7 +1,7 @@
 # Refined Equillibrium
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/refined_equillibrium.png" alt="Refined Equillibrium">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/refined_equillibrium.png" alt="Refined Equillibrium">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Refined Equillibrium</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

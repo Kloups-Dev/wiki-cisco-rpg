@@ -1,7 +1,7 @@
 # Bottle of Ichor
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/ichor_bottle.png" alt="Bottle of Ichor">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/ichor_bottle.png" alt="Bottle of Ichor">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bottle of Ichor</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

@@ -1,7 +1,7 @@
 # Caster Tome of Air
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_elemental/air_caster_tome.png" alt="Caster Tome of Air">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_elemental/air_caster_tome.png" alt="Caster Tome of Air">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Caster Tome of Air</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

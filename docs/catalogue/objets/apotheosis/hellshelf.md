@@ -1,7 +1,7 @@
 # Hellshelf
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/hellshelf.png" alt="Hellshelf">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/hellshelf.png" alt="Hellshelf">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hellshelf</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

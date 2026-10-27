@@ -1,7 +1,7 @@
 # Arcane Apparatus
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/arcane_apparatus.png" alt="Arcane Apparatus">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/arcane_apparatus.png" alt="Arcane Apparatus">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Arcane Apparatus</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

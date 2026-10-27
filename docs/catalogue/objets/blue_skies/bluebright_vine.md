@@ -1,7 +1,7 @@
 # Lianes de lumibleu
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/bluebright_vine.png" alt="Lianes de lumibleu">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/bluebright_vine.png" alt="Lianes de lumibleu">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Lianes de lumibleu</div>
 <div class="mc-tooltip-card__alias">Bluebright Vines</div>
@@ -20,8 +20,8 @@
 
 ## Utilisé dans
 
-- [Pierre taillée turquoise moussue](../../../catalogue/objets/blue_skies/mossy_turquoise_stonebrick.md) — <code>blue_skies:mossy_turquoise_stonebrick</code>
 - [Pierres turquoises moussues](../../../catalogue/objets/blue_skies/mossy_turquoise_cobblestone.md) — <code>blue_skies:mossy_turquoise_cobblestone</code>
+- [Pierre taillée turquoise moussue](../../../catalogue/objets/blue_skies/mossy_turquoise_stonebrick.md) — <code>blue_skies:mossy_turquoise_stonebrick</code>
 
 ## Effets et caractéristiques
 

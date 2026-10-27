@@ -1,7 +1,7 @@
 # Soul Star
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/bosses_of_mass_destruction/soul_star.png" alt="Soul Star">
+<img class="mc-item-icon" src="../../../../assets/generated/items/bosses_of_mass_destruction/soul_star.png" alt="Soul Star">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Soul Star</div>
 <div class="mc-tooltip-card__mod">Bosses of Mass Destruction</div>

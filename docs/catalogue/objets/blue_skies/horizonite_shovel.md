@@ -1,7 +1,7 @@
 # Pelle en horizonite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/horizonite_shovel.png" alt="Pelle en horizonite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/horizonite_shovel.png" alt="Pelle en horizonite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pelle en horizonite</div>
 <div class="mc-tooltip-card__alias">Horizonite Shovel</div>

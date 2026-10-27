@@ -1,7 +1,7 @@
 # Disque de musique
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/music_disc_netherite_monstrosity.png" alt="Disque de musique">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/music_disc_netherite_monstrosity.png" alt="Disque de musique">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Disque de musique</div>
 <div class="mc-tooltip-card__alias">Music Disc</div>

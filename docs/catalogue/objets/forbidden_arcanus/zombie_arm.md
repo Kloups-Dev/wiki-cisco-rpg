@@ -1,7 +1,7 @@
 # Zombie Arm
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/zombie_arm.png" alt="Zombie Arm">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/zombie_arm.png" alt="Zombie Arm">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Zombie Arm</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

@@ -1,7 +1,7 @@
 # Herbes turquoises hautes
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/tall_turquoise_grass.png" alt="Herbes turquoises hautes">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/tall_turquoise_grass.png" alt="Herbes turquoises hautes">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Herbes turquoises hautes</div>
 <div class="mc-tooltip-card__alias">Tall Turquoise Grass</div>

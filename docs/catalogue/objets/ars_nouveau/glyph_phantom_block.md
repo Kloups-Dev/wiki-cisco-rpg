@@ -1,7 +1,7 @@
 # Glyph Phantom Block
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/glyph_phantom_block.png" alt="Glyph Phantom Block">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/glyph_phantom_block.png" alt="Glyph Phantom Block">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Glyph Phantom Block</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Glyph</strong><span>ars_nouveau:glyph_phantom_block</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_nouveau/glyph_phantom_block.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Glyph</strong><span>ars_nouveau:glyph_phantom_block</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_nouveau/glyph_phantom_block.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
 
 ## Utilisé dans
 

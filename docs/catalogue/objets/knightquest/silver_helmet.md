@@ -1,7 +1,7 @@
 # Casque d'Argent
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/knightquest/silver_helmet.png" alt="Casque d&#x27;Argent">
+<img class="mc-item-icon" src="../../../../assets/generated/items/knightquest/silver_helmet.png" alt="Casque d&#x27;Argent">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Casque d&#x27;Argent</div>
 <div class="mc-tooltip-card__alias">Silver Helmet</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:silver_helmet</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Feather (minecraft:feather)">?</span><span class="jei-slot" title="Iron Block (minecraft:iron_block)">?</span><span class="jei-slot" title="Black Dye (minecraft:black_dye)">?</span><a class="jei-slot" href="../../../catalogue/objets/knightquest/filled_goblet.md" title="Gobelet Rempli (knightquest:filled_goblet)"><img src="../../../assets/generated/items/knightquest/filled_goblet.png" alt="" loading="lazy"></a><span class="jei-slot" title="Diamond Helmet (minecraft:diamond_helmet)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/knightquest/silver_helmet.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:silver_helmet</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Feather (minecraft:feather)">?</span><span class="jei-slot" title="Iron Block (minecraft:iron_block)">?</span><span class="jei-slot" title="Black Dye (minecraft:black_dye)">?</span><a class="jei-slot" href="../../../../catalogue/objets/knightquest/filled_goblet/" title="Gobelet Rempli (knightquest:filled_goblet)"><img src="../../../../assets/generated/items/knightquest/filled_goblet.png" alt="" loading="lazy"></a><span class="jei-slot" title="Diamond Helmet (minecraft:diamond_helmet)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/knightquest/silver_helmet.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
 
 ## Utilisé dans
 

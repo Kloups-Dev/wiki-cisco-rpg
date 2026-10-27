@@ -1,7 +1,7 @@
 # Haricots magiques
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/magic_beans.png" alt="Haricots magiques">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/magic_beans.png" alt="Haricots magiques">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Haricots magiques</div>
 <div class="mc-tooltip-card__alias">Magic Beans</div>

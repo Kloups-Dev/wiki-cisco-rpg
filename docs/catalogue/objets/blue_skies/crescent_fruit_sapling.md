@@ -1,7 +1,7 @@
 # Pousse de crofruit
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/crescent_fruit_sapling.png" alt="Pousse de crofruit">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/crescent_fruit_sapling.png" alt="Pousse de crofruit">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pousse de crofruit</div>
 <div class="mc-tooltip-card__alias">Crescent Fruit Sapling</div>

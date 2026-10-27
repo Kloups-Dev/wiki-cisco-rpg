@@ -1,7 +1,7 @@
 # Ascendant Rouge Leggings
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/ascended_hero_rouge_leggings.png" alt="Ascendant Rouge Leggings">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/ascended_hero_rouge_leggings.png" alt="Ascendant Rouge Leggings">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ascendant Rouge Leggings</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

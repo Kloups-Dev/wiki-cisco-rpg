@@ -1,7 +1,7 @@
 # Feuilles géantes
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/giant_leaves.png" alt="Feuilles géantes">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/giant_leaves.png" alt="Feuilles géantes">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles géantes</div>
 <div class="mc-tooltip-card__alias">Giant Leaves</div>

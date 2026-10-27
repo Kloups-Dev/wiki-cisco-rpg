@@ -1,7 +1,7 @@
 # L'ingot d'Enderite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/enderite_ingot.png" alt="L&#x27;ingot d&#x27;Enderite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/enderite_ingot.png" alt="L&#x27;ingot d&#x27;Enderite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">L&#x27;ingot d&#x27;Enderite</div>
 <div class="mc-tooltip-card__alias">Enderite Ingot</div>

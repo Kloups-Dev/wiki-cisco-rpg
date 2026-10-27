@@ -1,7 +1,7 @@
 # Houe en charoite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/charoite_hoe.png" alt="Houe en charoite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/charoite_hoe.png" alt="Houe en charoite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Houe en charoite</div>
 <div class="mc-tooltip-card__alias">Charoite Hoe</div>

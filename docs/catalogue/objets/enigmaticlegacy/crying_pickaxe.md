@@ -1,7 +1,7 @@
 # Crying Pickaxe [NYI]
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/crying_pickaxe.png" alt="Crying Pickaxe [NYI]">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/crying_pickaxe.png" alt="Crying Pickaxe [NYI]">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Crying Pickaxe [NYI]</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

@@ -1,7 +1,7 @@
 # Primeval Cube
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticaddons/primeval_cube.png" alt="Primeval Cube">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticaddons/primeval_cube.png" alt="Primeval Cube">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Primeval Cube</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

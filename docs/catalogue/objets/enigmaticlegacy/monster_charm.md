@@ -1,7 +1,7 @@
 # Emblem of Monster Slayer
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/monster_charm.png" alt="Emblem of Monster Slayer">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/monster_charm.png" alt="Emblem of Monster Slayer">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Emblem of Monster Slayer</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticlegacy:monster_charm</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Soul Lantern (minecraft:soul_lantern)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Blaze Powder (minecraft:blaze_powder)">?</span><span class="jei-slot" title="Skeleton Skull (minecraft:skeleton_skull)">?</span><span class="jei-slot" title="Blaze Powder (minecraft:blaze_powder)">?</span><span class="jei-slot" title="Experience Bottle (minecraft:experience_bottle)">?</span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot" title="Experience Bottle (minecraft:experience_bottle)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/enigmaticlegacy/monster_charm.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticlegacy:monster_charm</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Soul Lantern (minecraft:soul_lantern)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Blaze Powder (minecraft:blaze_powder)">?</span><span class="jei-slot" title="Skeleton Skull (minecraft:skeleton_skull)">?</span><span class="jei-slot" title="Blaze Powder (minecraft:blaze_powder)">?</span><span class="jei-slot" title="Experience Bottle (minecraft:experience_bottle)">?</span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot" title="Experience Bottle (minecraft:experience_bottle)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/enigmaticlegacy/monster_charm.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
 
 ## Utilisé dans
 

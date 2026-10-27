@@ -1,7 +1,7 @@
 # Rimroche
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/rimestone.png" alt="Rimroche">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/rimestone.png" alt="Rimroche">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Rimroche</div>
 <div class="mc-tooltip-card__alias">Rimestone</div>
@@ -20,10 +20,10 @@
 
 ## Utilisé dans
 
-- [Muret de rimroche](../../../catalogue/objets/blue_skies/rimestone_wall.md) — <code>blue_skies:rimestone_wall</code>
 - [Rimroche polie](../../../catalogue/objets/blue_skies/polished_rimestone.md) — <code>blue_skies:polished_rimestone</code>
 - [Dalle de rimroche](../../../catalogue/objets/blue_skies/rimestone_slab.md) — <code>blue_skies:rimestone_slab</code>
 - [Escalier de rimroche](../../../catalogue/objets/blue_skies/rimestone_stairs.md) — <code>blue_skies:rimestone_stairs</code>
+- [Muret de rimroche](../../../catalogue/objets/blue_skies/rimestone_wall.md) — <code>blue_skies:rimestone_wall</code>
 
 ## Effets et caractéristiques
 

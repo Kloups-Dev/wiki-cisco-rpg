@@ -1,7 +1,7 @@
 # Piédestal à trophée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/trophy_pedestal.png" alt="Piédestal à trophée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/trophy_pedestal.png" alt="Piédestal à trophée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Piédestal à trophée</div>
 <div class="mc-tooltip-card__alias">Trophy Pedestal</div>

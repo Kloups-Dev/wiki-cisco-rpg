@@ -1,7 +1,7 @@
 # Carte du labyrinthe/minerai
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/filled_ore_map.png" alt="Carte du labyrinthe/minerai">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/filled_ore_map.png" alt="Carte du labyrinthe/minerai">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Carte du labyrinthe/minerai</div>
 <div class="mc-tooltip-card__alias">Maze/Ore Map</div>

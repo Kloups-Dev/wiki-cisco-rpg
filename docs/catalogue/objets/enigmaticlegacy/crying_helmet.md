@@ -1,7 +1,7 @@
 # Crying Helmet [NYI]
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/crying_helmet.png" alt="Crying Helmet [NYI]">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/crying_helmet.png" alt="Crying Helmet [NYI]">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Crying Helmet [NYI]</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

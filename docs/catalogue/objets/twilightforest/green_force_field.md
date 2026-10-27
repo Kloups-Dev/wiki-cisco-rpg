@@ -1,7 +1,7 @@
 # Champ de force vert
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/green_force_field.png" alt="Champ de force vert">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/green_force_field.png" alt="Champ de force vert">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Champ de force vert</div>
 <div class="mc-tooltip-card__alias">Green Force Field</div>

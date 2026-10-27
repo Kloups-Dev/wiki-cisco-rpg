@@ -1,7 +1,7 @@
 # Crying Hoe [NYI]
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/crying_hoe.png" alt="Crying Hoe [NYI]">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/crying_hoe.png" alt="Crying Hoe [NYI]">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Crying Hoe [NYI]</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

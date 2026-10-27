@@ -1,7 +1,7 @@
 # Prismarine Brick Fence
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/prismarine_brick_fence.png" alt="Prismarine Brick Fence">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/prismarine_brick_fence.png" alt="Prismarine Brick Fence">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Prismarine Brick Fence</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

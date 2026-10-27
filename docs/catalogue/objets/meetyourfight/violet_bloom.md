@@ -1,7 +1,7 @@
 # Floraison violette
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/meetyourfight/violet_bloom.png" alt="Floraison violette">
+<img class="mc-item-icon" src="../../../../assets/generated/items/meetyourfight/violet_bloom.png" alt="Floraison violette">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Floraison violette</div>
 <div class="mc-tooltip-card__alias">Violet Bloom</div>
@@ -20,12 +20,12 @@
 
 ## Utilisé dans
 
-- [Idéaux fanés](../../../catalogue/objets/meetyourfight/wilted_ideals.md) — <code>meetyourfight:wilted_ideals</code>
-- [Crême aux pétales](../../../catalogue/objets/meetyourfight/petal_cream.md) — <code>meetyourfight:petal_cream</code>
 - [Esprit fleurissant](../../../catalogue/objets/meetyourfight/blossoming_mind.md) — <code>meetyourfight:blossoming_mind</code>
-- [Épine du soir](../../../catalogue/objets/meetyourfight/twilights_thorn.md) — <code>meetyourfight:twilights_thorn</code>
 - [Disque](../../../catalogue/objets/meetyourfight/music_disc_frogpunch.md) — <code>meetyourfight:music_disc_frogpunch</code>
+- [Crême aux pétales](../../../catalogue/objets/meetyourfight/petal_cream.md) — <code>meetyourfight:petal_cream</code>
 - [Planteur de tombes](../../../catalogue/objets/meetyourfight/tomb_planter.md) — <code>meetyourfight:tomb_planter</code>
+- [Épine du soir](../../../catalogue/objets/meetyourfight/twilights_thorn.md) — <code>meetyourfight:twilights_thorn</code>
+- [Idéaux fanés](../../../catalogue/objets/meetyourfight/wilted_ideals.md) — <code>meetyourfight:wilted_ideals</code>
 
 ## Effets et caractéristiques
 

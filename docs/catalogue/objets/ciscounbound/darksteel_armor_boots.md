@@ -1,7 +1,7 @@
 # Darksteel Boots
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/darksteel_armor_boots.png" alt="Darksteel Boots">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/darksteel_armor_boots.png" alt="Darksteel Boots">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Darksteel Boots</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

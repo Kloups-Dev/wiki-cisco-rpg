@@ -1,7 +1,7 @@
 # Gilded Holystone Brick Wall
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/gilded_holystone_brick_wall.png" alt="Gilded Holystone Brick Wall">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/gilded_holystone_brick_wall.png" alt="Gilded Holystone Brick Wall">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Gilded Holystone Brick Wall</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

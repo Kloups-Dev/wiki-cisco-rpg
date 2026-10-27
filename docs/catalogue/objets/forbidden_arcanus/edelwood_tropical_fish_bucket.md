@@ -1,7 +1,7 @@
 # Edelwood Bucket of Tropical Fish
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/edelwood_tropical_fish_bucket.png" alt="Edelwood Bucket of Tropical Fish">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/edelwood_tropical_fish_bucket.png" alt="Edelwood Bucket of Tropical Fish">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Edelwood Bucket of Tropical Fish</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

@@ -1,7 +1,7 @@
 # Netherite Blacksmith Gavel
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/netherite_blacksmith_gavel.png" alt="Netherite Blacksmith Gavel">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/netherite_blacksmith_gavel.png" alt="Netherite Blacksmith Gavel">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Netherite Blacksmith Gavel</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>forbidden_arcanus:smithing/obsidian_blacksmith_gavel</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/forbidden_arcanus/diamond_blacksmith_gavel.md" title="Diamond Blacksmith Gavel (forbidden_arcanus:diamond_blacksmith_gavel)"><img src="../../../assets/generated/items/forbidden_arcanus/diamond_blacksmith_gavel.png" alt="" loading="lazy"></a><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/forbidden_arcanus/netherite_blacksmith_gavel.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>forbidden_arcanus:smithing/obsidian_blacksmith_gavel</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/forbidden_arcanus/diamond_blacksmith_gavel/" title="Diamond Blacksmith Gavel (forbidden_arcanus:diamond_blacksmith_gavel)"><img src="../../../../assets/generated/items/forbidden_arcanus/diamond_blacksmith_gavel.png" alt="" loading="lazy"></a><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/forbidden_arcanus/netherite_blacksmith_gavel.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
 
 ## Utilisé dans
 

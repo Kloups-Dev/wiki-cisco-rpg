@@ -1,7 +1,7 @@
 # Fléracine
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/lucentroot.png" alt="Fléracine">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/lucentroot.png" alt="Fléracine">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fléracine</div>
 <div class="mc-tooltip-card__alias">Lucentroot</div>

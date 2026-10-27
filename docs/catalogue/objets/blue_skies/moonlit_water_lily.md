@@ -1,7 +1,7 @@
 # Nénuphar de la poussière de lune
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/moonlit_water_lily.png" alt="Nénuphar de la poussière de lune">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/moonlit_water_lily.png" alt="Nénuphar de la poussière de lune">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Nénuphar de la poussière de lune</div>
 <div class="mc-tooltip-card__alias">Moonlit Water Lily</div>

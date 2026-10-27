@@ -14,14 +14,14 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep purple
+      primary: black
       accent: amber
       toggle:
         icon: material/weather-night
         name: Passer au thème sombre
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep purple
+      primary: black
       accent: amber
       toggle:
         icon: material/weather-sunny

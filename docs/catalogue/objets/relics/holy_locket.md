@@ -1,7 +1,7 @@
 # Holy Locket
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/holy_locket.png" alt="Holy Locket">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/holy_locket.png" alt="Holy Locket">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Holy Locket</div>
 <div class="mc-tooltip-card__mod">Relics</div>

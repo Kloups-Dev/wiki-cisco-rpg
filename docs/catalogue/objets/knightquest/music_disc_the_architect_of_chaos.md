@@ -1,7 +1,7 @@
 # Disque musical de l’Architecte du Chaos
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/knightquest/music_disc_the_architect_of_chaos.png" alt="Disque musical de l’Architecte du Chaos">
+<img class="mc-item-icon" src="../../../../assets/generated/items/knightquest/music_disc_the_architect_of_chaos.png" alt="Disque musical de l’Architecte du Chaos">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Disque musical de l’Architecte du Chaos</div>
 <div class="mc-tooltip-card__alias">The Architect of Chaos Music Disc</div>

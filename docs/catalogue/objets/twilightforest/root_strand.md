@@ -1,7 +1,7 @@
 # Brins de racine
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/root_strand.png" alt="Brins de racine">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/root_strand.png" alt="Brins de racine">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brins de racine</div>
 <div class="mc-tooltip-card__alias">Root Strands</div>

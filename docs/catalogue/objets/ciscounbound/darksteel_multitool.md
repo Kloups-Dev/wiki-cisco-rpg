@@ -1,7 +1,7 @@
 # Darksteel Multitool
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/darksteel_multitool.png" alt="Darksteel Multitool">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/darksteel_multitool.png" alt="Darksteel Multitool">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Darksteel Multitool</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

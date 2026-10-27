@@ -1,7 +1,7 @@
 # Épée gelée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/ice_sword.png" alt="Épée gelée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/ice_sword.png" alt="Épée gelée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épée gelée</div>
 <div class="mc-tooltip-card__alias">Ice Sword</div>

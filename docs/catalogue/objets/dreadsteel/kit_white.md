@@ -1,7 +1,7 @@
 # White Kit
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/dreadsteel/kit_white.png" alt="White Kit">
+<img class="mc-item-icon" src="../../../../assets/generated/items/dreadsteel/kit_white.png" alt="White Kit">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">White Kit</div>
 <div class="mc-tooltip-card__mod">Dreadsteel</div>

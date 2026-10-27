@@ -1,7 +1,7 @@
 # Oeuf d'apparition de l'Arachnarque
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/arachnarch_spawn_egg.png" alt="Oeuf d&#x27;apparition de l&#x27;Arachnarque">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/arachnarch_spawn_egg.png" alt="Oeuf d&#x27;apparition de l&#x27;Arachnarque">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Oeuf d&#x27;apparition de l&#x27;Arachnarque</div>
 <div class="mc-tooltip-card__alias">Arachnarch Spawn Egg</div>

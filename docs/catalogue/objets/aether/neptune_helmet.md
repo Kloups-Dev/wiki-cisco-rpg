@@ -1,7 +1,7 @@
 # Neptune Helmet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/neptune_helmet.png" alt="Neptune Helmet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/neptune_helmet.png" alt="Neptune Helmet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Neptune Helmet</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

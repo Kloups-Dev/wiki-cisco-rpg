@@ -1,7 +1,7 @@
 # Pioche lunaie
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/lunar_pickaxe.png" alt="Pioche lunaie">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/lunar_pickaxe.png" alt="Pioche lunaie">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pioche lunaie</div>
 <div class="mc-tooltip-card__alias">Lunar Wood Pickaxe</div>

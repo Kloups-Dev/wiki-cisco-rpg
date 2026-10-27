@@ -1,7 +1,7 @@
 # Ultimerite Chestplate
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/upgradednetherite_ultimate/ultimate_upgraded_netherite_chestplate.png" alt="Ultimerite Chestplate">
+<img class="mc-item-icon" src="../../../../assets/generated/items/upgradednetherite_ultimate/ultimate_upgraded_netherite_chestplate.png" alt="Ultimerite Chestplate">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ultimerite Chestplate</div>
 <div class="mc-tooltip-card__mod">Upgraded Netherite</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>upgradednetherite_ultimate:ultimate_upgraded_netherite_chestplate_smithing</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot jei-slot--tag" title="#upgradednetherite:upgraded_netherite_chestplate">#</span><a class="jei-slot" href="../../../catalogue/objets/upgradednetherite_ultimate/ultimate_upgraded_netherite_ingot.md" title="Ultimerite Ingot (upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot)"><img src="../../../assets/generated/items/upgradednetherite_ultimate/ultimate_upgraded_netherite_ingot.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/upgradednetherite_ultimate/ultimate_upgraded_netherite_chestplate.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : upgradednetherite_ultimate-1.19.2-4.1.0.4-release.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>upgradednetherite_ultimate:ultimate_upgraded_netherite_chestplate_smithing</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot jei-slot--tag" title="#upgradednetherite:upgraded_netherite_chestplate">#</span><a class="jei-slot" href="../../../../catalogue/objets/upgradednetherite_ultimate/ultimate_upgraded_netherite_ingot/" title="Ultimerite Ingot (upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot)"><img src="../../../../assets/generated/items/upgradednetherite_ultimate/ultimate_upgraded_netherite_ingot.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/upgradednetherite_ultimate/ultimate_upgraded_netherite_chestplate.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : upgradednetherite_ultimate-1.19.2-4.1.0.4-release.jar</div></div>
 
 ## Utilisé dans
 

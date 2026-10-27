@@ -1,7 +1,7 @@
 # Edelwood Bucket of Axolotl
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/edelwood_axolotl_bucket.png" alt="Edelwood Bucket of Axolotl">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/edelwood_axolotl_bucket.png" alt="Edelwood Bucket of Axolotl">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Edelwood Bucket of Axolotl</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

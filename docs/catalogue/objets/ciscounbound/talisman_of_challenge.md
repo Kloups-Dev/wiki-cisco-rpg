@@ -1,7 +1,7 @@
 # Talisman Of Challenge
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/talisman_of_challenge.png" alt="Talisman Of Challenge">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/talisman_of_challenge.png" alt="Talisman Of Challenge">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Talisman Of Challenge</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

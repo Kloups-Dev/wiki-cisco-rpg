@@ -1,7 +1,7 @@
 # Golden Feather
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/golden_feather.png" alt="Golden Feather">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/golden_feather.png" alt="Golden Feather">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Golden Feather</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

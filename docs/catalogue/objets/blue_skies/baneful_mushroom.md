@@ -1,7 +1,7 @@
 # Champignon de l'exil
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/baneful_mushroom.png" alt="Champignon de l&#x27;exil">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/baneful_mushroom.png" alt="Champignon de l&#x27;exil">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Champignon de l&#x27;exil</div>
 <div class="mc-tooltip-card__alias">Baneful Mushroom</div>

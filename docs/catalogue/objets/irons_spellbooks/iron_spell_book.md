@@ -1,7 +1,7 @@
 # Ironbound Tome
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/iron_spell_book.png" alt="Ironbound Tome">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/iron_spell_book.png" alt="Ironbound Tome">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ironbound Tome</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>irons_spellbooks:iron_spell_book</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Chain (minecraft:chain)">?</span><span class="jei-slot jei-slot--tag" title="#forge:leather">#</span><span class="jei-slot jei-slot--tag" title="#forge:leather">#</span><span class="jei-slot" title="Chain (minecraft:chain)">?</span><span class="jei-slot" title="Paper (minecraft:paper)">?</span><span class="jei-slot" title="Paper (minecraft:paper)">?</span><span class="jei-slot" title="Chain (minecraft:chain)">?</span><span class="jei-slot jei-slot--tag" title="#forge:leather">#</span><span class="jei-slot jei-slot--tag" title="#forge:leather">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/irons_spellbooks/iron_spell_book.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : irons_spellbooks-1.19.2-3.4.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>irons_spellbooks:iron_spell_book</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Chain (minecraft:chain)">?</span><span class="jei-slot jei-slot--tag" title="#forge:leather">#</span><span class="jei-slot jei-slot--tag" title="#forge:leather">#</span><span class="jei-slot" title="Chain (minecraft:chain)">?</span><span class="jei-slot" title="Paper (minecraft:paper)">?</span><span class="jei-slot" title="Paper (minecraft:paper)">?</span><span class="jei-slot" title="Chain (minecraft:chain)">?</span><span class="jei-slot jei-slot--tag" title="#forge:leather">#</span><span class="jei-slot jei-slot--tag" title="#forge:leather">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/irons_spellbooks/iron_spell_book.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : irons_spellbooks-1.19.2-3.4.0.jar</div></div>
 
 ## Utilisé dans
 

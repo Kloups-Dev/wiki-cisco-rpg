@@ -1,7 +1,7 @@
 # Chiseled Azure Seastone
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/chiseled_azure_seastone.png" alt="Chiseled Azure Seastone">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/chiseled_azure_seastone.png" alt="Chiseled Azure Seastone">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Chiseled Azure Seastone</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

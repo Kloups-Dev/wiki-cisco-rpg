@@ -1,7 +1,7 @@
 # Unattuned Core
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/unattuned_core.png" alt="Unattuned Core">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/unattuned_core.png" alt="Unattuned Core">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Unattuned Core</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

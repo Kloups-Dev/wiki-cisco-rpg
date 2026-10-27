@@ -1,7 +1,7 @@
 # Chainmail Gloves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/chainmail_gloves.png" alt="Chainmail Gloves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/chainmail_gloves.png" alt="Chainmail Gloves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Chainmail Gloves</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

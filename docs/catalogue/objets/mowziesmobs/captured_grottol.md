@@ -1,7 +1,7 @@
 # Grottol Capturé
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/captured_grottol.png" alt="Grottol Capturé">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/captured_grottol.png" alt="Grottol Capturé">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Grottol Capturé</div>
 <div class="mc-tooltip-card__alias">Captured Grottol</div>

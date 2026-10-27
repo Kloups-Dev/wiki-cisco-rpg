@@ -1,7 +1,7 @@
 # Cristal d'observation
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/scryers_crystal.png" alt="Cristal d&#x27;observation">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/scryers_crystal.png" alt="Cristal d&#x27;observation">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cristal d&#x27;observation</div>
 <div class="mc-tooltip-card__alias">Scry Crystal</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>ars_nouveau:scryers_crystal</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot jei-slot--tag" title="#forge:gems/source">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_nouveau/scryers_crystal.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>ars_nouveau:scryers_crystal</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot jei-slot--tag" title="#forge:gems/source">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_nouveau/scryers_crystal.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
 
 ## Utilisé dans
 

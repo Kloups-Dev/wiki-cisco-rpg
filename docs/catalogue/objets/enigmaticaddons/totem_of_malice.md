@@ -1,7 +1,7 @@
 # Totem of Malice
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticaddons/totem_of_malice.png" alt="Totem of Malice">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticaddons/totem_of_malice.png" alt="Totem of Malice">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Totem of Malice</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticaddons:totem_of_malice</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../catalogue/objets/enigmaticlegacy/evil_essence.md" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot" title="Totem Of Undying (minecraft:totem_of_undying)">?</span><a class="jei-slot" href="../../../catalogue/objets/enigmaticlegacy/evil_essence.md" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/enigmaticaddons/totem_of_malice.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : enigmaticaddons-1.19.2-1.2.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticaddons:totem_of_malice</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../../catalogue/objets/enigmaticlegacy/evil_essence/" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot" title="Totem Of Undying (minecraft:totem_of_undying)">?</span><a class="jei-slot" href="../../../../catalogue/objets/enigmaticlegacy/evil_essence/" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/enigmaticaddons/totem_of_malice.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : enigmaticaddons-1.19.2-1.2.2.jar</div></div>
 
 ## Utilisé dans
 

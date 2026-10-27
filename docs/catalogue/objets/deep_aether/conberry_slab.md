@@ -1,7 +1,7 @@
 # Conberry Slab
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/conberry_slab.png" alt="Conberry Slab">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/conberry_slab.png" alt="Conberry Slab">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Conberry Slab</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>deep_aether:conberry_slab</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/deep_aether/conberry_planks.md" title="Conberry Planks (deep_aether:conberry_planks)"><img src="../../../assets/generated/items/deep_aether/conberry_planks.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/deep_aether/conberry_planks.md" title="Conberry Planks (deep_aether:conberry_planks)"><img src="../../../assets/generated/items/deep_aether/conberry_planks.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/deep_aether/conberry_planks.md" title="Conberry Planks (deep_aether:conberry_planks)"><img src="../../../assets/generated/items/deep_aether/conberry_planks.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/deep_aether/conberry_slab.png" alt=""><span class="jei-count">6</span></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>deep_aether:conberry_slab</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/deep_aether/conberry_planks/" title="Conberry Planks (deep_aether:conberry_planks)"><img src="../../../../assets/generated/items/deep_aether/conberry_planks.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../../catalogue/objets/deep_aether/conberry_planks/" title="Conberry Planks (deep_aether:conberry_planks)"><img src="../../../../assets/generated/items/deep_aether/conberry_planks.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../../catalogue/objets/deep_aether/conberry_planks/" title="Conberry Planks (deep_aether:conberry_planks)"><img src="../../../../assets/generated/items/deep_aether/conberry_planks.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/deep_aether/conberry_slab.png" alt=""><span class="jei-count">6</span></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
 
 ## Utilisé dans
 

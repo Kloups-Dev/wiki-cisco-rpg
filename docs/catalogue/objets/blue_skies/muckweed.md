@@ -1,7 +1,7 @@
 # Bouquet des bois
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/muckweed.png" alt="Bouquet des bois">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/muckweed.png" alt="Bouquet des bois">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bouquet des bois</div>
 <div class="mc-tooltip-card__alias">Muckweed</div>

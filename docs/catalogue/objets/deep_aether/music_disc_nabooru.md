@@ -1,7 +1,7 @@
 # Music Disc
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/music_disc_nabooru.png" alt="Music Disc">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/music_disc_nabooru.png" alt="Music Disc">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Music Disc</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting</strong><span>deep_aether:nabooru_enchanting</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/deep_aether/music_disc_nabooru.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting</strong><span>deep_aether:nabooru_enchanting</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/deep_aether/music_disc_nabooru.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
 
 ## Utilisé dans
 

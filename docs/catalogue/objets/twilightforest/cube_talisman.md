@@ -1,7 +1,7 @@
 # Talisman du cube
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/cube_talisman.png" alt="Talisman du cube">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/cube_talisman.png" alt="Talisman du cube">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Talisman du cube</div>
 <div class="mc-tooltip-card__alias">Talisman of the Cube</div>

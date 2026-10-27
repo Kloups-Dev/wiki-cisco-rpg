@@ -1,7 +1,7 @@
 # Tablet of Descension
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/tablet_of_descension.png" alt="Tablet of Descension">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cisco_mod/tablet_of_descension.png" alt="Tablet of Descension">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tablet of Descension</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>
@@ -19,9 +19,9 @@
 
 ## Utilisé dans
 
-- [Descended Hero Helmet](../../../catalogue/objets/cisco_mod/descended_hero_helmet.md) — <code>cisco_mod:descended_hero_helmet</code>
 - [Descended Hero Boots](../../../catalogue/objets/cisco_mod/descended_hero_boots.md) — <code>cisco_mod:descended_hero_boots</code>
 - [Descended Hero Chestplate](../../../catalogue/objets/cisco_mod/descended_hero_chestplate.md) — <code>cisco_mod:descended_hero_chestplate</code>
+- [Descended Hero Helmet](../../../catalogue/objets/cisco_mod/descended_hero_helmet.md) — <code>cisco_mod:descended_hero_helmet</code>
 - [Descended Hero Leggings](../../../catalogue/objets/cisco_mod/descended_hero_leggings.md) — <code>cisco_mod:descended_hero_leggings</code>
 - [Supreme Nightfall](../../../catalogue/objets/cisco_mod/supreme_nightfall.md) — <code>cisco_mod:supreme_nightfall</code>
 

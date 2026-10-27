@@ -1,7 +1,7 @@
 # Lance de garde
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/soulbound_spear.png" alt="Lance de garde">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/soulbound_spear.png" alt="Lance de garde">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Lance de garde</div>
 <div class="mc-tooltip-card__alias">Soulbound Spear</div>

@@ -1,7 +1,7 @@
 # Squash Seeds
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/squash_seeds.png" alt="Squash Seeds">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/squash_seeds.png" alt="Squash Seeds">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Squash Seeds</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting</strong><span>deep_aether:squash_seeds_enchanting</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/deep_aether/squash_seeds.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting</strong><span>deep_aether:squash_seeds_enchanting</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/deep_aether/squash_seeds.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
 
 ## Utilisé dans
 

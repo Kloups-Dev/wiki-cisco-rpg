@@ -1,7 +1,7 @@
 # Stripped Aurum Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/stripped_aurum_log.png" alt="Stripped Aurum Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/stripped_aurum_log.png" alt="Stripped Aurum Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Aurum Log</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

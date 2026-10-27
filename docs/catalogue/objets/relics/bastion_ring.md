@@ -1,7 +1,7 @@
 # Bastion Ring
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/bastion_ring.png" alt="Bastion Ring">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/bastion_ring.png" alt="Bastion Ring">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bastion Ring</div>
 <div class="mc-tooltip-card__mod">Relics</div>

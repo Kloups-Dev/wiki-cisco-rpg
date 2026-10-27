@@ -1,7 +1,7 @@
 # Pousse de chêne de la Twilight robuste
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/hollow_oak_sapling.png" alt="Pousse de chêne de la Twilight robuste">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/hollow_oak_sapling.png" alt="Pousse de chêne de la Twilight robuste">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pousse de chêne de la Twilight robuste</div>
 <div class="mc-tooltip-card__alias">Robust Twilight Oak Sapling</div>

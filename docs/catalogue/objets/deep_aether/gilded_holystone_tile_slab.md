@@ -1,7 +1,7 @@
 # Gilded Holystone Tile Slab
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/gilded_holystone_tile_slab.png" alt="Gilded Holystone Tile Slab">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/gilded_holystone_tile_slab.png" alt="Gilded Holystone Tile Slab">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Gilded Holystone Tile Slab</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

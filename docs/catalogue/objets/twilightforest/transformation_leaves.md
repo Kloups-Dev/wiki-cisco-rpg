@@ -1,7 +1,7 @@
 # Feuilles d'arbre de transformation
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/transformation_leaves.png" alt="Feuilles d&#x27;arbre de transformation">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/transformation_leaves.png" alt="Feuilles d&#x27;arbre de transformation">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles d&#x27;arbre de transformation</div>
 <div class="mc-tooltip-card__alias">Leaves of Transformation</div>

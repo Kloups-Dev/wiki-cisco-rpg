@@ -1,7 +1,7 @@
 # Tablet of Descension
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/tablet_of_descension.png" alt="Tablet of Descension">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/tablet_of_descension.png" alt="Tablet of Descension">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tablet of Descension</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

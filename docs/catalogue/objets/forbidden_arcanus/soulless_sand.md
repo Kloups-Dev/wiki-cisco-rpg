@@ -1,7 +1,7 @@
 # Soulless Sand
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/soulless_sand.png" alt="Soulless Sand">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/soulless_sand.png" alt="Soulless Sand">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Soulless Sand</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

@@ -1,7 +1,7 @@
 # Reinforced Deorum Hoe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/reinforced_deorum_hoe.png" alt="Reinforced Deorum Hoe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/reinforced_deorum_hoe.png" alt="Reinforced Deorum Hoe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Reinforced Deorum Hoe</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

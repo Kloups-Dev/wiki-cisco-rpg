@@ -1,7 +1,7 @@
 # Podium of Purgatory
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/podiumofpurgatory.png" alt="Podium of Purgatory">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/podiumofpurgatory.png" alt="Podium of Purgatory">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Podium of Purgatory</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

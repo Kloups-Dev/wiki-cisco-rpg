@@ -1,7 +1,7 @@
 # Jambières de l'ombre
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/shadow_leggings.png" alt="Jambières de l&#x27;ombre">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/shadow_leggings.png" alt="Jambières de l&#x27;ombre">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Jambières de l&#x27;ombre</div>
 <div class="mc-tooltip-card__alias">Shadow Leggings</div>

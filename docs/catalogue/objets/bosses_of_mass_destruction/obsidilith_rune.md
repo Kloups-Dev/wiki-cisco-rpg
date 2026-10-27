@@ -1,7 +1,7 @@
 # Obsidian Rune
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/bosses_of_mass_destruction/obsidilith_rune.png" alt="Obsidian Rune">
+<img class="mc-item-icon" src="../../../../assets/generated/items/bosses_of_mass_destruction/obsidilith_rune.png" alt="Obsidian Rune">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Obsidian Rune</div>
 <div class="mc-tooltip-card__mod">Bosses of Mass Destruction</div>

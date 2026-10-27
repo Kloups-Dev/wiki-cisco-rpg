@@ -1,7 +1,7 @@
 # Runic Darkstone
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/runic_darkstone.png" alt="Runic Darkstone">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/runic_darkstone.png" alt="Runic Darkstone">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Runic Darkstone</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

@@ -1,7 +1,7 @@
 # Houe en pyrope
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/pyrope_hoe.png" alt="Houe en pyrope">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/pyrope_hoe.png" alt="Houe en pyrope">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Houe en pyrope</div>
 <div class="mc-tooltip-card__alias">Pyrope Hoe</div>

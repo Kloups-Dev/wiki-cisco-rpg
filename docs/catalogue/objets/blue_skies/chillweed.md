@@ -1,7 +1,7 @@
 # Biloivie
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/chillweed.png" alt="Biloivie">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/chillweed.png" alt="Biloivie">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Biloivie</div>
 <div class="mc-tooltip-card__alias">Chillweed</div>

@@ -1,7 +1,7 @@
 # Cinder Wood
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/cinder_wood.png" alt="Cinder Wood">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/cinder_wood.png" alt="Cinder Wood">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cinder Wood</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

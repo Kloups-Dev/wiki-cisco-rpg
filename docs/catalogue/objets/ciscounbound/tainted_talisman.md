@@ -1,7 +1,7 @@
 # Tainted Talisman 
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/tainted_talisman.png" alt="Tainted Talisman ">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/tainted_talisman.png" alt="Tainted Talisman ">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tainted Talisman </div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

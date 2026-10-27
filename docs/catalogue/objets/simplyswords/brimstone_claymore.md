@@ -1,7 +1,7 @@
 # Brimstone Claymore
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/brimstone_claymore.png" alt="Brimstone Claymore">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/brimstone_claymore.png" alt="Brimstone Claymore">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brimstone Claymore</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

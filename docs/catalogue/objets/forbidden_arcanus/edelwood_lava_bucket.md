@@ -1,7 +1,7 @@
 # Edelwood Lava Bucket
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/edelwood_lava_bucket.png" alt="Edelwood Lava Bucket">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/edelwood_lava_bucket.png" alt="Edelwood Lava Bucket">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Edelwood Lava Bucket</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

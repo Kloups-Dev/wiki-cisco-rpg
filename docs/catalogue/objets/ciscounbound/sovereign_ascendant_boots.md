@@ -1,7 +1,7 @@
 # Sovereign Ascendant Boots
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/sovereign_ascendant_boots.png" alt="Sovereign Ascendant Boots">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/sovereign_ascendant_boots.png" alt="Sovereign Ascendant Boots">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sovereign Ascendant Boots</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

@@ -1,7 +1,7 @@
 # Phoenix Chestplate
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/phoenix_chestplate.png" alt="Phoenix Chestplate">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/phoenix_chestplate.png" alt="Phoenix Chestplate">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Phoenix Chestplate</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

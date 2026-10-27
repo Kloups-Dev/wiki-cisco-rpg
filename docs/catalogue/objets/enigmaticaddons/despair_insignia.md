@@ -1,7 +1,7 @@
 # Insignia of Despair
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticaddons/despair_insignia.png" alt="Insignia of Despair">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticaddons/despair_insignia.png" alt="Insignia of Despair">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Insignia of Despair</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

@@ -1,7 +1,7 @@
 # Heart of the Abyss
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/abyssal_heart.png" alt="Heart of the Abyss">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/abyssal_heart.png" alt="Heart of the Abyss">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Heart of the Abyss</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -20,8 +20,8 @@
 ## Utilisé dans
 
 - [The Arrogance of Chaos](../../../catalogue/objets/enigmaticaddons/chaos_elytra.md) — <code>enigmaticaddons:chaos_elytra</code>
-- [The Infinitum](../../../catalogue/objets/enigmaticlegacy/the_infinitum.md) — <code>enigmaticlegacy:the_infinitum</code>
 - [The Burden of Desolation](../../../catalogue/objets/enigmaticlegacy/desolation_ring.md) — <code>enigmaticlegacy:desolation_ring</code>
+- [The Infinitum](../../../catalogue/objets/enigmaticlegacy/the_infinitum.md) — <code>enigmaticlegacy:the_infinitum</code>
 
 ## Effets et caractéristiques
 

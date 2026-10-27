@@ -1,7 +1,7 @@
 # [NYI] Sigil of Enhancement
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/sigil_of_enhancement.png" alt="[NYI] Sigil of Enhancement">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/sigil_of_enhancement.png" alt="[NYI] Sigil of Enhancement">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">[NYI] Sigil of Enhancement</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

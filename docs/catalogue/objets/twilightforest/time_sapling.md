@@ -1,7 +1,7 @@
 # Pousse d'arbre du temps
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/time_sapling.png" alt="Pousse d&#x27;arbre du temps">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/time_sapling.png" alt="Pousse d&#x27;arbre du temps">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pousse d&#x27;arbre du temps</div>
 <div class="mc-tooltip-card__alias">Tree of Time Sapling</div>

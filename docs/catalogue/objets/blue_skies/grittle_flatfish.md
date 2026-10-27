@@ -1,7 +1,7 @@
 # Poisson plat cru
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/grittle_flatfish.png" alt="Poisson plat cru">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/grittle_flatfish.png" alt="Poisson plat cru">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Poisson plat cru</div>
 <div class="mc-tooltip-card__alias">Raw Grittle Flatfish</div>

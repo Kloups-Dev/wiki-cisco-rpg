@@ -1,7 +1,7 @@
 # Reinforced Deorum Axe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/reinforced_deorum_axe.png" alt="Reinforced Deorum Axe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/reinforced_deorum_axe.png" alt="Reinforced Deorum Axe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Reinforced Deorum Axe</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

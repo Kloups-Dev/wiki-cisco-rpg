@@ -1,7 +1,7 @@
 # Houe en bois de lumibleu
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/bluebright_hoe.png" alt="Houe en bois de lumibleu">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/bluebright_hoe.png" alt="Houe en bois de lumibleu">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Houe en bois de lumibleu</div>
 <div class="mc-tooltip-card__alias">Bluebright Wood Hoe</div>

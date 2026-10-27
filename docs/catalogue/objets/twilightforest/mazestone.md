@@ -1,7 +1,7 @@
 # Pierre du labyrinthe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/mazestone.png" alt="Pierre du labyrinthe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/mazestone.png" alt="Pierre du labyrinthe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre du labyrinthe</div>
 <div class="mc-tooltip-card__alias">Mazestone</div>
@@ -20,11 +20,11 @@
 
 ## Utilisé dans
 
-- [Brique du labyrinthe](../../../catalogue/objets/twilightforest/mazestone_brick.md) — <code>twilightforest:mazestone_brick</code>
 - [Pierre du labyrinthe polie](../../../catalogue/objets/twilightforest/cut_mazestone.md) — <code>twilightforest:cut_mazestone</code>
-- [Mosaïque de pierre du labyrinthe](../../../catalogue/objets/twilightforest/mazestone_mosaic.md) — <code>twilightforest:mazestone_mosaic</code>
-- [Bordure de pierre du labyrinthe](../../../catalogue/objets/twilightforest/mazestone_border.md) — <code>twilightforest:mazestone_border</code>
 - [Brique de pierre décorée du labyrinthe](../../../catalogue/objets/twilightforest/decorative_mazestone.md) — <code>twilightforest:decorative_mazestone</code>
+- [Bordure de pierre du labyrinthe](../../../catalogue/objets/twilightforest/mazestone_border.md) — <code>twilightforest:mazestone_border</code>
+- [Brique du labyrinthe](../../../catalogue/objets/twilightforest/mazestone_brick.md) — <code>twilightforest:mazestone_brick</code>
+- [Mosaïque de pierre du labyrinthe](../../../catalogue/objets/twilightforest/mazestone_mosaic.md) — <code>twilightforest:mazestone_mosaic</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Aerglow Blossom
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/aerglow_blossom.png" alt="Aerglow Blossom">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/aerglow_blossom.png" alt="Aerglow Blossom">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aerglow Blossom</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

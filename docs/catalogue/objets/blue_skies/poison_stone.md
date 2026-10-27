@@ -1,7 +1,7 @@
 # Pierre empoisonnée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/poison_stone.png" alt="Pierre empoisonnée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/poison_stone.png" alt="Pierre empoisonnée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre empoisonnée</div>
 <div class="mc-tooltip-card__alias">Poison Stone</div>
@@ -20,18 +20,18 @@
 
 ## Utilisé dans
 
+- [Pierre empoisonnée sculptée](../../../catalogue/objets/blue_skies/carved_poison_stonebrick.md) — <code>blue_skies:carved_poison_stonebrick</code>
+- [Pierre empoisonnée lumineuse](../../../catalogue/objets/blue_skies/glowing_poison_stone.md) — <code>blue_skies:glowing_poison_stone</code>
+- [Pilier de pierre empoisonnée](../../../catalogue/objets/blue_skies/poison_stone_pillar.md) — <code>blue_skies:poison_stone_pillar</code>
+- [Dalle de pierre empoisonnée](../../../catalogue/objets/blue_skies/poison_stone_slab.md) — <code>blue_skies:poison_stone_slab</code>
 - [Escalier de pierre empoisonnée](../../../catalogue/objets/blue_skies/poison_stone_stairs.md) — <code>blue_skies:poison_stone_stairs</code>
 - [Pierre empoisonnée taillée](../../../catalogue/objets/blue_skies/poison_stonebrick.md) — <code>blue_skies:poison_stonebrick</code>
-- [Pierre empoisonnée taillée rugueuse](../../../catalogue/objets/blue_skies/rough_poison_stonebrick.md) — <code>blue_skies:rough_poison_stonebrick</code>
 - [Dalle de pierre empoisonnée taillée](../../../catalogue/objets/blue_skies/poison_stonebrick_slab.md) — <code>blue_skies:poison_stonebrick_slab</code>
-- [Muret de pierre empoisonnée taillée](../../../catalogue/objets/blue_skies/poison_stonebrick_wall.md) — <code>blue_skies:poison_stonebrick_wall</code>
-- [Pierre empoisonnée sculptée](../../../catalogue/objets/blue_skies/carved_poison_stonebrick.md) — <code>blue_skies:carved_poison_stonebrick</code>
 - [Escalier de pierre empoisonnée taillée](../../../catalogue/objets/blue_skies/poison_stonebrick_stairs.md) — <code>blue_skies:poison_stonebrick_stairs</code>
-- [Pierre empoisonnée lumineuse](../../../catalogue/objets/blue_skies/glowing_poison_stone.md) — <code>blue_skies:glowing_poison_stone</code>
-- [Escalier de pierre empoisonnée rugueuse](../../../catalogue/objets/blue_skies/rough_poison_stonebrick_stairs.md) — <code>blue_skies:rough_poison_stonebrick_stairs</code>
+- [Muret de pierre empoisonnée taillée](../../../catalogue/objets/blue_skies/poison_stonebrick_wall.md) — <code>blue_skies:poison_stonebrick_wall</code>
+- [Pierre empoisonnée taillée rugueuse](../../../catalogue/objets/blue_skies/rough_poison_stonebrick.md) — <code>blue_skies:rough_poison_stonebrick</code>
 - [Dalle de pierre empoisonnée rugueuse](../../../catalogue/objets/blue_skies/rough_poison_stonebrick_slab.md) — <code>blue_skies:rough_poison_stonebrick_slab</code>
-- [Dalle de pierre empoisonnée](../../../catalogue/objets/blue_skies/poison_stone_slab.md) — <code>blue_skies:poison_stone_slab</code>
-- [Pilier de pierre empoisonnée](../../../catalogue/objets/blue_skies/poison_stone_pillar.md) — <code>blue_skies:poison_stone_pillar</code>
+- [Escalier de pierre empoisonnée rugueuse](../../../catalogue/objets/blue_skies/rough_poison_stonebrick_stairs.md) — <code>blue_skies:rough_poison_stonebrick_stairs</code>
 
 ## Effets et caractéristiques
 

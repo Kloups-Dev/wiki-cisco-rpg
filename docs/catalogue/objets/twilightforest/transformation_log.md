@@ -1,7 +1,7 @@
 # Transwood Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/transformation_log.png" alt="Transwood Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/transformation_log.png" alt="Transwood Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Transwood Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>
@@ -20,8 +20,8 @@
 ## Utilisé dans
 
 - [Hollow Transwood Log](../../../catalogue/objets/twilightforest/hollow_transformation_log_vertical.md) — <code>twilightforest:hollow_transformation_log_vertical</code>
-- [Transwood](../../../catalogue/objets/twilightforest/transformation_wood.md) — <code>twilightforest:transformation_wood</code>
 - [Planches de bois de transformation](../../../catalogue/objets/twilightforest/transformation_planks.md) — <code>twilightforest:transformation_planks</code>
+- [Transwood](../../../catalogue/objets/twilightforest/transformation_wood.md) — <code>twilightforest:transformation_wood</code>
 
 ## Effets et caractéristiques
 

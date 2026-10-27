@@ -1,7 +1,7 @@
 # Bramblethorn
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/bramblethorn.png" alt="Bramblethorn">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/bramblethorn.png" alt="Bramblethorn">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bramblethorn</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

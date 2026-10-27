@@ -1,7 +1,7 @@
 # Mjolnir
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/mjolnir.png" alt="Mjolnir">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/mjolnir.png" alt="Mjolnir">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mjolnir</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

@@ -1,7 +1,7 @@
 # Pelle en bois de nifrisque
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/frostbright_shovel.png" alt="Pelle en bois de nifrisque">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/frostbright_shovel.png" alt="Pelle en bois de nifrisque">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pelle en bois de nifrisque</div>
 <div class="mc-tooltip-card__alias">Frostbright Wood Shovel</div>

@@ -1,7 +1,7 @@
 # Skyroot Milk Bucket
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/skyroot_milk_bucket.png" alt="Skyroot Milk Bucket">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/skyroot_milk_bucket.png" alt="Skyroot Milk Bucket">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Skyroot Milk Bucket</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

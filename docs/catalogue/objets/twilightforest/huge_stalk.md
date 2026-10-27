@@ -1,7 +1,7 @@
 # Énorme tige
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/huge_stalk.png" alt="Énorme tige">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/huge_stalk.png" alt="Énorme tige">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Énorme tige</div>
 <div class="mc-tooltip-card__alias">Huge Stalk</div>

@@ -1,7 +1,7 @@
 # Twisted Stone Pillar
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/twisted_stone_pillar.png" alt="Twisted Stone Pillar">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/twisted_stone_pillar.png" alt="Twisted Stone Pillar">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Twisted Stone Pillar</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

@@ -1,7 +1,7 @@
 # Dreadsteel Ingot
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/dreadsteel/dreadsteel_ingot.png" alt="Dreadsteel Ingot">
+<img class="mc-item-icon" src="../../../../assets/generated/items/dreadsteel/dreadsteel_ingot.png" alt="Dreadsteel Ingot">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Dreadsteel Ingot</div>
 <div class="mc-tooltip-card__mod">Dreadsteel</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette Cisco</strong><span>crafttweaker:dreadsteel_ingot_recipe</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Gold Ingot (minecraft:gold_ingot)">?</span><span class="jei-slot" title="Gold Ingot (minecraft:gold_ingot)">?</span><span class="jei-slot" title="Amethyst Shard (minecraft:amethyst_shard)">?</span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Diamond (minecraft:diamond)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/dreadsteel/dreadsteel_ingot.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : Cisco.zs</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette Cisco</strong><span>crafttweaker:dreadsteel_ingot_recipe</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Gold Ingot (minecraft:gold_ingot)">?</span><span class="jei-slot" title="Gold Ingot (minecraft:gold_ingot)">?</span><span class="jei-slot" title="Amethyst Shard (minecraft:amethyst_shard)">?</span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Diamond (minecraft:diamond)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/dreadsteel/dreadsteel_ingot.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : Cisco.zs</div></div>
 
 ## Utilisé dans
 

@@ -1,7 +1,7 @@
 # Coeur en cage
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/meetyourfight/caged_heart.png" alt="Coeur en cage">
+<img class="mc-item-icon" src="../../../../assets/generated/items/meetyourfight/caged_heart.png" alt="Coeur en cage">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Coeur en cage</div>
 <div class="mc-tooltip-card__alias">Caged Heart</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>meetyourfight:caged_heart</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:bones">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/iron">#</span><span class="jei-slot jei-slot--tag" title="#forge:bones">#</span><span class="jei-slot jei-slot--tag" title="#forge:bones">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/iron">#</span><span class="jei-slot jei-slot--tag" title="#forge:bones">#</span><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../catalogue/objets/meetyourfight/mossy_tooth.md" title="Dent moussue (meetyourfight:mossy_tooth)"><img src="../../../assets/generated/items/meetyourfight/mossy_tooth.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/meetyourfight/caged_heart.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>meetyourfight:caged_heart</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:bones">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/iron">#</span><span class="jei-slot jei-slot--tag" title="#forge:bones">#</span><span class="jei-slot jei-slot--tag" title="#forge:bones">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/iron">#</span><span class="jei-slot jei-slot--tag" title="#forge:bones">#</span><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../../catalogue/objets/meetyourfight/mossy_tooth/" title="Dent moussue (meetyourfight:mossy_tooth)"><img src="../../../../assets/generated/items/meetyourfight/mossy_tooth.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/meetyourfight/caged_heart.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
 
 ## Utilisé dans
 

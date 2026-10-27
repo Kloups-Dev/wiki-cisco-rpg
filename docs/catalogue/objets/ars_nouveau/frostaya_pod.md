@@ -1,7 +1,7 @@
 # Frostaya
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/frostaya_pod.png" alt="Frostaya">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/frostaya_pod.png" alt="Frostaya">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Frostaya</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

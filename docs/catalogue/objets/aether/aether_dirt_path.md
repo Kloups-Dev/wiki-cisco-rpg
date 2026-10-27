@@ -1,7 +1,7 @@
 # Aether Dirt Path
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/aether_dirt_path.png" alt="Aether Dirt Path">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/aether_dirt_path.png" alt="Aether Dirt Path">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aether Dirt Path</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

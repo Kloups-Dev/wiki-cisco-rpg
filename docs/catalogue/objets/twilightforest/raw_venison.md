@@ -1,7 +1,7 @@
 # Chevreuil cru
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/raw_venison.png" alt="Chevreuil cru">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/raw_venison.png" alt="Chevreuil cru">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Chevreuil cru</div>
 <div class="mc-tooltip-card__alias">Raw Venison</div>

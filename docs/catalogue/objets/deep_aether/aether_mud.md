@@ -1,7 +1,7 @@
 # Aether Mud
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/aether_mud.png" alt="Aether Mud">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/aether_mud.png" alt="Aether Mud">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aether Mud</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Packed Aether Mud](../../../catalogue/objets/deep_aether/packed_aether_mud.md) — <code>deep_aether:packed_aether_mud</code>
 - [Muddy Yagroot Roots](../../../catalogue/objets/deep_aether/muddy_yagroot_roots.md) — <code>deep_aether:muddy_yagroot_roots</code>
+- [Packed Aether Mud](../../../catalogue/objets/deep_aether/packed_aether_mud.md) — <code>deep_aether:packed_aether_mud</code>
 
 ## Effets et caractéristiques
 

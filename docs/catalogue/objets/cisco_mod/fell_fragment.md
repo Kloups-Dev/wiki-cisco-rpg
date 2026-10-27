@@ -1,7 +1,7 @@
 # Fell Fragment
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/fell_fragment.png" alt="Fell Fragment">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cisco_mod/fell_fragment.png" alt="Fell Fragment">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fell Fragment</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Tainted Talisman ](../../../catalogue/objets/cisco_mod/tainted_talisman.md) — <code>cisco_mod:tainted_talisman</code>
 - [Talisman Of Betrayal](../../../catalogue/objets/cisco_mod/talisman_of_betrayal.md) — <code>cisco_mod:talisman_of_betrayal</code>
+- [Tainted Talisman ](../../../catalogue/objets/cisco_mod/tainted_talisman.md) — <code>cisco_mod:tainted_talisman</code>
 
 ## Effets et caractéristiques
 

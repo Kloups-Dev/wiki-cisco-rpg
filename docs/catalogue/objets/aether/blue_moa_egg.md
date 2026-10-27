@@ -1,7 +1,7 @@
 # Blue Moa Egg
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/blue_moa_egg.png" alt="Blue Moa Egg">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/blue_moa_egg.png" alt="Blue Moa Egg">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Blue Moa Egg</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

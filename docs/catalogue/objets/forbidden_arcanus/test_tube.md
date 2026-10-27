@@ -1,7 +1,7 @@
 # Test Tube
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/test_tube.png" alt="Test Tube">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/test_tube.png" alt="Test Tube">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Test Tube</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>forbidden_arcanus:test_tube</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Glass Bottle (minecraft:glass_bottle)">?</span><a class="jei-slot" href="../../../catalogue/objets/forbidden_arcanus/rune.md" title="Rune (forbidden_arcanus:rune)"><img src="../../../assets/generated/items/forbidden_arcanus/rune.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/forbidden_arcanus/test_tube.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>forbidden_arcanus:test_tube</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Glass Bottle (minecraft:glass_bottle)">?</span><a class="jei-slot" href="../../../../catalogue/objets/forbidden_arcanus/rune/" title="Rune (forbidden_arcanus:rune)"><img src="../../../../assets/generated/items/forbidden_arcanus/rune.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/forbidden_arcanus/test_tube.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
 
 ## Utilisé dans
 

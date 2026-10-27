@@ -1,7 +1,7 @@
 # Mise au point de la mise en forme des blocs
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/shapers_focus.png" alt="Mise au point de la mise en forme des blocs">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/shapers_focus.png" alt="Mise au point de la mise en forme des blocs">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mise au point de la mise en forme des blocs</div>
 <div class="mc-tooltip-card__alias">Focus of Block Shaping</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting Apparatus</strong><span>ars_nouveau:shapers_focus</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_nouveau/shapers_focus.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting Apparatus</strong><span>ars_nouveau:shapers_focus</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_nouveau/shapers_focus.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
 
 ## Utilisé dans
 

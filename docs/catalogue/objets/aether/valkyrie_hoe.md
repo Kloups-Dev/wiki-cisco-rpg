@@ -1,7 +1,7 @@
 # Valkyrie Hoe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/valkyrie_hoe.png" alt="Valkyrie Hoe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/valkyrie_hoe.png" alt="Valkyrie Hoe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Valkyrie Hoe</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

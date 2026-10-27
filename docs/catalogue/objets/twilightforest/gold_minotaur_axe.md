@@ -1,7 +1,7 @@
 # Hache en or du Minotaure
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/gold_minotaur_axe.png" alt="Hache en or du Minotaure">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/gold_minotaur_axe.png" alt="Hache en or du Minotaure">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hache en or du Minotaure</div>
 <div class="mc-tooltip-card__alias">Golden Minotaur Axe</div>

@@ -1,7 +1,7 @@
 # Bloc de Enderite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/enderite_block.png" alt="Bloc de Enderite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/enderite_block.png" alt="Bloc de Enderite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bloc de Enderite</div>
 <div class="mc-tooltip-card__alias">Block of Enderite</div>

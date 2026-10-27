@@ -1,7 +1,7 @@
 # Marteau écraseur
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/crushing_hammer.png" alt="Marteau écraseur">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/crushing_hammer.png" alt="Marteau écraseur">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Marteau écraseur</div>
 <div class="mc-tooltip-card__alias">Crushing Hammer</div>

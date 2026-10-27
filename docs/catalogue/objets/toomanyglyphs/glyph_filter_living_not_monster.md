@@ -1,7 +1,7 @@
 # Glyph Filter Living Not Monster
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/toomanyglyphs/glyph_filter_living_not_monster.png" alt="Glyph Filter Living Not Monster">
+<img class="mc-item-icon" src="../../../../assets/generated/items/toomanyglyphs/glyph_filter_living_not_monster.png" alt="Glyph Filter Living Not Monster">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Glyph Filter Living Not Monster</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Glyph</strong><span>toomanyglyphs:glyph_filter_living_not_monster</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/toomanyglyphs/glyph_filter_living_not_monster.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : toomanyglyphs-1.19.2-2.2.376.1564.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Glyph</strong><span>toomanyglyphs:glyph_filter_living_not_monster</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/toomanyglyphs/glyph_filter_living_not_monster.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : toomanyglyphs-1.19.2-2.2.376.1564.jar</div></div>
 
 ## Utilisé dans
 

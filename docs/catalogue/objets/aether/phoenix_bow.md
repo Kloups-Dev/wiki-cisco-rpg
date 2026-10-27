@@ -1,7 +1,7 @@
 # Phoenix Bow
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/phoenix_bow.png" alt="Phoenix Bow">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/phoenix_bow.png" alt="Phoenix Bow">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Phoenix Bow</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

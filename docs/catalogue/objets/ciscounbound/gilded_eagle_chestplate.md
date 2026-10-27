@@ -1,7 +1,7 @@
 # Gilded Eagle Robes
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/gilded_eagle_chestplate.png" alt="Gilded Eagle Robes">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/gilded_eagle_chestplate.png" alt="Gilded Eagle Robes">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Gilded Eagle Robes</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

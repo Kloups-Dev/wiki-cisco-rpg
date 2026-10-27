@@ -1,7 +1,7 @@
 # Magical Farmland
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/magical_farmland.png" alt="Magical Farmland">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/magical_farmland.png" alt="Magical Farmland">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Magical Farmland</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

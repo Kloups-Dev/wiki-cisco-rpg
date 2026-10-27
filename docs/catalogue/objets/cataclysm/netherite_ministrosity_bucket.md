@@ -1,7 +1,7 @@
 # Bucket of Netherite Ministrosity
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/netherite_ministrosity_bucket.png" alt="Bucket of Netherite Ministrosity">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/netherite_ministrosity_bucket.png" alt="Bucket of Netherite Ministrosity">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bucket of Netherite Ministrosity</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

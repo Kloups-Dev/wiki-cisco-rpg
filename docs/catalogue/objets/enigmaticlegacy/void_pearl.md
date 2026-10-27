@@ -1,7 +1,7 @@
 # Pearl of the Void
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/void_pearl.png" alt="Pearl of the Void">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/void_pearl.png" alt="Pearl of the Void">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pearl of the Void</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

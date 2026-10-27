@@ -1,7 +1,7 @@
 # Iron Cutlass
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/iron_cutlass.png" alt="Iron Cutlass">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/iron_cutlass.png" alt="Iron Cutlass">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Iron Cutlass</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>simplyswords:iron_cutlass</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#c:wood_sticks">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/simplyswords/iron_cutlass.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : simplyswords-forge-1.47.0-1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>simplyswords:iron_cutlass</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#c:wood_sticks">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/simplyswords/iron_cutlass.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : simplyswords-forge-1.47.0-1.19.2.jar</div></div>
 
 ## Utilisé dans
 

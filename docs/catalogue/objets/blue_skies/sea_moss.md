@@ -1,7 +1,7 @@
 # Mousse sous-marine
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/sea_moss.png" alt="Mousse sous-marine">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/sea_moss.png" alt="Mousse sous-marine">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mousse sous-marine</div>
 <div class="mc-tooltip-card__alias">Sea Moss</div>

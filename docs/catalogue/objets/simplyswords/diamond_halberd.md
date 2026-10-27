@@ -1,7 +1,7 @@
 # Diamond Halberd
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/diamond_halberd.png" alt="Diamond Halberd">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/diamond_halberd.png" alt="Diamond Halberd">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Diamond Halberd</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>simplyswords:diamond_halberd</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Diamond (minecraft:diamond)">?</span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot" title="Diamond (minecraft:diamond)">?</span><span class="jei-slot jei-slot--tag" title="#c:wood_sticks">#</span><span class="jei-slot" title="Diamond (minecraft:diamond)">?</span><span class="jei-slot jei-slot--tag" title="#c:wood_sticks">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/simplyswords/diamond_halberd.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : simplyswords-forge-1.47.0-1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>simplyswords:diamond_halberd</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Diamond (minecraft:diamond)">?</span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot" title="Diamond (minecraft:diamond)">?</span><span class="jei-slot jei-slot--tag" title="#c:wood_sticks">#</span><span class="jei-slot" title="Diamond (minecraft:diamond)">?</span><span class="jei-slot jei-slot--tag" title="#c:wood_sticks">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/simplyswords/diamond_halberd.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : simplyswords-forge-1.47.0-1.19.2.jar</div></div>
 
 ## Utilisé dans
 

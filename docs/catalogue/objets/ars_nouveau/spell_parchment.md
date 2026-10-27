@@ -1,7 +1,7 @@
 # Parchemin de sort
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/spell_parchment.png" alt="Parchemin de sort">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/spell_parchment.png" alt="Parchemin de sort">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Parchemin de sort</div>
 <div class="mc-tooltip-card__alias">Spell Parchment</div>

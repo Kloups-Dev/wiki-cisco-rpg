@@ -1,7 +1,7 @@
 # Poisson tunide dans un seau en ventium 
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/ventium_horizofin_tunid_bucket.png" alt="Poisson tunide dans un seau en ventium ">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/ventium_horizofin_tunid_bucket.png" alt="Poisson tunide dans un seau en ventium ">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Poisson tunide dans un seau en ventium </div>
 <div class="mc-tooltip-card__alias">Ventium Bucket of Horizofin Tunid</div>

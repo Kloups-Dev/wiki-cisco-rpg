@@ -1,7 +1,7 @@
 # Lava Power Cell
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/lava_power_cell.png" alt="Lava Power Cell">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/lava_power_cell.png" alt="Lava Power Cell">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Lava Power Cell</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

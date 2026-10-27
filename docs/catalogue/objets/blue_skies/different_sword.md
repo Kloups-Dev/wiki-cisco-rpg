@@ -1,7 +1,7 @@
 # Épée différente
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/different_sword.png" alt="Épée différente">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/different_sword.png" alt="Épée différente">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épée différente</div>
 <div class="mc-tooltip-card__alias">Different Sword</div>

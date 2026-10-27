@@ -1,7 +1,7 @@
 # Angler's Fang
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/anglers_fang.png" alt="Angler&#x27;s Fang">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/anglers_fang.png" alt="Angler&#x27;s Fang">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Angler&#x27;s Fang</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>
@@ -19,14 +19,14 @@
 
 ## Utilisé dans
 
+- **Bone Meal** — <code>minecraft:bone_meal</code>
+- [Poisoned Blade](../../../catalogue/objets/aquamirae/poisoned_blade.md) — <code>aquamirae:poisoned_blade</code>
+- [Poisoned Chakram](../../../catalogue/objets/aquamirae/poisoned_chakra.md) — <code>aquamirae:poisoned_chakra</code>
+- [Terrible Boots](../../../catalogue/objets/aquamirae/terrible_boots.md) — <code>aquamirae:terrible_boots</code>
+- [Terrible Chestplate](../../../catalogue/objets/aquamirae/terrible_chestplate.md) — <code>aquamirae:terrible_chestplate</code>
+- [Terrible Helmet](../../../catalogue/objets/aquamirae/terrible_helmet.md) — <code>aquamirae:terrible_helmet</code>
 - [Terrible Leggings](../../../catalogue/objets/aquamirae/terrible_leggings.md) — <code>aquamirae:terrible_leggings</code>
 - [Terrible Sword](../../../catalogue/objets/aquamirae/terrible_sword.md) — <code>aquamirae:terrible_sword</code>
-- [Terrible Helmet](../../../catalogue/objets/aquamirae/terrible_helmet.md) — <code>aquamirae:terrible_helmet</code>
-- [Terrible Boots](../../../catalogue/objets/aquamirae/terrible_boots.md) — <code>aquamirae:terrible_boots</code>
-- **Bone Meal** — <code>minecraft:bone_meal</code>
-- [Poisoned Chakram](../../../catalogue/objets/aquamirae/poisoned_chakra.md) — <code>aquamirae:poisoned_chakra</code>
-- [Poisoned Blade](../../../catalogue/objets/aquamirae/poisoned_blade.md) — <code>aquamirae:poisoned_blade</code>
-- [Terrible Chestplate](../../../catalogue/objets/aquamirae/terrible_chestplate.md) — <code>aquamirae:terrible_chestplate</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Valkyrie Axe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/valkyrie_axe.png" alt="Valkyrie Axe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/valkyrie_axe.png" alt="Valkyrie Axe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Valkyrie Axe</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

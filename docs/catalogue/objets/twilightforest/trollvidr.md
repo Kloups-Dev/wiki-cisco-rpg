@@ -1,7 +1,7 @@
 # Trollvidr
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/trollvidr.png" alt="Trollvidr">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/trollvidr.png" alt="Trollvidr">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Trollvidr</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

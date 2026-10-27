@@ -1,7 +1,7 @@
 # Rare Ink
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/rare_ink.png" alt="Rare Ink">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/rare_ink.png" alt="Rare Ink">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Rare Ink</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

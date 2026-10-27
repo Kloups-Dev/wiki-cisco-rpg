@@ -1,7 +1,7 @@
 # Pierre empoisonnée sculptée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/carved_poison_stonebrick.png" alt="Pierre empoisonnée sculptée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/carved_poison_stonebrick.png" alt="Pierre empoisonnée sculptée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre empoisonnée sculptée</div>
 <div class="mc-tooltip-card__alias">Carved Poison Stone Bricks</div>
@@ -15,8 +15,8 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>blue_skies:carved_poison_stonebrick_stonecutting_poison_stone</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/blue_skies/poison_stone.md" title="Pierre empoisonnée (blue_skies:poison_stone)"><img src="../../../assets/generated/items/blue_skies/poison_stone.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/blue_skies/carved_poison_stonebrick.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>blue_skies:carved_poison_stonebrick_stonecutting_poison_stonebrick</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/blue_skies/poison_stonebrick.md" title="Pierre empoisonnée taillée (blue_skies:poison_stonebrick)"><img src="../../../assets/generated/items/blue_skies/poison_stonebrick.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/blue_skies/carved_poison_stonebrick.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>blue_skies:carved_poison_stonebrick_stonecutting_poison_stone</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/blue_skies/poison_stone/" title="Pierre empoisonnée (blue_skies:poison_stone)"><img src="../../../../assets/generated/items/blue_skies/poison_stone.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/blue_skies/carved_poison_stonebrick.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>blue_skies:carved_poison_stonebrick_stonecutting_poison_stonebrick</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/blue_skies/poison_stonebrick/" title="Pierre empoisonnée taillée (blue_skies:poison_stonebrick)"><img src="../../../../assets/generated/items/blue_skies/poison_stonebrick.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/blue_skies/carved_poison_stonebrick.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
 
 ## Utilisé dans
 

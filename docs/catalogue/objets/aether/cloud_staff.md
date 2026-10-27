@@ -1,7 +1,7 @@
 # Cloud Staff
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/cloud_staff.png" alt="Cloud Staff">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/cloud_staff.png" alt="Cloud Staff">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cloud Staff</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

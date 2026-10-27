@@ -1,7 +1,7 @@
 # Inscription Table
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/inscription_table.png" alt="Inscription Table">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/inscription_table.png" alt="Inscription Table">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Inscription Table</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>irons_spellbooks:inscription_table</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Book (minecraft:book)">?</span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_slabs">#</span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_slabs">#</span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_slabs">#</span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_fences">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_fences">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/irons_spellbooks/inscription_table.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : irons_spellbooks-1.19.2-3.4.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>irons_spellbooks:inscription_table</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Book (minecraft:book)">?</span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_slabs">#</span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_slabs">#</span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_slabs">#</span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_fences">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_fences">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/irons_spellbooks/inscription_table.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : irons_spellbooks-1.19.2-3.4.0.jar</div></div>
 
 ## Utilisé dans
 

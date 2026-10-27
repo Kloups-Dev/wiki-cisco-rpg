@@ -1,7 +1,7 @@
 # Medal of Honor
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/medal_of_honor.png" alt="Medal of Honor">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/medal_of_honor.png" alt="Medal of Honor">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Medal of Honor</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

@@ -1,7 +1,7 @@
 # Carved Edelwood Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/carved_edelwood_log.png" alt="Carved Edelwood Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/carved_edelwood_log.png" alt="Carved Edelwood Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Carved Edelwood Log</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

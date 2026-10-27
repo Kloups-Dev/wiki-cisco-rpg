@@ -1,7 +1,7 @@
 # Parchemin de Sagesse
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/skilltree/wisdom_scroll.png" alt="Parchemin de Sagesse">
+<img class="mc-item-icon" src="../../../../assets/generated/items/skilltree/wisdom_scroll.png" alt="Parchemin de Sagesse">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Parchemin de Sagesse</div>
 <div class="mc-tooltip-card__alias">Wisdom Scroll</div>

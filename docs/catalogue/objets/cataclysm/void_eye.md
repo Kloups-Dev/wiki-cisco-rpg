@@ -1,7 +1,7 @@
 # Eye of Void
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/void_eye.png" alt="Eye of Void">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/void_eye.png" alt="Eye of Void">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Eye of Void</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>cataclysm:void_eye</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Purpur Pillar (minecraft:purpur_pillar)">?</span><span class="jei-slot" title="Shulker Shell (minecraft:shulker_shell)">?</span><span class="jei-slot" title="Purpur Pillar (minecraft:purpur_pillar)">?</span><span class="jei-slot" title="End Stone Bricks (minecraft:end_stone_bricks)">?</span><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="End Stone Bricks (minecraft:end_stone_bricks)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Shulker Shell (minecraft:shulker_shell)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/cataclysm/void_eye.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>cataclysm:void_eye</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Purpur Pillar (minecraft:purpur_pillar)">?</span><span class="jei-slot" title="Shulker Shell (minecraft:shulker_shell)">?</span><span class="jei-slot" title="Purpur Pillar (minecraft:purpur_pillar)">?</span><span class="jei-slot" title="End Stone Bricks (minecraft:end_stone_bricks)">?</span><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="End Stone Bricks (minecraft:end_stone_bricks)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Shulker Shell (minecraft:shulker_shell)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/cataclysm/void_eye.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
 
 ## Utilisé dans
 

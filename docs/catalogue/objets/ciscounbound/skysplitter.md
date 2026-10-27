@@ -1,7 +1,7 @@
 # Skysplitter
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/skysplitter.png" alt="Skysplitter">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/skysplitter.png" alt="Skysplitter">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Skysplitter</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

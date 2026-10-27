@@ -1,7 +1,7 @@
 # Bloc d'herbe lunaire
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/lunar_grass_block.png" alt="Bloc d&#x27;herbe lunaire">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/lunar_grass_block.png" alt="Bloc d&#x27;herbe lunaire">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bloc d&#x27;herbe lunaire</div>
 <div class="mc-tooltip-card__alias">Lunar Grass Block</div>

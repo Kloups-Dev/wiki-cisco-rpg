@@ -1,7 +1,7 @@
 # Clé naturelle
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/nature_key.png" alt="Clé naturelle">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/nature_key.png" alt="Clé naturelle">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Clé naturelle</div>
 <div class="mc-tooltip-card__alias">Nature Dungeon Key</div>

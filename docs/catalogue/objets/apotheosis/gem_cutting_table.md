@@ -1,7 +1,7 @@
 # Gem Cutting Table
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/gem_cutting_table.png" alt="Gem Cutting Table">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/gem_cutting_table.png" alt="Gem Cutting Table">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Gem Cutting Table</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>apotheosis:gem_cutting_table</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Smooth Stone (minecraft:smooth_stone)">?</span><span class="jei-slot" title="Shears (minecraft:shears)">?</span><span class="jei-slot" title="Smooth Stone (minecraft:smooth_stone)">?</span><span class="jei-slot jei-slot--tag" title="#planks">#</span><a class="jei-slot" href="../../../catalogue/objets/apotheosis/gem_dust.md" title="Gem Dust (apotheosis:gem_dust)"><img src="../../../assets/generated/items/apotheosis/gem_dust.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#planks">#</span><span class="jei-slot jei-slot--tag" title="#planks">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#planks">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/apotheosis/gem_cutting_table.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : Apotheosis-1.19.2-6.5.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>apotheosis:gem_cutting_table</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Smooth Stone (minecraft:smooth_stone)">?</span><span class="jei-slot" title="Shears (minecraft:shears)">?</span><span class="jei-slot" title="Smooth Stone (minecraft:smooth_stone)">?</span><span class="jei-slot jei-slot--tag" title="#planks">#</span><a class="jei-slot" href="../../../../catalogue/objets/apotheosis/gem_dust/" title="Gem Dust (apotheosis:gem_dust)"><img src="../../../../assets/generated/items/apotheosis/gem_dust.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#planks">#</span><span class="jei-slot jei-slot--tag" title="#planks">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#planks">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/apotheosis/gem_cutting_table.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : Apotheosis-1.19.2-6.5.2.jar</div></div>
 
 ## Utilisé dans
 

@@ -1,7 +1,7 @@
 # Bouton en canopée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/canopy_button.png" alt="Bouton en canopée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/canopy_button.png" alt="Bouton en canopée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bouton en canopée</div>
 <div class="mc-tooltip-card__alias">Canopy Button</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>twilightforest:wood/canopy_button</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/twilightforest/canopy_planks.md" title="Planches de canopée (twilightforest:canopy_planks)"><img src="../../../assets/generated/items/twilightforest/canopy_planks.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/canopy_button.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>twilightforest:wood/canopy_button</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/canopy_planks/" title="Planches de canopée (twilightforest:canopy_planks)"><img src="../../../../assets/generated/items/twilightforest/canopy_planks.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/canopy_button.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

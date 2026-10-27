@@ -1,7 +1,7 @@
 # Magma Walker
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/magma_walker.png" alt="Magma Walker">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/magma_walker.png" alt="Magma Walker">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Magma Walker</div>
 <div class="mc-tooltip-card__mod">Relics</div>

@@ -1,7 +1,7 @@
 # Rain Aercloud
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/rain_aercloud.png" alt="Rain Aercloud">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/rain_aercloud.png" alt="Rain Aercloud">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Rain Aercloud</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

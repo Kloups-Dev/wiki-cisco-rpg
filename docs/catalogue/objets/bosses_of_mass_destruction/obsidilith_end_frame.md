@@ -1,7 +1,7 @@
 # Obsidian Altar
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/bosses_of_mass_destruction/obsidilith_end_frame.png" alt="Obsidian Altar">
+<img class="mc-item-icon" src="../../../../assets/generated/items/bosses_of_mass_destruction/obsidilith_end_frame.png" alt="Obsidian Altar">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Obsidian Altar</div>
 <div class="mc-tooltip-card__mod">Bosses of Mass Destruction</div>

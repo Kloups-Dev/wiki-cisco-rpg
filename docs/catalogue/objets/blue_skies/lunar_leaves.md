@@ -1,7 +1,7 @@
 # Feuilles lunaires
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/lunar_leaves.png" alt="Feuilles lunaires">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/lunar_leaves.png" alt="Feuilles lunaires">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles lunaires</div>
 <div class="mc-tooltip-card__alias">Lunar Leaves</div>

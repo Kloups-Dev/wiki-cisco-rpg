@@ -1,7 +1,7 @@
 # Huge Mushgloom Stem
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/huge_mushgloom_stem.png" alt="Huge Mushgloom Stem">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/huge_mushgloom_stem.png" alt="Huge Mushgloom Stem">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Huge Mushgloom Stem</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

@@ -1,7 +1,7 @@
 # Fourrure de renard cosmique
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/fox_pelt.png" alt="Fourrure de renard cosmique">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/fox_pelt.png" alt="Fourrure de renard cosmique">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fourrure de renard cosmique</div>
 <div class="mc-tooltip-card__alias">Fox Pelt</div>
@@ -20,8 +20,8 @@
 
 ## Utilisé dans
 
-- [Selle de chameau](../../../catalogue/objets/blue_skies/camel_saddle.md) — <code>blue_skies:camel_saddle</code>
 - [Sac](../../../catalogue/objets/blue_skies/bag_of_spoils.md) — <code>blue_skies:bag_of_spoils</code>
+- [Selle de chameau](../../../catalogue/objets/blue_skies/camel_saddle.md) — <code>blue_skies:camel_saddle</code>
 
 ## Effets et caractéristiques
 

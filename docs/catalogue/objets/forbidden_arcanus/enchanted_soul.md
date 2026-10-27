@@ -1,7 +1,7 @@
 # Enchanted Soul
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/enchanted_soul.png" alt="Enchanted Soul">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/enchanted_soul.png" alt="Enchanted Soul">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Enchanted Soul</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

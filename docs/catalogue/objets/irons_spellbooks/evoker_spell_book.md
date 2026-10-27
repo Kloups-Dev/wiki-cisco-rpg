@@ -1,7 +1,7 @@
 # Grimoire of Evokation
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/evoker_spell_book.png" alt="Grimoire of Evokation">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/evoker_spell_book.png" alt="Grimoire of Evokation">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Grimoire of Evokation</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

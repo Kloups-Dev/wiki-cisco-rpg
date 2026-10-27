@@ -1,7 +1,7 @@
 # Sterling Aercloud
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/sterling_aercloud.png" alt="Sterling Aercloud">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/sterling_aercloud.png" alt="Sterling Aercloud">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sterling Aercloud</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

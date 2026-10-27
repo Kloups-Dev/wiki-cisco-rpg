@@ -1,7 +1,7 @@
 # Umèbre
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/umber.png" alt="Umèbre">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/umber.png" alt="Umèbre">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Umèbre</div>
 <div class="mc-tooltip-card__alias">Umber</div>
@@ -21,9 +21,9 @@
 ## Utilisé dans
 
 - [Umèbre poli](../../../catalogue/objets/blue_skies/polished_umber.md) — <code>blue_skies:polished_umber</code>
-- [Muret d'umèbre](../../../catalogue/objets/blue_skies/umber_wall.md) — <code>blue_skies:umber_wall</code>
 - [Dalle d'umèbre](../../../catalogue/objets/blue_skies/umber_slab.md) — <code>blue_skies:umber_slab</code>
 - [Escalier d'umèbre](../../../catalogue/objets/blue_skies/umber_stairs.md) — <code>blue_skies:umber_stairs</code>
+- [Muret d'umèbre](../../../catalogue/objets/blue_skies/umber_wall.md) — <code>blue_skies:umber_wall</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Mask of Fury
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/umvuthana_mask_fury.png" alt="Mask of Fury">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/umvuthana_mask_fury.png" alt="Mask of Fury">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mask of Fury</div>
 <div class="mc-tooltip-card__mod">Mowzie&#x27;s Mobs</div>

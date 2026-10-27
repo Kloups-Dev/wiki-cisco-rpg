@@ -1,7 +1,7 @@
 # Greater Potion Flask
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/greater_potion_flask.png" alt="Greater Potion Flask">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/greater_potion_flask.png" alt="Greater Potion Flask">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Greater Potion Flask</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

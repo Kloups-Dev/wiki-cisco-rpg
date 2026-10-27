@@ -1,7 +1,7 @@
 # Space Dissector
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/space_dissector.png" alt="Space Dissector">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/space_dissector.png" alt="Space Dissector">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Space Dissector</div>
 <div class="mc-tooltip-card__mod">Relics</div>

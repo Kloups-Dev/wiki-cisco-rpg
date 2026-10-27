@@ -1,7 +1,7 @@
 # Lit de fleur de mage bleue
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/blue_sbed.png" alt="Lit de fleur de mage bleue">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/blue_sbed.png" alt="Lit de fleur de mage bleue">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Lit de fleur de mage bleue</div>
 <div class="mc-tooltip-card__alias">Blue Magebloom Bed</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>ars_nouveau:blue_sbed</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#ars_nouveau:summon_bed">#</span><span class="jei-slot jei-slot--tag" title="#forge:dyes/blue">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_nouveau/blue_sbed.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>ars_nouveau:blue_sbed</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#ars_nouveau:summon_bed">#</span><span class="jei-slot jei-slot--tag" title="#forge:dyes/blue">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_nouveau/blue_sbed.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
 
 ## Utilisé dans
 

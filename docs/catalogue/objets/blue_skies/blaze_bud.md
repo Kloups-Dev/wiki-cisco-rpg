@@ -1,7 +1,7 @@
 # Coeur de blaze
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/blaze_bud.png" alt="Coeur de blaze">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/blaze_bud.png" alt="Coeur de blaze">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Coeur de blaze</div>
 <div class="mc-tooltip-card__alias">Blaze Bud</div>

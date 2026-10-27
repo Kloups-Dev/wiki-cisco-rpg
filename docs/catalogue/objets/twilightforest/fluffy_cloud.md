@@ -1,7 +1,7 @@
 # Nuage moelleux
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/fluffy_cloud.png" alt="Nuage moelleux">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/fluffy_cloud.png" alt="Nuage moelleux">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Nuage moelleux</div>
 <div class="mc-tooltip-card__alias">Fluffy Cloud</div>

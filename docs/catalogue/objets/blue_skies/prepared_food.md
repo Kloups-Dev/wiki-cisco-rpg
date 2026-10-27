@@ -1,7 +1,7 @@
 # Plat cuisiné
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/prepared_food.png" alt="Plat cuisiné">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/prepared_food.png" alt="Plat cuisiné">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Plat cuisiné</div>
 <div class="mc-tooltip-card__alias">Prepared Meal</div>

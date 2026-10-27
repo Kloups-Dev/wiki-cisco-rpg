@@ -1,7 +1,7 @@
 # Misery
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/misery.png" alt="Misery">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/misery.png" alt="Misery">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Misery</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

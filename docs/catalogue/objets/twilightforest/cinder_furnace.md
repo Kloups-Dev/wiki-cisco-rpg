@@ -1,7 +1,7 @@
 # Four à cendres [NYI]
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/cinder_furnace.png" alt="Four à cendres [NYI]">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/cinder_furnace.png" alt="Four à cendres [NYI]">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Four à cendres [NYI]</div>
 <div class="mc-tooltip-card__alias">Cinder Furnace</div>

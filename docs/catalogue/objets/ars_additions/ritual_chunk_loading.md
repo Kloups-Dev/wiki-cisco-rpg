@@ -1,7 +1,7 @@
 # Arcane Permanence
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_additions/ritual_chunk_loading.png" alt="Arcane Permanence">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_additions/ritual_chunk_loading.png" alt="Arcane Permanence">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Arcane Permanence</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

@@ -1,7 +1,7 @@
 # Pixie
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/pixie.png" alt="Pixie">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/pixie.png" alt="Pixie">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pixie</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

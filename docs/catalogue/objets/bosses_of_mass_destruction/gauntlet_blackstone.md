@@ -1,7 +1,7 @@
 # Ancient Carved Blackstone
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/bosses_of_mass_destruction/gauntlet_blackstone.png" alt="Ancient Carved Blackstone">
+<img class="mc-item-icon" src="../../../../assets/generated/items/bosses_of_mass_destruction/gauntlet_blackstone.png" alt="Ancient Carved Blackstone">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ancient Carved Blackstone</div>
 <div class="mc-tooltip-card__mod">Bosses of Mass Destruction</div>

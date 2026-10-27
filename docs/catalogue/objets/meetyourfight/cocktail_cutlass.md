@@ -1,7 +1,7 @@
 # Sabre à cocktail
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/meetyourfight/cocktail_cutlass.png" alt="Sabre à cocktail">
+<img class="mc-item-icon" src="../../../../assets/generated/items/meetyourfight/cocktail_cutlass.png" alt="Sabre à cocktail">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sabre à cocktail</div>
 <div class="mc-tooltip-card__alias">Cocktail Cutlass</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>meetyourfight:cocktail_cutlass</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><span class="jei-slot jei-slot--tag" title="#forge:glass">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><span class="jei-slot jei-slot--tag" title="#forge:glass">#</span><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../catalogue/objets/meetyourfight/fortunes_favor.md" title="Faveur de la fortune (meetyourfight:fortunes_favor)"><img src="../../../assets/generated/items/meetyourfight/fortunes_favor.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/meetyourfight/cocktail_cutlass.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>meetyourfight:cocktail_cutlass</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><span class="jei-slot jei-slot--tag" title="#forge:glass">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><span class="jei-slot jei-slot--tag" title="#forge:glass">#</span><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../../catalogue/objets/meetyourfight/fortunes_favor/" title="Faveur de la fortune (meetyourfight:fortunes_favor)"><img src="../../../../assets/generated/items/meetyourfight/fortunes_favor.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/meetyourfight/cocktail_cutlass.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
 
 ## Utilisé dans
 

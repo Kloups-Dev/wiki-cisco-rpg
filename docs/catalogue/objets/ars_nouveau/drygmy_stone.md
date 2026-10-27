@@ -1,7 +1,7 @@
 # Cromlech de Drygmée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/drygmy_stone.png" alt="Cromlech de Drygmée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/drygmy_stone.png" alt="Cromlech de Drygmée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cromlech de Drygmée</div>
 <div class="mc-tooltip-card__alias">Drygmy Henge</div>

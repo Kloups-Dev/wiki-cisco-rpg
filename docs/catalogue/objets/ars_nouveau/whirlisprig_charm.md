@@ -1,7 +1,7 @@
 # Charme Tourbillon
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/whirlisprig_charm.png" alt="Charme Tourbillon">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/whirlisprig_charm.png" alt="Charme Tourbillon">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Charme Tourbillon</div>
 <div class="mc-tooltip-card__alias">Whirlisprig Charm</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting Apparatus</strong><span>ars_nouveau:whirlisprig_charm</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_nouveau/whirlisprig_charm.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting Apparatus</strong><span>ars_nouveau:whirlisprig_charm</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_nouveau/whirlisprig_charm.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
 
 ## Utilisé dans
 

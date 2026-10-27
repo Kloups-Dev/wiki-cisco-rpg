@@ -1,7 +1,7 @@
 # Délice des marais
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/meetyourfight/marshy_delight.png" alt="Délice des marais">
+<img class="mc-item-icon" src="../../../../assets/generated/items/meetyourfight/marshy_delight.png" alt="Délice des marais">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Délice des marais</div>
 <div class="mc-tooltip-card__alias">Marshy Delight</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>meetyourfight:marshy_delight</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Cooked Mutton (minecraft:cooked_mutton)">?</span><a class="jei-slot" href="../../../catalogue/objets/meetyourfight/mossy_tooth.md" title="Dent moussue (meetyourfight:mossy_tooth)"><img src="../../../assets/generated/items/meetyourfight/mossy_tooth.png" alt="" loading="lazy"></a><span class="jei-slot" title="Vine (minecraft:vine)">?</span><span class="jei-slot jei-slot--tag" title="#forge:mushrooms">#</span><span class="jei-slot jei-slot--tag" title="#forge:mushrooms">#</span><span class="jei-slot jei-slot--tag" title="#forge:mushrooms">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/meetyourfight/marshy_delight.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>meetyourfight:marshy_delight</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Cooked Mutton (minecraft:cooked_mutton)">?</span><a class="jei-slot" href="../../../../catalogue/objets/meetyourfight/mossy_tooth/" title="Dent moussue (meetyourfight:mossy_tooth)"><img src="../../../../assets/generated/items/meetyourfight/mossy_tooth.png" alt="" loading="lazy"></a><span class="jei-slot" title="Vine (minecraft:vine)">?</span><span class="jei-slot jei-slot--tag" title="#forge:mushrooms">#</span><span class="jei-slot jei-slot--tag" title="#forge:mushrooms">#</span><span class="jei-slot jei-slot--tag" title="#forge:mushrooms">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/meetyourfight/marshy_delight.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
 
 ## Utilisé dans
 

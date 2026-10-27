@@ -1,7 +1,7 @@
 # Fourrure de Yéti Alpha
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/alpha_yeti_fur.png" alt="Fourrure de Yéti Alpha">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/alpha_yeti_fur.png" alt="Fourrure de Yéti Alpha">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fourrure de Yéti Alpha</div>
 <div class="mc-tooltip-card__alias">Alpha Yeti Fur</div>
@@ -21,8 +21,8 @@
 ## Utilisé dans
 
 - [Bottes de Yéti](../../../catalogue/objets/twilightforest/yeti_boots.md) — <code>twilightforest:yeti_boots</code>
-- [Casque orné de Yéti](../../../catalogue/objets/twilightforest/yeti_helmet.md) — <code>twilightforest:yeti_helmet</code>
 - [Veste de Yéti](../../../catalogue/objets/twilightforest/yeti_chestplate.md) — <code>twilightforest:yeti_chestplate</code>
+- [Casque orné de Yéti](../../../catalogue/objets/twilightforest/yeti_helmet.md) — <code>twilightforest:yeti_helmet</code>
 - [Jambières de Yéti](../../../catalogue/objets/twilightforest/yeti_leggings.md) — <code>twilightforest:yeti_leggings</code>
 
 ## Effets et caractéristiques

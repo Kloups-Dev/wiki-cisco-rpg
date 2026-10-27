@@ -1,7 +1,7 @@
 # Joncs de l'exil
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/glimmer_reed.png" alt="Joncs de l&#x27;exil">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/glimmer_reed.png" alt="Joncs de l&#x27;exil">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Joncs de l&#x27;exil</div>
 <div class="mc-tooltip-card__alias">Glimmer Reeds</div>

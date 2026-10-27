@@ -1,7 +1,7 @@
 # Golden Oak Leaves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/golden_oak_leaves.png" alt="Golden Oak Leaves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/golden_oak_leaves.png" alt="Golden Oak Leaves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Golden Oak Leaves</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

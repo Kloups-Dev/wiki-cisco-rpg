@@ -18,16 +18,16 @@
 
 ## Utilisé dans
 
-- [Prismarite Shield](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_shield.md) — <code>upgradednetherite:water_upgraded_netherite_shield</code>
-- [Featherite Shield](../../../catalogue/objets/upgradednetherite/feather_upgraded_netherite_shield.md) — <code>upgradednetherite:feather_upgraded_netherite_shield</code>
-- [Phanterite Shield](../../../catalogue/objets/upgradednetherite/phantom_upgraded_netherite_shield.md) — <code>upgradednetherite:phantom_upgraded_netherite_shield</code>
-- [Golderite Shield](../../../catalogue/objets/upgradednetherite/gold_upgraded_netherite_shield.md) — <code>upgradednetherite:gold_upgraded_netherite_shield</code>
-- [Echorite Shield](../../../catalogue/objets/upgradednetherite/echo_upgraded_netherite_shield.md) — <code>upgradednetherite:echo_upgraded_netherite_shield</code>
-- [Spiderite Shield](../../../catalogue/objets/upgradednetherite/poison_upgraded_netherite_shield.md) — <code>upgradednetherite:poison_upgraded_netherite_shield</code>
 - [Corrupterite Shield](../../../catalogue/objets/upgradednetherite/corrupt_upgraded_netherite_shield.md) — <code>upgradednetherite:corrupt_upgraded_netherite_shield</code>
-- [Blazerite Shield](../../../catalogue/objets/upgradednetherite/fire_upgraded_netherite_shield.md) — <code>upgradednetherite:fire_upgraded_netherite_shield</code>
-- [Witherite Shield](../../../catalogue/objets/upgradednetherite/wither_upgraded_netherite_shield.md) — <code>upgradednetherite:wither_upgraded_netherite_shield</code>
+- [Echorite Shield](../../../catalogue/objets/upgradednetherite/echo_upgraded_netherite_shield.md) — <code>upgradednetherite:echo_upgraded_netherite_shield</code>
 - [Enderite Shield](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_shield.md) — <code>upgradednetherite:ender_upgraded_netherite_shield</code>
+- [Featherite Shield](../../../catalogue/objets/upgradednetherite/feather_upgraded_netherite_shield.md) — <code>upgradednetherite:feather_upgraded_netherite_shield</code>
+- [Blazerite Shield](../../../catalogue/objets/upgradednetherite/fire_upgraded_netherite_shield.md) — <code>upgradednetherite:fire_upgraded_netherite_shield</code>
+- [Golderite Shield](../../../catalogue/objets/upgradednetherite/gold_upgraded_netherite_shield.md) — <code>upgradednetherite:gold_upgraded_netherite_shield</code>
+- [Phanterite Shield](../../../catalogue/objets/upgradednetherite/phantom_upgraded_netherite_shield.md) — <code>upgradednetherite:phantom_upgraded_netherite_shield</code>
+- [Spiderite Shield](../../../catalogue/objets/upgradednetherite/poison_upgraded_netherite_shield.md) — <code>upgradednetherite:poison_upgraded_netherite_shield</code>
+- [Prismarite Shield](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_shield.md) — <code>upgradednetherite:water_upgraded_netherite_shield</code>
+- [Witherite Shield](../../../catalogue/objets/upgradednetherite/wither_upgraded_netherite_shield.md) — <code>upgradednetherite:wither_upgraded_netherite_shield</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Ascendant Violet Chestplate
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/ascended_hero_violet_chestplate.png" alt="Ascendant Violet Chestplate">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/ascended_hero_violet_chestplate.png" alt="Ascendant Violet Chestplate">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ascendant Violet Chestplate</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

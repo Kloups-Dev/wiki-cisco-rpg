@@ -1,7 +1,7 @@
 # Pousse de chêne arc-en-ciel
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/rainbow_oak_sapling.png" alt="Pousse de chêne arc-en-ciel">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/rainbow_oak_sapling.png" alt="Pousse de chêne arc-en-ciel">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pousse de chêne arc-en-ciel</div>
 <div class="mc-tooltip-card__alias">Rainbow Oak Sapling</div>

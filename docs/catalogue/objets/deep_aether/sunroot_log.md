@@ -1,7 +1,7 @@
 # Sunroot Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/sunroot_log.png" alt="Sunroot Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/sunroot_log.png" alt="Sunroot Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sunroot Log</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

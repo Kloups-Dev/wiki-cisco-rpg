@@ -1,7 +1,7 @@
 # Feuilles lunaires fruitières
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/crescent_fruit_leaves.png" alt="Feuilles lunaires fruitières">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/crescent_fruit_leaves.png" alt="Feuilles lunaires fruitières">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles lunaires fruitières</div>
 <div class="mc-tooltip-card__alias">Crescent Fruit Leaves</div>

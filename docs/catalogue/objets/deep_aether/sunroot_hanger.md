@@ -1,7 +1,7 @@
 # Sunroot Hanger
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/sunroot_hanger.png" alt="Sunroot Hanger">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/sunroot_hanger.png" alt="Sunroot Hanger">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sunroot Hanger</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

@@ -1,7 +1,7 @@
 # Matériaux en bois de fer bruts
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/raw_ironwood.png" alt="Matériaux en bois de fer bruts">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/raw_ironwood.png" alt="Matériaux en bois de fer bruts">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Matériaux en bois de fer bruts</div>
 <div class="mc-tooltip-card__alias">Raw Ironwood</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>twilightforest:material/raw_ironwood</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/twilightforest/liveroot.md" title="Racine vivante (twilightforest:liveroot)"><img src="../../../assets/generated/items/twilightforest/liveroot.png" alt="" loading="lazy"></a><span class="jei-slot" title="Raw Iron (minecraft:raw_iron)">?</span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/raw_ironwood.png" alt=""><span class="jei-count">2</span></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>twilightforest:material/raw_ironwood</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/liveroot/" title="Racine vivante (twilightforest:liveroot)"><img src="../../../../assets/generated/items/twilightforest/liveroot.png" alt="" loading="lazy"></a><span class="jei-slot" title="Raw Iron (minecraft:raw_iron)">?</span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/raw_ironwood.png" alt=""><span class="jei-count">2</span></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

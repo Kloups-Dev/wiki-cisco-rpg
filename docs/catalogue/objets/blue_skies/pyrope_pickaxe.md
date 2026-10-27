@@ -1,7 +1,7 @@
 # Pioche en pyrope
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/pyrope_pickaxe.png" alt="Pioche en pyrope">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/pyrope_pickaxe.png" alt="Pioche en pyrope">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pioche en pyrope</div>
 <div class="mc-tooltip-card__alias">Pyrope Pickaxe</div>

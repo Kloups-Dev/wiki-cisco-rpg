@@ -1,7 +1,7 @@
 # The Forbidden Fruit
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/forbidden_fruit.png" alt="The Forbidden Fruit">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/forbidden_fruit.png" alt="The Forbidden Fruit">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">The Forbidden Fruit</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

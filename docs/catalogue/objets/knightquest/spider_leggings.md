@@ -1,7 +1,7 @@
 # Jambières d'Araignée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/knightquest/spider_leggings.png" alt="Jambières d&#x27;Araignée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/knightquest/spider_leggings.png" alt="Jambières d&#x27;Araignée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Jambières d&#x27;Araignée</div>
 <div class="mc-tooltip-card__alias">Spider Leggings</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:spider_leggings</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Piston (minecraft:piston)">?</span><span class="jei-slot" title="Spider Eye (minecraft:spider_eye)">?</span><span class="jei-slot" title="Bone Meal (minecraft:bone_meal)">?</span><a class="jei-slot" href="../../../catalogue/objets/knightquest/filled_goblet.md" title="Gobelet Rempli (knightquest:filled_goblet)"><img src="../../../assets/generated/items/knightquest/filled_goblet.png" alt="" loading="lazy"></a><span class="jei-slot" title="Diamond Leggings (minecraft:diamond_leggings)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/knightquest/spider_leggings.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:spider_leggings</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Piston (minecraft:piston)">?</span><span class="jei-slot" title="Spider Eye (minecraft:spider_eye)">?</span><span class="jei-slot" title="Bone Meal (minecraft:bone_meal)">?</span><a class="jei-slot" href="../../../../catalogue/objets/knightquest/filled_goblet/" title="Gobelet Rempli (knightquest:filled_goblet)"><img src="../../../../assets/generated/items/knightquest/filled_goblet.png" alt="" loading="lazy"></a><span class="jei-slot" title="Diamond Leggings (minecraft:diamond_leggings)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/knightquest/spider_leggings.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
 
 ## Utilisé dans
 

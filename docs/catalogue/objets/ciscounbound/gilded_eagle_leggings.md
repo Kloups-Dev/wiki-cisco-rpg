@@ -1,7 +1,7 @@
 # Gilded Eagle Pants
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/gilded_eagle_leggings.png" alt="Gilded Eagle Pants">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/gilded_eagle_leggings.png" alt="Gilded Eagle Pants">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Gilded Eagle Pants</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

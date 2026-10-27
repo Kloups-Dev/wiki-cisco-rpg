@@ -1,7 +1,7 @@
 # Athame
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/athame.png" alt="Athame">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/athame.png" alt="Athame">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Athame</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

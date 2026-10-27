@@ -1,7 +1,7 @@
 # Fell King Helmet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/fell_king_armor_helmet.png" alt="Fell King Helmet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/fell_king_armor_helmet.png" alt="Fell King Helmet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fell King Helmet</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

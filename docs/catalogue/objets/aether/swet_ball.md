@@ -1,7 +1,7 @@
 # Swet Ball
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/swet_ball.png" alt="Swet Ball">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/swet_ball.png" alt="Swet Ball">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Swet Ball</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

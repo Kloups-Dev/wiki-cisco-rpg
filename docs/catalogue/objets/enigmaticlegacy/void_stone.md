@@ -1,7 +1,7 @@
 # Keystone of The Oblivion
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/void_stone.png" alt="Keystone of The Oblivion">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/void_stone.png" alt="Keystone of The Oblivion">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Keystone of The Oblivion</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

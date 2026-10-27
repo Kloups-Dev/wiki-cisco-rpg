@@ -1,7 +1,7 @@
 # Hearthflame
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/hearthflame.png" alt="Hearthflame">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/hearthflame.png" alt="Hearthflame">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hearthflame</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

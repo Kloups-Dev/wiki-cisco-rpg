@@ -1,7 +1,7 @@
 # Edelwood Bucket of Pufferfish
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/edelwood_pufferfish_bucket.png" alt="Edelwood Bucket of Pufferfish">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/edelwood_pufferfish_bucket.png" alt="Edelwood Bucket of Pufferfish">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Edelwood Bucket of Pufferfish</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

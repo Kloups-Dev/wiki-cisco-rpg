@@ -1,7 +1,7 @@
 # Œil de Ratman
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/knightquest/ratman_eye.png" alt="Œil de Ratman">
+<img class="mc-item-icon" src="../../../../assets/generated/items/knightquest/ratman_eye.png" alt="Œil de Ratman">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Œil de Ratman</div>
 <div class="mc-tooltip-card__alias">Ratman eye</div>
@@ -20,21 +20,21 @@
 
 ## Utilisé dans
 
-- [Plastron de Blaze](../../../catalogue/objets/knightquest/blaze_chestplate.md) — <code>knightquest:blaze_chestplate</code>
-- [Plastron de Forze](../../../catalogue/objets/knightquest/forze_chestplate.md) — <code>knightquest:forze_chestplate</code>
-- [Plastron du Nether](../../../catalogue/objets/knightquest/nether_chestplate.md) — <code>knightquest:nether_chestplate</code>
-- [Jambières du Nether](../../../catalogue/objets/knightquest/nether_leggings.md) — <code>knightquest:nether_leggings</code>
-- [Casque du Nether](../../../catalogue/objets/knightquest/nether_helmet.md) — <code>knightquest:nether_helmet</code>
-- [Bottes du Nether](../../../catalogue/objets/knightquest/nether_boots.md) — <code>knightquest:nether_boots</code>
-- [Casque de Blaze](../../../catalogue/objets/knightquest/blaze_helmet.md) — <code>knightquest:blaze_helmet</code>
-- [Épée du Paladin](../../../catalogue/objets/knightquest/paladin_sword.md) — <code>knightquest:paladin_sword</code>
-- [Casque de Seigneur Husk](../../../catalogue/objets/knightquest/husk_helmet2.md) — <code>knightquest:husk_helmet2</code>
-- [Hachoir](../../../catalogue/objets/knightquest/cleaver.md) — <code>knightquest:cleaver</code>
-- [Jambières de Blaze](../../../catalogue/objets/knightquest/blaze_leggings.md) — <code>knightquest:blaze_leggings</code>
-- [Jambières de Forze](../../../catalogue/objets/knightquest/forze_leggings.md) — <code>knightquest:forze_leggings</code>
-- [Casque de Forze](../../../catalogue/objets/knightquest/forze_helmet.md) — <code>knightquest:forze_helmet</code>
 - [Bottes de Blaze](../../../catalogue/objets/knightquest/blaze_boots.md) — <code>knightquest:blaze_boots</code>
+- [Plastron de Blaze](../../../catalogue/objets/knightquest/blaze_chestplate.md) — <code>knightquest:blaze_chestplate</code>
+- [Casque de Blaze](../../../catalogue/objets/knightquest/blaze_helmet.md) — <code>knightquest:blaze_helmet</code>
+- [Jambières de Blaze](../../../catalogue/objets/knightquest/blaze_leggings.md) — <code>knightquest:blaze_leggings</code>
+- [Hachoir](../../../catalogue/objets/knightquest/cleaver.md) — <code>knightquest:cleaver</code>
 - [Bottes de Forze](../../../catalogue/objets/knightquest/forze_boots.md) — <code>knightquest:forze_boots</code>
+- [Plastron de Forze](../../../catalogue/objets/knightquest/forze_chestplate.md) — <code>knightquest:forze_chestplate</code>
+- [Casque de Forze](../../../catalogue/objets/knightquest/forze_helmet.md) — <code>knightquest:forze_helmet</code>
+- [Jambières de Forze](../../../catalogue/objets/knightquest/forze_leggings.md) — <code>knightquest:forze_leggings</code>
+- [Casque de Seigneur Husk](../../../catalogue/objets/knightquest/husk_helmet2.md) — <code>knightquest:husk_helmet2</code>
+- [Bottes du Nether](../../../catalogue/objets/knightquest/nether_boots.md) — <code>knightquest:nether_boots</code>
+- [Plastron du Nether](../../../catalogue/objets/knightquest/nether_chestplate.md) — <code>knightquest:nether_chestplate</code>
+- [Casque du Nether](../../../catalogue/objets/knightquest/nether_helmet.md) — <code>knightquest:nether_helmet</code>
+- [Jambières du Nether](../../../catalogue/objets/knightquest/nether_leggings.md) — <code>knightquest:nether_leggings</code>
+- [Épée du Paladin](../../../catalogue/objets/knightquest/paladin_sword.md) — <code>knightquest:paladin_sword</code>
 
 ## Effets et caractéristiques
 

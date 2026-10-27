@@ -1,7 +1,7 @@
 # Bûche Archwood en cascade
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/blue_archwood_log.png" alt="Bûche Archwood en cascade">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/blue_archwood_log.png" alt="Bûche Archwood en cascade">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bûche Archwood en cascade</div>
 <div class="mc-tooltip-card__alias">Cascading Archwood Log</div>
@@ -20,9 +20,9 @@
 
 ## Utilisé dans
 
+- [Bois Archwood en cascade](../../../catalogue/objets/ars_nouveau/blue_archwood_wood.md) — <code>ars_nouveau:blue_archwood_wood</code>
 - [Chute de lune](../../../catalogue/objets/ars_nouveau/ritual_moonfall.md) — <code>ars_nouveau:ritual_moonfall</code>
 - [Nuage](../../../catalogue/objets/ars_nouveau/ritual_cloudshaping.md) — <code>ars_nouveau:ritual_cloudshaping</code>
-- [Bois Archwood en cascade](../../../catalogue/objets/ars_nouveau/blue_archwood_wood.md) — <code>ars_nouveau:blue_archwood_wood</code>
 - [Sanctuary](../../../catalogue/objets/ars_nouveau/ritual_sanctuary.md) — <code>ars_nouveau:ritual_sanctuary</code>
 
 ## Effets et caractéristiques

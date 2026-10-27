@@ -1,7 +1,7 @@
 # Champion Loot Bag
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/championlootbag.png" alt="Champion Loot Bag">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cisco_mod/championlootbag.png" alt="Champion Loot Bag">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Champion Loot Bag</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

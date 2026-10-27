@@ -1,7 +1,7 @@
 # Pirate Pouch
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/pirate_pouch.png" alt="Pirate Pouch">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/pirate_pouch.png" alt="Pirate Pouch">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pirate Pouch</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

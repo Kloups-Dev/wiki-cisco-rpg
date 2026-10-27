@@ -1,7 +1,7 @@
 # Pig Slayer
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/pig_slayer.png" alt="Pig Slayer">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/pig_slayer.png" alt="Pig Slayer">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pig Slayer</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

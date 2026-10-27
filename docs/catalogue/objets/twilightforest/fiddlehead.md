@@ -1,7 +1,7 @@
 # Crosse de fougère
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/fiddlehead.png" alt="Crosse de fougère">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/fiddlehead.png" alt="Crosse de fougère">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Crosse de fougère</div>
 <div class="mc-tooltip-card__alias">Fiddlehead</div>

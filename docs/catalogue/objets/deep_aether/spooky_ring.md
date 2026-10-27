@@ -1,7 +1,7 @@
 # Spooky Ring
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/spooky_ring.png" alt="Spooky Ring">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/spooky_ring.png" alt="Spooky Ring">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Spooky Ring</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

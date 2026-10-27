@@ -1,7 +1,7 @@
 # Machoire du vide
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/void_jaw.png" alt="Machoire du vide">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/void_jaw.png" alt="Machoire du vide">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Machoire du vide</div>
 <div class="mc-tooltip-card__alias">Void Jaw</div>

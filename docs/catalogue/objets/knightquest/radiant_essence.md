@@ -1,7 +1,7 @@
 # Essence Radieuse
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/knightquest/radiant_essence.png" alt="Essence Radieuse">
+<img class="mc-item-icon" src="../../../../assets/generated/items/knightquest/radiant_essence.png" alt="Essence Radieuse">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Essence Radieuse</div>
 <div class="mc-tooltip-card__alias">Radiant essence</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:small_essence_to_radiant_essence</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Small Essence (knightlib:small_essence)">?</span><span class="jei-slot" title="Nether Star (minecraft:nether_star)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/knightquest/radiant_essence.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:small_essence_to_radiant_essence</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Small Essence (knightlib:small_essence)">?</span><span class="jei-slot" title="Nether Star (minecraft:nether_star)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/knightquest/radiant_essence.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
 
 ## Utilisé dans
 

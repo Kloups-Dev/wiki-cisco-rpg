@@ -1,7 +1,7 @@
 # Golden Moth in a Jar
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/golden_moth_in_a_jar.png" alt="Golden Moth in a Jar">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/golden_moth_in_a_jar.png" alt="Golden Moth in a Jar">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Golden Moth in a Jar</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

@@ -1,7 +1,7 @@
 # Roseroot Sapling
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/roseroot_sapling.png" alt="Roseroot Sapling">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/roseroot_sapling.png" alt="Roseroot Sapling">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Roseroot Sapling</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

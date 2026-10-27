@@ -1,7 +1,7 @@
 # Ceinture banale
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/mundane_belt.png" alt="Ceinture banale">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/mundane_belt.png" alt="Ceinture banale">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ceinture banale</div>
 <div class="mc-tooltip-card__alias">Mundane Belt</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>ars_nouveau:mundane_belt</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:leather">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/source">#</span><span class="jei-slot jei-slot--tag" title="#forge:leather">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:leather">#</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_nouveau/mundane_belt.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>ars_nouveau:mundane_belt</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:leather">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/source">#</span><span class="jei-slot jei-slot--tag" title="#forge:leather">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:leather">#</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_nouveau/mundane_belt.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
 
 ## Utilisé dans
 

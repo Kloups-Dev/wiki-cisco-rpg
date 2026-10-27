@@ -1,7 +1,7 @@
 # Blightmoss Holystone Brick Stairs
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/blightmoss_holystone_brick_stairs.png" alt="Blightmoss Holystone Brick Stairs">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/blightmoss_holystone_brick_stairs.png" alt="Blightmoss Holystone Brick Stairs">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Blightmoss Holystone Brick Stairs</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

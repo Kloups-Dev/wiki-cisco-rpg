@@ -1,7 +1,7 @@
 # Épines vertes
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/green_thorns.png" alt="Épines vertes">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/green_thorns.png" alt="Épines vertes">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épines vertes</div>
 <div class="mc-tooltip-card__alias">Green Thorns</div>

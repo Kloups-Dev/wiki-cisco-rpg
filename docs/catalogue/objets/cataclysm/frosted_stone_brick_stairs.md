@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>cataclysm:stonecutting/frosted_stone_brick_stairs_from_stonecutting</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/cataclysm/frosted_stone_bricks.md" title="Frosted Stone Bricks (cataclysm:frosted_stone_bricks)"><img src="../../../assets/generated/items/cataclysm/frosted_stone_bricks.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result">?</span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>cataclysm:stonecutting/frosted_stone_brick_stairs_from_stonecutting</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/cataclysm/frosted_stone_bricks/" title="Frosted Stone Bricks (cataclysm:frosted_stone_bricks)"><img src="../../../../assets/generated/items/cataclysm/frosted_stone_bricks.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result">?</span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
 
 ## Utilisé dans
 

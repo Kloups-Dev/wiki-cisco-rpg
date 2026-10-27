@@ -1,7 +1,7 @@
 # Skyroot Aerglow Fish Bucket
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/skyroot_aerglow_fish_bucket.png" alt="Skyroot Aerglow Fish Bucket">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/skyroot_aerglow_fish_bucket.png" alt="Skyroot Aerglow Fish Bucket">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Skyroot Aerglow Fish Bucket</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

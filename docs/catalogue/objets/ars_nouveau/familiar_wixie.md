@@ -1,7 +1,7 @@
 # Sorcifée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/familiar_wixie.png" alt="Sorcifée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/familiar_wixie.png" alt="Sorcifée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sorcifée</div>
 <div class="mc-tooltip-card__alias">Wixie</div>

@@ -1,7 +1,7 @@
 # Ancient Anima
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/bosses_of_mass_destruction/ancient_anima.png" alt="Ancient Anima">
+<img class="mc-item-icon" src="../../../../assets/generated/items/bosses_of_mass_destruction/ancient_anima.png" alt="Ancient Anima">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ancient Anima</div>
 <div class="mc-tooltip-card__mod">Bosses of Mass Destruction</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Table of Elevation](../../../catalogue/objets/bosses_of_mass_destruction/levitation_block.md) — <code>bosses_of_mass_destruction:levitation_block</code>
 - [Charged Ender Pearl](../../../catalogue/objets/bosses_of_mass_destruction/charged_ender_pearl.md) — <code>bosses_of_mass_destruction:charged_ender_pearl</code>
+- [Table of Elevation](../../../catalogue/objets/bosses_of_mass_destruction/levitation_block.md) — <code>bosses_of_mass_destruction:levitation_block</code>
 - [Staff of Suppression](../../../catalogue/objets/bosses_of_mass_destruction/mob_ward.md) — <code>bosses_of_mass_destruction:mob_ward</code>
 
 ## Effets et caractéristiques

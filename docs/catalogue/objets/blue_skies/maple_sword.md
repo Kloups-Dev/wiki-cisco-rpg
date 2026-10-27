@@ -1,7 +1,7 @@
 # Épée en bois d'érable
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/maple_sword.png" alt="Épée en bois d&#x27;érable">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/maple_sword.png" alt="Épée en bois d&#x27;érable">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épée en bois d&#x27;érable</div>
 <div class="mc-tooltip-card__alias">Maple Wood Sword</div>

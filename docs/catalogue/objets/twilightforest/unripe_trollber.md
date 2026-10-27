@@ -1,7 +1,7 @@
 # Trollber verte
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/unripe_trollber.png" alt="Trollber verte">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/unripe_trollber.png" alt="Trollber verte">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Trollber verte</div>
 <div class="mc-tooltip-card__alias">Unripe Trollber</div>

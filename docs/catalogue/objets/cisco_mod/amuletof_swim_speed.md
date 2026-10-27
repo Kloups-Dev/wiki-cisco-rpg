@@ -1,7 +1,7 @@
 # Amulet of Swim Speed
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/amuletof_swim_speed.png" alt="Amulet of Swim Speed">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cisco_mod/amuletof_swim_speed.png" alt="Amulet of Swim Speed">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Amulet of Swim Speed</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

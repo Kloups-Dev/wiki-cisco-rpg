@@ -1,7 +1,7 @@
 # Candelabra
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/candelabra.png" alt="Candelabra">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/candelabra.png" alt="Candelabra">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Candelabra</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

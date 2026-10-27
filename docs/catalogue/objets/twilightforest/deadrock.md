@@ -1,7 +1,7 @@
 # Deadrock
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/deadrock.png" alt="Deadrock">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/deadrock.png" alt="Deadrock">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Deadrock</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

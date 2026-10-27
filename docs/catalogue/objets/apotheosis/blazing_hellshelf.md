@@ -1,7 +1,7 @@
 # Blazing Hellshelf
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/blazing_hellshelf.png" alt="Blazing Hellshelf">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/blazing_hellshelf.png" alt="Blazing Hellshelf">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Blazing Hellshelf</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

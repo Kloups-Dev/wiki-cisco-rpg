@@ -1,7 +1,7 @@
 # Cadran lunaire
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/moon_dial.png" alt="Cadran lunaire">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/moon_dial.png" alt="Cadran lunaire">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cadran lunaire</div>
 <div class="mc-tooltip-card__alias">Moon Dial</div>

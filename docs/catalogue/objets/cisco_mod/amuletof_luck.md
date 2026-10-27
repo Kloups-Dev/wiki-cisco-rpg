@@ -1,7 +1,7 @@
 # Amulet of Luck
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/amuletof_luck.png" alt="Amulet of Luck">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cisco_mod/amuletof_luck.png" alt="Amulet of Luck">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Amulet of Luck</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

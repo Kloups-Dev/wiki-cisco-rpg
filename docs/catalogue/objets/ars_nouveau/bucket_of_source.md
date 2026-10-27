@@ -1,7 +1,7 @@
 # Compartiment source
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/bucket_of_source.png" alt="Compartiment source">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/bucket_of_source.png" alt="Compartiment source">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Compartiment source</div>
 <div class="mc-tooltip-card__alias">Source Bucket</div>

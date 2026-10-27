@@ -1,7 +1,7 @@
 # Pied de champignon gelé
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/snowcap_mushroom_stem.png" alt="Pied de champignon gelé">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/snowcap_mushroom_stem.png" alt="Pied de champignon gelé">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pied de champignon gelé</div>
 <div class="mc-tooltip-card__alias">Snowcap Mushroom Stem</div>

@@ -1,7 +1,7 @@
 # Champigel
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/snowcap_mushroom.png" alt="Champigel">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/snowcap_mushroom.png" alt="Champigel">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Champigel</div>
 <div class="mc-tooltip-card__alias">Snowcap Mushroom</div>

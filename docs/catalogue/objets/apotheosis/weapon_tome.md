@@ -1,7 +1,7 @@
 # Tome of Weaponry
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/weapon_tome.png" alt="Tome of Weaponry">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/weapon_tome.png" alt="Tome of Weaponry">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tome of Weaponry</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

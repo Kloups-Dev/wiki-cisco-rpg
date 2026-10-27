@@ -1,7 +1,7 @@
 # Wet Purifying Soap
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/wet_purifying_soap.png" alt="Wet Purifying Soap">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/wet_purifying_soap.png" alt="Wet Purifying Soap">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Wet Purifying Soap</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

@@ -1,7 +1,7 @@
 # Yagroot Vines
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/yagroot_vine.png" alt="Yagroot Vines">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/yagroot_vine.png" alt="Yagroot Vines">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Yagroot Vines</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

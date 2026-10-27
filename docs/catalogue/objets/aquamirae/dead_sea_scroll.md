@@ -1,7 +1,7 @@
 # Scroll of the Dead Sea
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/dead_sea_scroll.png" alt="Scroll of the Dead Sea">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/dead_sea_scroll.png" alt="Scroll of the Dead Sea">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Scroll of the Dead Sea</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

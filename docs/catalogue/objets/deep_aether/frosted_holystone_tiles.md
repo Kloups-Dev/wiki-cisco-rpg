@@ -1,7 +1,7 @@
 # Frosted Holystone Tiles
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/frosted_holystone_tiles.png" alt="Frosted Holystone Tiles">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/frosted_holystone_tiles.png" alt="Frosted Holystone Tiles">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Frosted Holystone Tiles</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

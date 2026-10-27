@@ -1,7 +1,7 @@
 # Elytra Booster
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/elytra_booster.png" alt="Elytra Booster">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/elytra_booster.png" alt="Elytra Booster">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Elytra Booster</div>
 <div class="mc-tooltip-card__mod">Relics</div>

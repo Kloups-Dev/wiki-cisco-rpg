@@ -1,7 +1,7 @@
 # Terre turquoise
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/turquoise_dirt.png" alt="Terre turquoise">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/turquoise_dirt.png" alt="Terre turquoise">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Terre turquoise</div>
 <div class="mc-tooltip-card__alias">Turquoise Dirt</div>

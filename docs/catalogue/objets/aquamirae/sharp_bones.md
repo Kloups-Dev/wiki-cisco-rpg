@@ -1,7 +1,7 @@
 # Sharp Bones
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/sharp_bones.png" alt="Sharp Bones">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/sharp_bones.png" alt="Sharp Bones">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sharp Bones</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Remnant's Saber](../../../catalogue/objets/aquamirae/remnants_saber.md) — <code>aquamirae:remnants_saber</code>
 - **Bone Meal** — <code>minecraft:bone_meal</code>
+- [Remnant's Saber](../../../catalogue/objets/aquamirae/remnants_saber.md) — <code>aquamirae:remnants_saber</code>
 
 ## Effets et caractéristiques
 

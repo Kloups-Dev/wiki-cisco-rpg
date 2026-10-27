@@ -1,7 +1,7 @@
 # Anneau de rabais supérieur
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/ring_of_greater_discount.png" alt="Anneau de rabais supérieur">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/ring_of_greater_discount.png" alt="Anneau de rabais supérieur">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Anneau de rabais supérieur</div>
 <div class="mc-tooltip-card__alias">Ring of Greater Discount</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting Apparatus</strong><span>ars_nouveau:ring_of_greater_discount</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_nouveau/ring_of_greater_discount.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting Apparatus</strong><span>ars_nouveau:ring_of_greater_discount</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_nouveau/ring_of_greater_discount.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
 
 ## Utilisé dans
 

@@ -1,7 +1,7 @@
 # Artéfact de la nature
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/nature_arc.png" alt="Artéfact de la nature">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/nature_arc.png" alt="Artéfact de la nature">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Artéfact de la nature</div>
 <div class="mc-tooltip-card__alias">Nature Arc</div>

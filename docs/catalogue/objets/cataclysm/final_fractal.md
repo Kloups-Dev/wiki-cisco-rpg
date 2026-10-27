@@ -1,7 +1,7 @@
 # Fractale Finale
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/final_fractal.png" alt="Fractale Finale">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/final_fractal.png" alt="Fractale Finale">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fractale Finale</div>
 <div class="mc-tooltip-card__alias">Final Fractal</div>

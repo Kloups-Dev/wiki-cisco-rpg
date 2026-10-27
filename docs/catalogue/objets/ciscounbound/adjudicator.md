@@ -1,7 +1,7 @@
 # Adjudicator
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/adjudicator.png" alt="Adjudicator">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/adjudicator.png" alt="Adjudicator">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Adjudicator</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

@@ -1,7 +1,7 @@
 # Faveur de la fortune
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/meetyourfight/fortunes_favor.png" alt="Faveur de la fortune">
+<img class="mc-item-icon" src="../../../../assets/generated/items/meetyourfight/fortunes_favor.png" alt="Faveur de la fortune">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Faveur de la fortune</div>
 <div class="mc-tooltip-card__alias">Fortune&#x27;s Favor</div>
@@ -22,8 +22,8 @@
 
 - [As de fer](../../../catalogue/objets/meetyourfight/ace_of_iron.md) — <code>meetyourfight:ace_of_iron</code>
 - [Sabre à cocktail](../../../catalogue/objets/meetyourfight/cocktail_cutlass.md) — <code>meetyourfight:cocktail_cutlass</code>
-- [Dé du découpeur](../../../catalogue/objets/meetyourfight/slicers_dice.md) — <code>meetyourfight:slicers_dice</code>
 - [Jägershot](../../../catalogue/objets/meetyourfight/cocktail_shotgun.md) — <code>meetyourfight:cocktail_shotgun</code>
+- [Dé du découpeur](../../../catalogue/objets/meetyourfight/slicers_dice.md) — <code>meetyourfight:slicers_dice</code>
 - [Fortune de velours](../../../catalogue/objets/meetyourfight/velvet_fortune.md) — <code>meetyourfight:velvet_fortune</code>
 
 ## Effets et caractéristiques

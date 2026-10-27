@@ -1,7 +1,7 @@
 # Koboleton Bone
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/koboleton_bone.png" alt="Koboleton Bone">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/koboleton_bone.png" alt="Koboleton Bone">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Koboleton Bone</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>
@@ -19,9 +19,9 @@
 
 ## Utilisé dans
 
-- [Bone Reptile Helmet](../../../catalogue/objets/cataclysm/bone_reptile_helmet.md) — <code>cataclysm:bone_reptile_helmet</code>
 - **Bone Meal** — <code>minecraft:bone_meal</code>
 - [Bone Reptile Chestplate](../../../catalogue/objets/cataclysm/bone_reptile_chestplate.md) — <code>cataclysm:bone_reptile_chestplate</code>
+- [Bone Reptile Helmet](../../../catalogue/objets/cataclysm/bone_reptile_helmet.md) — <code>cataclysm:bone_reptile_helmet</code>
 
 ## Effets et caractéristiques
 

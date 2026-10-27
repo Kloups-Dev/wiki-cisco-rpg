@@ -1,7 +1,7 @@
 # Music Disc
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/music_disc_horizon.png" alt="Music Disc">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/music_disc_horizon.png" alt="Music Disc">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Music Disc</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

@@ -1,7 +1,7 @@
 # Pierre aquatique lumineuse
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/glowing_aquatic_stone.png" alt="Pierre aquatique lumineuse">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/glowing_aquatic_stone.png" alt="Pierre aquatique lumineuse">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre aquatique lumineuse</div>
 <div class="mc-tooltip-card__alias">Glowing Aquatic Stone</div>

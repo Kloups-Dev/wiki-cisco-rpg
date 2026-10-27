@@ -1,7 +1,7 @@
 # Blaze Instruction Manual
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/blaze_spell_book.png" alt="Blaze Instruction Manual">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/blaze_spell_book.png" alt="Blaze Instruction Manual">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Blaze Instruction Manual</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

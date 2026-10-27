@@ -1,7 +1,7 @@
 # Autel de feu
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/altar_of_fire.png" alt="Autel de feu">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/altar_of_fire.png" alt="Autel de feu">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Autel de feu</div>
 <div class="mc-tooltip-card__alias">Altar of Fire</div>

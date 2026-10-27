@@ -1,7 +1,7 @@
 # Plante de torche des baies
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/torchberry_plant.png" alt="Plante de torche des baies">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/torchberry_plant.png" alt="Plante de torche des baies">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Plante de torche des baies</div>
 <div class="mc-tooltip-card__alias">Torchberry Plant</div>

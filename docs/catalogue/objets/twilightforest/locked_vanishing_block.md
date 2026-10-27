@@ -1,7 +1,7 @@
 # Bloc de disparition verrouillé
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/locked_vanishing_block.png" alt="Bloc de disparition verrouillé">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/locked_vanishing_block.png" alt="Bloc de disparition verrouillé">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bloc de disparition verrouillé</div>
 <div class="mc-tooltip-card__alias">Locked Vanishing Block</div>

@@ -1,7 +1,7 @@
 # Pioche en bois de cerisier
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/cherry_pickaxe.png" alt="Pioche en bois de cerisier">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/cherry_pickaxe.png" alt="Pioche en bois de cerisier">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pioche en bois de cerisier</div>
 <div class="mc-tooltip-card__alias">Cherry Wood Pickaxe</div>

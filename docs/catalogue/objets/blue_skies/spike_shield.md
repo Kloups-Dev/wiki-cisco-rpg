@@ -1,7 +1,7 @@
 # Bouclier spéléothème
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/spike_shield.png" alt="Bouclier spéléothème">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/spike_shield.png" alt="Bouclier spéléothème">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bouclier spéléothème</div>
 <div class="mc-tooltip-card__alias">Spike Shield</div>

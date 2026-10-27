@@ -1,7 +1,7 @@
 # Temporal Core
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/temporal_core.png" alt="Temporal Core">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cisco_mod/temporal_core.png" alt="Temporal Core">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Temporal Core</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>
@@ -20,9 +20,9 @@
 ## Utilisé dans
 
 - [Sovereign Ascendant Boots](../../../catalogue/objets/cisco_mod/sovereign_ascendant_boots.md) — <code>cisco_mod:sovereign_ascendant_boots</code>
-- [Sovereign Ascendant Leggings](../../../catalogue/objets/cisco_mod/sovereign_ascendant_leggings.md) — <code>cisco_mod:sovereign_ascendant_leggings</code>
 - [Sovereign Ascendant Chestplate](../../../catalogue/objets/cisco_mod/sovereign_ascendant_chestplate.md) — <code>cisco_mod:sovereign_ascendant_chestplate</code>
 - [Sovereign Ascendant Helmet](../../../catalogue/objets/cisco_mod/sovereign_ascendant_helmet.md) — <code>cisco_mod:sovereign_ascendant_helmet</code>
+- [Sovereign Ascendant Leggings](../../../catalogue/objets/cisco_mod/sovereign_ascendant_leggings.md) — <code>cisco_mod:sovereign_ascendant_leggings</code>
 
 ## Effets et caractéristiques
 

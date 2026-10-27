@@ -1,7 +1,7 @@
 # Twisted Blade
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/twisted_blade.png" alt="Twisted Blade">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/twisted_blade.png" alt="Twisted Blade">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Twisted Blade</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

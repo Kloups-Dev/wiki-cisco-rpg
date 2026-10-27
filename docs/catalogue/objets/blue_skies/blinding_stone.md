@@ -1,7 +1,7 @@
 # Pierre aveuglante
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/blinding_stone.png" alt="Pierre aveuglante">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/blinding_stone.png" alt="Pierre aveuglante">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre aveuglante</div>
 <div class="mc-tooltip-card__alias">Blinding Stone</div>
@@ -21,11 +21,11 @@
 ## Utilisé dans
 
 - [Dalle de pierre aveuglante](../../../catalogue/objets/blue_skies/blinding_slab.md) — <code>blue_skies:blinding_slab</code>
-- [Pierre aveuglante lumineuse](../../../catalogue/objets/blue_skies/glowing_blinding_stone.md) — <code>blue_skies:glowing_blinding_stone</code>
-- [Pilier de pierre aveuglante](../../../catalogue/objets/blue_skies/blinding_stone_pillar.md) — <code>blue_skies:blinding_stone_pillar</code>
-- [Pierre aveuglante sculptée](../../../catalogue/objets/blue_skies/carved_blinding_stone.md) — <code>blue_skies:carved_blinding_stone</code>
 - [Escalier de pierre aveuglante](../../../catalogue/objets/blue_skies/blinding_stairs.md) — <code>blue_skies:blinding_stairs</code>
+- [Pilier de pierre aveuglante](../../../catalogue/objets/blue_skies/blinding_stone_pillar.md) — <code>blue_skies:blinding_stone_pillar</code>
 - [Muret de pierre aveuglante](../../../catalogue/objets/blue_skies/blinding_wall.md) — <code>blue_skies:blinding_wall</code>
+- [Pierre aveuglante sculptée](../../../catalogue/objets/blue_skies/carved_blinding_stone.md) — <code>blue_skies:carved_blinding_stone</code>
+- [Pierre aveuglante lumineuse](../../../catalogue/objets/blue_skies/glowing_blinding_stone.md) — <code>blue_skies:glowing_blinding_stone</code>
 
 ## Effets et caractéristiques
 

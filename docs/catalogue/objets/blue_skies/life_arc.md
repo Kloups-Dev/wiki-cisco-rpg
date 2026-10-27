@@ -1,7 +1,7 @@
 # Artéfact de la vie
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/life_arc.png" alt="Artéfact de la vie">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/life_arc.png" alt="Artéfact de la vie">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Artéfact de la vie</div>
 <div class="mc-tooltip-card__alias">Life Arc</div>

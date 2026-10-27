@@ -1,7 +1,7 @@
 # Gibier cru
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/venison.png" alt="Gibier cru">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/venison.png" alt="Gibier cru">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Gibier cru</div>
 <div class="mc-tooltip-card__alias">Raw Venison</div>

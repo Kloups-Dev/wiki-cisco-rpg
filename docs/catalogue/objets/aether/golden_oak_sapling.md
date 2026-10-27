@@ -1,7 +1,7 @@
 # Golden Oak Sapling
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/golden_oak_sapling.png" alt="Golden Oak Sapling">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/golden_oak_sapling.png" alt="Golden Oak Sapling">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Golden Oak Sapling</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

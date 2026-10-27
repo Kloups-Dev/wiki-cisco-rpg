@@ -1,7 +1,7 @@
 # Ice Breaker
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/ice_breaker.png" alt="Ice Breaker">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/ice_breaker.png" alt="Ice Breaker">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ice Breaker</div>
 <div class="mc-tooltip-card__mod">Relics</div>

@@ -1,7 +1,7 @@
 # Fragment of the Earth
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticaddons/earth_heart_fragment.png" alt="Fragment of the Earth">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticaddons/earth_heart_fragment.png" alt="Fragment of the Earth">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fragment of the Earth</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Unwitnessed Amulet](../../../catalogue/objets/enigmaticlegacy/unwitnessed_amulet.md) — <code>enigmaticlegacy:unwitnessed_amulet</code>
 - [Heart of the Earth](../../../catalogue/objets/enigmaticlegacy/earth_heart.md) — <code>enigmaticlegacy:earth_heart</code>
+- [Unwitnessed Amulet](../../../catalogue/objets/enigmaticlegacy/unwitnessed_amulet.md) — <code>enigmaticlegacy:unwitnessed_amulet</code>
 
 ## Effets et caractéristiques
 

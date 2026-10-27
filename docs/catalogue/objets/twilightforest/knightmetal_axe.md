@@ -1,7 +1,7 @@
 # Hache chevaleresque
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/knightmetal_axe.png" alt="Hache chevaleresque">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/knightmetal_axe.png" alt="Hache chevaleresque">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hache chevaleresque</div>
 <div class="mc-tooltip-card__alias">Knightmetal Axe</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>twilightforest:equipment/knightmetal_axe</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:ingots/knightmetal">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/knightmetal">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:ingots/knightmetal">#</span><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/knightmetal_axe.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>twilightforest:equipment/knightmetal_axe</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:ingots/knightmetal">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/knightmetal">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:ingots/knightmetal">#</span><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/knightmetal_axe.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

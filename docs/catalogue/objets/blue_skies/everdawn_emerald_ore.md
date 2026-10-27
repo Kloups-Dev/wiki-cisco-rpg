@@ -1,7 +1,7 @@
 # Minerai d'émeraude
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/everdawn_emerald_ore.png" alt="Minerai d&#x27;émeraude">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/everdawn_emerald_ore.png" alt="Minerai d&#x27;émeraude">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Minerai d&#x27;émeraude</div>
 <div class="mc-tooltip-card__alias">Emerald Ore</div>

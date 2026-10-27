@@ -1,7 +1,7 @@
 # Parchemin de clairvoyant
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/scryer_scroll.png" alt="Parchemin de clairvoyant">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/scryer_scroll.png" alt="Parchemin de clairvoyant">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Parchemin de clairvoyant</div>
 <div class="mc-tooltip-card__alias">Scryer&#x27;s Scroll</div>

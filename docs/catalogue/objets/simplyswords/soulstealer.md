@@ -1,7 +1,7 @@
 # Soulstealer
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/soulstealer.png" alt="Soulstealer">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/soulstealer.png" alt="Soulstealer">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Soulstealer</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

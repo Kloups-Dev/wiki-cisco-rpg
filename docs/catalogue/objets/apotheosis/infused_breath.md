@@ -1,7 +1,7 @@
 # Infused Dragon's Breath
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/infused_breath.png" alt="Infused Dragon&#x27;s Breath">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/infused_breath.png" alt="Infused Dragon&#x27;s Breath">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Infused Dragon&#x27;s Breath</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting</strong><span>apotheosis:enchanting/infused_breath</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot" title="Dragon Breath (minecraft:dragon_breath)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/apotheosis/infused_breath.png" alt=""><span class="jei-count">3</span></span></div><div class="jei-recipe__source">Source exacte : Apotheosis-1.19.2-6.5.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting</strong><span>apotheosis:enchanting/infused_breath</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot" title="Dragon Breath (minecraft:dragon_breath)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/apotheosis/infused_breath.png" alt=""><span class="jei-count">3</span></span></div><div class="jei-recipe__source">Source exacte : Apotheosis-1.19.2-6.5.2.jar</div></div>
 
 ## Utilisé dans
 

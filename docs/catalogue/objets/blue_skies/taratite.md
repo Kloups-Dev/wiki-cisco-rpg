@@ -1,7 +1,7 @@
 # Taratite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/taratite.png" alt="Taratite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/taratite.png" alt="Taratite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Taratite</div>
 <div class="mc-tooltip-card__mod">Blue Skies</div>
@@ -19,9 +19,9 @@
 
 ## Utilisé dans
 
-- [Escalier de taratite](../../../catalogue/objets/blue_skies/taratite_stairs.md) — <code>blue_skies:taratite_stairs</code>
-- [Dalle de taratite](../../../catalogue/objets/blue_skies/taratite_slab.md) — <code>blue_skies:taratite_slab</code>
 - [Taratite polie](../../../catalogue/objets/blue_skies/polished_taratite.md) — <code>blue_skies:polished_taratite</code>
+- [Dalle de taratite](../../../catalogue/objets/blue_skies/taratite_slab.md) — <code>blue_skies:taratite_slab</code>
+- [Escalier de taratite](../../../catalogue/objets/blue_skies/taratite_stairs.md) — <code>blue_skies:taratite_stairs</code>
 - [Muret de taratite](../../../catalogue/objets/blue_skies/taratite_wall.md) — <code>blue_skies:taratite_wall</code>
 
 ## Effets et caractéristiques

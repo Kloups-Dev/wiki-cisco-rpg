@@ -1,7 +1,7 @@
 # Potion of Redemption
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/redemption_potion.png" alt="Potion of Redemption">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/redemption_potion.png" alt="Potion of Redemption">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Potion of Redemption</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

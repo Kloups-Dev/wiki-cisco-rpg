@@ -1,7 +1,7 @@
 # Arcane Crystal Obelisk
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/arcane_crystal_obelisk.png" alt="Arcane Crystal Obelisk">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/arcane_crystal_obelisk.png" alt="Arcane Crystal Obelisk">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Arcane Crystal Obelisk</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

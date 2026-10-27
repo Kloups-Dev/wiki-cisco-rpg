@@ -1,7 +1,7 @@
 # Gambison de mage de guerre
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/archmage_robes.png" alt="Gambison de mage de guerre">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/archmage_robes.png" alt="Gambison de mage de guerre">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Gambison de mage de guerre</div>
 <div class="mc-tooltip-card__alias">Battlemage&#x27;s Gambeson</div>
@@ -15,8 +15,8 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Dye</strong><span>ars_nouveau:dye_archmage_robes</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot jei-slot--tag" title="#forge:dyes">#</span><a class="jei-slot" href="../../../catalogue/objets/ars_nouveau/archmage_robes.md" title="Gambison de mage de guerre (ars_nouveau:archmage_robes)"><img src="../../../assets/generated/items/ars_nouveau/archmage_robes.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_nouveau/archmage_robes.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting Apparatus</strong><span>ars_nouveau:archmage_robes</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_nouveau/archmage_robes.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting Apparatus</strong><span>ars_nouveau:archmage_robes</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_nouveau/archmage_robes.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Dye</strong><span>ars_nouveau:dye_archmage_robes</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot jei-slot--tag" title="#forge:dyes">#</span><a class="jei-slot" href="../../../../catalogue/objets/ars_nouveau/archmage_robes/" title="Gambison de mage de guerre (ars_nouveau:archmage_robes)"><img src="../../../../assets/generated/items/ars_nouveau/archmage_robes.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_nouveau/archmage_robes.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
 
 ## Utilisé dans
 

@@ -1,7 +1,7 @@
 # Stripped Flashing Archwood Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_elemental/stripped_yellow_archwood_log.png" alt="Stripped Flashing Archwood Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_elemental/stripped_yellow_archwood_log.png" alt="Stripped Flashing Archwood Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Flashing Archwood Log</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

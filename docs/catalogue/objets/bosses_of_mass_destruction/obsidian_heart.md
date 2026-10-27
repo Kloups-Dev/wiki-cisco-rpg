@@ -1,7 +1,7 @@
 # Obsidian Heart
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/bosses_of_mass_destruction/obsidian_heart.png" alt="Obsidian Heart">
+<img class="mc-item-icon" src="../../../../assets/generated/items/bosses_of_mass_destruction/obsidian_heart.png" alt="Obsidian Heart">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Obsidian Heart</div>
 <div class="mc-tooltip-card__mod">Bosses of Mass Destruction</div>

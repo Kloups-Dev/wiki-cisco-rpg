@@ -1,7 +1,7 @@
 # Mazebreaker
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/mazebreaker_pickaxe.png" alt="Mazebreaker">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/mazebreaker_pickaxe.png" alt="Mazebreaker">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mazebreaker</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

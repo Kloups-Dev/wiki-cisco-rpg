@@ -1,7 +1,7 @@
 # Cruderoot Sapling
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/cruderoot_sapling.png" alt="Cruderoot Sapling">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/cruderoot_sapling.png" alt="Cruderoot Sapling">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cruderoot Sapling</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

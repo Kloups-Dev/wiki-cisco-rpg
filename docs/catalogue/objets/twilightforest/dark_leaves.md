@@ -1,7 +1,7 @@
 # Feuilles de Deadrock
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/dark_leaves.png" alt="Feuilles de Deadrock">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/dark_leaves.png" alt="Feuilles de Deadrock">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles de Deadrock</div>
 <div class="mc-tooltip-card__alias">Darkwood Leaves</div>

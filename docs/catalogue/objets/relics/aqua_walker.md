@@ -1,7 +1,7 @@
 # Aqua Walker
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/aqua_walker.png" alt="Aqua Walker">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/aqua_walker.png" alt="Aqua Walker">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aqua Walker</div>
 <div class="mc-tooltip-card__mod">Relics</div>

@@ -1,7 +1,7 @@
 # Flashing Archwood Sapling
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_elemental/yellow_archwood_sapling.png" alt="Flashing Archwood Sapling">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_elemental/yellow_archwood_sapling.png" alt="Flashing Archwood Sapling">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Flashing Archwood Sapling</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

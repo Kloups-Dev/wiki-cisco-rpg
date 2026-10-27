@@ -1,7 +1,7 @@
 # Pioche en étoilibois
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/starlit_pickaxe.png" alt="Pioche en étoilibois">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/starlit_pickaxe.png" alt="Pioche en étoilibois">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pioche en étoilibois</div>
 <div class="mc-tooltip-card__alias">Starlit Wood Pickaxe</div>

@@ -1,7 +1,7 @@
 # Deadrock altérée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/weathered_deadrock.png" alt="Deadrock altérée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/weathered_deadrock.png" alt="Deadrock altérée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Deadrock altérée</div>
 <div class="mc-tooltip-card__alias">Weathered Deadrock</div>

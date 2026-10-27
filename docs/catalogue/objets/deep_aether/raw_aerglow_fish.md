@@ -1,7 +1,7 @@
 # Raw Aerglow Fish
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/raw_aerglow_fish.png" alt="Raw Aerglow Fish">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/raw_aerglow_fish.png" alt="Raw Aerglow Fish">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Raw Aerglow Fish</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

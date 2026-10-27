@@ -1,7 +1,7 @@
 # Talisman de la Terre
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/earth_talisman.png" alt="Talisman de la Terre">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/earth_talisman.png" alt="Talisman de la Terre">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Talisman de la Terre</div>
 <div class="mc-tooltip-card__alias">Earth Talisman</div>

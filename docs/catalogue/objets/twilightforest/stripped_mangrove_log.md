@@ -1,7 +1,7 @@
 # Stripped Mangrove Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/stripped_mangrove_log.png" alt="Stripped Mangrove Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/stripped_mangrove_log.png" alt="Stripped Mangrove Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Mangrove Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

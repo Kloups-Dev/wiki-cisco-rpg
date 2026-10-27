@@ -1,7 +1,7 @@
 # Sourcestone Slab
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/sourcestone_slab.png" alt="Sourcestone Slab">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/sourcestone_slab.png" alt="Sourcestone Slab">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sourcestone Slab</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

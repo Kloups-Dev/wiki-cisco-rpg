@@ -1,7 +1,7 @@
 # Hogskin
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/hogskin.png" alt="Hogskin">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/hogskin.png" alt="Hogskin">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hogskin</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>
@@ -19,10 +19,10 @@
 
 ## Utilisé dans
 
-- [Apprentice's Spell Book](../../../catalogue/objets/irons_spellbooks/gold_spell_book.md) — <code>irons_spellbooks:gold_spell_book</code>
-- [Lesser Spell Slot Improvement](../../../catalogue/objets/irons_spellbooks/lesser_spell_slot_upgrade.md) — <code>irons_spellbooks:lesser_spell_slot_upgrade</code>
 - [Enchanted Spell Book](../../../catalogue/objets/irons_spellbooks/diamond_spell_book.md) — <code>irons_spellbooks:diamond_spell_book</code>
+- [Apprentice's Spell Book](../../../catalogue/objets/irons_spellbooks/gold_spell_book.md) — <code>irons_spellbooks:gold_spell_book</code>
 - **Leather** — <code>minecraft:leather</code>
+- [Lesser Spell Slot Improvement](../../../catalogue/objets/irons_spellbooks/lesser_spell_slot_upgrade.md) — <code>irons_spellbooks:lesser_spell_slot_upgrade</code>
 
 ## Effets et caractéristiques
 

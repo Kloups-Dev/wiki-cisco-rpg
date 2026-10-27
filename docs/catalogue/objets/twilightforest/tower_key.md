@@ -1,7 +1,7 @@
 # Clé de la tour
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/tower_key.png" alt="Clé de la tour">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/tower_key.png" alt="Clé de la tour">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Clé de la tour</div>
 <div class="mc-tooltip-card__alias">Tower Key</div>

@@ -1,7 +1,7 @@
 # Fell King Leggings
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/fell_king_armor_leggings.png" alt="Fell King Leggings">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/fell_king_armor_leggings.png" alt="Fell King Leggings">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fell King Leggings</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

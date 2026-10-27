@@ -1,7 +1,7 @@
 # Pierre naturelle sculptée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/carved_nature_stonebrick.png" alt="Pierre naturelle sculptée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/carved_nature_stonebrick.png" alt="Pierre naturelle sculptée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre naturelle sculptée</div>
 <div class="mc-tooltip-card__alias">Carved Nature Stone Bricks</div>
@@ -15,8 +15,8 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>blue_skies:carved_nature_stonebrick_stonecutting_nature_stone</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/blue_skies/nature_stone.md" title="Pierre naturelle (blue_skies:nature_stone)"><img src="../../../assets/generated/items/blue_skies/nature_stone.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/blue_skies/carved_nature_stonebrick.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>blue_skies:carved_nature_stonebrick_stonecutting_nature_stonebrick</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/blue_skies/nature_stonebrick.md" title="Pierre naturelle taillée (blue_skies:nature_stonebrick)">?</a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/blue_skies/carved_nature_stonebrick.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>blue_skies:carved_nature_stonebrick_stonecutting_nature_stone</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/blue_skies/nature_stone/" title="Pierre naturelle (blue_skies:nature_stone)"><img src="../../../../assets/generated/items/blue_skies/nature_stone.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/blue_skies/carved_nature_stonebrick.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>blue_skies:carved_nature_stonebrick_stonecutting_nature_stonebrick</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/blue_skies/nature_stonebrick/" title="Pierre naturelle taillée (blue_skies:nature_stonebrick)">?</a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/blue_skies/carved_nature_stonebrick.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
 
 ## Utilisé dans
 

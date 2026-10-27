@@ -1,7 +1,7 @@
 # Racines
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/root.png" alt="Racines">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/root.png" alt="Racines">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Racines</div>
 <div class="mc-tooltip-card__alias">Roots</div>

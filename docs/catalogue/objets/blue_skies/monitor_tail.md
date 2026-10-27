@@ -1,7 +1,7 @@
 # Viande de cristodile crue
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/monitor_tail.png" alt="Viande de cristodile crue">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/monitor_tail.png" alt="Viande de cristodile crue">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Viande de cristodile crue</div>
 <div class="mc-tooltip-card__alias">Monitor Tail</div>

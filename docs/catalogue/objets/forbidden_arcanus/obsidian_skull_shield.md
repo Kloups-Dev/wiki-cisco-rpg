@@ -1,7 +1,7 @@
 # Obsidian Skull Shield
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/obsidian_skull_shield.png" alt="Obsidian Skull Shield">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/obsidian_skull_shield.png" alt="Obsidian Skull Shield">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Obsidian Skull Shield</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>forbidden_arcanus:smithing/obsidian_skull_shield</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot" title="Shield (minecraft:shield)">?</span><a class="jei-slot" href="../../../catalogue/objets/forbidden_arcanus/obsidian_skull.md" title="Obsidian Skull (forbidden_arcanus:obsidian_skull)"><img src="../../../assets/generated/items/forbidden_arcanus/obsidian_skull.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/forbidden_arcanus/obsidian_skull_shield.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>forbidden_arcanus:smithing/obsidian_skull_shield</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot" title="Shield (minecraft:shield)">?</span><a class="jei-slot" href="../../../../catalogue/objets/forbidden_arcanus/obsidian_skull/" title="Obsidian Skull (forbidden_arcanus:obsidian_skull)"><img src="../../../../assets/generated/items/forbidden_arcanus/obsidian_skull.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/forbidden_arcanus/obsidian_skull_shield.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
 
 ## Utilisé dans
 

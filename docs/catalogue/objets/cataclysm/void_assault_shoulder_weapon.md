@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Weapon Fusion</strong><span>cataclysm:weapon_infusion/void_assault_shoulder_weapon</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/cataclysm/wither_assault_shoulder_weapon.md" title="Wither Assault Shoulder Weapon (cataclysm:wither_assault_shoulder_weapon)">?</a><a class="jei-slot" href="../../../catalogue/objets/cataclysm/void_core.md" title="Noyau du Vide (cataclysm:void_core)"><img src="../../../assets/generated/items/cataclysm/void_core.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result">?</span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Weapon Fusion</strong><span>cataclysm:weapon_infusion/void_assault_shoulder_weapon</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/cataclysm/wither_assault_shoulder_weapon/" title="Wither Assault Shoulder Weapon (cataclysm:wither_assault_shoulder_weapon)">?</a><a class="jei-slot" href="../../../../catalogue/objets/cataclysm/void_core/" title="Noyau du Vide (cataclysm:void_core)"><img src="../../../../assets/generated/items/cataclysm/void_core.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result">?</span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
 
 ## Utilisé dans
 

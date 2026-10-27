@@ -1,7 +1,7 @@
 # Orb Of Temporary Flight
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/orb_of_temporary_flight.png" alt="Orb Of Temporary Flight">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/orb_of_temporary_flight.png" alt="Orb Of Temporary Flight">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Orb Of Temporary Flight</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

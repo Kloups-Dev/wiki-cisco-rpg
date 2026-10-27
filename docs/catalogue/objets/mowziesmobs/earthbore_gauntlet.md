@@ -1,7 +1,7 @@
 # Earthbore Gauntlet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/earthbore_gauntlet.png" alt="Earthbore Gauntlet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/earthbore_gauntlet.png" alt="Earthbore Gauntlet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Earthbore Gauntlet</div>
 <div class="mc-tooltip-card__mod">Mowzie&#x27;s Mobs</div>

@@ -1,7 +1,7 @@
 # Gland gelé
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/snowcap_pinhead.png" alt="Gland gelé">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/snowcap_pinhead.png" alt="Gland gelé">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Gland gelé</div>
 <div class="mc-tooltip-card__alias">Snowcap Pinhead</div>

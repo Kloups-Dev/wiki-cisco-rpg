@@ -1,7 +1,7 @@
 # Mask of Bliss
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/umvuthana_mask_bliss.png" alt="Mask of Bliss">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/umvuthana_mask_bliss.png" alt="Mask of Bliss">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mask of Bliss</div>
 <div class="mc-tooltip-card__mod">Mowzie&#x27;s Mobs</div>

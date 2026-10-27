@@ -1,7 +1,7 @@
 # Carte de labyrinthe vierge
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/maze_map.png" alt="Carte de labyrinthe vierge">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/maze_map.png" alt="Carte de labyrinthe vierge">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Carte de labyrinthe vierge</div>
 <div class="mc-tooltip-card__alias">Blank Maze Map</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>twilightforest:maze_map</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><a class="jei-slot" href="../../../catalogue/objets/twilightforest/maze_map_focus.md" title="Foyer de carte de labyrinthe (twilightforest:maze_map_focus)"><img src="../../../assets/generated/items/twilightforest/maze_map_focus.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/maze_map.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>twilightforest:maze_map</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/maze_map_focus/" title="Foyer de carte de labyrinthe (twilightforest:maze_map_focus)"><img src="../../../../assets/generated/items/twilightforest/maze_map_focus.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/maze_map.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

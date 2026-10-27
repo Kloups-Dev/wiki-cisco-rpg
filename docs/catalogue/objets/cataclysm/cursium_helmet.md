@@ -1,7 +1,7 @@
 # Cursium Helmet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/cursium_helmet.png" alt="Cursium Helmet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/cursium_helmet.png" alt="Cursium Helmet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cursium Helmet</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>cataclysm:smithing/cursium_helmet</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot" title="Netherite Helmet (minecraft:netherite_helmet)">?</span><a class="jei-slot" href="../../../catalogue/objets/cataclysm/cursium_ingot.md" title="Cursium Ingot (cataclysm:cursium_ingot)"><img src="../../../assets/generated/items/cataclysm/cursium_ingot.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/cataclysm/cursium_helmet.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>cataclysm:smithing/cursium_helmet</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot" title="Netherite Helmet (minecraft:netherite_helmet)">?</span><a class="jei-slot" href="../../../../catalogue/objets/cataclysm/cursium_ingot/" title="Cursium Ingot (cataclysm:cursium_ingot)"><img src="../../../../assets/generated/items/cataclysm/cursium_ingot.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/cataclysm/cursium_helmet.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
 
 ## Utilisé dans
 

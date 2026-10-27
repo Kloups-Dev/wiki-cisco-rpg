@@ -1,7 +1,7 @@
 # Black Steel Pickaxe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/black_steel_pickaxe.png" alt="Black Steel Pickaxe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/black_steel_pickaxe.png" alt="Black Steel Pickaxe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Black Steel Pickaxe</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>cataclysm:black_steel_pickaxe</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/cataclysm/black_steel_ingot.md" title="Black Steel Ingot (cataclysm:black_steel_ingot)"><img src="../../../assets/generated/items/cataclysm/black_steel_ingot.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/cataclysm/black_steel_ingot.md" title="Black Steel Ingot (cataclysm:black_steel_ingot)"><img src="../../../assets/generated/items/cataclysm/black_steel_ingot.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/cataclysm/black_steel_ingot.md" title="Black Steel Ingot (cataclysm:black_steel_ingot)"><img src="../../../assets/generated/items/cataclysm/black_steel_ingot.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Stick (minecraft:stick)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Stick (minecraft:stick)">?</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/cataclysm/black_steel_pickaxe.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>cataclysm:black_steel_pickaxe</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/cataclysm/black_steel_ingot/" title="Black Steel Ingot (cataclysm:black_steel_ingot)"><img src="../../../../assets/generated/items/cataclysm/black_steel_ingot.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../../catalogue/objets/cataclysm/black_steel_ingot/" title="Black Steel Ingot (cataclysm:black_steel_ingot)"><img src="../../../../assets/generated/items/cataclysm/black_steel_ingot.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../../catalogue/objets/cataclysm/black_steel_ingot/" title="Black Steel Ingot (cataclysm:black_steel_ingot)"><img src="../../../../assets/generated/items/cataclysm/black_steel_ingot.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Stick (minecraft:stick)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Stick (minecraft:stick)">?</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/cataclysm/black_steel_pickaxe.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
 
 ## Utilisé dans
 

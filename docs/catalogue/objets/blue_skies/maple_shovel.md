@@ -1,7 +1,7 @@
 # Pelle en bois d'érable
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/maple_shovel.png" alt="Pelle en bois d&#x27;érable">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/maple_shovel.png" alt="Pelle en bois d&#x27;érable">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pelle en bois d&#x27;érable</div>
 <div class="mc-tooltip-card__alias">Maple Wood Shovel</div>

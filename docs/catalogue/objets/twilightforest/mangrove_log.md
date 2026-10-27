@@ -1,7 +1,7 @@
 # Mangrove Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/mangrove_log.png" alt="Mangrove Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/mangrove_log.png" alt="Mangrove Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mangrove Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Planches de mangrove](../../../catalogue/objets/twilightforest/mangrove_planks.md) — <code>twilightforest:mangrove_planks</code>
 - [Hollow Mangrove Log](../../../catalogue/objets/twilightforest/hollow_mangrove_log_vertical.md) — <code>twilightforest:hollow_mangrove_log_vertical</code>
+- [Planches de mangrove](../../../catalogue/objets/twilightforest/mangrove_planks.md) — <code>twilightforest:mangrove_planks</code>
 - [Bois de mangrove](../../../catalogue/objets/twilightforest/mangrove_wood.md) — <code>twilightforest:mangrove_wood</code>
 
 ## Effets et caractéristiques

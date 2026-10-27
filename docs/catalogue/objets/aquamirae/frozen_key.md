@@ -1,7 +1,7 @@
 # Frozen Key
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/frozen_key.png" alt="Frozen Key">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/frozen_key.png" alt="Frozen Key">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Frozen Key</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

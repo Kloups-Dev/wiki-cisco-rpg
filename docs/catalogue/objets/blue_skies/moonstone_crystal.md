@@ -1,7 +1,7 @@
 # Cristal de pierre de lune
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/moonstone_crystal.png" alt="Cristal de pierre de lune">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/moonstone_crystal.png" alt="Cristal de pierre de lune">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cristal de pierre de lune</div>
 <div class="mc-tooltip-card__alias">Moonstone Crystal</div>

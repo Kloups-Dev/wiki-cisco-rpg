@@ -1,7 +1,7 @@
 # Épée d'Eau
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/knightquest/water_sword.png" alt="Épée d&#x27;Eau">
+<img class="mc-item-icon" src="../../../../assets/generated/items/knightquest/water_sword.png" alt="Épée d&#x27;Eau">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épée d&#x27;Eau</div>
 <div class="mc-tooltip-card__alias">Water Sword</div>

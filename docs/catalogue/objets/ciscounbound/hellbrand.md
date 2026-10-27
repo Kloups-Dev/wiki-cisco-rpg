@@ -1,7 +1,7 @@
 # Hellbrand
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/hellbrand.png" alt="Hellbrand">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/hellbrand.png" alt="Hellbrand">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hellbrand</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

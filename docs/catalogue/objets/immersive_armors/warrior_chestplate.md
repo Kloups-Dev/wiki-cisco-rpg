@@ -1,7 +1,7 @@
 # Plastron de guerrier
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/immersive_armors/warrior_chestplate.png" alt="Plastron de guerrier">
+<img class="mc-item-icon" src="../../../../assets/generated/items/immersive_armors/warrior_chestplate.png" alt="Plastron de guerrier">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Plastron de guerrier</div>
 <div class="mc-tooltip-card__alias">Warrior Chestplate</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>immersive_armors:warrior_chestplate</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Leather (minecraft:leather)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Leather Chestplate (minecraft:leather_chestplate)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/immersive_armors/warrior_chestplate.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : immersive_armors-1.5.6+1.19.2-forge.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>immersive_armors:warrior_chestplate</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Leather (minecraft:leather)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Leather Chestplate (minecraft:leather_chestplate)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/immersive_armors/warrior_chestplate.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : immersive_armors-1.5.6+1.19.2-forge.jar</div></div>
 
 ## Utilisé dans
 

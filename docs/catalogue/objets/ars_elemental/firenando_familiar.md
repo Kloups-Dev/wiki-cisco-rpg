@@ -1,7 +1,7 @@
 # Bound Script: Flarecannon
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_elemental/firenando_familiar.png" alt="Bound Script: Flarecannon">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_elemental/firenando_familiar.png" alt="Bound Script: Flarecannon">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bound Script: Flarecannon</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

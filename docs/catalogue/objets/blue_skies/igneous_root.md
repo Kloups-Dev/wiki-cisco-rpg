@@ -1,7 +1,7 @@
 # Racine igénive
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/igneous_root.png" alt="Racine igénive">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/igneous_root.png" alt="Racine igénive">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Racine igénive</div>
 <div class="mc-tooltip-card__alias">Igneous Root</div>

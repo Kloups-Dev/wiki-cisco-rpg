@@ -1,7 +1,7 @@
 # Lost Codex Entry
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_additions/lost_codex_entry.png" alt="Lost Codex Entry">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_additions/lost_codex_entry.png" alt="Lost Codex Entry">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Lost Codex Entry</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

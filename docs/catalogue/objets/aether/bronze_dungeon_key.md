@@ -1,7 +1,7 @@
 # Bronze Key
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/bronze_dungeon_key.png" alt="Bronze Key">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/bronze_dungeon_key.png" alt="Bronze Key">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bronze Key</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

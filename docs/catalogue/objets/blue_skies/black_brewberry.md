@@ -1,7 +1,7 @@
 # Brassebaies sombres
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/black_brewberry.png" alt="Brassebaies sombres">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/black_brewberry.png" alt="Brassebaies sombres">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brassebaies sombres</div>
 <div class="mc-tooltip-card__alias">Black Raspberry</div>

@@ -1,7 +1,7 @@
 # Stripped Conberry Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/stripped_conberry_log.png" alt="Stripped Conberry Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/stripped_conberry_log.png" alt="Stripped Conberry Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Conberry Log</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

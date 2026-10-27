@@ -1,7 +1,7 @@
 # Crystalline Seashelf
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/crystal_seashelf.png" alt="Crystalline Seashelf">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/crystal_seashelf.png" alt="Crystalline Seashelf">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Crystalline Seashelf</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

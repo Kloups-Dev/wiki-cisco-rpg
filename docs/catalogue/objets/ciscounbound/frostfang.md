@@ -1,7 +1,7 @@
 # Excalibur [Testing N/A]
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/frostfang.png" alt="Excalibur [Testing N/A]">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/frostfang.png" alt="Excalibur [Testing N/A]">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Excalibur [Testing N/A]</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

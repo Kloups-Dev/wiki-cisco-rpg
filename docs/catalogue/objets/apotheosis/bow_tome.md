@@ -1,7 +1,7 @@
 # Tome of the Archers
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/bow_tome.png" alt="Tome of the Archers">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/bow_tome.png" alt="Tome of the Archers">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tome of the Archers</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

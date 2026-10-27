@@ -1,7 +1,7 @@
 # Edelwood Branch
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/edelwood_branch.png" alt="Edelwood Branch">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/edelwood_branch.png" alt="Edelwood Branch">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Edelwood Branch</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

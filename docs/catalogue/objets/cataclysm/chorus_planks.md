@@ -1,7 +1,7 @@
 # Planches de chorus
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/chorus_planks.png" alt="Planches de chorus">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/chorus_planks.png" alt="Planches de chorus">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Planches de chorus</div>
 <div class="mc-tooltip-card__alias">Chorus Planks</div>
@@ -15,13 +15,13 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>cataclysm:chorus_planks</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/cataclysm/chorus_stem.md" title="Chorus Stem (cataclysm:chorus_stem)"><img src="../../../assets/generated/items/cataclysm/chorus_stem.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/cataclysm/chorus_planks.png" alt=""><span class="jei-count">2</span></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>cataclysm:chorus_planks</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/cataclysm/chorus_stem/" title="Chorus Stem (cataclysm:chorus_stem)"><img src="../../../../assets/generated/items/cataclysm/chorus_stem.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/cataclysm/chorus_planks.png" alt=""><span class="jei-count">2</span></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
 
 ## Utilisé dans
 
 - [Clôture en chorus](../../../catalogue/objets/cataclysm/chorus_fence.md) — <code>cataclysm:chorus_fence</code>
-- [Escalier en chorus](../../../catalogue/objets/cataclysm/chorus_stairs.md) — <code>cataclysm:chorus_stairs</code>
 - [Dalle en chorus](../../../catalogue/objets/cataclysm/chorus_slab.md) — <code>cataclysm:chorus_slab</code>
+- [Escalier en chorus](../../../catalogue/objets/cataclysm/chorus_stairs.md) — <code>cataclysm:chorus_stairs</code>
 
 ## Effets et caractéristiques
 

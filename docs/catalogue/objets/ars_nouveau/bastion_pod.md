@@ -1,7 +1,7 @@
 # Fruits du bastion
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/bastion_pod.png" alt="Fruits du bastion">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/bastion_pod.png" alt="Fruits du bastion">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fruits du bastion</div>
 <div class="mc-tooltip-card__alias">Bastion Fruit</div>

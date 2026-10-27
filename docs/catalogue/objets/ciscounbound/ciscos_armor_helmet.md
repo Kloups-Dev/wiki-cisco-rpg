@@ -1,7 +1,7 @@
 # Cisco's Helmet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/ciscos_armor_helmet.png" alt="Cisco&#x27;s Helmet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/ciscos_armor_helmet.png" alt="Cisco&#x27;s Helmet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cisco&#x27;s Helmet</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

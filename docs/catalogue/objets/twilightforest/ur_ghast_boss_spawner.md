@@ -1,7 +1,7 @@
 # Ur-Ghast Boss Spawner
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/ur_ghast_boss_spawner.png" alt="Ur-Ghast Boss Spawner">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/ur_ghast_boss_spawner.png" alt="Ur-Ghast Boss Spawner">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ur-Ghast Boss Spawner</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

@@ -1,7 +1,7 @@
 # Buisson de la brise
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/brittlebush.png" alt="Buisson de la brise">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/brittlebush.png" alt="Buisson de la brise">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Buisson de la brise</div>
 <div class="mc-tooltip-card__alias">Brittlebush</div>

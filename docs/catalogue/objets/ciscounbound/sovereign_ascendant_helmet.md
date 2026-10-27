@@ -1,7 +1,7 @@
 # Sovereign Ascendant Helmet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/sovereign_ascendant_helmet.png" alt="Sovereign Ascendant Helmet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/sovereign_ascendant_helmet.png" alt="Sovereign Ascendant Helmet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sovereign Ascendant Helmet</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

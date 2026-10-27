@@ -1,7 +1,7 @@
 # Icestone
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/icestone.png" alt="Icestone">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/icestone.png" alt="Icestone">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Icestone</div>
 <div class="mc-tooltip-card__mod">The Aether</div>
@@ -19,10 +19,10 @@
 
 ## Utilisé dans
 
+- [Freezer](../../../catalogue/objets/aether/freezer.md) — <code>aether:freezer</code>
 - [Icestone Slab](../../../catalogue/objets/aether/icestone_slab.md) — <code>aether:icestone_slab</code>
 - [Icestone Stairs](../../../catalogue/objets/aether/icestone_stairs.md) — <code>aether:icestone_stairs</code>
 - [Icestone Wall](../../../catalogue/objets/aether/icestone_wall.md) — <code>aether:icestone_wall</code>
-- [Freezer](../../../catalogue/objets/aether/freezer.md) — <code>aether:freezer</code>
 
 ## Effets et caractéristiques
 

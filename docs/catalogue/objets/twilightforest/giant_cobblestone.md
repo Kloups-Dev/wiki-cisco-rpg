@@ -1,7 +1,7 @@
 # Pierre géante
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/giant_cobblestone.png" alt="Pierre géante">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/giant_cobblestone.png" alt="Pierre géante">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre géante</div>
 <div class="mc-tooltip-card__alias">Giant Cobblestone</div>
@@ -20,9 +20,9 @@
 
 ## Utilisé dans
 
+- [Pioche de géant](../../../catalogue/objets/twilightforest/giant_pickaxe.md) — <code>twilightforest:giant_pickaxe</code>
 - [Épée de géant](../../../catalogue/objets/twilightforest/giant_sword.md) — <code>twilightforest:giant_sword</code>
 - **Cobblestone** — <code>minecraft:cobblestone</code>
-- [Pioche de géant](../../../catalogue/objets/twilightforest/giant_pickaxe.md) — <code>twilightforest:giant_pickaxe</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Nâgastone gravée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/etched_nagastone.png" alt="Nâgastone gravée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/etched_nagastone.png" alt="Nâgastone gravée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Nâgastone gravée</div>
 <div class="mc-tooltip-card__alias">Etched Nagastone</div>
@@ -21,8 +21,8 @@
 ## Utilisé dans
 
 - [Nâgastone gravée moussue](../../../catalogue/objets/twilightforest/mossy_etched_nagastone.md) — <code>twilightforest:mossy_etched_nagastone</code>
-- [Escaliers en nâgastone (droite)](../../../catalogue/objets/twilightforest/nagastone_stairs_right.md) — <code>twilightforest:nagastone_stairs_right</code>
 - [Escaliers en nâgastone (gauche)](../../../catalogue/objets/twilightforest/nagastone_stairs_left.md) — <code>twilightforest:nagastone_stairs_left</code>
+- [Escaliers en nâgastone (droite)](../../../catalogue/objets/twilightforest/nagastone_stairs_right.md) — <code>twilightforest:nagastone_stairs_right</code>
 - [Nâgastone gravée en ruine](../../../catalogue/objets/twilightforest/cracked_etched_nagastone.md) — <code>twilightforest:cracked_etched_nagastone</code>
 
 ## Effets et caractéristiques

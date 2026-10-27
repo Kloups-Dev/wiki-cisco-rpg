@@ -1,7 +1,7 @@
 # Caster Tome of Fire
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_elemental/fire_caster_tome.png" alt="Caster Tome of Fire">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_elemental/fire_caster_tome.png" alt="Caster Tome of Fire">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Caster Tome of Fire</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

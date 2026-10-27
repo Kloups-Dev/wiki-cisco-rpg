@@ -1,7 +1,7 @@
 # Soul Pyre
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/soulpyre.png" alt="Soul Pyre">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/soulpyre.png" alt="Soul Pyre">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Soul Pyre</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

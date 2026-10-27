@@ -1,7 +1,7 @@
 # Bronze Kit
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/dreadsteel/kit_bronze.png" alt="Bronze Kit">
+<img class="mc-item-icon" src="../../../../assets/generated/items/dreadsteel/kit_bronze.png" alt="Bronze Kit">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bronze Kit</div>
 <div class="mc-tooltip-card__mod">Dreadsteel</div>

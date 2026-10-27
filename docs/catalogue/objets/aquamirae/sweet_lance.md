@@ -1,7 +1,7 @@
 # Sweet Lance
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/sweet_lance.png" alt="Sweet Lance">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/sweet_lance.png" alt="Sweet Lance">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sweet Lance</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

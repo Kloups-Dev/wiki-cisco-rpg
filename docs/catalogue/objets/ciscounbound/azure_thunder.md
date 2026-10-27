@@ -1,7 +1,7 @@
 # Azure Thunder
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/azure_thunder.png" alt="Azure Thunder">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/azure_thunder.png" alt="Azure Thunder">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Azure Thunder</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

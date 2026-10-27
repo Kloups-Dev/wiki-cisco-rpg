@@ -1,7 +1,7 @@
 # Fell Ragnarok
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/fell_ragnarok.png" alt="Fell Ragnarok">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/fell_ragnarok.png" alt="Fell Ragnarok">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fell Ragnarok</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

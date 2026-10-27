@@ -1,7 +1,7 @@
 # Cache-Œil
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/knightquest/pirate2_helmet.png" alt="Cache-Œil">
+<img class="mc-item-icon" src="../../../../assets/generated/items/knightquest/pirate2_helmet.png" alt="Cache-Œil">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cache-Œil</div>
 <div class="mc-tooltip-card__alias">Eyepatch</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:pirate2_helmet</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Red Carpet (minecraft:red_carpet)">?</span><span class="jei-slot" title="Red Candle (minecraft:red_candle)">?</span><span class="jei-slot" title="Black Carpet (minecraft:black_carpet)">?</span><a class="jei-slot" href="../../../catalogue/objets/knightquest/filled_goblet.md" title="Gobelet Rempli (knightquest:filled_goblet)"><img src="../../../assets/generated/items/knightquest/filled_goblet.png" alt="" loading="lazy"></a><span class="jei-slot" title="Netherite Helmet (minecraft:netherite_helmet)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/knightquest/pirate2_helmet.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:pirate2_helmet</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Red Carpet (minecraft:red_carpet)">?</span><span class="jei-slot" title="Red Candle (minecraft:red_candle)">?</span><span class="jei-slot" title="Black Carpet (minecraft:black_carpet)">?</span><a class="jei-slot" href="../../../../catalogue/objets/knightquest/filled_goblet/" title="Gobelet Rempli (knightquest:filled_goblet)"><img src="../../../../assets/generated/items/knightquest/filled_goblet.png" alt="" loading="lazy"></a><span class="jei-slot" title="Netherite Helmet (minecraft:netherite_helmet)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/knightquest/pirate2_helmet.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
 
 ## Utilisé dans
 

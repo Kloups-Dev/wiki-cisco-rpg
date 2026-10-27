@@ -1,7 +1,7 @@
 # Virulent Quicksand Bucket
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/virulent_quicksand_bucket.png" alt="Virulent Quicksand Bucket">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/virulent_quicksand_bucket.png" alt="Virulent Quicksand Bucket">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Virulent Quicksand Bucket</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

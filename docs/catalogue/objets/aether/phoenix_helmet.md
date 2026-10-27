@@ -1,7 +1,7 @@
 # Phoenix Helmet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/phoenix_helmet.png" alt="Phoenix Helmet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/phoenix_helmet.png" alt="Phoenix Helmet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Phoenix Helmet</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

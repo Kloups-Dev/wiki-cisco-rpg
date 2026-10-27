@@ -1,7 +1,7 @@
 # Piège à Ghast
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/ghast_trap.png" alt="Piège à Ghast">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/ghast_trap.png" alt="Piège à Ghast">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Piège à Ghast</div>
 <div class="mc-tooltip-card__alias">Ghast Trap</div>

@@ -1,7 +1,7 @@
 # Tribut du passage
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/meetyourfight/passages_toll.png" alt="Tribut du passage">
+<img class="mc-item-icon" src="../../../../assets/generated/items/meetyourfight/passages_toll.png" alt="Tribut du passage">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tribut du passage</div>
 <div class="mc-tooltip-card__alias">Passage&#x27;s Toll</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>meetyourfight:passages_toll</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:string">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><a class="jei-slot" href="../../../catalogue/objets/meetyourfight/phantoplasm.md" title="Phantoplasme (meetyourfight:phantoplasm)"><img src="../../../assets/generated/items/meetyourfight/phantoplasm.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/meetyourfight/passages_toll.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>meetyourfight:passages_toll</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:string">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><a class="jei-slot" href="../../../../catalogue/objets/meetyourfight/phantoplasm/" title="Phantoplasme (meetyourfight:phantoplasm)"><img src="../../../../assets/generated/items/meetyourfight/phantoplasm.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/meetyourfight/passages_toll.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
 
 ## Utilisé dans
 

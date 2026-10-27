@@ -1,7 +1,7 @@
 # Berry Bush
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/berry_bush.png" alt="Berry Bush">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/berry_bush.png" alt="Berry Bush">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Berry Bush</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

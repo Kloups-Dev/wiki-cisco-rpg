@@ -1,7 +1,7 @@
 # Brassebaies roses
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/pink_brewberry.png" alt="Brassebaies roses">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/pink_brewberry.png" alt="Brassebaies roses">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brassebaies roses</div>
 <div class="mc-tooltip-card__alias">Pink Raspberry</div>

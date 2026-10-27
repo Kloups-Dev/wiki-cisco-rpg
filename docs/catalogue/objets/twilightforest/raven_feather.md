@@ -1,7 +1,7 @@
 # Plume de corbeau
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/raven_feather.png" alt="Plume de corbeau">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/raven_feather.png" alt="Plume de corbeau">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Plume de corbeau</div>
 <div class="mc-tooltip-card__alias">Raven Feather</div>

@@ -1,7 +1,7 @@
 # Cherry Flower Vines
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/cherry_flower_vines.png" alt="Cherry Flower Vines">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/cherry_flower_vines.png" alt="Cherry Flower Vines">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cherry Flower Vines</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

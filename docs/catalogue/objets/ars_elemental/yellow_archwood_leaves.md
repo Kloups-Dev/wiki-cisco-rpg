@@ -1,7 +1,7 @@
 # Flashing Archwood Leaves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_elemental/yellow_archwood_leaves.png" alt="Flashing Archwood Leaves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_elemental/yellow_archwood_leaves.png" alt="Flashing Archwood Leaves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Flashing Archwood Leaves</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

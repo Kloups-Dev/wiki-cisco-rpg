@@ -1,7 +1,7 @@
 # Collectible Painting
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/painting_anglerfish.png" alt="Collectible Painting">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/painting_anglerfish.png" alt="Collectible Painting">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Collectible Painting</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

@@ -1,7 +1,7 @@
 # Rune de brique de château jaune
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/yellow_castle_rune_brick.png" alt="Rune de brique de château jaune">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/yellow_castle_rune_brick.png" alt="Rune de brique de château jaune">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Rune de brique de château jaune</div>
 <div class="mc-tooltip-card__alias">Yellow Castle Rune Brick</div>

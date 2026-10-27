@@ -1,7 +1,7 @@
 # Stroganoff de Meef
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/meef_stroganoff.png" alt="Stroganoff de Meef">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/meef_stroganoff.png" alt="Stroganoff de Meef">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stroganoff de Meef</div>
 <div class="mc-tooltip-card__alias">Meef Stroganoff</div>

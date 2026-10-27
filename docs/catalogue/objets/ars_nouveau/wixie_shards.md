@@ -1,7 +1,7 @@
 # Éclats de Wixie
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/wixie_shards.png" alt="Éclats de Wixie">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/wixie_shards.png" alt="Éclats de Wixie">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Éclats de Wixie</div>
 <div class="mc-tooltip-card__alias">Wixie Shards</div>

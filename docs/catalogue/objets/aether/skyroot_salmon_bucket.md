@@ -1,7 +1,7 @@
 # Skyroot Bucket of Salmon
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/skyroot_salmon_bucket.png" alt="Skyroot Bucket of Salmon">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/skyroot_salmon_bucket.png" alt="Skyroot Bucket of Salmon">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Skyroot Bucket of Salmon</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

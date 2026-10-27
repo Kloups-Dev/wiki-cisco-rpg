@@ -1,7 +1,7 @@
 # Starstruck Scrap
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/celestisynth/starstruck_scrap.png" alt="Starstruck Scrap">
+<img class="mc-item-icon" src="../../../../assets/generated/items/celestisynth/starstruck_scrap.png" alt="Starstruck Scrap">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Starstruck Scrap</div>
 <div class="mc-tooltip-card__mod">Celestisynth</div>

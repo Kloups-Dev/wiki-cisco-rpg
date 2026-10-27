@@ -1,7 +1,7 @@
 # Épée en aquite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/aquite_sword.png" alt="Épée en aquite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/aquite_sword.png" alt="Épée en aquite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épée en aquite</div>
 <div class="mc-tooltip-card__alias">Aquite Sword</div>

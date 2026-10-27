@@ -1,7 +1,7 @@
 # Chorus Inhibitor
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/chorus_inhibitor.png" alt="Chorus Inhibitor">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/chorus_inhibitor.png" alt="Chorus Inhibitor">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Chorus Inhibitor</div>
 <div class="mc-tooltip-card__mod">Relics</div>

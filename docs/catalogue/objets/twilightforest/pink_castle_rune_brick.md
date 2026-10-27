@@ -1,7 +1,7 @@
 # Rune de brique de château rose
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/pink_castle_rune_brick.png" alt="Rune de brique de château rose">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/pink_castle_rune_brick.png" alt="Rune de brique de château rose">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Rune de brique de château rose</div>
 <div class="mc-tooltip-card__alias">Pink Castle Rune Brick</div>

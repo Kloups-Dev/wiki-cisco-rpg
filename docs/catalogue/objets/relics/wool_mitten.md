@@ -1,7 +1,7 @@
 # Wool Mitten
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/wool_mitten.png" alt="Wool Mitten">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/wool_mitten.png" alt="Wool Mitten">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Wool Mitten</div>
 <div class="mc-tooltip-card__mod">Relics</div>

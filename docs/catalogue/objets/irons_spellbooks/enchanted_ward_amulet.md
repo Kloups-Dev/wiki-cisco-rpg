@@ -1,7 +1,7 @@
 # Amulet of Warding
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/enchanted_ward_amulet.png" alt="Amulet of Warding">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/enchanted_ward_amulet.png" alt="Amulet of Warding">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Amulet of Warding</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

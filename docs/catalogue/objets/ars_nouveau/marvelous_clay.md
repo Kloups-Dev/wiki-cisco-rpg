@@ -1,7 +1,7 @@
 # Merveilleuse argile
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/marvelous_clay.png" alt="Merveilleuse argile">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/marvelous_clay.png" alt="Merveilleuse argile">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Merveilleuse argile</div>
 <div class="mc-tooltip-card__alias">Marvelous Clay</div>

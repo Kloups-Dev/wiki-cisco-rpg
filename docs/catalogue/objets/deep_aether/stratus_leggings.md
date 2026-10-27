@@ -1,7 +1,7 @@
 # Stratus Leggings
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/stratus_leggings.png" alt="Stratus Leggings">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/stratus_leggings.png" alt="Stratus Leggings">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stratus Leggings</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>deep_aether:stratus_leggings_smithing</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/aether/gravitite_leggings.md" title="Gravitite Leggings (aether:gravitite_leggings)"><img src="../../../assets/generated/items/aether/gravitite_leggings.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/deep_aether/stratus_ingot.md" title="Stratus Ingot (deep_aether:stratus_ingot)"><img src="../../../assets/generated/items/deep_aether/stratus_ingot.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/deep_aether/stratus_leggings.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>deep_aether:stratus_leggings_smithing</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/aether/gravitite_leggings/" title="Gravitite Leggings (aether:gravitite_leggings)"><img src="../../../../assets/generated/items/aether/gravitite_leggings.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../../catalogue/objets/deep_aether/stratus_ingot/" title="Stratus Ingot (deep_aether:stratus_ingot)"><img src="../../../../assets/generated/items/deep_aether/stratus_ingot.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/deep_aether/stratus_leggings.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
 
 ## Utilisé dans
 

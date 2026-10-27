@@ -1,7 +1,7 @@
 # Common Ink
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/common_ink.png" alt="Common Ink">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/common_ink.png" alt="Common Ink">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Common Ink</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

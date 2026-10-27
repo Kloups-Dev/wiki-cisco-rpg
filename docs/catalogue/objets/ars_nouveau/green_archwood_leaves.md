@@ -1,7 +1,7 @@
 # Feuilles d'Archwood florissantes
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/green_archwood_leaves.png" alt="Feuilles d&#x27;Archwood florissantes">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/green_archwood_leaves.png" alt="Feuilles d&#x27;Archwood florissantes">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles d&#x27;Archwood florissantes</div>
 <div class="mc-tooltip-card__alias">Flourishing Archwood Leaves</div>

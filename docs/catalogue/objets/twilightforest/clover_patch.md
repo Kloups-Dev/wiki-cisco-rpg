@@ -1,7 +1,7 @@
 # Trèfle à quatre feuilles [WIP]
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/clover_patch.png" alt="Trèfle à quatre feuilles [WIP]">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/clover_patch.png" alt="Trèfle à quatre feuilles [WIP]">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Trèfle à quatre feuilles [WIP]</div>
 <div class="mc-tooltip-card__alias">Clover Patch</div>

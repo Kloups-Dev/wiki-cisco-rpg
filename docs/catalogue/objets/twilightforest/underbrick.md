@@ -1,7 +1,7 @@
 # Brique des dessous
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/underbrick.png" alt="Brique des dessous">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/underbrick.png" alt="Brique des dessous">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brique des dessous</div>
 <div class="mc-tooltip-card__alias">Underbrick</div>
@@ -20,9 +20,9 @@
 
 ## Utilisé dans
 
-- [Sol de brique des dessous](../../../catalogue/objets/twilightforest/underbrick_floor.md) — <code>twilightforest:underbrick_floor</code>
-- [Brique des dessous craquelée](../../../catalogue/objets/twilightforest/cracked_underbrick.md) — <code>twilightforest:cracked_underbrick</code>
 - [Brique des dessous moussue](../../../catalogue/objets/twilightforest/mossy_underbrick.md) — <code>twilightforest:mossy_underbrick</code>
+- [Brique des dessous craquelée](../../../catalogue/objets/twilightforest/cracked_underbrick.md) — <code>twilightforest:cracked_underbrick</code>
+- [Sol de brique des dessous](../../../catalogue/objets/twilightforest/underbrick_floor.md) — <code>twilightforest:underbrick_floor</code>
 
 ## Effets et caractéristiques
 

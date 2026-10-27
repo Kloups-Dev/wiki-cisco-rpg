@@ -1,7 +1,7 @@
 # Ancient Essence
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/ancient_essence.png" alt="Ancient Essence">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/ancient_essence.png" alt="Ancient Essence">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ancient Essence</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

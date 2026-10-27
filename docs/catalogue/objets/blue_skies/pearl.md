@@ -1,7 +1,7 @@
 # Perle
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/pearl.png" alt="Perle">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/pearl.png" alt="Perle">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Perle</div>
 <div class="mc-tooltip-card__alias">Pearl</div>

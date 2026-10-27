@@ -1,7 +1,7 @@
 # Yagroot Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/yagroot_log.png" alt="Yagroot Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/yagroot_log.png" alt="Yagroot Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Yagroot Log</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Yagroot Wood](../../../catalogue/objets/deep_aether/yagroot_wood.md) — <code>deep_aether:yagroot_wood</code>
 - [Yagroot Wall](../../../catalogue/objets/deep_aether/yagroot_wall.md) — <code>deep_aether:yagroot_wall</code>
+- [Yagroot Wood](../../../catalogue/objets/deep_aether/yagroot_wood.md) — <code>deep_aether:yagroot_wood</code>
 
 ## Effets et caractéristiques
 

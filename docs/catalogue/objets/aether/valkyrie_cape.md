@@ -1,7 +1,7 @@
 # Valkyrie Cape
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/valkyrie_cape.png" alt="Valkyrie Cape">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/valkyrie_cape.png" alt="Valkyrie Cape">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Valkyrie Cape</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

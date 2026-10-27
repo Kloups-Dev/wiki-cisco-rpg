@@ -1,7 +1,7 @@
 # Faux or
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/fake_gold.png" alt="Faux or">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/fake_gold.png" alt="Faux or">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Faux or</div>
 <div class="mc-tooltip-card__alias">False Gold</div>

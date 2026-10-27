@@ -1,7 +1,7 @@
 # Black Moa Egg
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/black_moa_egg.png" alt="Black Moa Egg">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/black_moa_egg.png" alt="Black Moa Egg">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Black Moa Egg</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

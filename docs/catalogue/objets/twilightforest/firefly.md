@@ -1,7 +1,7 @@
 # Luciole
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/firefly.png" alt="Luciole">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/firefly.png" alt="Luciole">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Luciole</div>
 <div class="mc-tooltip-card__alias">Firefly</div>

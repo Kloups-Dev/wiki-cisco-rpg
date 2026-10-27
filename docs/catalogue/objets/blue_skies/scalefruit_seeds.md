@@ -1,7 +1,7 @@
 # Graines de fruits écaillés
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/scalefruit_seeds.png" alt="Graines de fruits écaillés">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/scalefruit_seeds.png" alt="Graines de fruits écaillés">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Graines de fruits écaillés</div>
 <div class="mc-tooltip-card__alias">Tomato Seeds</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>blue_skies:scalefruit_seeds</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/blue_skies/scalefruit.md" title="Fruit écaillé (blue_skies:scalefruit)"><img src="../../../assets/generated/items/blue_skies/scalefruit.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/blue_skies/scalefruit_seeds.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>blue_skies:scalefruit_seeds</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/blue_skies/scalefruit/" title="Fruit écaillé (blue_skies:scalefruit)"><img src="../../../../assets/generated/items/blue_skies/scalefruit.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/blue_skies/scalefruit_seeds.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
 
 ## Utilisé dans
 

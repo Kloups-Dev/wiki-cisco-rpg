@@ -1,7 +1,7 @@
 # Hephaestus Forge
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/hephaestus_forge.png" alt="Hephaestus Forge">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/hephaestus_forge.png" alt="Hephaestus Forge">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hephaestus Forge</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

@@ -1,7 +1,7 @@
 # Fungyss Block
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/fungyss_block.png" alt="Fungyss Block">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/fungyss_block.png" alt="Fungyss Block">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fungyss Block</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

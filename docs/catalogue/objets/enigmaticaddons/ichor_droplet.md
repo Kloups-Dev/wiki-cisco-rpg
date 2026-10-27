@@ -1,7 +1,7 @@
 # Ichor Droplet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticaddons/ichor_droplet.png" alt="Ichor Droplet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticaddons/ichor_droplet.png" alt="Ichor Droplet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ichor Droplet</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -20,8 +20,8 @@
 ## Utilisé dans
 
 - [Tome of Divination](../../../catalogue/objets/enigmaticaddons/bless_amplifier.md) — <code>enigmaticaddons:bless_amplifier</code>
-- [Ichoroot](../../../catalogue/objets/enigmaticaddons/ichoroot.md) — <code>enigmaticaddons:ichoroot</code>
 - [Ichor Spear](../../../catalogue/objets/enigmaticaddons/ichor_spear.md) — <code>enigmaticaddons:ichor_spear</code>
+- [Ichoroot](../../../catalogue/objets/enigmaticaddons/ichoroot.md) — <code>enigmaticaddons:ichoroot</code>
 - [Scroll of Thunder Embrace](../../../catalogue/objets/enigmaticaddons/thunder_scroll.md) — <code>enigmaticaddons:thunder_scroll</code>
 
 ## Effets et caractéristiques

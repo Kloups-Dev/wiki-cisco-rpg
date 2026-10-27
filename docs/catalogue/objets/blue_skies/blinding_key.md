@@ -1,7 +1,7 @@
 # Clé aveuglante
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/blinding_key.png" alt="Clé aveuglante">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/blinding_key.png" alt="Clé aveuglante">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Clé aveuglante</div>
 <div class="mc-tooltip-card__alias">Blinding Dungeon Key</div>

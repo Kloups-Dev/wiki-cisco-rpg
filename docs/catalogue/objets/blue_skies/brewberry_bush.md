@@ -1,7 +1,7 @@
 # Buisson à brassebaies
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/brewberry_bush.png" alt="Buisson à brassebaies">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/brewberry_bush.png" alt="Buisson à brassebaies">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Buisson à brassebaies</div>
 <div class="mc-tooltip-card__alias">Raspberry Bush</div>

@@ -1,7 +1,7 @@
 # Leather Belt
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/leather_belt.png" alt="Leather Belt">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/leather_belt.png" alt="Leather Belt">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Leather Belt</div>
 <div class="mc-tooltip-card__mod">Relics</div>

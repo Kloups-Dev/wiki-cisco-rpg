@@ -1,7 +1,7 @@
 # Aile sauvage
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/wilden_wing.png" alt="Aile sauvage">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/wilden_wing.png" alt="Aile sauvage">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aile sauvage</div>
 <div class="mc-tooltip-card__alias">Wilden Wing</div>
@@ -21,8 +21,8 @@
 ## Utilisé dans
 
 - [Vol](../../../catalogue/objets/ars_nouveau/ritual_flight.md) — <code>ars_nouveau:ritual_flight</code>
-- **Leather** — <code>minecraft:leather</code>
 - [Chute de lune](../../../catalogue/objets/ars_nouveau/ritual_moonfall.md) — <code>ars_nouveau:ritual_moonfall</code>
+- **Leather** — <code>minecraft:leather</code>
 
 ## Effets et caractéristiques
 

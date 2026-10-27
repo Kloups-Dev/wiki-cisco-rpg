@@ -1,7 +1,7 @@
 # Noyau du Vide
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/void_core.png" alt="Noyau du Vide">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/void_core.png" alt="Noyau du Vide">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Noyau du Vide</div>
 <div class="mc-tooltip-card__alias">Void Core</div>

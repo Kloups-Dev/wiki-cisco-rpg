@@ -1,7 +1,7 @@
 # Windwalker Boots
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/test_boots.png" alt="Windwalker Boots">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/test_boots.png" alt="Windwalker Boots">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Windwalker Boots</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

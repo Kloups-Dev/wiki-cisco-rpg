@@ -1,7 +1,7 @@
 # Luminous Crystal Shard
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/rare_material.png" alt="Luminous Crystal Shard">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/rare_material.png" alt="Luminous Crystal Shard">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Luminous Crystal Shard</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

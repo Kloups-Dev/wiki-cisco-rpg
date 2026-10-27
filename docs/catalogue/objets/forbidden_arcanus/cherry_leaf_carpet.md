@@ -1,7 +1,7 @@
 # Cherry Leaf Carpet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/cherry_leaf_carpet.png" alt="Cherry Leaf Carpet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/cherry_leaf_carpet.png" alt="Cherry Leaf Carpet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cherry Leaf Carpet</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>forbidden_arcanus:cherry_leaf_carpet</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/forbidden_arcanus/cherry_leaves.md" title="Cherry Leaves (forbidden_arcanus:cherry_leaves)"><img src="../../../assets/generated/items/forbidden_arcanus/cherry_leaves.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/forbidden_arcanus/cherry_leaves.md" title="Cherry Leaves (forbidden_arcanus:cherry_leaves)"><img src="../../../assets/generated/items/forbidden_arcanus/cherry_leaves.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/forbidden_arcanus/cherry_leaf_carpet.png" alt=""><span class="jei-count">3</span></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>forbidden_arcanus:cherry_leaf_carpet</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/forbidden_arcanus/cherry_leaves/" title="Cherry Leaves (forbidden_arcanus:cherry_leaves)"><img src="../../../../assets/generated/items/forbidden_arcanus/cherry_leaves.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../../catalogue/objets/forbidden_arcanus/cherry_leaves/" title="Cherry Leaves (forbidden_arcanus:cherry_leaves)"><img src="../../../../assets/generated/items/forbidden_arcanus/cherry_leaves.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/forbidden_arcanus/cherry_leaf_carpet.png" alt=""><span class="jei-count">3</span></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
 
 ## Utilisé dans
 

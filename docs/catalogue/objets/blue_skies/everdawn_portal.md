@@ -1,7 +1,7 @@
 # Cadre du portail de l'Everdawn
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/everdawn_portal.png" alt="Cadre du portail de l&#x27;Everdawn">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/everdawn_portal.png" alt="Cadre du portail de l&#x27;Everdawn">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cadre du portail de l&#x27;Everdawn</div>
 <div class="mc-tooltip-card__alias">Everdawn Portal Block</div>

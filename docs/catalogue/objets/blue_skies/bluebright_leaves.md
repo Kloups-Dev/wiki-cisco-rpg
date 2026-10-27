@@ -1,7 +1,7 @@
 # Feuilles de lumibleu
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/bluebright_leaves.png" alt="Feuilles de lumibleu">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/bluebright_leaves.png" alt="Feuilles de lumibleu">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles de lumibleu</div>
 <div class="mc-tooltip-card__alias">Bluebright Leaves</div>

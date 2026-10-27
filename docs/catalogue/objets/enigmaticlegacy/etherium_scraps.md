@@ -1,7 +1,7 @@
 # Etherium Scrap
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/etherium_scraps.png" alt="Etherium Scrap">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/etherium_scraps.png" alt="Etherium Scrap">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Etherium Scrap</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

@@ -1,7 +1,7 @@
 # Caraboeuf cru
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/carabeef.png" alt="Caraboeuf cru">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/carabeef.png" alt="Caraboeuf cru">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Caraboeuf cru</div>
 <div class="mc-tooltip-card__alias">Raw Carabeef</div>

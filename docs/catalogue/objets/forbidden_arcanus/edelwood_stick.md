@@ -1,7 +1,7 @@
 # Edelwood Stick
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/edelwood_stick.png" alt="Edelwood Stick">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/edelwood_stick.png" alt="Edelwood Stick">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Edelwood Stick</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

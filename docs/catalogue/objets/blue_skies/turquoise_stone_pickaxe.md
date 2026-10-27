@@ -1,7 +1,7 @@
 # Pioche en pierre turquoise
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/turquoise_stone_pickaxe.png" alt="Pioche en pierre turquoise">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/turquoise_stone_pickaxe.png" alt="Pioche en pierre turquoise">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pioche en pierre turquoise</div>
 <div class="mc-tooltip-card__alias">Turquoise Stone Pickaxe</div>

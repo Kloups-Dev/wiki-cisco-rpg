@@ -1,7 +1,7 @@
 # Amulet of Ascension
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/ascension_amulet.png" alt="Amulet of Ascension">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/ascension_amulet.png" alt="Amulet of Ascension">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Amulet of Ascension</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

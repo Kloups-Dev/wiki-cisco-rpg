@@ -1,7 +1,7 @@
 # Nocturnal Amethyst
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/nocturnal_amethyst.png" alt="Nocturnal Amethyst">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/nocturnal_amethyst.png" alt="Nocturnal Amethyst">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Nocturnal Amethyst</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

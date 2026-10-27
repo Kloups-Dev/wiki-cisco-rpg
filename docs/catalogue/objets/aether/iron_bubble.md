@@ -1,7 +1,7 @@
 # Iron Bubble
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/iron_bubble.png" alt="Iron Bubble">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/iron_bubble.png" alt="Iron Bubble">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Iron Bubble</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

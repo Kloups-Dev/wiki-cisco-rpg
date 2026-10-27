@@ -1,7 +1,7 @@
 # Beeshelf
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/beeshelf.png" alt="Beeshelf">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/beeshelf.png" alt="Beeshelf">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Beeshelf</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

@@ -1,7 +1,7 @@
 # Chaume
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/thatch_block.png" alt="Chaume">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/thatch_block.png" alt="Chaume">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Chaume</div>
 <div class="mc-tooltip-card__alias">Thatch</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>mowziesmobs:thatch_block</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/mowziesmobs/thatch_block.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : mowziesmobs-1.6.3.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>mowziesmobs:thatch_block</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span><span class="jei-slot" title="Grass (minecraft:grass)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/mowziesmobs/thatch_block.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : mowziesmobs-1.6.3.jar</div></div>
 
 ## Utilisé dans
 

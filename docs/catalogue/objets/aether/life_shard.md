@@ -1,7 +1,7 @@
 # Life Shard
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/life_shard.png" alt="Life Shard">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/life_shard.png" alt="Life Shard">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Life Shard</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

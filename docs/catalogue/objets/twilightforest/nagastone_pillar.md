@@ -1,7 +1,7 @@
 # Pilier de nâgastone
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/nagastone_pillar.png" alt="Pilier de nâgastone">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/nagastone_pillar.png" alt="Pilier de nâgastone">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pilier de nâgastone</div>
 <div class="mc-tooltip-card__alias">Nagastone Pillar</div>
@@ -20,8 +20,8 @@
 
 ## Utilisé dans
 
-- [Pilier en nâgastone en ruine](../../../catalogue/objets/twilightforest/cracked_nagastone_pillar.md) — <code>twilightforest:cracked_nagastone_pillar</code>
 - [Pilier de nâgastone moussue](../../../catalogue/objets/twilightforest/mossy_nagastone_pillar.md) — <code>twilightforest:mossy_nagastone_pillar</code>
+- [Pilier en nâgastone en ruine](../../../catalogue/objets/twilightforest/cracked_nagastone_pillar.md) — <code>twilightforest:cracked_nagastone_pillar</code>
 
 ## Effets et caractéristiques
 

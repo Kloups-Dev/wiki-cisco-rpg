@@ -1,7 +1,7 @@
 # Anneau d'amplification
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/ring_of_amplify.png" alt="Anneau d&#x27;amplification">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/ring_of_amplify.png" alt="Anneau d&#x27;amplification">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Anneau d&#x27;amplification</div>
 <div class="mc-tooltip-card__alias">Ring of Amplify</div>

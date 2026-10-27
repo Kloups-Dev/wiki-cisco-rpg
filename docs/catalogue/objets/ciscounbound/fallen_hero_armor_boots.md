@@ -1,7 +1,7 @@
 # Fallen Hero Boots
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/fallen_hero_armor_boots.png" alt="Fallen Hero Boots">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/fallen_hero_armor_boots.png" alt="Fallen Hero Boots">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fallen Hero Boots</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

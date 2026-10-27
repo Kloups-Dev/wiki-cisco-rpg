@@ -1,7 +1,7 @@
 # Shadow Glaive
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/shadow_glaive.png" alt="Shadow Glaive">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/shadow_glaive.png" alt="Shadow Glaive">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Shadow Glaive</div>
 <div class="mc-tooltip-card__mod">Relics</div>

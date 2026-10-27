@@ -1,7 +1,7 @@
 # Smelter Prism
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/smelter_prism.png" alt="Smelter Prism">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/smelter_prism.png" alt="Smelter Prism">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Smelter Prism</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

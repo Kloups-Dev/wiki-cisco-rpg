@@ -1,7 +1,7 @@
 # Frosted Holystone Tile Stairs
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/frosted_holystone_tile_stairs.png" alt="Frosted Holystone Tile Stairs">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/frosted_holystone_tile_stairs.png" alt="Frosted Holystone Tile Stairs">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Frosted Holystone Tile Stairs</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

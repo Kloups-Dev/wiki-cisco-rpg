@@ -1,7 +1,7 @@
 # Descended Hero Boots
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/descended_hero_boots.png" alt="Descended Hero Boots">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/descended_hero_boots.png" alt="Descended Hero Boots">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Descended Hero Boots</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

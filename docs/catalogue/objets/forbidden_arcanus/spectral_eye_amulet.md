@@ -1,7 +1,7 @@
 # Spectral Eye Amulet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/spectral_eye_amulet.png" alt="Spectral Eye Amulet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/spectral_eye_amulet.png" alt="Spectral Eye Amulet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Spectral Eye Amulet</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>forbidden_arcanus:spectral_eye_amulet</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="String (minecraft:string)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="String (minecraft:string)">?</span><span class="jei-slot" title="Nether Star (minecraft:nether_star)">?</span><span class="jei-slot" title="String (minecraft:string)">?</span><a class="jei-slot" href="../../../catalogue/objets/forbidden_arcanus/deorum_ingot.md" title="Deorum Ingot (forbidden_arcanus:deorum_ingot)"><img src="../../../assets/generated/items/forbidden_arcanus/deorum_ingot.png" alt="" loading="lazy"></a><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><a class="jei-slot" href="../../../catalogue/objets/forbidden_arcanus/deorum_ingot.md" title="Deorum Ingot (forbidden_arcanus:deorum_ingot)"><img src="../../../assets/generated/items/forbidden_arcanus/deorum_ingot.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/forbidden_arcanus/spectral_eye_amulet.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>forbidden_arcanus:spectral_eye_amulet</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="String (minecraft:string)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="String (minecraft:string)">?</span><span class="jei-slot" title="Nether Star (minecraft:nether_star)">?</span><span class="jei-slot" title="String (minecraft:string)">?</span><a class="jei-slot" href="../../../../catalogue/objets/forbidden_arcanus/deorum_ingot/" title="Deorum Ingot (forbidden_arcanus:deorum_ingot)"><img src="../../../../assets/generated/items/forbidden_arcanus/deorum_ingot.png" alt="" loading="lazy"></a><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><a class="jei-slot" href="../../../../catalogue/objets/forbidden_arcanus/deorum_ingot/" title="Deorum Ingot (forbidden_arcanus:deorum_ingot)"><img src="../../../../assets/generated/items/forbidden_arcanus/deorum_ingot.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/forbidden_arcanus/spectral_eye_amulet.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
 
 ## Utilisé dans
 

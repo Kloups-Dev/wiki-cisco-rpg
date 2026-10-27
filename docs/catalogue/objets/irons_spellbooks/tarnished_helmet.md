@@ -1,7 +1,7 @@
 # Tarnished Crown
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/tarnished_helmet.png" alt="Tarnished Crown">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/tarnished_helmet.png" alt="Tarnished Crown">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tarnished Crown</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

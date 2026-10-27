@@ -1,7 +1,7 @@
 # Hammer of Kingbdogz
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/hammer_of_kingbdogz.png" alt="Hammer of Kingbdogz">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/hammer_of_kingbdogz.png" alt="Hammer of Kingbdogz">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hammer of Kingbdogz</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

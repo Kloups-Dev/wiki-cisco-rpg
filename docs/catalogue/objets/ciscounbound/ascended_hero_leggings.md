@@ -1,7 +1,7 @@
 # Ascendant Azure Leggings
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/ascended_hero_leggings.png" alt="Ascendant Azure Leggings">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/ascended_hero_leggings.png" alt="Ascendant Azure Leggings">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ascendant Azure Leggings</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

@@ -1,7 +1,7 @@
 # Golden Grass Block
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/golden_heights_grass_block.png" alt="Golden Grass Block">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/golden_heights_grass_block.png" alt="Golden Grass Block">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Golden Grass Block</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

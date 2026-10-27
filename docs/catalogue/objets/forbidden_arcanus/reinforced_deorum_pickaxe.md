@@ -1,7 +1,7 @@
 # Reinforced Deorum Pickaxe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/reinforced_deorum_pickaxe.png" alt="Reinforced Deorum Pickaxe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/reinforced_deorum_pickaxe.png" alt="Reinforced Deorum Pickaxe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Reinforced Deorum Pickaxe</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

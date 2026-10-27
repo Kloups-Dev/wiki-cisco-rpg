@@ -1,7 +1,7 @@
 # Poisson moki dans un seau en ventium
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/ventium_charscale_moki_bucket.png" alt="Poisson moki dans un seau en ventium">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/ventium_charscale_moki_bucket.png" alt="Poisson moki dans un seau en ventium">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Poisson moki dans un seau en ventium</div>
 <div class="mc-tooltip-card__alias">Ventium Bucket of Charscale Moki</div>

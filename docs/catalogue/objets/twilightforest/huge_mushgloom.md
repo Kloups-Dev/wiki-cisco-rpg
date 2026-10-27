@@ -1,7 +1,7 @@
 # Énorme champignon lumieux
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/huge_mushgloom.png" alt="Énorme champignon lumieux">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/huge_mushgloom.png" alt="Énorme champignon lumieux">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Énorme champignon lumieux</div>
 <div class="mc-tooltip-card__alias">Huge Mushgloom</div>

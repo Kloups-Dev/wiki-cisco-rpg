@@ -1,7 +1,7 @@
 # Nid d'araignées
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/spider_nest.png" alt="Nid d&#x27;araignées">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/spider_nest.png" alt="Nid d&#x27;araignées">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Nid d&#x27;araignées</div>
 <div class="mc-tooltip-card__alias">Spider Nest</div>

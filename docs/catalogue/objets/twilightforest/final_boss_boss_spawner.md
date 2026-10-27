@@ -1,7 +1,7 @@
 # Final Boss Boss Spawner
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/final_boss_boss_spawner.png" alt="Final Boss Boss Spawner">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/final_boss_boss_spawner.png" alt="Final Boss Boss Spawner">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Final Boss Boss Spawner</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

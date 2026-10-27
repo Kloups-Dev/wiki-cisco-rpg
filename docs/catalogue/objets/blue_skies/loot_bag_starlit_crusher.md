@@ -1,7 +1,7 @@
 # Sac de récompenses du Déstructeur des Étoiles
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/loot_bag_starlit_crusher.png" alt="Sac de récompenses du Déstructeur des Étoiles">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/loot_bag_starlit_crusher.png" alt="Sac de récompenses du Déstructeur des Étoiles">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sac de récompenses du Déstructeur des Étoiles</div>
 <div class="mc-tooltip-card__alias">Starlit Crusher Loot Bag</div>

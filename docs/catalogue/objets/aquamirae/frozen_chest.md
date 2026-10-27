@@ -1,7 +1,7 @@
 # Frozen Chest
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/frozen_chest.png" alt="Frozen Chest">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/frozen_chest.png" alt="Frozen Chest">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Frozen Chest</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

@@ -1,7 +1,7 @@
 # Tentacle
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/tentacle.png" alt="Tentacle">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/tentacle.png" alt="Tentacle">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tentacle</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

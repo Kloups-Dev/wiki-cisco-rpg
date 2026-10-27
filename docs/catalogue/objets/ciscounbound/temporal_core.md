@@ -1,7 +1,7 @@
 # Temporal Core
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/temporal_core.png" alt="Temporal Core">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/temporal_core.png" alt="Temporal Core">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Temporal Core</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

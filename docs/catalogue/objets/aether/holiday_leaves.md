@@ -1,7 +1,7 @@
 # Holiday Leaves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/holiday_leaves.png" alt="Holiday Leaves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/holiday_leaves.png" alt="Holiday Leaves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Holiday Leaves</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

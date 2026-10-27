@@ -1,7 +1,7 @@
 # Towerwood craquelé
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/cracked_towerwood.png" alt="Towerwood craquelé">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/cracked_towerwood.png" alt="Towerwood craquelé">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Towerwood craquelé</div>
 <div class="mc-tooltip-card__alias">Cracked Towerwood</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Fumoir</strong><span>twilightforest:wood/smoked_cracked_towerwood</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/twilightforest/towerwood.md" title="Planches de Towerwood (twilightforest:towerwood)"><img src="../../../assets/generated/items/twilightforest/towerwood.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/cracked_towerwood.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Fumoir</strong><span>twilightforest:wood/smoked_cracked_towerwood</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/towerwood/" title="Planches de Towerwood (twilightforest:towerwood)"><img src="../../../../assets/generated/items/twilightforest/towerwood.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/cracked_towerwood.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

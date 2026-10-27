@@ -1,7 +1,7 @@
 # Terre lunaire labourée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/lunar_farmland.png" alt="Terre lunaire labourée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/lunar_farmland.png" alt="Terre lunaire labourée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Terre lunaire labourée</div>
 <div class="mc-tooltip-card__alias">Lunar Farmland</div>

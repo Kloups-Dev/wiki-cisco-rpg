@@ -1,7 +1,7 @@
 # Storm's Edge
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/storms_edge.png" alt="Storm&#x27;s Edge">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/storms_edge.png" alt="Storm&#x27;s Edge">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Storm&#x27;s Edge</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

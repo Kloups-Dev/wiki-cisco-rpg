@@ -1,7 +1,7 @@
 # Door of Seal
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/door_of_seal.png" alt="Door of Seal">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/door_of_seal.png" alt="Door of Seal">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Door of Seal</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

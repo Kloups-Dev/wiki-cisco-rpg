@@ -1,7 +1,7 @@
 # Feather Grass
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/feather_grass.png" alt="Feather Grass">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/feather_grass.png" alt="Feather Grass">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feather Grass</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

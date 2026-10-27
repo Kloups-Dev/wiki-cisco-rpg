@@ -1,7 +1,7 @@
 # Bois géant
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/giant_log.png" alt="Bois géant">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/giant_log.png" alt="Bois géant">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bois géant</div>
 <div class="mc-tooltip-card__alias">Giant Log</div>
@@ -20,9 +20,9 @@
 
 ## Utilisé dans
 
+- [Pioche de géant](../../../catalogue/objets/twilightforest/giant_pickaxe.md) — <code>twilightforest:giant_pickaxe</code>
 - [Épée de géant](../../../catalogue/objets/twilightforest/giant_sword.md) — <code>twilightforest:giant_sword</code>
 - **Oak Planks** — <code>minecraft:oak_planks</code>
-- [Pioche de géant](../../../catalogue/objets/twilightforest/giant_pickaxe.md) — <code>twilightforest:giant_pickaxe</code>
 
 ## Effets et caractéristiques
 

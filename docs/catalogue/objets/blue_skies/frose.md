@@ -1,7 +1,7 @@
 # Phrôse
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/frose.png" alt="Phrôse">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/frose.png" alt="Phrôse">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Phrôse</div>
 <div class="mc-tooltip-card__alias">Frose</div>

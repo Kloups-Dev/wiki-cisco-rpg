@@ -1,7 +1,7 @@
 # Furled Map
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/furled_map.png" alt="Furled Map">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/furled_map.png" alt="Furled Map">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Furled Map</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

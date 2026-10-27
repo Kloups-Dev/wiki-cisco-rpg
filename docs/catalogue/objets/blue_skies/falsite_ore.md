@@ -1,7 +1,7 @@
 # Minerai de falsite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/falsite_ore.png" alt="Minerai de falsite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/falsite_ore.png" alt="Minerai de falsite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Minerai de falsite</div>
 <div class="mc-tooltip-card__alias">Falsite Ore</div>

@@ -1,7 +1,7 @@
 # Radiant Sunshard
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/radiant_sunshard.png" alt="Radiant Sunshard">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/radiant_sunshard.png" alt="Radiant Sunshard">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Radiant Sunshard</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

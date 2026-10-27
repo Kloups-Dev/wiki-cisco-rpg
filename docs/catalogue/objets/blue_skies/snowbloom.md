@@ -1,7 +1,7 @@
 # Bouton glacial
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/snowbloom.png" alt="Bouton glacial">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/snowbloom.png" alt="Bouton glacial">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bouton glacial</div>
 <div class="mc-tooltip-card__alias">Snowbloom</div>

@@ -1,7 +1,7 @@
 # Evocation Rune
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/evocation_rune.png" alt="Evocation Rune">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/evocation_rune.png" alt="Evocation Rune">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Evocation Rune</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>
@@ -14,15 +14,15 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>irons_spellbooks:evocation_rune</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span><a class="jei-slot" href="../../../catalogue/objets/irons_spellbooks/blank_rune.md" title="Blank Runestone (irons_spellbooks:blank_rune)"><img src="../../../assets/generated/items/irons_spellbooks/blank_rune.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/irons_spellbooks/evocation_rune.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : irons_spellbooks-1.19.2-3.4.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>irons_spellbooks:evocation_rune</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span><a class="jei-slot" href="../../../../catalogue/objets/irons_spellbooks/blank_rune/" title="Blank Runestone (irons_spellbooks:blank_rune)"><img src="../../../../assets/generated/items/irons_spellbooks/blank_rune.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:evocation_focus">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/irons_spellbooks/evocation_rune.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : irons_spellbooks-1.19.2-3.4.0.jar</div></div>
 
 ## Utilisé dans
 
-- [Archevoker Hat](../../../catalogue/objets/irons_spellbooks/archevoker_helmet.md) — <code>irons_spellbooks:archevoker_helmet</code>
-- [Evocation Upgrade Orb](../../../catalogue/objets/irons_spellbooks/evocation_upgrade_orb.md) — <code>irons_spellbooks:evocation_upgrade_orb</code>
-- [Archevoker Coat](../../../catalogue/objets/irons_spellbooks/archevoker_chestplate.md) — <code>irons_spellbooks:archevoker_chestplate</code>
-- [Archevoker Leggings](../../../catalogue/objets/irons_spellbooks/archevoker_leggings.md) — <code>irons_spellbooks:archevoker_leggings</code>
 - [Archevoker Boots](../../../catalogue/objets/irons_spellbooks/archevoker_boots.md) — <code>irons_spellbooks:archevoker_boots</code>
+- [Archevoker Coat](../../../catalogue/objets/irons_spellbooks/archevoker_chestplate.md) — <code>irons_spellbooks:archevoker_chestplate</code>
+- [Archevoker Hat](../../../catalogue/objets/irons_spellbooks/archevoker_helmet.md) — <code>irons_spellbooks:archevoker_helmet</code>
+- [Archevoker Leggings](../../../catalogue/objets/irons_spellbooks/archevoker_leggings.md) — <code>irons_spellbooks:archevoker_leggings</code>
+- [Evocation Upgrade Orb](../../../catalogue/objets/irons_spellbooks/evocation_upgrade_orb.md) — <code>irons_spellbooks:evocation_upgrade_orb</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Charm of Scorched Sun
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticaddons/scorched_charm.png" alt="Charm of Scorched Sun">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticaddons/scorched_charm.png" alt="Charm of Scorched Sun">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Charm of Scorched Sun</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticaddons:scorched_charm</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Blaze Powder (minecraft:blaze_powder)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Blaze Powder (minecraft:blaze_powder)">?</span><span class="jei-slot" title="Netherite Scrap (minecraft:netherite_scrap)">?</span><a class="jei-slot" href="../../../catalogue/objets/enigmaticlegacy/blazing_core.md" title="Blazing Core (enigmaticlegacy:blazing_core)"><img src="../../../assets/generated/items/enigmaticlegacy/blazing_core.png" alt="" loading="lazy"></a><span class="jei-slot" title="Netherite Scrap (minecraft:netherite_scrap)">?</span><span class="jei-slot" title="Basalt (minecraft:basalt)">?</span><a class="jei-slot" href="../../../catalogue/objets/enigmaticaddons/pure_heart.md" title="Pure Heart (enigmaticaddons:pure_heart)"><img src="../../../assets/generated/items/enigmaticaddons/pure_heart.png" alt="" loading="lazy"></a><span class="jei-slot" title="Basalt (minecraft:basalt)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/enigmaticaddons/scorched_charm.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : enigmaticaddons-1.19.2-1.2.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticaddons:scorched_charm</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Blaze Powder (minecraft:blaze_powder)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Blaze Powder (minecraft:blaze_powder)">?</span><span class="jei-slot" title="Netherite Scrap (minecraft:netherite_scrap)">?</span><a class="jei-slot" href="../../../../catalogue/objets/enigmaticlegacy/blazing_core/" title="Blazing Core (enigmaticlegacy:blazing_core)"><img src="../../../../assets/generated/items/enigmaticlegacy/blazing_core.png" alt="" loading="lazy"></a><span class="jei-slot" title="Netherite Scrap (minecraft:netherite_scrap)">?</span><span class="jei-slot" title="Basalt (minecraft:basalt)">?</span><a class="jei-slot" href="../../../../catalogue/objets/enigmaticaddons/pure_heart/" title="Pure Heart (enigmaticaddons:pure_heart)"><img src="../../../../assets/generated/items/enigmaticaddons/pure_heart.png" alt="" loading="lazy"></a><span class="jei-slot" title="Basalt (minecraft:basalt)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/enigmaticaddons/scorched_charm.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : enigmaticaddons-1.19.2-1.2.2.jar</div></div>
 
 ## Utilisé dans
 

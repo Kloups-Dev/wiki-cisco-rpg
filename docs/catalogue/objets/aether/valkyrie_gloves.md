@@ -1,7 +1,7 @@
 # Valkyrie Gloves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/valkyrie_gloves.png" alt="Valkyrie Gloves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/valkyrie_gloves.png" alt="Valkyrie Gloves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Valkyrie Gloves</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

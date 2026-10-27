@@ -1,7 +1,7 @@
 # Aersmog
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/aersmog.png" alt="Aersmog">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/aersmog.png" alt="Aersmog">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aersmog</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

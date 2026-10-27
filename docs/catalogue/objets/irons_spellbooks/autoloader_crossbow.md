@@ -1,7 +1,7 @@
 # Autoloader Crossbow
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/autoloader_crossbow.png" alt="Autoloader Crossbow">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/autoloader_crossbow.png" alt="Autoloader Crossbow">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Autoloader Crossbow</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

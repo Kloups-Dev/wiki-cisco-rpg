@@ -1,7 +1,7 @@
 # Tidal Claws
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/tidal_claws.png" alt="Tidal Claws">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/tidal_claws.png" alt="Tidal Claws">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tidal Claws</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

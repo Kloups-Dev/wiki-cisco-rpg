@@ -1,7 +1,7 @@
 # Blazing Eye
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/bosses_of_mass_destruction/blazing_eye.png" alt="Blazing Eye">
+<img class="mc-item-icon" src="../../../../assets/generated/items/bosses_of_mass_destruction/blazing_eye.png" alt="Blazing Eye">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Blazing Eye</div>
 <div class="mc-tooltip-card__mod">Bosses of Mass Destruction</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Table of Elevation](../../../catalogue/objets/bosses_of_mass_destruction/levitation_block.md) — <code>bosses_of_mass_destruction:levitation_block</code>
 - [Blast Amplifier](../../../catalogue/objets/bosses_of_mass_destruction/monolith_block.md) — <code>bosses_of_mass_destruction:monolith_block</code>
+- [Table of Elevation](../../../catalogue/objets/bosses_of_mass_destruction/levitation_block.md) — <code>bosses_of_mass_destruction:levitation_block</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Dreadsteel Chestplate
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/dreadsteel/dreadsteel_chestplate.png" alt="Dreadsteel Chestplate">
+<img class="mc-item-icon" src="../../../../assets/generated/items/dreadsteel/dreadsteel_chestplate.png" alt="Dreadsteel Chestplate">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Dreadsteel Chestplate</div>
 <div class="mc-tooltip-card__mod">Dreadsteel</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge — recette Cisco</strong><span>crafttweaker:dreadsteel_chestplate</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot" title="Netherite Chestplate (minecraft:netherite_chestplate)">?</span><a class="jei-slot" href="../../../catalogue/objets/dreadsteel/dreadsteel_ingot.md" title="Dreadsteel Ingot (dreadsteel:dreadsteel_ingot)"><img src="../../../assets/generated/items/dreadsteel/dreadsteel_ingot.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/dreadsteel/dreadsteel_chestplate.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : Cisco.zs</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge — recette Cisco</strong><span>crafttweaker:dreadsteel_chestplate</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot" title="Netherite Chestplate (minecraft:netherite_chestplate)">?</span><a class="jei-slot" href="../../../../catalogue/objets/dreadsteel/dreadsteel_ingot/" title="Dreadsteel Ingot (dreadsteel:dreadsteel_ingot)"><img src="../../../../assets/generated/items/dreadsteel/dreadsteel_ingot.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/dreadsteel/dreadsteel_chestplate.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : Cisco.zs</div></div>
 
 ## Utilisé dans
 

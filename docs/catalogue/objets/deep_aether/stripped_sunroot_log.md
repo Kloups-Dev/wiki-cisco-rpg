@@ -1,7 +1,7 @@
 # Stripped Sunroot Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/stripped_sunroot_log.png" alt="Stripped Sunroot Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/stripped_sunroot_log.png" alt="Stripped Sunroot Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Sunroot Log</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

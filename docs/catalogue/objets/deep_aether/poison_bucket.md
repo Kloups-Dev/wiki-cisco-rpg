@@ -1,7 +1,7 @@
 # Poison Bucket
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/poison_bucket.png" alt="Poison Bucket">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/poison_bucket.png" alt="Poison Bucket">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Poison Bucket</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

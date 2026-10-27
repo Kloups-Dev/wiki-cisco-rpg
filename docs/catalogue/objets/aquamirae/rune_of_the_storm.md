@@ -1,7 +1,7 @@
 # Rune of the Storm
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/rune_of_the_storm.png" alt="Rune of the Storm">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/rune_of_the_storm.png" alt="Rune of the Storm">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Rune of the Storm</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

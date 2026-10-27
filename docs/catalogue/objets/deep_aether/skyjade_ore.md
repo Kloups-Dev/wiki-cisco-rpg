@@ -1,7 +1,7 @@
 # Skyjade Ore
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/skyjade_ore.png" alt="Skyjade Ore">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/skyjade_ore.png" alt="Skyjade Ore">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Skyjade Ore</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

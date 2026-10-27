@@ -1,7 +1,7 @@
 # Reinforced Deorum Blacksmith Gavel
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/reinforced_deorum_blacksmith_gavel.png" alt="Reinforced Deorum Blacksmith Gavel">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/reinforced_deorum_blacksmith_gavel.png" alt="Reinforced Deorum Blacksmith Gavel">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Reinforced Deorum Blacksmith Gavel</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

@@ -1,7 +1,7 @@
 # Éclat d'étoile
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/star_flare.png" alt="Éclat d&#x27;étoile">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/star_flare.png" alt="Éclat d&#x27;étoile">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Éclat d&#x27;étoile</div>
 <div class="mc-tooltip-card__alias">Star Flare</div>

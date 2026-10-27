@@ -1,7 +1,7 @@
 # Dent de Naga
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/naga_fang.png" alt="Dent de Naga">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/naga_fang.png" alt="Dent de Naga">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Dent de Naga</div>
 <div class="mc-tooltip-card__alias">Naga Fang</div>
@@ -20,8 +20,8 @@
 
 ## Utilisé dans
 
-- [Dague en dent de naga](../../../catalogue/objets/mowziesmobs/naga_fang_dagger.md) — <code>mowziesmobs:naga_fang_dagger</code>
 - [Fléchette](../../../catalogue/objets/mowziesmobs/dart.md) — <code>mowziesmobs:dart</code>
+- [Dague en dent de naga](../../../catalogue/objets/mowziesmobs/naga_fang_dagger.md) — <code>mowziesmobs:naga_fang_dagger</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Arc de l'Ender
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/ender_bow.png" alt="Arc de l&#x27;Ender">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/ender_bow.png" alt="Arc de l&#x27;Ender">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Arc de l&#x27;Ender</div>
 <div class="mc-tooltip-card__alias">Ender Bow</div>

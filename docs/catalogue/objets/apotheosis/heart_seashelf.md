@@ -1,7 +1,7 @@
 # Heart-Forged Seashelf
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/heart_seashelf.png" alt="Heart-Forged Seashelf">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/heart_seashelf.png" alt="Heart-Forged Seashelf">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Heart-Forged Seashelf</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

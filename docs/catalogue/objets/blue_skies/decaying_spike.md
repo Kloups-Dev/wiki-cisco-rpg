@@ -1,7 +1,7 @@
 # Pic en décomposition
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/decaying_spike.png" alt="Pic en décomposition">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/decaying_spike.png" alt="Pic en décomposition">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pic en décomposition</div>
 <div class="mc-tooltip-card__alias">Decaying Spike</div>

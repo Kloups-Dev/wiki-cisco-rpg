@@ -1,7 +1,7 @@
 # Corne en ruine
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/crumble_horn.png" alt="Corne en ruine">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/crumble_horn.png" alt="Corne en ruine">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Corne en ruine</div>
 <div class="mc-tooltip-card__alias">Crumble Horn</div>

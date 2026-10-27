@@ -1,7 +1,7 @@
 # Victory Medal
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/victory_medal.png" alt="Victory Medal">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/victory_medal.png" alt="Victory Medal">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Victory Medal</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

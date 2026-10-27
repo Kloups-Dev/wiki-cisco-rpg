@@ -1,7 +1,7 @@
 # Mysterious Scrap Metal
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/common_material.png" alt="Mysterious Scrap Metal">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/common_material.png" alt="Mysterious Scrap Metal">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mysterious Scrap Metal</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

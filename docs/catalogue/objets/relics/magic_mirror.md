@@ -1,7 +1,7 @@
 # Magic Mirror
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/magic_mirror.png" alt="Magic Mirror">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/magic_mirror.png" alt="Magic Mirror">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Magic Mirror</div>
 <div class="mc-tooltip-card__mod">Relics</div>

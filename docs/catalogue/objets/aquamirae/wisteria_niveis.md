@@ -1,7 +1,7 @@
 # Wisteria Niveis
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/wisteria_niveis.png" alt="Wisteria Niveis">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/wisteria_niveis.png" alt="Wisteria Niveis">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Wisteria Niveis</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

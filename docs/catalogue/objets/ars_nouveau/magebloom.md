@@ -1,7 +1,7 @@
 # Magefleur
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/magebloom.png" alt="Magefleur">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/magebloom.png" alt="Magefleur">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Magefleur</div>
 <div class="mc-tooltip-card__alias">Magebloom</div>
@@ -20,10 +20,10 @@
 
 ## Utilisé dans
 
-- [Tarte aux baies Source](../../../catalogue/objets/ars_nouveau/source_berry_pie.md) — <code>ars_nouveau:source_berry_pie</code>
-- [Surcroissance](../../../catalogue/objets/ars_nouveau/ritual_overgrowth.md) — <code>ars_nouveau:ritual_overgrowth</code>
 - [Fibre de magefleur](../../../catalogue/objets/ars_nouveau/magebloom_fiber.md) — <code>ars_nouveau:magebloom_fiber</code>
 - **Pink Dye** — <code>minecraft:pink_dye</code>
+- [Surcroissance](../../../catalogue/objets/ars_nouveau/ritual_overgrowth.md) — <code>ars_nouveau:ritual_overgrowth</code>
+- [Tarte aux baies Source](../../../catalogue/objets/ars_nouveau/source_berry_pie.md) — <code>ars_nouveau:source_berry_pie</code>
 
 ## Effets et caractéristiques
 

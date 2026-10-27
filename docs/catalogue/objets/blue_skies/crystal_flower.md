@@ -1,7 +1,7 @@
 # Bourgeon cristallisé
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/crystal_flower.png" alt="Bourgeon cristallisé">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/crystal_flower.png" alt="Bourgeon cristallisé">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bourgeon cristallisé</div>
 <div class="mc-tooltip-card__alias">Crystal Flower</div>

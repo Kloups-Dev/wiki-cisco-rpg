@@ -1,7 +1,7 @@
 # Livre d'invocation
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/summoning_tome.png" alt="Livre d&#x27;invocation">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/summoning_tome.png" alt="Livre d&#x27;invocation">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Livre d&#x27;invocation</div>
 <div class="mc-tooltip-card__alias">Summoning Tome</div>

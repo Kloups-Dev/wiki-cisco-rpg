@@ -1,7 +1,7 @@
 # Habillage de sorcier
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/novice_robes.png" alt="Habillage de sorcier">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/novice_robes.png" alt="Habillage de sorcier">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Habillage de sorcier</div>
 <div class="mc-tooltip-card__alias">Sorceror&#x27;s Wrap</div>
@@ -15,8 +15,8 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting Apparatus</strong><span>ars_nouveau:novice_robes</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_nouveau/novice_robes.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Dye</strong><span>ars_nouveau:dye_novice_robes</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot jei-slot--tag" title="#forge:dyes">#</span><a class="jei-slot" href="../../../catalogue/objets/ars_nouveau/novice_robes.md" title="Habillage de sorcier (ars_nouveau:novice_robes)"><img src="../../../assets/generated/items/ars_nouveau/novice_robes.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_nouveau/novice_robes.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Dye</strong><span>ars_nouveau:dye_novice_robes</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot jei-slot--tag" title="#forge:dyes">#</span><a class="jei-slot" href="../../../../catalogue/objets/ars_nouveau/novice_robes/" title="Habillage de sorcier (ars_nouveau:novice_robes)"><img src="../../../../assets/generated/items/ars_nouveau/novice_robes.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_nouveau/novice_robes.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting Apparatus</strong><span>ars_nouveau:novice_robes</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_nouveau/novice_robes.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
 
 ## Utilisé dans
 

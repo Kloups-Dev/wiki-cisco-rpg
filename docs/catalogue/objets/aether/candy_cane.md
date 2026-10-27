@@ -1,7 +1,7 @@
 # Candy Cane
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/candy_cane.png" alt="Candy Cane">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/candy_cane.png" alt="Candy Cane">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Candy Cane</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

@@ -1,7 +1,7 @@
 # Mini Golden Grass
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/mini_golden_grass.png" alt="Mini Golden Grass">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/mini_golden_grass.png" alt="Mini Golden Grass">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mini Golden Grass</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

@@ -1,7 +1,7 @@
 # Mask of Fear
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/umvuthana_mask_fear.png" alt="Mask of Fear">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/umvuthana_mask_fear.png" alt="Mask of Fear">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mask of Fear</div>
 <div class="mc-tooltip-card__mod">Mowzie&#x27;s Mobs</div>

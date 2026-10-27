@@ -1,7 +1,7 @@
 # Jambières de Shinobi
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/knightquest/shinobi_leggings.png" alt="Jambières de Shinobi">
+<img class="mc-item-icon" src="../../../../assets/generated/items/knightquest/shinobi_leggings.png" alt="Jambières de Shinobi">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Jambières de Shinobi</div>
 <div class="mc-tooltip-card__alias">Shinobi Leggings</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:shinobi_leggings</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Diamond Sword (minecraft:diamond_sword)">?</span><span class="jei-slot" title="Red Banner (minecraft:red_banner)">?</span><a class="jei-slot" href="../../../catalogue/objets/knightquest/filled_goblet.md" title="Gobelet Rempli (knightquest:filled_goblet)"><img src="../../../assets/generated/items/knightquest/filled_goblet.png" alt="" loading="lazy"></a><span class="jei-slot" title="Diamond Leggings (minecraft:diamond_leggings)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/knightquest/shinobi_leggings.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:shinobi_leggings</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Diamond Sword (minecraft:diamond_sword)">?</span><span class="jei-slot" title="Red Banner (minecraft:red_banner)">?</span><a class="jei-slot" href="../../../../catalogue/objets/knightquest/filled_goblet/" title="Gobelet Rempli (knightquest:filled_goblet)"><img src="../../../../assets/generated/items/knightquest/filled_goblet.png" alt="" loading="lazy"></a><span class="jei-slot" title="Diamond Leggings (minecraft:diamond_leggings)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/knightquest/shinobi_leggings.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
 
 ## Utilisé dans
 

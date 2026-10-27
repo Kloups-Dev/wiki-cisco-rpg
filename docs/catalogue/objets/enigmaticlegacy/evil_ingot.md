@@ -1,7 +1,7 @@
 # Nefarious Ingot
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/evil_ingot.png" alt="Nefarious Ingot">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/evil_ingot.png" alt="Nefarious Ingot">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Nefarious Ingot</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -14,12 +14,12 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticlegacy:evil_ingot</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><a class="jei-slot" href="../../../catalogue/objets/enigmaticlegacy/evil_essence.md" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><a class="jei-slot" href="../../../catalogue/objets/enigmaticlegacy/evil_essence.md" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><a class="jei-slot" href="../../../catalogue/objets/enigmaticlegacy/evil_essence.md" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><a class="jei-slot" href="../../../catalogue/objets/enigmaticlegacy/evil_essence.md" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/enigmaticlegacy/evil_ingot.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticlegacy:evil_ingot</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><a class="jei-slot" href="../../../../catalogue/objets/enigmaticlegacy/evil_essence/" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><a class="jei-slot" href="../../../../catalogue/objets/enigmaticlegacy/evil_essence/" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><a class="jei-slot" href="../../../../catalogue/objets/enigmaticlegacy/evil_essence/" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><a class="jei-slot" href="../../../../catalogue/objets/enigmaticlegacy/evil_essence/" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/enigmaticlegacy/evil_ingot.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
 
 ## Utilisé dans
 
-- [The Curse Carver](../../../catalogue/objets/enigmaticaddons/evil_dagger.md) — <code>enigmaticaddons:evil_dagger</code>
 - [The Arrogance of Chaos](../../../catalogue/objets/enigmaticaddons/chaos_elytra.md) — <code>enigmaticaddons:chaos_elytra</code>
+- [The Curse Carver](../../../catalogue/objets/enigmaticaddons/evil_dagger.md) — <code>enigmaticaddons:evil_dagger</code>
 
 ## Effets et caractéristiques
 

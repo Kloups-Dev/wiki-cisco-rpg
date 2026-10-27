@@ -1,7 +1,7 @@
 # Expérience 115
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/experiment_115.png" alt="Expérience 115">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/experiment_115.png" alt="Expérience 115">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Expérience 115</div>
 <div class="mc-tooltip-card__alias">Experiment 115</div>

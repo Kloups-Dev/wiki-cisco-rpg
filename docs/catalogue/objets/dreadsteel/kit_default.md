@@ -1,7 +1,7 @@
 # Default Kit
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/dreadsteel/kit_default.png" alt="Default Kit">
+<img class="mc-item-icon" src="../../../../assets/generated/items/dreadsteel/kit_default.png" alt="Default Kit">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Default Kit</div>
 <div class="mc-tooltip-card__mod">Dreadsteel</div>

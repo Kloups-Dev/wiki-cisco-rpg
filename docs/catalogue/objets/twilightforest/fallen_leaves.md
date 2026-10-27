@@ -1,7 +1,7 @@
 # Leaf Pile
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/fallen_leaves.png" alt="Leaf Pile">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/fallen_leaves.png" alt="Leaf Pile">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Leaf Pile</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

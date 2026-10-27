@@ -1,7 +1,7 @@
 # Tome of the Others
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/other_tome.png" alt="Tome of the Others">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/other_tome.png" alt="Tome of the Others">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tome of the Others</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

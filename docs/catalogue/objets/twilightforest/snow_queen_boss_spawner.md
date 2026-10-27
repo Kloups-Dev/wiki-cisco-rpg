@@ -1,7 +1,7 @@
 # Snow Queen Boss Spawner
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/snow_queen_boss_spawner.png" alt="Snow Queen Boss Spawner">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/snow_queen_boss_spawner.png" alt="Snow Queen Boss Spawner">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Snow Queen Boss Spawner</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

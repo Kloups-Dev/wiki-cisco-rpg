@@ -1,7 +1,7 @@
 # Twilight Forest Trophy
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/trophy.png" alt="Twilight Forest Trophy">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/trophy.png" alt="Twilight Forest Trophy">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Twilight Forest Trophy</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

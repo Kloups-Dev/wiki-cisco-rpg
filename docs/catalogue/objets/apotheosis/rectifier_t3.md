@@ -1,7 +1,7 @@
 # Shelf of End-Fused Rectification
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/rectifier_t3.png" alt="Shelf of End-Fused Rectification">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/rectifier_t3.png" alt="Shelf of End-Fused Rectification">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Shelf of End-Fused Rectification</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>apotheosis:rectifier_t3</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Amethyst Block (minecraft:amethyst_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Amethyst Block (minecraft:amethyst_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><a class="jei-slot" href="../../../catalogue/objets/apotheosis/rectifier_t2.md" title="Shelf of Hellbound Rectification (apotheosis:rectifier_t2)"><img src="../../../assets/generated/items/apotheosis/rectifier_t2.png" alt="" loading="lazy"></a><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Amethyst Block (minecraft:amethyst_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Amethyst Block (minecraft:amethyst_block)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/apotheosis/rectifier_t3.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : Apotheosis-1.19.2-6.5.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>apotheosis:rectifier_t3</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Amethyst Block (minecraft:amethyst_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Amethyst Block (minecraft:amethyst_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><a class="jei-slot" href="../../../../catalogue/objets/apotheosis/rectifier_t2/" title="Shelf of Hellbound Rectification (apotheosis:rectifier_t2)"><img src="../../../../assets/generated/items/apotheosis/rectifier_t2.png" alt="" loading="lazy"></a><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Amethyst Block (minecraft:amethyst_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Amethyst Block (minecraft:amethyst_block)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/apotheosis/rectifier_t3.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : Apotheosis-1.19.2-6.5.2.jar</div></div>
 
 ## Utilisé dans
 

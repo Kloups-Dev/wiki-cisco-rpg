@@ -1,7 +1,7 @@
 # Stratus Shield
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/stratus_shield.png" alt="Stratus Shield">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/stratus_shield.png" alt="Stratus Shield">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stratus Shield</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

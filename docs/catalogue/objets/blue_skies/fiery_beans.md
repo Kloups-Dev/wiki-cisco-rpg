@@ -1,7 +1,7 @@
 # Pois ardents
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/fiery_beans.png" alt="Pois ardents">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/fiery_beans.png" alt="Pois ardents">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pois ardents</div>
 <div class="mc-tooltip-card__alias">Green Beans</div>

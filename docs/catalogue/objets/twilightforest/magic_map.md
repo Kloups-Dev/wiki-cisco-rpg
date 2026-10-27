@@ -1,7 +1,7 @@
 # Carte magique vierge
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/magic_map.png" alt="Carte magique vierge">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/magic_map.png" alt="Carte magique vierge">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Carte magique vierge</div>
 <div class="mc-tooltip-card__alias">Blank Magic Map</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>twilightforest:magic_map</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><a class="jei-slot" href="../../../catalogue/objets/twilightforest/magic_map_focus.md" title="Foyer de carte magique (twilightforest:magic_map_focus)"><img src="../../../assets/generated/items/twilightforest/magic_map_focus.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/magic_map.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>twilightforest:magic_map</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/magic_map_focus/" title="Foyer de carte magique (twilightforest:magic_map_focus)"><img src="../../../../assets/generated/items/twilightforest/magic_map_focus.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span><span class="jei-slot jei-slot--tag" title="#forge:paper">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/magic_map.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

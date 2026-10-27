@@ -1,7 +1,7 @@
 # Crofruit
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/crescent_fruit.png" alt="Crofruit">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/crescent_fruit.png" alt="Crofruit">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Crofruit</div>
 <div class="mc-tooltip-card__alias">Nectarine</div>

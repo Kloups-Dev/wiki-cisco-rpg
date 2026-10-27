@@ -1,7 +1,7 @@
 # Pousse d'arbre de Sorting
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/sorting_sapling.png" alt="Pousse d&#x27;arbre de Sorting">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/sorting_sapling.png" alt="Pousse d&#x27;arbre de Sorting">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pousse d&#x27;arbre de Sorting</div>
 <div class="mc-tooltip-card__alias">Sorting Tree Sapling</div>

@@ -1,7 +1,7 @@
 # Crying Boots [NYI]
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/crying_boots.png" alt="Crying Boots [NYI]">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/crying_boots.png" alt="Crying Boots [NYI]">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Crying Boots [NYI]</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

@@ -1,7 +1,7 @@
 # Obsidienne géante
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/giant_obsidian.png" alt="Obsidienne géante">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/giant_obsidian.png" alt="Obsidienne géante">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Obsidienne géante</div>
 <div class="mc-tooltip-card__alias">Giant Obsidian</div>

@@ -1,7 +1,7 @@
 # Enchanted Blossom
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/enchanted_blossom.png" alt="Enchanted Blossom">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/enchanted_blossom.png" alt="Enchanted Blossom">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Enchanted Blossom</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

@@ -1,7 +1,7 @@
 # Staff of Testing
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/dev_staff.png" alt="Staff of Testing">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/dev_staff.png" alt="Staff of Testing">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Staff of Testing</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

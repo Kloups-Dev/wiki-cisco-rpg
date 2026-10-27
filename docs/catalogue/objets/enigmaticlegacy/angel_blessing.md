@@ -1,7 +1,7 @@
 # Angel's Blessing
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/angel_blessing.png" alt="Angel&#x27;s Blessing">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/angel_blessing.png" alt="Angel&#x27;s Blessing">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Angel&#x27;s Blessing</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Gift of the Heaven](../../../catalogue/objets/enigmaticlegacy/heaven_scroll.md) — <code>enigmaticlegacy:heaven_scroll</code>
 - [Majestic Elytra](../../../catalogue/objets/enigmaticlegacy/enigmatic_elytra.md) — <code>enigmaticlegacy:enigmatic_elytra</code>
+- [Gift of the Heaven](../../../catalogue/objets/enigmaticlegacy/heaven_scroll.md) — <code>enigmaticlegacy:heaven_scroll</code>
 
 ## Effets et caractéristiques
 

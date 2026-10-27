@@ -1,7 +1,7 @@
 # Edelwood Water Bucket
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/edelwood_water_bucket.png" alt="Edelwood Water Bucket">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/edelwood_water_bucket.png" alt="Edelwood Water Bucket">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Edelwood Water Bucket</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

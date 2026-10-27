@@ -1,7 +1,7 @@
 # Sol Visage
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/sol_visage.png" alt="Sol Visage">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/sol_visage.png" alt="Sol Visage">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sol Visage</div>
 <div class="mc-tooltip-card__mod">Mowzie&#x27;s Mobs</div>

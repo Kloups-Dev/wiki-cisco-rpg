@@ -1,7 +1,7 @@
 # Edelwood Milk Bucket
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/edelwood_milk_bucket.png" alt="Edelwood Milk Bucket">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/edelwood_milk_bucket.png" alt="Edelwood Milk Bucket">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Edelwood Milk Bucket</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

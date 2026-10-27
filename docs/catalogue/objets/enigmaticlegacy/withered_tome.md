@@ -1,7 +1,7 @@
 # Withered Tome
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/withered_tome.png" alt="Withered Tome">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/withered_tome.png" alt="Withered Tome">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Withered Tome</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

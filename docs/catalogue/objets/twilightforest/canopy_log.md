@@ -1,7 +1,7 @@
 # Canopy Tree Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/canopy_log.png" alt="Canopy Tree Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/canopy_log.png" alt="Canopy Tree Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Canopy Tree Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>
@@ -19,9 +19,9 @@
 
 ## Utilisé dans
 
-- [Bois d'arbre canopée](../../../catalogue/objets/twilightforest/canopy_wood.md) — <code>twilightforest:canopy_wood</code>
-- [Planches de canopée](../../../catalogue/objets/twilightforest/canopy_planks.md) — <code>twilightforest:canopy_planks</code>
 - [Hollow Canopy Log](../../../catalogue/objets/twilightforest/hollow_canopy_log_vertical.md) — <code>twilightforest:hollow_canopy_log_vertical</code>
+- [Planches de canopée](../../../catalogue/objets/twilightforest/canopy_planks.md) — <code>twilightforest:canopy_planks</code>
+- [Bois d'arbre canopée](../../../catalogue/objets/twilightforest/canopy_wood.md) — <code>twilightforest:canopy_wood</code>
 
 ## Effets et caractéristiques
 

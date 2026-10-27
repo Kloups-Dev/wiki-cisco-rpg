@@ -1,7 +1,7 @@
 # True Dragons Breath
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/true_dragons_breath.png" alt="True Dragons Breath">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/true_dragons_breath.png" alt="True Dragons Breath">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">True Dragons Breath</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

@@ -1,7 +1,7 @@
 # Lianes lunaires
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/lunar_vine.png" alt="Lianes lunaires">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/lunar_vine.png" alt="Lianes lunaires">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Lianes lunaires</div>
 <div class="mc-tooltip-card__alias">Lunar Vines</div>
@@ -20,8 +20,8 @@
 
 ## Utilisé dans
 
-- [Pierre taillée lunaire moussue](../../../catalogue/objets/blue_skies/mossy_lunar_stonebrick.md) — <code>blue_skies:mossy_lunar_stonebrick</code>
 - [Pierres lunaires moussues](../../../catalogue/objets/blue_skies/mossy_lunar_cobblestone.md) — <code>blue_skies:mossy_lunar_cobblestone</code>
+- [Pierre taillée lunaire moussue](../../../catalogue/objets/blue_skies/mossy_lunar_stonebrick.md) — <code>blue_skies:mossy_lunar_stonebrick</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Creativerite Totem of Undying
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/upgradednetherite_items/creative_upgraded_netherite_totem.png" alt="Creativerite Totem of Undying">
+<img class="mc-item-icon" src="../../../../assets/generated/items/upgradednetherite_items/creative_upgraded_netherite_totem.png" alt="Creativerite Totem of Undying">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Creativerite Totem of Undying</div>
 <div class="mc-tooltip-card__mod">Upgraded Netherite</div>

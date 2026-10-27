@@ -1,7 +1,7 @@
 # Disque
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/meetyourfight/music_disc_frogpunch.png" alt="Disque">
+<img class="mc-item-icon" src="../../../../assets/generated/items/meetyourfight/music_disc_frogpunch.png" alt="Disque">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Disque</div>
 <div class="mc-tooltip-card__alias">Music Disc</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>meetyourfight:music_disc_frogpunch</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#minecraft:music_discs">#</span><a class="jei-slot" href="../../../catalogue/objets/meetyourfight/violet_bloom.md" title="Floraison violette (meetyourfight:violet_bloom)"><img src="../../../assets/generated/items/meetyourfight/violet_bloom.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/meetyourfight/music_disc_frogpunch.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>meetyourfight:music_disc_frogpunch</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#minecraft:music_discs">#</span><a class="jei-slot" href="../../../../catalogue/objets/meetyourfight/violet_bloom/" title="Floraison violette (meetyourfight:violet_bloom)"><img src="../../../../assets/generated/items/meetyourfight/violet_bloom.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/meetyourfight/music_disc_frogpunch.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
 
 ## Utilisé dans
 

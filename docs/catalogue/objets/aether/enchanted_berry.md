@@ -1,7 +1,7 @@
 # Enchanted Berry
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/enchanted_berry.png" alt="Enchanted Berry">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/enchanted_berry.png" alt="Enchanted Berry">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Enchanted Berry</div>
 <div class="mc-tooltip-card__mod">The Aether</div>
@@ -14,8 +14,8 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting</strong><span>aether:enchanted_berry_enchanting</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/aether/enchanted_berry.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : aether-1.19.2-1.4.2-forge.jar</div></div>
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Poison Recipe</strong><span>deep_aether:blueberry_from_poison</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/aether/enchanted_berry.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting</strong><span>aether:enchanted_berry_enchanting</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/aether/enchanted_berry.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : aether-1.19.2-1.4.2-forge.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Poison Recipe</strong><span>deep_aether:blueberry_from_poison</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/aether/enchanted_berry.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
 
 ## Utilisé dans
 

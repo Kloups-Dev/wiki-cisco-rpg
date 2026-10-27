@@ -1,7 +1,7 @@
 # Jellyfish Necklace
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/jellyfish_necklace.png" alt="Jellyfish Necklace">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/jellyfish_necklace.png" alt="Jellyfish Necklace">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Jellyfish Necklace</div>
 <div class="mc-tooltip-card__mod">Relics</div>

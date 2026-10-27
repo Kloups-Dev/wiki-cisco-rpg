@@ -1,7 +1,7 @@
 # Awakened Equillibrium
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/equillibrium.png" alt="Awakened Equillibrium">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/equillibrium.png" alt="Awakened Equillibrium">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Awakened Equillibrium</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

@@ -1,7 +1,7 @@
 # Enderite Essence
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/upgradednetherite/ender_essence.png" alt="Enderite Essence">
+<img class="mc-item-icon" src="../../../../assets/generated/items/upgradednetherite/ender_essence.png" alt="Enderite Essence">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Enderite Essence</div>
 <div class="mc-tooltip-card__mod">Upgraded Netherite</div>
@@ -14,22 +14,22 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>upgradednetherite:ender_essence</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Dragon Breath (minecraft:dragon_breath)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><span class="jei-slot" title="Ender Pearl (minecraft:ender_pearl)">?</span><span class="jei-slot" title="Ender Pearl (minecraft:ender_pearl)">?</span><span class="jei-slot" title="Ender Pearl (minecraft:ender_pearl)">?</span><span class="jei-slot" title="Ender Pearl (minecraft:ender_pearl)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/upgradednetherite/ender_essence.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : upgradednetherite-1.19.2-5.1.0.9-release.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>upgradednetherite:ender_essence</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Dragon Breath (minecraft:dragon_breath)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><span class="jei-slot" title="Ender Pearl (minecraft:ender_pearl)">?</span><span class="jei-slot" title="Ender Pearl (minecraft:ender_pearl)">?</span><span class="jei-slot" title="Ender Pearl (minecraft:ender_pearl)">?</span><span class="jei-slot" title="Ender Pearl (minecraft:ender_pearl)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/upgradednetherite/ender_essence.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : upgradednetherite-1.19.2-5.1.0.9-release.jar</div></div>
 
 ## Utilisé dans
 
-- [Enderite Ingot](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_ingot.md) — <code>upgradednetherite:ender_upgraded_netherite_ingot</code>
+- [Enderite Axe](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_axe.md) — <code>upgradednetherite:ender_upgraded_netherite_axe</code>
+- [Enderite Boots](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_boots.md) — <code>upgradednetherite:ender_upgraded_netherite_boots</code>
+- [Enderite Bow](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_bow.md) — <code>upgradednetherite:ender_upgraded_netherite_bow</code>
 - [Enderite Chestplate](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_chestplate.md) — <code>upgradednetherite:ender_upgraded_netherite_chestplate</code>
 - [Enderite Crossbow](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_crossbow.md) — <code>upgradednetherite:ender_upgraded_netherite_crossbow</code>
 - [Enderite Helmet](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_helmet.md) — <code>upgradednetherite:ender_upgraded_netherite_helmet</code>
-- [Enderite Shovel](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_shovel.md) — <code>upgradednetherite:ender_upgraded_netherite_shovel</code>
-- [Enderite Bow](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_bow.md) — <code>upgradednetherite:ender_upgraded_netherite_bow</code>
-- [Enderite Boots](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_boots.md) — <code>upgradednetherite:ender_upgraded_netherite_boots</code>
-- [Enderite Axe](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_axe.md) — <code>upgradednetherite:ender_upgraded_netherite_axe</code>
-- [Enderite Pickaxe](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_pickaxe.md) — <code>upgradednetherite:ender_upgraded_netherite_pickaxe</code>
 - [Endererite Horse Armor](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_horse_armor.md) — <code>upgradednetherite:ender_upgraded_netherite_horse_armor</code>
+- [Enderite Ingot](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_ingot.md) — <code>upgradednetherite:ender_upgraded_netherite_ingot</code>
 - [Enderite Leggings](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_leggings.md) — <code>upgradednetherite:ender_upgraded_netherite_leggings</code>
+- [Enderite Pickaxe](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_pickaxe.md) — <code>upgradednetherite:ender_upgraded_netherite_pickaxe</code>
 - [Enderite Shield](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_shield.md) — <code>upgradednetherite:ender_upgraded_netherite_shield</code>
+- [Enderite Shovel](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_shovel.md) — <code>upgradednetherite:ender_upgraded_netherite_shovel</code>
 - [Enderite Sword](../../../catalogue/objets/upgradednetherite/ender_upgraded_netherite_sword.md) — <code>upgradednetherite:ender_upgraded_netherite_sword</code>
 - [Enderite Totem of Undying](../../../catalogue/objets/upgradednetherite_items/ender_upgraded_netherite_totem.md) — <code>upgradednetherite_items:ender_upgraded_netherite_totem</code>
 - [Ultimerite Essence](../../../catalogue/objets/upgradednetherite_ultimate/ultimate_essence.md) — <code>upgradednetherite_ultimate:ultimate_essence</code>

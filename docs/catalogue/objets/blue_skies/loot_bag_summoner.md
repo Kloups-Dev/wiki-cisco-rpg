@@ -1,7 +1,7 @@
 # Sac de récompenses du Sommonateur
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/loot_bag_summoner.png" alt="Sac de récompenses du Sommonateur">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/loot_bag_summoner.png" alt="Sac de récompenses du Sommonateur">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sac de récompenses du Sommonateur</div>
 <div class="mc-tooltip-card__alias">Summoner Loot Bag</div>

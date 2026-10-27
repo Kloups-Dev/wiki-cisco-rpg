@@ -1,7 +1,7 @@
 # Azure Seastone Slab
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/azure_seastone_slab.png" alt="Azure Seastone Slab">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/azure_seastone_slab.png" alt="Azure Seastone Slab">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Azure Seastone Slab</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

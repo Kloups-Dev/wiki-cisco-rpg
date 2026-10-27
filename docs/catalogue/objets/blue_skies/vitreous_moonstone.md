@@ -1,7 +1,7 @@
 # Pierre de lune vitreuse
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/vitreous_moonstone.png" alt="Pierre de lune vitreuse">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/vitreous_moonstone.png" alt="Pierre de lune vitreuse">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre de lune vitreuse</div>
 <div class="mc-tooltip-card__alias">Vitreous Moonstone</div>

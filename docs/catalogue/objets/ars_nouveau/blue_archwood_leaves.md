@@ -1,7 +1,7 @@
 # Feuilles d'Archwood en cascade
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/blue_archwood_leaves.png" alt="Feuilles d&#x27;Archwood en cascade">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/blue_archwood_leaves.png" alt="Feuilles d&#x27;Archwood en cascade">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles d&#x27;Archwood en cascade</div>
 <div class="mc-tooltip-card__alias">Cascading Archwood Leaves</div>

@@ -1,7 +1,7 @@
 # Dalle auroralisée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/aurora_slab.png" alt="Dalle auroralisée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/aurora_slab.png" alt="Dalle auroralisée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Dalle auroralisée</div>
 <div class="mc-tooltip-card__alias">Aurora Slab</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>twilightforest:wood/aurora_slab_slab</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/twilightforest/aurora_block.md" title="Bloc d&#x27;aurore (twilightforest:aurora_block)"><img src="../../../assets/generated/items/twilightforest/aurora_block.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/twilightforest/aurora_block.md" title="Bloc d&#x27;aurore (twilightforest:aurora_block)"><img src="../../../assets/generated/items/twilightforest/aurora_block.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/twilightforest/aurora_block.md" title="Bloc d&#x27;aurore (twilightforest:aurora_block)"><img src="../../../assets/generated/items/twilightforest/aurora_block.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/aurora_slab.png" alt=""><span class="jei-count">6</span></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>twilightforest:wood/aurora_slab_slab</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/aurora_block/" title="Bloc d&#x27;aurore (twilightforest:aurora_block)"><img src="../../../../assets/generated/items/twilightforest/aurora_block.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/aurora_block/" title="Bloc d&#x27;aurore (twilightforest:aurora_block)"><img src="../../../../assets/generated/items/twilightforest/aurora_block.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/aurora_block/" title="Bloc d&#x27;aurore (twilightforest:aurora_block)"><img src="../../../../assets/generated/items/twilightforest/aurora_block.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/aurora_slab.png" alt=""><span class="jei-count">6</span></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

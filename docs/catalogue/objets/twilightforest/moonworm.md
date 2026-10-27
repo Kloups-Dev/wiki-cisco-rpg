@@ -1,7 +1,7 @@
 # Ver de lune
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/moonworm.png" alt="Ver de lune">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/moonworm.png" alt="Ver de lune">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ver de lune</div>
 <div class="mc-tooltip-card__alias">Moonworm</div>

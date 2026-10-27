@@ -1,7 +1,7 @@
 # Brimble poli sculpté
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/chiseled_polished_brumble.png" alt="Brimble poli sculpté">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/chiseled_polished_brumble.png" alt="Brimble poli sculpté">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brimble poli sculpté</div>
 <div class="mc-tooltip-card__alias">Chiseled Polished Brumble</div>

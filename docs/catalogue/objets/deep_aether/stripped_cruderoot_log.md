@@ -1,7 +1,7 @@
 # Stripped Cruderoot Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/stripped_cruderoot_log.png" alt="Stripped Cruderoot Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/stripped_cruderoot_log.png" alt="Stripped Cruderoot Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Cruderoot Log</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

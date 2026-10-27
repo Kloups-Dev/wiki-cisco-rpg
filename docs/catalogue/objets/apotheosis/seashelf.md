@@ -1,7 +1,7 @@
 # Seashelf
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/seashelf.png" alt="Seashelf">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/seashelf.png" alt="Seashelf">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Seashelf</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

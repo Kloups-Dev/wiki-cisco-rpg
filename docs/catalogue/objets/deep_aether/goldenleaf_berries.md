@@ -1,7 +1,7 @@
 # Goldenleaf Berries
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/goldenleaf_berries.png" alt="Goldenleaf Berries">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/goldenleaf_berries.png" alt="Goldenleaf Berries">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Goldenleaf Berries</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

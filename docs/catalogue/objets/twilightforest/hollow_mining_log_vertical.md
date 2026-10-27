@@ -1,7 +1,7 @@
 # Hollow Minewood Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/hollow_mining_log_vertical.png" alt="Hollow Minewood Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/hollow_mining_log_vertical.png" alt="Hollow Minewood Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hollow Minewood Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>twilightforest:stonecutting/mining_log/hollow_mining_log_vertical</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/twilightforest/mining_log.md" title="Minewood Log (twilightforest:mining_log)"><img src="../../../assets/generated/items/twilightforest/mining_log.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/hollow_mining_log_vertical.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>twilightforest:stonecutting/mining_log/hollow_mining_log_vertical</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/mining_log/" title="Minewood Log (twilightforest:mining_log)"><img src="../../../../assets/generated/items/twilightforest/mining_log.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/hollow_mining_log_vertical.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

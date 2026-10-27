@@ -1,7 +1,7 @@
 # Cold Aercloud
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/cold_aercloud.png" alt="Cold Aercloud">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/cold_aercloud.png" alt="Cold Aercloud">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cold Aercloud</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

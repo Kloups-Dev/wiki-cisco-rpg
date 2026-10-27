@@ -1,7 +1,7 @@
 # Talisman Of Betrayal
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/talisman_of_betrayal.png" alt="Talisman Of Betrayal">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/talisman_of_betrayal.png" alt="Talisman Of Betrayal">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Talisman Of Betrayal</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

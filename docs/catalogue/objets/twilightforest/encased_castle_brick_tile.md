@@ -1,7 +1,7 @@
 # Tuille de brique de château recouverte
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/encased_castle_brick_tile.png" alt="Tuille de brique de château recouverte">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/encased_castle_brick_tile.png" alt="Tuille de brique de château recouverte">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tuille de brique de château recouverte</div>
 <div class="mc-tooltip-card__alias">Encased Castle Brick Tile</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>twilightforest:stonecutting/encased_castle_brick_pillar/encased_castle_brick_tile</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/twilightforest/encased_castle_brick_pillar.md" title="Pilier de brique de château recouvert (twilightforest:encased_castle_brick_pillar)"><img src="../../../assets/generated/items/twilightforest/encased_castle_brick_pillar.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/encased_castle_brick_tile.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>twilightforest:stonecutting/encased_castle_brick_pillar/encased_castle_brick_tile</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/encased_castle_brick_pillar/" title="Pilier de brique de château recouvert (twilightforest:encased_castle_brick_pillar)"><img src="../../../../assets/generated/items/twilightforest/encased_castle_brick_pillar.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/encased_castle_brick_tile.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

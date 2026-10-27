@@ -1,7 +1,7 @@
 # Starstruck Feather
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/celestisynth/starstruck_feather.png" alt="Starstruck Feather">
+<img class="mc-item-icon" src="../../../../assets/generated/items/celestisynth/starstruck_feather.png" alt="Starstruck Feather">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Starstruck Feather</div>
 <div class="mc-tooltip-card__mod">Celestisynth</div>

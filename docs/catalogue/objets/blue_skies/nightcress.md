@@ -1,7 +1,7 @@
 # Bouton de nuit
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/nightcress.png" alt="Bouton de nuit">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/nightcress.png" alt="Bouton de nuit">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bouton de nuit</div>
 <div class="mc-tooltip-card__alias">Nightcress</div>

@@ -1,7 +1,7 @@
 # Poche de venin
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/venom_sac.png" alt="Poche de venin">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/venom_sac.png" alt="Poche de venin">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Poche de venin</div>
 <div class="mc-tooltip-card__alias">Venom Sac</div>

@@ -1,7 +1,7 @@
 # Amphibian Boot
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/amphibian_boot.png" alt="Amphibian Boot">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/amphibian_boot.png" alt="Amphibian Boot">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Amphibian Boot</div>
 <div class="mc-tooltip-card__mod">Relics</div>

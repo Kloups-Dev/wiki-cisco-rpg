@@ -1,7 +1,7 @@
 # Coeur du mineur
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/mining_log_core.png" alt="Coeur du mineur">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/mining_log_core.png" alt="Coeur du mineur">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Coeur du mineur</div>
 <div class="mc-tooltip-card__alias">Minewood Core</div>

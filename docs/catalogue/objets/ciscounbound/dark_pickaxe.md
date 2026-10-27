@@ -1,7 +1,7 @@
 # Darksteel Pickaxe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/dark_pickaxe.png" alt="Darksteel Pickaxe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/dark_pickaxe.png" alt="Darksteel Pickaxe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Darksteel Pickaxe</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

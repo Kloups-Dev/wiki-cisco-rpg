@@ -1,7 +1,7 @@
 # Hollow Warped Stem
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/hollow_warped_stem_vertical.png" alt="Hollow Warped Stem">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/hollow_warped_stem_vertical.png" alt="Hollow Warped Stem">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hollow Warped Stem</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>twilightforest:stonecutting/warped_stem/hollow_warped_stem_vertical</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot" title="Warped Stem (minecraft:warped_stem)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/hollow_warped_stem_vertical.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>twilightforest:stonecutting/warped_stem/hollow_warped_stem_vertical</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot" title="Warped Stem (minecraft:warped_stem)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/hollow_warped_stem_vertical.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

@@ -1,7 +1,7 @@
 # Adventurer Helmet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/adventurer_helmet.png" alt="Adventurer Helmet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/adventurer_helmet.png" alt="Adventurer Helmet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Adventurer Helmet</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

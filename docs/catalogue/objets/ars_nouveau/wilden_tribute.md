@@ -1,7 +1,7 @@
 # Hommage sauvage
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/wilden_tribute.png" alt="Hommage sauvage">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/wilden_tribute.png" alt="Hommage sauvage">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hommage sauvage</div>
 <div class="mc-tooltip-card__alias">Wilden Tribute</div>

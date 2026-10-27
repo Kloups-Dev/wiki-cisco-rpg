@@ -1,7 +1,7 @@
 # Hunter Belt
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/hunter_belt.png" alt="Hunter Belt">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/hunter_belt.png" alt="Hunter Belt">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hunter Belt</div>
 <div class="mc-tooltip-card__mod">Relics</div>

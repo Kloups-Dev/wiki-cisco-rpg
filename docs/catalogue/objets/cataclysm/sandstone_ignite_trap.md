@@ -1,7 +1,7 @@
 # Sandstone Ignite Trap
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/sandstone_ignite_trap.png" alt="Sandstone Ignite Trap">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/sandstone_ignite_trap.png" alt="Sandstone Ignite Trap">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sandstone Ignite Trap</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

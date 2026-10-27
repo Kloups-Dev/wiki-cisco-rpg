@@ -1,7 +1,7 @@
 # Casque Creux
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/knightquest/hollow_helmet.png" alt="Casque Creux">
+<img class="mc-item-icon" src="../../../../assets/generated/items/knightquest/hollow_helmet.png" alt="Casque Creux">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Casque Creux</div>
 <div class="mc-tooltip-card__alias">Hollow Helmet</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:hollow_helmet</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Enchanted Golden Apple (minecraft:enchanted_golden_apple)">?</span><span class="jei-slot" title="Magma Cream (minecraft:magma_cream)">?</span><span class="jei-slot" title="Red Mushroom (minecraft:red_mushroom)">?</span><a class="jei-slot" href="../../../catalogue/objets/knightquest/filled_goblet.md" title="Gobelet Rempli (knightquest:filled_goblet)"><img src="../../../assets/generated/items/knightquest/filled_goblet.png" alt="" loading="lazy"></a><span class="jei-slot" title="Netherite Helmet (minecraft:netherite_helmet)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/knightquest/hollow_helmet.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:hollow_helmet</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Enchanted Golden Apple (minecraft:enchanted_golden_apple)">?</span><span class="jei-slot" title="Magma Cream (minecraft:magma_cream)">?</span><span class="jei-slot" title="Red Mushroom (minecraft:red_mushroom)">?</span><a class="jei-slot" href="../../../../catalogue/objets/knightquest/filled_goblet/" title="Gobelet Rempli (knightquest:filled_goblet)"><img src="../../../../assets/generated/items/knightquest/filled_goblet.png" alt="" loading="lazy"></a><span class="jei-slot" title="Netherite Helmet (minecraft:netherite_helmet)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/knightquest/hollow_helmet.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
 
 ## Utilisé dans
 

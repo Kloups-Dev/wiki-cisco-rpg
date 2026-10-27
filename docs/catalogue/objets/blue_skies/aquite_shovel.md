@@ -1,7 +1,7 @@
 # Pelle en aquite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/aquite_shovel.png" alt="Pelle en aquite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/aquite_shovel.png" alt="Pelle en aquite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pelle en aquite</div>
 <div class="mc-tooltip-card__alias">Aquite Shovel</div>

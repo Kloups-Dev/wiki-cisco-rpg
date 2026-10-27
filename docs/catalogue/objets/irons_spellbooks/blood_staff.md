@@ -1,7 +1,7 @@
 # The Blood Staff
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/blood_staff.png" alt="The Blood Staff">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/blood_staff.png" alt="The Blood Staff">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">The Blood Staff</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

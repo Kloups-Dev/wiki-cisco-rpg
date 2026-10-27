@@ -1,7 +1,7 @@
 # Carte de labyrinthe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/filled_maze_map.png" alt="Carte de labyrinthe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/filled_maze_map.png" alt="Carte de labyrinthe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Carte de labyrinthe</div>
 <div class="mc-tooltip-card__alias">Maze Map</div>

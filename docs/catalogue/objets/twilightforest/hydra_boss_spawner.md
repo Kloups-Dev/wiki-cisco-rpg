@@ -1,7 +1,7 @@
 # Hydra Boss Spawner
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/hydra_boss_spawner.png" alt="Hydra Boss Spawner">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/hydra_boss_spawner.png" alt="Hydra Boss Spawner">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hydra Boss Spawner</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

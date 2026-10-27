@@ -1,7 +1,7 @@
 # Sunroot Sapling
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/sunroot_sapling.png" alt="Sunroot Sapling">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/sunroot_sapling.png" alt="Sunroot Sapling">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sunroot Sapling</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

@@ -1,7 +1,7 @@
 # Tattered Tome
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/tattered_tome.png" alt="Tattered Tome">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/tattered_tome.png" alt="Tattered Tome">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tattered Tome</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

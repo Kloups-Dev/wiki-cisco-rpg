@@ -1,7 +1,7 @@
 # Feuilles de nifrisque
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/frostbright_leaves.png" alt="Feuilles de nifrisque">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/frostbright_leaves.png" alt="Feuilles de nifrisque">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles de nifrisque</div>
 <div class="mc-tooltip-card__alias">Frostbright Leaves</div>

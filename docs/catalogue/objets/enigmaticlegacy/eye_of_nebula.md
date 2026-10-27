@@ -1,7 +1,7 @@
 # Eye of the Nebula
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/eye_of_nebula.png" alt="Eye of the Nebula">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/eye_of_nebula.png" alt="Eye of the Nebula">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Eye of the Nebula</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Majestic Elytra](../../../catalogue/objets/enigmaticlegacy/enigmatic_elytra.md) — <code>enigmaticlegacy:enigmatic_elytra</code>
 - [Dimensional Anchor](../../../catalogue/objets/enigmaticlegacy/end_anchor.md) — <code>enigmaticlegacy:end_anchor</code>
+- [Majestic Elytra](../../../catalogue/objets/enigmaticlegacy/enigmatic_elytra.md) — <code>enigmaticlegacy:enigmatic_elytra</code>
 - [Scroll of Postmortal Recall](../../../catalogue/objets/enigmaticlegacy/escape_scroll.md) — <code>enigmaticlegacy:escape_scroll</code>
 
 ## Effets et caractéristiques

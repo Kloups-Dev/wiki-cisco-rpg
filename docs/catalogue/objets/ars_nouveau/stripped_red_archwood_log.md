@@ -1,7 +1,7 @@
 # Rondin d'Archwood flamboyant dépouillé
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/stripped_red_archwood_log.png" alt="Rondin d&#x27;Archwood flamboyant dépouillé">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/stripped_red_archwood_log.png" alt="Rondin d&#x27;Archwood flamboyant dépouillé">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Rondin d&#x27;Archwood flamboyant dépouillé</div>
 <div class="mc-tooltip-card__alias">Stripped Blazing Archwood Log</div>

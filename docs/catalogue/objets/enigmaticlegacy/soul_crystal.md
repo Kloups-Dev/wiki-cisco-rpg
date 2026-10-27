@@ -1,7 +1,7 @@
 # Soul Crystal
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/soul_crystal.png" alt="Soul Crystal">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/soul_crystal.png" alt="Soul Crystal">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Soul Crystal</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

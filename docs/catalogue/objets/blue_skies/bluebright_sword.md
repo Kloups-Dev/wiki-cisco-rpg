@@ -1,7 +1,7 @@
 # Épée en bois lumibleu
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/bluebright_sword.png" alt="Épée en bois lumibleu">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/bluebright_sword.png" alt="Épée en bois lumibleu">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épée en bois lumibleu</div>
 <div class="mc-tooltip-card__alias">Bluebright Wood Sword</div>

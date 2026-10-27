@@ -1,7 +1,7 @@
 # Rage Glove
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/rage_glove.png" alt="Rage Glove">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/rage_glove.png" alt="Rage Glove">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Rage Glove</div>
 <div class="mc-tooltip-card__mod">Relics</div>

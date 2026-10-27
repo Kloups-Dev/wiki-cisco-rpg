@@ -1,7 +1,7 @@
 # Netherward Tincture
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/netherward_tincture.png" alt="Netherward Tincture">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/netherward_tincture.png" alt="Netherward Tincture">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Netherward Tincture</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

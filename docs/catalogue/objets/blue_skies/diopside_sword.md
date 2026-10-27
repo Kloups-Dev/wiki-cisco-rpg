@@ -1,7 +1,7 @@
 # Épée en diopside
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/diopside_sword.png" alt="Épée en diopside">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/diopside_sword.png" alt="Épée en diopside">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épée en diopside</div>
 <div class="mc-tooltip-card__alias">Diopside Sword</div>

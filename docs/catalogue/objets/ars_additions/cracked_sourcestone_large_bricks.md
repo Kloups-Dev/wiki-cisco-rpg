@@ -1,7 +1,7 @@
 # Cracked Sourcestone: Large Bricks
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_additions/cracked_sourcestone_large_bricks.png" alt="Cracked Sourcestone: Large Bricks">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_additions/cracked_sourcestone_large_bricks.png" alt="Cracked Sourcestone: Large Bricks">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cracked Sourcestone: Large Bricks</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>ars_nouveau:sourcestone_2</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/ars_nouveau/sourcestone.md" title="Pierre de source (ars_nouveau:sourcestone)"><img src="../../../assets/generated/items/ars_nouveau/sourcestone.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_additions/cracked_sourcestone_large_bricks.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_additions-1.19.2-1.4.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>ars_nouveau:sourcestone_2</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/ars_nouveau/sourcestone/" title="Pierre de source (ars_nouveau:sourcestone)"><img src="../../../../assets/generated/items/ars_nouveau/sourcestone.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_additions/cracked_sourcestone_large_bricks.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_additions-1.19.2-1.4.0.jar</div></div>
 
 ## Utilisé dans
 

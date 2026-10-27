@@ -1,7 +1,7 @@
 # Quote Player
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/quote_player.png" alt="Quote Player">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/quote_player.png" alt="Quote Player">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Quote Player</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

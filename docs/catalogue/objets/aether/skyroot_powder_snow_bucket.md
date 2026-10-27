@@ -1,7 +1,7 @@
 # Skyroot Powder Snow Bucket
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/skyroot_powder_snow_bucket.png" alt="Skyroot Powder Snow Bucket">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/skyroot_powder_snow_bucket.png" alt="Skyroot Powder Snow Bucket">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Skyroot Powder Snow Bucket</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

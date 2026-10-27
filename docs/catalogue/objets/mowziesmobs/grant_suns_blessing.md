@@ -1,7 +1,7 @@
 # Bénédiction du Soleil
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/grant_suns_blessing.png" alt="Bénédiction du Soleil">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/grant_suns_blessing.png" alt="Bénédiction du Soleil">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bénédiction du Soleil</div>
 <div class="mc-tooltip-card__alias">Receive Sun&#x27;s Blessing</div>

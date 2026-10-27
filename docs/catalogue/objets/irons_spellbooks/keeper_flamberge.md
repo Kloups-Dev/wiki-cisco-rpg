@@ -1,7 +1,7 @@
 # Decrepit Flamberge
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/keeper_flamberge.png" alt="Decrepit Flamberge">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/keeper_flamberge.png" alt="Decrepit Flamberge">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Decrepit Flamberge</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

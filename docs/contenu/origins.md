@@ -20,11 +20,11 @@ Origines, classes, pouvoirs, avantages et contraintes.
 ## Objets recherchables
 
 <div class="item-catalog-grid">
-<a class="catalog-item" href="../catalogue/objets/origins/orb_of_origin.md" title="origins:orb_of_origin"><img src="../assets/generated/items/origins/orb_of_origin.png" alt="" loading="lazy"><span>Orbe d&#x27;origine</span></a>
-<a class="catalog-item" href="../catalogue/objets/strictly_origins/damaged_durendal.md" title="strictly_origins:damaged_durendal"><img src="../assets/generated/items/strictly_origins/damaged_durendal.png" alt="" loading="lazy"><span>Durendal Endommagé</span></a>
-<a class="catalog-item" href="../catalogue/objets/strictly_origins/damaged_skofnung.md" title="strictly_origins:damaged_skofnung"><img src="../assets/generated/items/strictly_origins/damaged_skofnung.png" alt="" loading="lazy"><span>Skofnung Endommagé</span></a>
-<a class="catalog-item" href="../catalogue/objets/strictly_origins/durendal.md" title="strictly_origins:durendal"><img src="../assets/generated/items/strictly_origins/durendal.png" alt="" loading="lazy"><span>Durendal</span></a>
-<a class="catalog-item" href="../catalogue/objets/strictly_origins/scroll.md" title="strictly_origins:scroll"><img src="../assets/generated/items/strictly_origins/scroll.png" alt="" loading="lazy"><span>Parchemin du Paladin</span></a>
-<a class="catalog-item" href="../catalogue/objets/strictly_origins/scroll_2.md" title="strictly_origins:scroll_2"><img src="../assets/generated/items/strictly_origins/scroll_2.png" alt="" loading="lazy"><span>Parchemin du Chevalier</span></a>
-<a class="catalog-item" href="../catalogue/objets/strictly_origins/skofnung.md" title="strictly_origins:skofnung"><img src="../assets/generated/items/strictly_origins/skofnung.png" alt="" loading="lazy"><span>Skofnung</span></a>
+<a class="catalog-item" href="../../catalogue/objets/origins/orb_of_origin/" title="origins:orb_of_origin"><img src="../../assets/generated/items/origins/orb_of_origin.png" alt="" loading="lazy"><span>Orbe d&#x27;origine</span></a>
+<a class="catalog-item" href="../../catalogue/objets/strictly_origins/damaged_durendal/" title="strictly_origins:damaged_durendal"><img src="../../assets/generated/items/strictly_origins/damaged_durendal.png" alt="" loading="lazy"><span>Durendal Endommagé</span></a>
+<a class="catalog-item" href="../../catalogue/objets/strictly_origins/damaged_skofnung/" title="strictly_origins:damaged_skofnung"><img src="../../assets/generated/items/strictly_origins/damaged_skofnung.png" alt="" loading="lazy"><span>Skofnung Endommagé</span></a>
+<a class="catalog-item" href="../../catalogue/objets/strictly_origins/durendal/" title="strictly_origins:durendal"><img src="../../assets/generated/items/strictly_origins/durendal.png" alt="" loading="lazy"><span>Durendal</span></a>
+<a class="catalog-item" href="../../catalogue/objets/strictly_origins/scroll/" title="strictly_origins:scroll"><img src="../../assets/generated/items/strictly_origins/scroll.png" alt="" loading="lazy"><span>Parchemin du Paladin</span></a>
+<a class="catalog-item" href="../../catalogue/objets/strictly_origins/scroll_2/" title="strictly_origins:scroll_2"><img src="../../assets/generated/items/strictly_origins/scroll_2.png" alt="" loading="lazy"><span>Parchemin du Chevalier</span></a>
+<a class="catalog-item" href="../../catalogue/objets/strictly_origins/skofnung/" title="strictly_origins:skofnung"><img src="../../assets/generated/items/strictly_origins/skofnung.png" alt="" loading="lazy"><span>Skofnung</span></a>
 </div>

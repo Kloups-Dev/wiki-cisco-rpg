@@ -1,7 +1,7 @@
 # Tome of the Miners
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/pickaxe_tome.png" alt="Tome of the Miners">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/pickaxe_tome.png" alt="Tome of the Miners">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tome of the Miners</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

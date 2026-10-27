@@ -1,7 +1,7 @@
 # Astral Dust
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/astral_dust.png" alt="Astral Dust">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/astral_dust.png" alt="Astral Dust">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Astral Dust</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -19,15 +19,15 @@
 
 ## Utilisé dans
 
-- [Holy Stone](../../../catalogue/objets/enigmaticaddons/bless_stone.md) — <code>enigmaticaddons:bless_stone</code>
 - [Astral Spear](../../../catalogue/objets/enigmaticaddons/astral_spear.md) — <code>enigmaticaddons:astral_spear</code>
+- [Holy Stone](../../../catalogue/objets/enigmaticaddons/bless_stone.md) — <code>enigmaticaddons:bless_stone</code>
 - [Astral Breaker](../../../catalogue/objets/enigmaticlegacy/astral_breaker.md) — <code>enigmaticlegacy:astral_breaker</code>
-- [Majestic Elytra](../../../catalogue/objets/enigmaticlegacy/enigmatic_elytra.md) — <code>enigmaticlegacy:enigmatic_elytra</code>
-- [The Eternal Cake](../../../catalogue/objets/enigmaticlegacy/cosmic_cake.md) — <code>enigmaticlegacy:cosmic_cake</code>
 - [Teleportato](../../../catalogue/objets/enigmaticlegacy/astral_potato.md) — <code>enigmaticlegacy:astral_potato</code>
-- [Grace of the Creator](../../../catalogue/objets/enigmaticlegacy/fabulous_scroll.md) — <code>enigmaticlegacy:fabulous_scroll</code>
-- [Ender Rod](../../../catalogue/objets/enigmaticlegacy/ender_rod.md) — <code>enigmaticlegacy:ender_rod</code>
+- [The Eternal Cake](../../../catalogue/objets/enigmaticlegacy/cosmic_cake.md) — <code>enigmaticlegacy:cosmic_cake</code>
 - [Heart of the Cosmos](../../../catalogue/objets/enigmaticlegacy/cosmic_heart.md) — <code>enigmaticlegacy:cosmic_heart</code>
+- [Ender Rod](../../../catalogue/objets/enigmaticlegacy/ender_rod.md) — <code>enigmaticlegacy:ender_rod</code>
+- [Majestic Elytra](../../../catalogue/objets/enigmaticlegacy/enigmatic_elytra.md) — <code>enigmaticlegacy:enigmatic_elytra</code>
+- [Grace of the Creator](../../../catalogue/objets/enigmaticlegacy/fabulous_scroll.md) — <code>enigmaticlegacy:fabulous_scroll</code>
 - [The Architect's Inkwell](../../../catalogue/objets/enigmaticlegacy/lore_inscriber.md) — <code>enigmaticlegacy:lore_inscriber</code>
 
 ## Effets et caractéristiques

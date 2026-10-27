@@ -1,7 +1,7 @@
 # Pelle en crépuscubois
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/dusk_shovel.png" alt="Pelle en crépuscubois">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/dusk_shovel.png" alt="Pelle en crépuscubois">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pelle en crépuscubois</div>
 <div class="mc-tooltip-card__alias">Dusk Wood Shovel</div>

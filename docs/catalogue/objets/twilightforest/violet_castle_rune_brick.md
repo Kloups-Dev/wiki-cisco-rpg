@@ -1,7 +1,7 @@
 # Rune de brique de château violette
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/violet_castle_rune_brick.png" alt="Rune de brique de château violette">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/violet_castle_rune_brick.png" alt="Rune de brique de château violette">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Rune de brique de château violette</div>
 <div class="mc-tooltip-card__alias">Violet Castle Rune Brick</div>

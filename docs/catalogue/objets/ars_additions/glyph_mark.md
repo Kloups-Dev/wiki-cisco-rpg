@@ -1,7 +1,7 @@
 # Glyph Mark
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_additions/glyph_mark.png" alt="Glyph Mark">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_additions/glyph_mark.png" alt="Glyph Mark">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Glyph Mark</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Glyph</strong><span>ars_additions:glyph_mark</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_additions/glyph_mark.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_additions-1.19.2-1.4.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Glyph</strong><span>ars_additions:glyph_mark</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_additions/glyph_mark.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_additions-1.19.2-1.4.0.jar</div></div>
 
 ## Utilisé dans
 

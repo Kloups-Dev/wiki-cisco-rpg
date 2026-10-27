@@ -1,7 +1,7 @@
 # Sunroot Leaves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/sunroot_leaves.png" alt="Sunroot Leaves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/sunroot_leaves.png" alt="Sunroot Leaves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sunroot Leaves</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

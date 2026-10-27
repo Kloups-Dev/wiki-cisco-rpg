@@ -1,7 +1,7 @@
 # Stripped Skyroot Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/stripped_skyroot_log.png" alt="Stripped Skyroot Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/stripped_skyroot_log.png" alt="Stripped Skyroot Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Skyroot Log</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

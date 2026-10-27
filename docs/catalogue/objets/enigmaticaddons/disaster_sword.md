@@ -1,7 +1,7 @@
 # Disaster Broadsword
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticaddons/disaster_sword.png" alt="Disaster Broadsword">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticaddons/disaster_sword.png" alt="Disaster Broadsword">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Disaster Broadsword</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticaddons:disaster_sword</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot" title="Netherite Sword (minecraft:netherite_sword)">?</span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Totem Of Undying (minecraft:totem_of_undying)">?</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/enigmaticaddons/disaster_sword.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : enigmaticaddons-1.19.2-1.2.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticaddons:disaster_sword</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot" title="Netherite Sword (minecraft:netherite_sword)">?</span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Totem Of Undying (minecraft:totem_of_undying)">?</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/enigmaticaddons/disaster_sword.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : enigmaticaddons-1.19.2-1.2.2.jar</div></div>
 
 ## Utilisé dans
 

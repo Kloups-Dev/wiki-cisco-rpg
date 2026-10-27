@@ -1,7 +1,7 @@
 # Jet de feu
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/fire_jet.png" alt="Jet de feu">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/fire_jet.png" alt="Jet de feu">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Jet de feu</div>
 <div class="mc-tooltip-card__alias">Fire Jet</div>

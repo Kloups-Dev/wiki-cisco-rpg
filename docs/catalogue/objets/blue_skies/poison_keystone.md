@@ -1,7 +1,7 @@
 # Serrure empoisonnée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/poison_keystone.png" alt="Serrure empoisonnée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/poison_keystone.png" alt="Serrure empoisonnée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Serrure empoisonnée</div>
 <div class="mc-tooltip-card__alias">Poison Keystone</div>

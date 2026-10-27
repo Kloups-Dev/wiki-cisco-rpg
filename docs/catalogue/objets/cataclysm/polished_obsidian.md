@@ -1,7 +1,7 @@
 # Polished Obsidian
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/polished_obsidian.png" alt="Polished Obsidian">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/polished_obsidian.png" alt="Polished Obsidian">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Polished Obsidian</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

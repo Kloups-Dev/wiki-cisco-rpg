@@ -1,7 +1,7 @@
 # Pousse d'arbre sombre
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/darkwood_sapling.png" alt="Pousse d&#x27;arbre sombre">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/darkwood_sapling.png" alt="Pousse d&#x27;arbre sombre">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pousse d&#x27;arbre sombre</div>
 <div class="mc-tooltip-card__alias">Darkwood Sapling</div>

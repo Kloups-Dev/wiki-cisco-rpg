@@ -1,7 +1,7 @@
 # Mètre de minerai [WIP]
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/ore_meter.png" alt="Mètre de minerai [WIP]">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/ore_meter.png" alt="Mètre de minerai [WIP]">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mètre de minerai [WIP]</div>
 <div class="mc-tooltip-card__alias">Ore Meter</div>

@@ -1,7 +1,7 @@
 # Essence chaotique
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/knightquest/chaotic_essence.png" alt="Essence chaotique">
+<img class="mc-item-icon" src="../../../../assets/generated/items/knightquest/chaotic_essence.png" alt="Essence chaotique">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Essence chaotique</div>
 <div class="mc-tooltip-card__alias">Chaotic essence</div>

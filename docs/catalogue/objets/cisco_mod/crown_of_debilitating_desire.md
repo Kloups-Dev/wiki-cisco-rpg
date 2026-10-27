@@ -1,7 +1,7 @@
 # Crown Of Debilitating Desire
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/crown_of_debilitating_desire.png" alt="Crown Of Debilitating Desire">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cisco_mod/crown_of_debilitating_desire.png" alt="Crown Of Debilitating Desire">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Crown Of Debilitating Desire</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

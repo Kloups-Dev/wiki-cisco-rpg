@@ -1,7 +1,7 @@
 # Arcane Brightsteel Block
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/arcane_brightsteel_block.png" alt="Arcane Brightsteel Block">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/arcane_brightsteel_block.png" alt="Arcane Brightsteel Block">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Arcane Brightsteel Block</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

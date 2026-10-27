@@ -1,7 +1,7 @@
 # Oeuil du spectre
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/meetyourfight/spectres_eye.png" alt="Oeuil du spectre">
+<img class="mc-item-icon" src="../../../../assets/generated/items/meetyourfight/spectres_eye.png" alt="Oeuil du spectre">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Oeuil du spectre</div>
 <div class="mc-tooltip-card__alias">Spectre&#x27;s Eye</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>meetyourfight:spectres_eye</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../catalogue/objets/meetyourfight/phantoplasm.md" title="Phantoplasme (meetyourfight:phantoplasm)"><img src="../../../assets/generated/items/meetyourfight/phantoplasm.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/meetyourfight/spectres_eye.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>meetyourfight:spectres_eye</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../../catalogue/objets/meetyourfight/phantoplasm/" title="Phantoplasme (meetyourfight:phantoplasm)"><img src="../../../../assets/generated/items/meetyourfight/phantoplasm.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/meetyourfight/spectres_eye.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
 
 ## Utilisé dans
 

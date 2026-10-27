@@ -1,7 +1,7 @@
 # Blood Vial
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/blood_vial.png" alt="Blood Vial">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/blood_vial.png" alt="Blood Vial">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Blood Vial</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

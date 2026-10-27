@@ -1,7 +1,7 @@
 # Skyroot Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/skyroot_log.png" alt="Skyroot Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/skyroot_log.png" alt="Skyroot Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Skyroot Log</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

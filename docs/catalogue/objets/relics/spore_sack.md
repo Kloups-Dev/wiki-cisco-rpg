@@ -1,7 +1,7 @@
 # Spore Sack
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/spore_sack.png" alt="Spore Sack">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/spore_sack.png" alt="Spore Sack">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Spore Sack</div>
 <div class="mc-tooltip-card__mod">Relics</div>

@@ -1,7 +1,7 @@
 # Verre auroralisé
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/auroralized_glass.png" alt="Verre auroralisé">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/auroralized_glass.png" alt="Verre auroralisé">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Verre auroralisé</div>
 <div class="mc-tooltip-card__alias">Auroralized Glass</div>

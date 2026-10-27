@@ -1,7 +1,7 @@
 # Arc gelé
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/ice_bow.png" alt="Arc gelé">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/ice_bow.png" alt="Arc gelé">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Arc gelé</div>
 <div class="mc-tooltip-card__alias">Ice Bow</div>

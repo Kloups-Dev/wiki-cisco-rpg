@@ -1,7 +1,7 @@
 # Roseroot Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/roseroot_log.png" alt="Roseroot Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/roseroot_log.png" alt="Roseroot Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Roseroot Log</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Roseroot Wood](../../../catalogue/objets/deep_aether/roseroot_wood.md) — <code>deep_aether:roseroot_wood</code>
 - [Roseroot Wall](../../../catalogue/objets/deep_aether/roseroot_wall.md) — <code>deep_aether:roseroot_wall</code>
+- [Roseroot Wood](../../../catalogue/objets/deep_aether/roseroot_wood.md) — <code>deep_aether:roseroot_wood</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Thunderbrand
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/thunderbrand.png" alt="Thunderbrand">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/thunderbrand.png" alt="Thunderbrand">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Thunderbrand</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

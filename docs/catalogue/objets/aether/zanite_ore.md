@@ -1,7 +1,7 @@
 # Zanite Ore
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/zanite_ore.png" alt="Zanite Ore">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/zanite_ore.png" alt="Zanite Ore">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Zanite Ore</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

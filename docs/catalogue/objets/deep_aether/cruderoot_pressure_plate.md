@@ -1,7 +1,7 @@
 # Cruderoot Pressure Plate
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/cruderoot_pressure_plate.png" alt="Cruderoot Pressure Plate">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/cruderoot_pressure_plate.png" alt="Cruderoot Pressure Plate">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cruderoot Pressure Plate</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>deep_aether:cruderoot_pressure_plate</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/deep_aether/cruderoot_planks.md" title="Cruderoot Planks (deep_aether:cruderoot_planks)"><img src="../../../assets/generated/items/deep_aether/cruderoot_planks.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/deep_aether/cruderoot_planks.md" title="Cruderoot Planks (deep_aether:cruderoot_planks)"><img src="../../../assets/generated/items/deep_aether/cruderoot_planks.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/deep_aether/cruderoot_pressure_plate.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>deep_aether:cruderoot_pressure_plate</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/deep_aether/cruderoot_planks/" title="Cruderoot Planks (deep_aether:cruderoot_planks)"><img src="../../../../assets/generated/items/deep_aether/cruderoot_planks.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../../catalogue/objets/deep_aether/cruderoot_planks/" title="Cruderoot Planks (deep_aether:cruderoot_planks)"><img src="../../../../assets/generated/items/deep_aether/cruderoot_planks.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/deep_aether/cruderoot_pressure_plate.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
 
 ## Utilisé dans
 

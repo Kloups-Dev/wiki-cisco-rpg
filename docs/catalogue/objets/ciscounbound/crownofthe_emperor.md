@@ -1,7 +1,7 @@
 # Emperor's Crown
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/crownofthe_emperor.png" alt="Emperor&#x27;s Crown">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/crownofthe_emperor.png" alt="Emperor&#x27;s Crown">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Emperor&#x27;s Crown</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

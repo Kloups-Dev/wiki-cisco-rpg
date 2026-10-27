@@ -1,7 +1,7 @@
 # Essence de manipulation
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/manipulation_essence.png" alt="Essence de manipulation">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/manipulation_essence.png" alt="Essence de manipulation">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Essence de manipulation</div>
 <div class="mc-tooltip-card__alias">Manipulation Essence</div>
@@ -15,26 +15,26 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Imbuement</strong><span>ars_nouveau:imbuement_manipulation_essence</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot jei-slot--tag" title="#forge:gems/source">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_nouveau/manipulation_essence.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Imbuement</strong><span>ars_nouveau:imbuement_manipulation_essence</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot jei-slot--tag" title="#forge:gems/source">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_nouveau/manipulation_essence.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
 
 ## Utilisé dans
 
-- **Tuff** — <code>minecraft:tuff</code>
-- [Arbrisseau d'Archwood en cascade](../../../catalogue/objets/ars_nouveau/blue_archwood_sapling.md) — <code>ars_nouveau:blue_archwood_sapling</code>
-- **Moss Block** — <code>minecraft:moss_block</code>
-- **Calcite** — <code>minecraft:calcite</code>
-- [Skyweave](../../../catalogue/objets/ars_nouveau/sky_block.md) — <code>ars_nouveau:sky_block</code>
-- **Diorite** — <code>minecraft:diorite</code>
 - **Andesite** — <code>minecraft:andesite</code>
-- [Arbrisseau florissant d'Archwood](../../../catalogue/objets/ars_nouveau/green_archwood_sapling.md) — <code>ars_nouveau:green_archwood_sapling</code>
-- [Craie runique](../../../catalogue/objets/ars_nouveau/runic_chalk.md) — <code>ars_nouveau:runic_chalk</code>
-- **Mycelium** — <code>minecraft:mycelium</code>
-- [Endiguement](../../../catalogue/objets/ars_nouveau/ritual_containment.md) — <code>ars_nouveau:ritual_containment</code>
-- **Deepslate** — <code>minecraft:deepslate</code>
-- **Granite** — <code>minecraft:granite</code>
 - [Jeune arbre d'Archwood flamboyant](../../../catalogue/objets/ars_nouveau/red_archwood_sapling.md) — <code>ars_nouveau:red_archwood_sapling</code>
-- [Arbrisseau vexant d'Archwood](../../../catalogue/objets/ars_nouveau/purple_archwood_sapling.md) — <code>ars_nouveau:purple_archwood_sapling</code>
+- **Calcite** — <code>minecraft:calcite</code>
+- [Arbrisseau d'Archwood en cascade](../../../catalogue/objets/ars_nouveau/blue_archwood_sapling.md) — <code>ars_nouveau:blue_archwood_sapling</code>
+- **Deepslate** — <code>minecraft:deepslate</code>
+- **Diorite** — <code>minecraft:diorite</code>
+- [Arbrisseau florissant d'Archwood](../../../catalogue/objets/ars_nouveau/green_archwood_sapling.md) — <code>ars_nouveau:green_archwood_sapling</code>
+- **Granite** — <code>minecraft:granite</code>
 - **Grass Block** — <code>minecraft:grass_block</code>
+- **Moss Block** — <code>minecraft:moss_block</code>
+- **Mycelium** — <code>minecraft:mycelium</code>
+- **Tuff** — <code>minecraft:tuff</code>
+- [Arbrisseau vexant d'Archwood](../../../catalogue/objets/ars_nouveau/purple_archwood_sapling.md) — <code>ars_nouveau:purple_archwood_sapling</code>
+- [Endiguement](../../../catalogue/objets/ars_nouveau/ritual_containment.md) — <code>ars_nouveau:ritual_containment</code>
+- [Craie runique](../../../catalogue/objets/ars_nouveau/runic_chalk.md) — <code>ars_nouveau:runic_chalk</code>
+- [Skyweave](../../../catalogue/objets/ars_nouveau/sky_block.md) — <code>ars_nouveau:sky_block</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Smithing Template
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/ignitium_upgrade_smithing_template.png" alt="Smithing Template">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/ignitium_upgrade_smithing_template.png" alt="Smithing Template">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Smithing Template</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

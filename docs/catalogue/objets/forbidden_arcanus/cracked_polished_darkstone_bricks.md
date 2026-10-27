@@ -1,7 +1,7 @@
 # Cracked Polished Darkstone Bricks
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/cracked_polished_darkstone_bricks.png" alt="Cracked Polished Darkstone Bricks">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/cracked_polished_darkstone_bricks.png" alt="Cracked Polished Darkstone Bricks">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cracked Polished Darkstone Bricks</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Four</strong><span>forbidden_arcanus:cracked_polished_darkstone_bricks</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/forbidden_arcanus/polished_darkstone_bricks.md" title="Polished Darkstone Bricks (forbidden_arcanus:polished_darkstone_bricks)"><img src="../../../assets/generated/items/forbidden_arcanus/polished_darkstone_bricks.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/forbidden_arcanus/cracked_polished_darkstone_bricks.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Four</strong><span>forbidden_arcanus:cracked_polished_darkstone_bricks</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/forbidden_arcanus/polished_darkstone_bricks/" title="Polished Darkstone Bricks (forbidden_arcanus:polished_darkstone_bricks)"><img src="../../../../assets/generated/items/forbidden_arcanus/polished_darkstone_bricks.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/forbidden_arcanus/cracked_polished_darkstone_bricks.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
 
 ## Utilisé dans
 

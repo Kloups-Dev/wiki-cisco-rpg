@@ -1,7 +1,7 @@
 # Terre lunaire
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/lunar_dirt.png" alt="Terre lunaire">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/lunar_dirt.png" alt="Terre lunaire">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Terre lunaire</div>
 <div class="mc-tooltip-card__alias">Lunar Dirt</div>

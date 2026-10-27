@@ -1,7 +1,7 @@
 # Descended Hero Helmet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/descended_hero_helmet.png" alt="Descended Hero Helmet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/descended_hero_helmet.png" alt="Descended Hero Helmet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Descended Hero Helmet</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

@@ -1,7 +1,7 @@
 # Feuilles d'épines
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/thorn_leaves.png" alt="Feuilles d&#x27;épines">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/thorn_leaves.png" alt="Feuilles d&#x27;épines">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles d&#x27;épines</div>
 <div class="mc-tooltip-card__alias">Thorn Leaves</div>

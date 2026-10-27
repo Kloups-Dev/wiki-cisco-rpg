@@ -1,7 +1,7 @@
 # Short Golden Grass
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/short_golden_grass.png" alt="Short Golden Grass">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/short_golden_grass.png" alt="Short Golden Grass">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Short Golden Grass</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

@@ -1,7 +1,7 @@
 # Absolute Equillibrium
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/absolute_equillibrium.png" alt="Absolute Equillibrium">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/absolute_equillibrium.png" alt="Absolute Equillibrium">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Absolute Equillibrium</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

@@ -1,7 +1,7 @@
 # Blue Gummy Swet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/blue_gummy_swet.png" alt="Blue Gummy Swet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/blue_gummy_swet.png" alt="Blue Gummy Swet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Blue Gummy Swet</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

@@ -1,7 +1,7 @@
 # Charm of Darkness
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/dark_charm.png" alt="Charm of Darkness">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cisco_mod/dark_charm.png" alt="Charm of Darkness">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Charm of Darkness</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

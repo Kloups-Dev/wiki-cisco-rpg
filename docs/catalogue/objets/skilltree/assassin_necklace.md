@@ -1,7 +1,7 @@
 # Collier de l'Assassin
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/skilltree/assassin_necklace.png" alt="Collier de l&#x27;Assassin">
+<img class="mc-item-icon" src="../../../../assets/generated/items/skilltree/assassin_necklace.png" alt="Collier de l&#x27;Assassin">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Collier de l&#x27;Assassin</div>
 <div class="mc-tooltip-card__alias">Assassin&#x27;s Necklace</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>skilltree:assassin_necklace</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot" title="Bone (minecraft:bone)">?</span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/skilltree/assassin_necklace.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : PassiveSkillTree-1.19.2-BETA-0.6.14b-all.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>skilltree:assassin_necklace</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot" title="Bone (minecraft:bone)">?</span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/skilltree/assassin_necklace.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : PassiveSkillTree-1.19.2-BETA-0.6.14b-all.jar</div></div>
 
 ## Utilisé dans
 

@@ -1,7 +1,7 @@
 # Casque Steampunk
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/immersive_armors/steampunk_helmet.png" alt="Casque Steampunk">
+<img class="mc-item-icon" src="../../../../assets/generated/items/immersive_armors/steampunk_helmet.png" alt="Casque Steampunk">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Casque Steampunk</div>
 <div class="mc-tooltip-card__alias">Steampunk Helmet</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>immersive_armors:steampunk_helmet</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Redstone Torch (minecraft:redstone_torch)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="White Stained Glass (minecraft:white_stained_glass)">?</span><span class="jei-slot" title="Gold Ingot (minecraft:gold_ingot)">?</span><span class="jei-slot" title="White Stained Glass (minecraft:white_stained_glass)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/immersive_armors/steampunk_helmet.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : immersive_armors-1.5.6+1.19.2-forge.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>immersive_armors:steampunk_helmet</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Redstone Torch (minecraft:redstone_torch)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="White Stained Glass (minecraft:white_stained_glass)">?</span><span class="jei-slot" title="Gold Ingot (minecraft:gold_ingot)">?</span><span class="jei-slot" title="White Stained Glass (minecraft:white_stained_glass)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/immersive_armors/steampunk_helmet.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : immersive_armors-1.5.6+1.19.2-forge.jar</div></div>
 
 ## Utilisé dans
 

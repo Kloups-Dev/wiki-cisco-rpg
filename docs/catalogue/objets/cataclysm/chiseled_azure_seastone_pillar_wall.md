@@ -1,7 +1,7 @@
 # Chiseled Azure Seastone Pillar Wall
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/chiseled_azure_seastone_pillar_wall.png" alt="Chiseled Azure Seastone Pillar Wall">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/chiseled_azure_seastone_pillar_wall.png" alt="Chiseled Azure Seastone Pillar Wall">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Chiseled Azure Seastone Pillar Wall</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

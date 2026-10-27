@@ -1,7 +1,7 @@
 # Valkyrie Music Disc
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/music_disc_ascending_dawn.png" alt="Valkyrie Music Disc">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/music_disc_ascending_dawn.png" alt="Valkyrie Music Disc">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Valkyrie Music Disc</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

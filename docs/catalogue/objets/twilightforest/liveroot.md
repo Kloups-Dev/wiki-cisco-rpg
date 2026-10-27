@@ -1,7 +1,7 @@
 # Racine vivante
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/liveroot.png" alt="Racine vivante">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/liveroot.png" alt="Racine vivante">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Racine vivante</div>
 <div class="mc-tooltip-card__alias">Liveroot</div>

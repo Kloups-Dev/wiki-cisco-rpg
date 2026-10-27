@@ -1,7 +1,7 @@
 # Extrapolated Megasponge
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/mega_sponge.png" alt="Extrapolated Megasponge">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/mega_sponge.png" alt="Extrapolated Megasponge">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Extrapolated Megasponge</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticlegacy:mega_sponge</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Sponge (minecraft:sponge)">?</span><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Sponge (minecraft:sponge)">?</span><span class="jei-slot" title="Heart Of The Sea (minecraft:heart_of_the_sea)">?</span><span class="jei-slot" title="Nautilus Shell (minecraft:nautilus_shell)">?</span><span class="jei-slot" title="Heart Of The Sea (minecraft:heart_of_the_sea)">?</span><span class="jei-slot" title="Sponge (minecraft:sponge)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><span class="jei-slot" title="Sponge (minecraft:sponge)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/enigmaticlegacy/mega_sponge.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticlegacy:mega_sponge</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Sponge (minecraft:sponge)">?</span><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Sponge (minecraft:sponge)">?</span><span class="jei-slot" title="Heart Of The Sea (minecraft:heart_of_the_sea)">?</span><span class="jei-slot" title="Nautilus Shell (minecraft:nautilus_shell)">?</span><span class="jei-slot" title="Heart Of The Sea (minecraft:heart_of_the_sea)">?</span><span class="jei-slot" title="Sponge (minecraft:sponge)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><span class="jei-slot" title="Sponge (minecraft:sponge)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/enigmaticlegacy/mega_sponge.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
 
 ## Utilisé dans
 

@@ -1,7 +1,7 @@
 # Icewhisper
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/icewhisper.png" alt="Icewhisper">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/icewhisper.png" alt="Icewhisper">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Icewhisper</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

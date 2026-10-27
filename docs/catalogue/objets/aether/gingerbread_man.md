@@ -1,7 +1,7 @@
 # Ginger Bread Man
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/gingerbread_man.png" alt="Ginger Bread Man">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/gingerbread_man.png" alt="Ginger Bread Man">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ginger Bread Man</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

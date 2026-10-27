@@ -1,7 +1,7 @@
 # Cadeau Starbuncle
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/starby_gift.png" alt="Cadeau Starbuncle">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/starby_gift.png" alt="Cadeau Starbuncle">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cadeau Starbuncle</div>
 <div class="mc-tooltip-card__alias">Starbuncle Gift</div>

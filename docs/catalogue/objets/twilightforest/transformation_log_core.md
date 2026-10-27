@@ -1,7 +1,7 @@
 # Coeur de transformation
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/transformation_log_core.png" alt="Coeur de transformation">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/transformation_log_core.png" alt="Coeur de transformation">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Coeur de transformation</div>
 <div class="mc-tooltip-card__alias">Heart of Transformation</div>

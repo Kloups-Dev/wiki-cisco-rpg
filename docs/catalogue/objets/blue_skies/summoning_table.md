@@ -1,7 +1,7 @@
 # Table d'invocation
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/summoning_table.png" alt="Table d&#x27;invocation">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/summoning_table.png" alt="Table d&#x27;invocation">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Table d&#x27;invocation</div>
 <div class="mc-tooltip-card__alias">Summoning Table</div>

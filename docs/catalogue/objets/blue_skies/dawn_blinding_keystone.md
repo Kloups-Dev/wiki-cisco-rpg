@@ -1,7 +1,7 @@
 # Serrure aveuglante (Everdawn)
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/dawn_blinding_keystone.png" alt="Serrure aveuglante (Everdawn)">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/dawn_blinding_keystone.png" alt="Serrure aveuglante (Everdawn)">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Serrure aveuglante (Everdawn)</div>
 <div class="mc-tooltip-card__alias">Blinding Keystone (Everdawn)</div>

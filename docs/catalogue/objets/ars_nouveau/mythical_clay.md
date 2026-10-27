@@ -1,7 +1,7 @@
 # Argile Mythique
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/mythical_clay.png" alt="Argile Mythique">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/mythical_clay.png" alt="Argile Mythique">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Argile Mythique</div>
 <div class="mc-tooltip-card__alias">Mythical Clay</div>

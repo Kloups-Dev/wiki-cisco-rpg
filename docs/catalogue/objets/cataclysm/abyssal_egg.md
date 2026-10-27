@@ -1,7 +1,7 @@
 # Abyssal Egg
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/abyssal_egg.png" alt="Abyssal Egg">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/abyssal_egg.png" alt="Abyssal Egg">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Abyssal Egg</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

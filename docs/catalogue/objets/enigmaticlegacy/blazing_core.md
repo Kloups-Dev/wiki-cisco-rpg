@@ -1,7 +1,7 @@
 # Blazing Core
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/blazing_core.png" alt="Blazing Core">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/blazing_core.png" alt="Blazing Core">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Blazing Core</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

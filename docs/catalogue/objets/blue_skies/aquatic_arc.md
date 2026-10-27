@@ -1,7 +1,7 @@
 # Artéfact aquatique
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/aquatic_arc.png" alt="Artéfact aquatique">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/aquatic_arc.png" alt="Artéfact aquatique">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Artéfact aquatique</div>
 <div class="mc-tooltip-card__alias">Aquatic Arc</div>

@@ -1,7 +1,7 @@
 # Bottes de l'ombre
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/shadow_boots.png" alt="Bottes de l&#x27;ombre">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/shadow_boots.png" alt="Bottes de l&#x27;ombre">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bottes de l&#x27;ombre</div>
 <div class="mc-tooltip-card__alias">Shadow Boots</div>

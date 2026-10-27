@@ -1,7 +1,7 @@
 # Tablet of Ascension
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/tabletof_ascension.png" alt="Tablet of Ascension">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/tabletof_ascension.png" alt="Tablet of Ascension">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tablet of Ascension</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

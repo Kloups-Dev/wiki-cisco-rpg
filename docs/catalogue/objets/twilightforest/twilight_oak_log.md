@@ -1,7 +1,7 @@
 # Twilight Oak Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/twilight_oak_log.png" alt="Twilight Oak Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/twilight_oak_log.png" alt="Twilight Oak Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Twilight Oak Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Planches de bois de chêne Twilight](../../../catalogue/objets/twilightforest/twilight_oak_planks.md) — <code>twilightforest:twilight_oak_planks</code>
 - [Hollow Twilight Oak Log](../../../catalogue/objets/twilightforest/hollow_twilight_oak_log_vertical.md) — <code>twilightforest:hollow_twilight_oak_log_vertical</code>
+- [Planches de bois de chêne Twilight](../../../catalogue/objets/twilightforest/twilight_oak_planks.md) — <code>twilightforest:twilight_oak_planks</code>
 - [Bois de chêne Twilight](../../../catalogue/objets/twilightforest/twilight_oak_wood.md) — <code>twilightforest:twilight_oak_wood</code>
 
 ## Effets et caractéristiques

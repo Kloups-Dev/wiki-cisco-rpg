@@ -1,7 +1,7 @@
 # Skyroot Water Bucket
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/skyroot_water_bucket.png" alt="Skyroot Water Bucket">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/skyroot_water_bucket.png" alt="Skyroot Water Bucket">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Skyroot Water Bucket</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

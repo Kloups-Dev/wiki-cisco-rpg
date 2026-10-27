@@ -1,7 +1,7 @@
 # Champ de force bleu
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/blue_force_field.png" alt="Champ de force bleu">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/blue_force_field.png" alt="Champ de force bleu">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Champ de force bleu</div>
 <div class="mc-tooltip-card__alias">Blue Force Field</div>

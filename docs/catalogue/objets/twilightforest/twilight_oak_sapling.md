@@ -1,7 +1,7 @@
 # Pousse de chêne de la Twilight faible
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/twilight_oak_sapling.png" alt="Pousse de chêne de la Twilight faible">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/twilight_oak_sapling.png" alt="Pousse de chêne de la Twilight faible">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pousse de chêne de la Twilight faible</div>
 <div class="mc-tooltip-card__alias">Sickly Twilight Oak Sapling</div>

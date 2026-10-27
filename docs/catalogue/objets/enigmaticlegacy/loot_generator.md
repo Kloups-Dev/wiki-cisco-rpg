@@ -1,7 +1,7 @@
 # The One Box
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/loot_generator.png" alt="The One Box">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/loot_generator.png" alt="The One Box">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">The One Box</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

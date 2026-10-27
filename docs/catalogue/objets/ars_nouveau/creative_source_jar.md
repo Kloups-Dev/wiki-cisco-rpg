@@ -1,7 +1,7 @@
 # Pot source créative
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/creative_source_jar.png" alt="Pot source créative">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/creative_source_jar.png" alt="Pot source créative">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pot source créative</div>
 <div class="mc-tooltip-card__alias">Creative Source Jar</div>

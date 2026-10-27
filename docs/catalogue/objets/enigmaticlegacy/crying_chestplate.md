@@ -1,7 +1,7 @@
 # Crying Cuirass [NYI]
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/crying_chestplate.png" alt="Crying Cuirass [NYI]">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/crying_chestplate.png" alt="Crying Cuirass [NYI]">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Crying Cuirass [NYI]</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

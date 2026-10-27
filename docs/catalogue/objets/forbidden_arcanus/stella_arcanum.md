@@ -1,7 +1,7 @@
 # Stella Arcanum
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/stella_arcanum.png" alt="Stella Arcanum">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/stella_arcanum.png" alt="Stella Arcanum">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stella Arcanum</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

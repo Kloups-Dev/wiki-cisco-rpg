@@ -1,7 +1,7 @@
 # Rod o' Lightning
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/lightning_rod.png" alt="Rod o&#x27; Lightning">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/lightning_rod.png" alt="Rod o&#x27; Lightning">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Rod o&#x27; Lightning</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

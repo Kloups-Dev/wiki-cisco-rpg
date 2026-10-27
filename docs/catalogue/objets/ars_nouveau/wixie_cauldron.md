@@ -1,7 +1,7 @@
 # Chaudron Wixie
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/wixie_cauldron.png" alt="Chaudron Wixie">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/wixie_cauldron.png" alt="Chaudron Wixie">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Chaudron Wixie</div>
 <div class="mc-tooltip-card__alias">Wixie Cauldron</div>

@@ -1,7 +1,7 @@
 # Non-Euclidean Cube
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/the_cube.png" alt="Non-Euclidean Cube">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/the_cube.png" alt="Non-Euclidean Cube">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Non-Euclidean Cube</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

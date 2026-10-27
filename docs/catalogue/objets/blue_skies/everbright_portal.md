@@ -1,7 +1,7 @@
 # Cadre du portail de l'Everbright
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/everbright_portal.png" alt="Cadre du portail de l&#x27;Everbright">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/everbright_portal.png" alt="Cadre du portail de l&#x27;Everbright">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cadre du portail de l&#x27;Everbright</div>
 <div class="mc-tooltip-card__alias">Everbright Portal Block</div>

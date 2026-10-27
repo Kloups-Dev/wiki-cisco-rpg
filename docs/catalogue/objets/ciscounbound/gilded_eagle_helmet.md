@@ -1,7 +1,7 @@
 # Gilded Eagle Hood
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/gilded_eagle_helmet.png" alt="Gilded Eagle Hood">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/gilded_eagle_helmet.png" alt="Gilded Eagle Hood">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Gilded Eagle Hood</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

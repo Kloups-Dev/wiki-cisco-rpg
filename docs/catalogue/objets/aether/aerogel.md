@@ -1,7 +1,7 @@
 # Aerogel
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/aerogel.png" alt="Aerogel">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/aerogel.png" alt="Aerogel">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aerogel</div>
 <div class="mc-tooltip-card__mod">The Aether</div>
@@ -19,9 +19,9 @@
 
 ## Utilisé dans
 
-- [Aerogel Wall](../../../catalogue/objets/aether/aerogel_wall.md) — <code>aether:aerogel_wall</code>
-- [Aerogel Stairs](../../../catalogue/objets/aether/aerogel_stairs.md) — <code>aether:aerogel_stairs</code>
 - [Aerogel Slab](../../../catalogue/objets/aether/aerogel_slab.md) — <code>aether:aerogel_slab</code>
+- [Aerogel Stairs](../../../catalogue/objets/aether/aerogel_stairs.md) — <code>aether:aerogel_stairs</code>
+- [Aerogel Wall](../../../catalogue/objets/aether/aerogel_wall.md) — <code>aether:aerogel_wall</code>
 
 ## Effets et caractéristiques
 

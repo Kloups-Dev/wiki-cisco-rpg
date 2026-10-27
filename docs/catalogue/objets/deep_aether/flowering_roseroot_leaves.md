@@ -1,7 +1,7 @@
 # Flowering Roseroot Leaves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/flowering_roseroot_leaves.png" alt="Flowering Roseroot Leaves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/flowering_roseroot_leaves.png" alt="Flowering Roseroot Leaves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Flowering Roseroot Leaves</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

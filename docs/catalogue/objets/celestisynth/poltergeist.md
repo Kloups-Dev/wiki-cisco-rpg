@@ -1,7 +1,7 @@
 # Poltergeist
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/celestisynth/poltergeist.png" alt="Poltergeist">
+<img class="mc-item-icon" src="../../../../assets/generated/items/celestisynth/poltergeist.png" alt="Poltergeist">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Poltergeist</div>
 <div class="mc-tooltip-card__mod">Celestisynth</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Shaped Celestial Crafting</strong><span>celestisynth:poltergeist</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/celestisynth/poltergeist.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : celestisynth-1.19.2-1.1.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Shaped Celestial Crafting</strong><span>celestisynth:poltergeist</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/celestisynth/poltergeist.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : celestisynth-1.19.2-1.1.5.jar</div></div>
 
 ## Utilisé dans
 

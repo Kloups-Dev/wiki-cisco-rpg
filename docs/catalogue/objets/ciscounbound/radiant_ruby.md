@@ -1,7 +1,7 @@
 # Radiant Ruby
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/radiant_ruby.png" alt="Radiant Ruby">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/radiant_ruby.png" alt="Radiant Ruby">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Radiant Ruby</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

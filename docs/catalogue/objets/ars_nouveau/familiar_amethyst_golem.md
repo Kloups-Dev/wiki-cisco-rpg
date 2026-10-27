@@ -1,7 +1,7 @@
 # Golem d'améthyste
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/familiar_amethyst_golem.png" alt="Golem d&#x27;améthyste">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/familiar_amethyst_golem.png" alt="Golem d&#x27;améthyste">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Golem d&#x27;améthyste</div>
 <div class="mc-tooltip-card__alias">Amethyst Golem</div>

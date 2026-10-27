@@ -1,7 +1,7 @@
 # Émetteur d'étoiles
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/star_emitter.png" alt="Émetteur d&#x27;étoiles">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/star_emitter.png" alt="Émetteur d&#x27;étoiles">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Émetteur d&#x27;étoiles</div>
 <div class="mc-tooltip-card__alias">Star Emitter</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>blue_skies:star_emitter</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../catalogue/objets/blue_skies/star_flare.md" title="Éclat d&#x27;étoile (blue_skies:star_flare)"><img src="../../../assets/generated/items/blue_skies/star_flare.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#blue_skies:ingots/falsite">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_slabs">#</span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_slabs">#</span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_slabs">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/blue_skies/star_emitter.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>blue_skies:star_emitter</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../../catalogue/objets/blue_skies/star_flare/" title="Éclat d&#x27;étoile (blue_skies:star_flare)"><img src="../../../../assets/generated/items/blue_skies/star_flare.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#blue_skies:ingots/falsite">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_slabs">#</span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_slabs">#</span><span class="jei-slot jei-slot--tag" title="#minecraft:wooden_slabs">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/blue_skies/star_emitter.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
 
 ## Utilisé dans
 

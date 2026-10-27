@@ -1,7 +1,7 @@
 # Gilded Darkstone
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/gilded_darkstone.png" alt="Gilded Darkstone">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/gilded_darkstone.png" alt="Gilded Darkstone">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Gilded Darkstone</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

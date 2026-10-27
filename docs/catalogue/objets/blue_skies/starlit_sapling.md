@@ -1,7 +1,7 @@
 # Pousse d'étoilibois
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/starlit_sapling.png" alt="Pousse d&#x27;étoilibois">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/starlit_sapling.png" alt="Pousse d&#x27;étoilibois">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pousse d&#x27;étoilibois</div>
 <div class="mc-tooltip-card__alias">Starlit Sapling</div>

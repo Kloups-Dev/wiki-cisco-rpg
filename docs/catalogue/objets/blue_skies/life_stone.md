@@ -1,7 +1,7 @@
 # Pierre de vie
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/life_stone.png" alt="Pierre de vie">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/life_stone.png" alt="Pierre de vie">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre de vie</div>
 <div class="mc-tooltip-card__alias">Life Stone</div>

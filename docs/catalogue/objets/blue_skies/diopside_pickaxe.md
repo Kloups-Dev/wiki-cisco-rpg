@@ -1,7 +1,7 @@
 # Pioche en diopside
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/diopside_pickaxe.png" alt="Pioche en diopside">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/diopside_pickaxe.png" alt="Pioche en diopside">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pioche en diopside</div>
 <div class="mc-tooltip-card__alias">Diopside Pickaxe</div>

@@ -1,7 +1,7 @@
 # Cursium Ingot
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/cursium_ingot.png" alt="Cursium Ingot">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/cursium_ingot.png" alt="Cursium Ingot">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cursium Ingot</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>
@@ -14,18 +14,18 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>cataclysm:cursium_ingot</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/cataclysm/cursium_block.md" title="Block of Cursium (cataclysm:cursium_block)"><img src="../../../assets/generated/items/cataclysm/cursium_block.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/cataclysm/cursium_ingot.png" alt=""><span class="jei-count">9</span></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>cataclysm:cursium_ingot</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/cataclysm/cursium_block/" title="Block of Cursium (cataclysm:cursium_block)"><img src="../../../../assets/generated/items/cataclysm/cursium_block.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/cataclysm/cursium_ingot.png" alt=""><span class="jei-count">9</span></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
 
 ## Utilisé dans
 
-- [Soul Render](../../../catalogue/objets/cataclysm/soul_render.md) — <code>cataclysm:soul_render</code>
-- [The Annihilator](../../../catalogue/objets/cataclysm/the_annihilator.md) — <code>cataclysm:the_annihilator</code>
-- [Cursium Helmet](../../../catalogue/objets/cataclysm/cursium_helmet.md) — <code>cataclysm:cursium_helmet</code>
+- [Cursed Bow](../../../catalogue/objets/cataclysm/cursed_bow.md) — <code>cataclysm:cursed_bow</code>
+- [Block of Cursium](../../../catalogue/objets/cataclysm/cursium_block.md) — <code>cataclysm:cursium_block</code>
 - [Cursium Boots](../../../catalogue/objets/cataclysm/cursium_boots.md) — <code>cataclysm:cursium_boots</code>
 - [Cursium Chestplate](../../../catalogue/objets/cataclysm/cursium_chestplate.md) — <code>cataclysm:cursium_chestplate</code>
-- [Cursed Bow](../../../catalogue/objets/cataclysm/cursed_bow.md) — <code>cataclysm:cursed_bow</code>
+- [Cursium Helmet](../../../catalogue/objets/cataclysm/cursium_helmet.md) — <code>cataclysm:cursium_helmet</code>
 - [Cursium Leggings](../../../catalogue/objets/cataclysm/cursium_leggings.md) — <code>cataclysm:cursium_leggings</code>
-- [Block of Cursium](../../../catalogue/objets/cataclysm/cursium_block.md) — <code>cataclysm:cursium_block</code>
+- [Soul Render](../../../catalogue/objets/cataclysm/soul_render.md) — <code>cataclysm:soul_render</code>
+- [The Annihilator](../../../catalogue/objets/cataclysm/the_annihilator.md) — <code>cataclysm:the_annihilator</code>
 
 ## Effets et caractéristiques
 

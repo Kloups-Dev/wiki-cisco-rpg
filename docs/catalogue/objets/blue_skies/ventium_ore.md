@@ -1,7 +1,7 @@
 # Minerai de ventium
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/ventium_ore.png" alt="Minerai de ventium">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/ventium_ore.png" alt="Minerai de ventium">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Minerai de ventium</div>
 <div class="mc-tooltip-card__alias">Ventium Ore</div>

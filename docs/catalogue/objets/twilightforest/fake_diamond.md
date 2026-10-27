@@ -1,7 +1,7 @@
 # Faux diamant
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/fake_diamond.png" alt="Faux diamant">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/fake_diamond.png" alt="Faux diamant">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Faux diamant</div>
 <div class="mc-tooltip-card__alias">False Diamond</div>

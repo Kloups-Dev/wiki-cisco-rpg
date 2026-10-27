@@ -1,7 +1,7 @@
 # Hache en horizonite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/horizonite_axe.png" alt="Hache en horizonite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/horizonite_axe.png" alt="Hache en horizonite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hache en horizonite</div>
 <div class="mc-tooltip-card__alias">Horizonite Axe</div>

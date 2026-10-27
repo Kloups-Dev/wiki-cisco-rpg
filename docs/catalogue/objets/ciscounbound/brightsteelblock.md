@@ -1,7 +1,7 @@
 # Brightsteel Block
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/brightsteelblock.png" alt="Brightsteel Block">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/brightsteelblock.png" alt="Brightsteel Block">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brightsteel Block</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

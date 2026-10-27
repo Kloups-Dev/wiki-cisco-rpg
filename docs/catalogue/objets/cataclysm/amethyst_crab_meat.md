@@ -1,7 +1,7 @@
 # Amethyst Crab Meat
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/amethyst_crab_meat.png" alt="Amethyst Crab Meat">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/amethyst_crab_meat.png" alt="Amethyst Crab Meat">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Amethyst Crab Meat</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

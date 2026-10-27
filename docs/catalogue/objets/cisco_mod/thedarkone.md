@@ -1,7 +1,7 @@
 # The Dark One
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/thedarkone.png" alt="The Dark One">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cisco_mod/thedarkone.png" alt="The Dark One">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">The Dark One</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

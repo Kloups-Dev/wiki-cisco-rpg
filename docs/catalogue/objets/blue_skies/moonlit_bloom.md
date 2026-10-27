@@ -1,7 +1,7 @@
 # Crépusculine
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/moonlit_bloom.png" alt="Crépusculine">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/moonlit_bloom.png" alt="Crépusculine">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Crépusculine</div>
 <div class="mc-tooltip-card__alias">Moonlit Bloom</div>

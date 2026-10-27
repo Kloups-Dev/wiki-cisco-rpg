@@ -1,7 +1,7 @@
 # Mendosteen
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/mendosteen_pod.png" alt="Mendosteen">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/mendosteen_pod.png" alt="Mendosteen">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mendosteen</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

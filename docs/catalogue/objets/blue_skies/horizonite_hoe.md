@@ -1,7 +1,7 @@
 # Houe en horizonite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/horizonite_hoe.png" alt="Houe en horizonite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/horizonite_hoe.png" alt="Houe en horizonite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Houe en horizonite</div>
 <div class="mc-tooltip-card__alias">Horizonite Hoe</div>

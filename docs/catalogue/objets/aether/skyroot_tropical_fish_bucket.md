@@ -1,7 +1,7 @@
 # Skyroot Bucket of Tropical Fish
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/skyroot_tropical_fish_bucket.png" alt="Skyroot Bucket of Tropical Fish">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/skyroot_tropical_fish_bucket.png" alt="Skyroot Bucket of Tropical Fish">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Skyroot Bucket of Tropical Fish</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

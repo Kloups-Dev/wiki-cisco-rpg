@@ -1,7 +1,7 @@
 # Hache d'Eau
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/knightquest/water_axe.png" alt="Hache d&#x27;Eau">
+<img class="mc-item-icon" src="../../../../assets/generated/items/knightquest/water_axe.png" alt="Hache d&#x27;Eau">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hache d&#x27;Eau</div>
 <div class="mc-tooltip-card__alias">Water axe</div>

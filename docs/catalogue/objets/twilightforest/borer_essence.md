@@ -1,7 +1,7 @@
 # Essence de foreur
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/borer_essence.png" alt="Essence de foreur">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/borer_essence.png" alt="Essence de foreur">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Essence de foreur</div>
 <div class="mc-tooltip-card__alias">Borer Essence</div>

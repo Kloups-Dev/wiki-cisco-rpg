@@ -1,7 +1,7 @@
 # Frostfall
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/frostfall.png" alt="Frostfall">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/frostfall.png" alt="Frostfall">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Frostfall</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

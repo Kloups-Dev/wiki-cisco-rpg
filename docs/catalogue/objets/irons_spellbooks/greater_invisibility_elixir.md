@@ -1,7 +1,7 @@
 # Greater Invisibility Elixir
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/greater_invisibility_elixir.png" alt="Greater Invisibility Elixir">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/greater_invisibility_elixir.png" alt="Greater Invisibility Elixir">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Greater Invisibility Elixir</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

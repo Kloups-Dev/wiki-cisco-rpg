@@ -1,7 +1,7 @@
 # Mask of Misery
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/umvuthana_mask_misery.png" alt="Mask of Misery">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/umvuthana_mask_misery.png" alt="Mask of Misery">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mask of Misery</div>
 <div class="mc-tooltip-card__mod">Mowzie&#x27;s Mobs</div>

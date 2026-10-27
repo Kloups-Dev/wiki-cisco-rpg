@@ -1,7 +1,7 @@
 # Chaines de lien d'âme
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/chain_of_soul_binding.png" alt="Chaines de lien d&#x27;âme">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/chain_of_soul_binding.png" alt="Chaines de lien d&#x27;âme">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Chaines de lien d&#x27;âme</div>
 <div class="mc-tooltip-card__alias">Chain of Soul Binding</div>

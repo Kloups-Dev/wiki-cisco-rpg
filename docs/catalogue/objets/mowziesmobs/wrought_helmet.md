@@ -1,7 +1,7 @@
 # Casque de Chevalier Forgé
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/wrought_helmet.png" alt="Casque de Chevalier Forgé">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/wrought_helmet.png" alt="Casque de Chevalier Forgé">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Casque de Chevalier Forgé</div>
 <div class="mc-tooltip-card__alias">Wrought Helm</div>

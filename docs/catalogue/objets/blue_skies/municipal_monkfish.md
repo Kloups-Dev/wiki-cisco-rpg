@@ -1,7 +1,7 @@
 # Poisson marosien cru
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/municipal_monkfish.png" alt="Poisson marosien cru">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/municipal_monkfish.png" alt="Poisson marosien cru">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Poisson marosien cru</div>
 <div class="mc-tooltip-card__alias">Raw Municipal Monkfish</div>

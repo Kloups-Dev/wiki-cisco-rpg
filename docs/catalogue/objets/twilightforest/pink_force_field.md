@@ -1,7 +1,7 @@
 # Champ de force rose
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/pink_force_field.png" alt="Champ de force rose">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/pink_force_field.png" alt="Champ de force rose">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Champ de force rose</div>
 <div class="mc-tooltip-card__alias">Pink Force Field</div>

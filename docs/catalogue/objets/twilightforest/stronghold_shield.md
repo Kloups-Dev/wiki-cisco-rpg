@@ -1,7 +1,7 @@
 # Bouclier stronghold
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/stronghold_shield.png" alt="Bouclier stronghold">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/stronghold_shield.png" alt="Bouclier stronghold">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bouclier stronghold</div>
 <div class="mc-tooltip-card__alias">Stronghold Shield</div>

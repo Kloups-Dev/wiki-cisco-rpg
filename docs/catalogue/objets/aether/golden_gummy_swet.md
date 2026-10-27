@@ -1,7 +1,7 @@
 # Golden Gummy Swet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/golden_gummy_swet.png" alt="Golden Gummy Swet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/golden_gummy_swet.png" alt="Golden Gummy Swet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Golden Gummy Swet</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

@@ -1,7 +1,7 @@
 # Music Disc
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/chase_disc.png" alt="Music Disc">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cisco_mod/chase_disc.png" alt="Music Disc">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Music Disc</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

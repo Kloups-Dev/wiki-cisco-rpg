@@ -1,7 +1,7 @@
 # Zweiender
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/zweiender.png" alt="Zweiender">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/zweiender.png" alt="Zweiender">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Zweiender</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

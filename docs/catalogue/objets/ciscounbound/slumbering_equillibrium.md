@@ -1,7 +1,7 @@
 # Slumbering Equillibrium
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/slumbering_equillibrium.png" alt="Slumbering Equillibrium">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/slumbering_equillibrium.png" alt="Slumbering Equillibrium">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Slumbering Equillibrium</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

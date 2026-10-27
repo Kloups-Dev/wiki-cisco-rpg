@@ -1,7 +1,7 @@
 # Briques de pierre de l'End infusé de vide
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/void_infused_end_stone_bricks.png" alt="Briques de pierre de l&#x27;End infusé de vide">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/void_infused_end_stone_bricks.png" alt="Briques de pierre de l&#x27;End infusé de vide">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Briques de pierre de l&#x27;End infusé de vide</div>
 <div class="mc-tooltip-card__alias">Void Infused End Stone Bricks</div>

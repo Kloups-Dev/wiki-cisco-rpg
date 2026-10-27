@@ -1,7 +1,7 @@
 # Frosted Stone Bricks
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/frosted_stone_bricks.png" alt="Frosted Stone Bricks">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/frosted_stone_bricks.png" alt="Frosted Stone Bricks">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Frosted Stone Bricks</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Frosted Stone Brick Stairs](../../../catalogue/objets/cataclysm/frosted_stone_brick_stairs.md) — <code>cataclysm:frosted_stone_brick_stairs</code>
 - [Frosted Stone Brick Slab](../../../catalogue/objets/cataclysm/frosted_stone_brick_slab.md) — <code>cataclysm:frosted_stone_brick_slab</code>
+- [Frosted Stone Brick Stairs](../../../catalogue/objets/cataclysm/frosted_stone_brick_stairs.md) — <code>cataclysm:frosted_stone_brick_stairs</code>
 - [Frosted Stone Brick Wall](../../../catalogue/objets/cataclysm/frosted_stone_brick_wall.md) — <code>cataclysm:frosted_stone_brick_wall</code>
 
 ## Effets et caractéristiques

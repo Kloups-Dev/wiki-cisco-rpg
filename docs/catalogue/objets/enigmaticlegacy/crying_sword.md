@@ -1,7 +1,7 @@
 # Crying Sword [NYI]
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/crying_sword.png" alt="Crying Sword [NYI]">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/crying_sword.png" alt="Crying Sword [NYI]">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Crying Sword [NYI]</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

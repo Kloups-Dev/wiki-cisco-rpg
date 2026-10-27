@@ -1,7 +1,7 @@
 # Bloc de carminite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/carminite_block.png" alt="Bloc de carminite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/carminite_block.png" alt="Bloc de carminite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bloc de carminite</div>
 <div class="mc-tooltip-card__alias">Block of Carminite</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>twilightforest:compressed_blocks/carminite_block</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/carminite_block.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>twilightforest:compressed_blocks/carminite_block</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/carminite">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/carminite_block.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

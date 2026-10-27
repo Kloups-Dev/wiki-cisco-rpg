@@ -1,7 +1,7 @@
 # Bucket of Modern Remnant
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/modern_remnant_bucket.png" alt="Bucket of Modern Remnant">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/modern_remnant_bucket.png" alt="Bucket of Modern Remnant">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bucket of Modern Remnant</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

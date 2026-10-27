@@ -1,7 +1,7 @@
 # Gelée Lumineuse
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/glowing_jelly.png" alt="Gelée Lumineuse">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/glowing_jelly.png" alt="Gelée Lumineuse">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Gelée Lumineuse</div>
 <div class="mc-tooltip-card__alias">Luminous Jelly</div>

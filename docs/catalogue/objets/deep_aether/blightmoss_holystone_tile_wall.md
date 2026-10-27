@@ -1,7 +1,7 @@
 # Blightmoss Holystone Tile Wall
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/blightmoss_holystone_tile_wall.png" alt="Blightmoss Holystone Tile Wall">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/blightmoss_holystone_tile_wall.png" alt="Blightmoss Holystone Tile Wall">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Blightmoss Holystone Tile Wall</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

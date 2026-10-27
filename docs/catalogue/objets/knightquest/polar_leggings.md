@@ -1,7 +1,7 @@
 # Jambières Polaires
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/knightquest/polar_leggings.png" alt="Jambières Polaires">
+<img class="mc-item-icon" src="../../../../assets/generated/items/knightquest/polar_leggings.png" alt="Jambières Polaires">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Jambières Polaires</div>
 <div class="mc-tooltip-card__alias">Polar Leggings</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:polar_leggings</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Snowball (minecraft:snowball)">?</span><span class="jei-slot" title="Iron Axe (minecraft:iron_axe)">?</span><span class="jei-slot" title="Stripped Mangrove Log (minecraft:stripped_mangrove_log)">?</span><a class="jei-slot" href="../../../catalogue/objets/knightquest/filled_goblet.md" title="Gobelet Rempli (knightquest:filled_goblet)"><img src="../../../assets/generated/items/knightquest/filled_goblet.png" alt="" loading="lazy"></a><span class="jei-slot" title="Diamond Leggings (minecraft:diamond_leggings)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/knightquest/polar_leggings.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:polar_leggings</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Snowball (minecraft:snowball)">?</span><span class="jei-slot" title="Iron Axe (minecraft:iron_axe)">?</span><span class="jei-slot" title="Stripped Mangrove Log (minecraft:stripped_mangrove_log)">?</span><a class="jei-slot" href="../../../../catalogue/objets/knightquest/filled_goblet/" title="Gobelet Rempli (knightquest:filled_goblet)"><img src="../../../../assets/generated/items/knightquest/filled_goblet.png" alt="" loading="lazy"></a><span class="jei-slot" title="Diamond Leggings (minecraft:diamond_leggings)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/knightquest/polar_leggings.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
 
 ## Utilisé dans
 

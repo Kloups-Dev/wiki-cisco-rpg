@@ -1,7 +1,7 @@
 # Feuilles d'haricot magique
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/beanstalk_leaves.png" alt="Feuilles d&#x27;haricot magique">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/beanstalk_leaves.png" alt="Feuilles d&#x27;haricot magique">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles d&#x27;haricot magique</div>
 <div class="mc-tooltip-card__alias">Beanstalk Leaves</div>

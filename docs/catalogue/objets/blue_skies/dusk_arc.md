@@ -1,7 +1,7 @@
 # Artéfact du crépuscule
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/dusk_arc.png" alt="Artéfact du crépuscule">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/dusk_arc.png" alt="Artéfact du crépuscule">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Artéfact du crépuscule</div>
 <div class="mc-tooltip-card__alias">Dusk Arc</div>

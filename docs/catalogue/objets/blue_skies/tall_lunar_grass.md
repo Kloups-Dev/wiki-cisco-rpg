@@ -1,7 +1,7 @@
 # Hautes herbes lunaires
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/tall_lunar_grass.png" alt="Hautes herbes lunaires">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/tall_lunar_grass.png" alt="Hautes herbes lunaires">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hautes herbes lunaires</div>
 <div class="mc-tooltip-card__alias">Lunar Tall Grass</div>

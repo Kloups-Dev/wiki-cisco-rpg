@@ -1,7 +1,7 @@
 # Éclats de tourbillon
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/whirlisprig_shards.png" alt="Éclats de tourbillon">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/whirlisprig_shards.png" alt="Éclats de tourbillon">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Éclats de tourbillon</div>
 <div class="mc-tooltip-card__alias">Whirlisprig Shards</div>

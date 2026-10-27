@@ -1,7 +1,7 @@
 # Fragment d'armure
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/armor_shard.png" alt="Fragment d&#x27;armure">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/armor_shard.png" alt="Fragment d&#x27;armure">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fragment d&#x27;armure</div>
 <div class="mc-tooltip-card__alias">Armor Shard</div>

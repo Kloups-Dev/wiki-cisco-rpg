@@ -1,7 +1,7 @@
 # Stripped Darkwood Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/stripped_dark_log.png" alt="Stripped Darkwood Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/stripped_dark_log.png" alt="Stripped Darkwood Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Darkwood Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Stripped Darkwood](../../../catalogue/objets/twilightforest/stripped_dark_wood.md) — <code>twilightforest:stripped_dark_wood</code>
 - [Planches de bois sombre](../../../catalogue/objets/twilightforest/dark_planks.md) — <code>twilightforest:dark_planks</code>
+- [Stripped Darkwood](../../../catalogue/objets/twilightforest/stripped_dark_wood.md) — <code>twilightforest:stripped_dark_wood</code>
 
 ## Effets et caractéristiques
 

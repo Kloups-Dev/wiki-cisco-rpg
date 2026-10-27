@@ -1,7 +1,7 @@
 # Twisted Stone
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/twisted_stone.png" alt="Twisted Stone">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/twisted_stone.png" alt="Twisted Stone">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Twisted Stone</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>twilightforest:stonecutting/stone/twisted_stone</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot" title="Stone (minecraft:stone)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/twisted_stone.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>twilightforest:stonecutting/stone/twisted_stone</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot" title="Stone (minecraft:stone)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/twisted_stone.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

@@ -1,7 +1,7 @@
 # Pierre du vide
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/void_stone.png" alt="Pierre du vide">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/void_stone.png" alt="Pierre du vide">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre du vide</div>
 <div class="mc-tooltip-card__alias">Void Stone</div>
@@ -20,9 +20,9 @@
 
 ## Utilisé dans
 
+- [Bloc de pierre de l'End piégé](../../../catalogue/objets/cataclysm/end_stone_teleport_trap_bricks.md) — <code>cataclysm:end_stone_teleport_trap_bricks</code>
 - [Bloc d'obsidienne piégé](../../../catalogue/objets/cataclysm/obsidian_explosion_trap_bricks.md) — <code>cataclysm:obsidian_explosion_trap_bricks</code>
 - [Bloc de purpur piégé](../../../catalogue/objets/cataclysm/purpur_void_rune_trap_block.md) — <code>cataclysm:purpur_void_rune_trap_block</code>
-- [Bloc de pierre de l'End piégé](../../../catalogue/objets/cataclysm/end_stone_teleport_trap_bricks.md) — <code>cataclysm:end_stone_teleport_trap_bricks</code>
 
 ## Effets et caractéristiques
 

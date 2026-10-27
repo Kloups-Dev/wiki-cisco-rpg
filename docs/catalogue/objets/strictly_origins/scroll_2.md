@@ -1,7 +1,7 @@
 # Parchemin du Chevalier
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/strictly_origins/scroll_2.png" alt="Parchemin du Chevalier">
+<img class="mc-item-icon" src="../../../../assets/generated/items/strictly_origins/scroll_2.png" alt="Parchemin du Chevalier">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Parchemin du Chevalier</div>
 <div class="mc-tooltip-card__alias">Knight Scroll</div>

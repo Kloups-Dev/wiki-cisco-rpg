@@ -1,7 +1,7 @@
 # Houe en crépuscubois
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/dusk_hoe.png" alt="Houe en crépuscubois">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/dusk_hoe.png" alt="Houe en crépuscubois">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Houe en crépuscubois</div>
 <div class="mc-tooltip-card__alias">Dusk Wood Hoe</div>

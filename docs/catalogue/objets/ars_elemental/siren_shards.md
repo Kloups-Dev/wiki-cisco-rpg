@@ -1,7 +1,7 @@
 # Siren Shards
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_elemental/siren_shards.png" alt="Siren Shards">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_elemental/siren_shards.png" alt="Siren Shards">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Siren Shards</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

@@ -1,7 +1,7 @@
 # Trollsteinn
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/trollsteinn.png" alt="Trollsteinn">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/trollsteinn.png" alt="Trollsteinn">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Trollsteinn</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

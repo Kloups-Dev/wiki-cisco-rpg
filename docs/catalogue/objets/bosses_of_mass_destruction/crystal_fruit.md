@@ -1,7 +1,7 @@
 # Crystal Fruit
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/bosses_of_mass_destruction/crystal_fruit.png" alt="Crystal Fruit">
+<img class="mc-item-icon" src="../../../../assets/generated/items/bosses_of_mass_destruction/crystal_fruit.png" alt="Crystal Fruit">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Crystal Fruit</div>
 <div class="mc-tooltip-card__mod">Bosses of Mass Destruction</div>

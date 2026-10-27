@@ -1,7 +1,7 @@
 # Invisibility Cloak
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/invisibility_cloak.png" alt="Invisibility Cloak">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/invisibility_cloak.png" alt="Invisibility Cloak">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Invisibility Cloak</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

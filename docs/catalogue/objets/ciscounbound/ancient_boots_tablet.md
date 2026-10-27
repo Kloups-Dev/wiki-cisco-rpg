@@ -1,7 +1,7 @@
 # Ancient Boots Tablet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/ancient_boots_tablet.png" alt="Ancient Boots Tablet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/ancient_boots_tablet.png" alt="Ancient Boots Tablet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ancient Boots Tablet</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

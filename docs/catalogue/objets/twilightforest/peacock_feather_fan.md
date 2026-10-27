@@ -1,7 +1,7 @@
 # Éventail de plumes de paon
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/peacock_feather_fan.png" alt="Éventail de plumes de paon">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/peacock_feather_fan.png" alt="Éventail de plumes de paon">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Éventail de plumes de paon</div>
 <div class="mc-tooltip-card__alias">Peacock Feather Fan</div>

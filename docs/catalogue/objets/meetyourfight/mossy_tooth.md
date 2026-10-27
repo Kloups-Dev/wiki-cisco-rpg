@@ -1,7 +1,7 @@
 # Dent moussue
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/meetyourfight/mossy_tooth.png" alt="Dent moussue">
+<img class="mc-item-icon" src="../../../../assets/generated/items/meetyourfight/mossy_tooth.png" alt="Dent moussue">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Dent moussue</div>
 <div class="mc-tooltip-card__alias">Mossy Tooth</div>
@@ -22,8 +22,8 @@
 
 - [Ratisseur d'os](../../../catalogue/objets/meetyourfight/bone_raker.md) — <code>meetyourfight:bone_raker</code>
 - [Coeur en cage](../../../catalogue/objets/meetyourfight/caged_heart.md) — <code>meetyourfight:caged_heart</code>
-- [Délice des marais](../../../catalogue/objets/meetyourfight/marshy_delight.md) — <code>meetyourfight:marshy_delight</code>
 - [Étoile des profondeurs](../../../catalogue/objets/meetyourfight/depth_star.md) — <code>meetyourfight:depth_star</code>
+- [Délice des marais](../../../catalogue/objets/meetyourfight/marshy_delight.md) — <code>meetyourfight:marshy_delight</code>
 
 ## Effets et caractéristiques
 

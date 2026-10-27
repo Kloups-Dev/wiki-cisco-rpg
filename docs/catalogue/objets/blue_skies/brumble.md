@@ -1,7 +1,7 @@
 # Brimble
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/brumble.png" alt="Brimble">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/brumble.png" alt="Brimble">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brimble</div>
 <div class="mc-tooltip-card__alias">Brumble</div>

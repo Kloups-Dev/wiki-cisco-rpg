@@ -1,7 +1,7 @@
 # Pierres lunaires
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/lunar_cobblestone.png" alt="Pierres lunaires">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/lunar_cobblestone.png" alt="Pierres lunaires">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierres lunaires</div>
 <div class="mc-tooltip-card__alias">Lunar Cobblestone</div>
@@ -20,12 +20,12 @@
 
 ## Utilisé dans
 
-- [Roche lunaire](../../../catalogue/objets/blue_skies/lunar_stone.md) — <code>blue_skies:lunar_stone</code>
-- [Levier lunaire](../../../catalogue/objets/blue_skies/lunar_lever.md) — <code>blue_skies:lunar_lever</code>
-- [Escalier de pierres lunaires](../../../catalogue/objets/blue_skies/lunar_cobblestone_stairs.md) — <code>blue_skies:lunar_cobblestone_stairs</code>
-- [Dalle de pierres lunaires](../../../catalogue/objets/blue_skies/lunar_cobblestone_slab.md) — <code>blue_skies:lunar_cobblestone_slab</code>
-- [Muret de pierres lunaires](../../../catalogue/objets/blue_skies/lunar_cobblestone_wall.md) — <code>blue_skies:lunar_cobblestone_wall</code>
 - [Forge d'horizonite](../../../catalogue/objets/blue_skies/horizonite_forge.md) — <code>blue_skies:horizonite_forge</code>
+- [Dalle de pierres lunaires](../../../catalogue/objets/blue_skies/lunar_cobblestone_slab.md) — <code>blue_skies:lunar_cobblestone_slab</code>
+- [Escalier de pierres lunaires](../../../catalogue/objets/blue_skies/lunar_cobblestone_stairs.md) — <code>blue_skies:lunar_cobblestone_stairs</code>
+- [Muret de pierres lunaires](../../../catalogue/objets/blue_skies/lunar_cobblestone_wall.md) — <code>blue_skies:lunar_cobblestone_wall</code>
+- [Levier lunaire](../../../catalogue/objets/blue_skies/lunar_lever.md) — <code>blue_skies:lunar_lever</code>
+- [Roche lunaire](../../../catalogue/objets/blue_skies/lunar_stone.md) — <code>blue_skies:lunar_stone</code>
 - [Pierres lunaires moussues](../../../catalogue/objets/blue_skies/mossy_lunar_cobblestone.md) — <code>blue_skies:mossy_lunar_cobblestone</code>
 
 ## Effets et caractéristiques

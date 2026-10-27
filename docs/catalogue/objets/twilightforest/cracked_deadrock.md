@@ -1,7 +1,7 @@
 # Deadrock craquelée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/cracked_deadrock.png" alt="Deadrock craquelée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/cracked_deadrock.png" alt="Deadrock craquelée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Deadrock craquelée</div>
 <div class="mc-tooltip-card__alias">Cracked Deadrock</div>

@@ -1,7 +1,7 @@
 # Oeuf d'apparition du Sommonateur
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/summoner_spawn_egg.png" alt="Oeuf d&#x27;apparition du Sommonateur">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/summoner_spawn_egg.png" alt="Oeuf d&#x27;apparition du Sommonateur">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Oeuf d&#x27;apparition du Sommonateur</div>
 <div class="mc-tooltip-card__alias">Summoner Spawn Egg</div>

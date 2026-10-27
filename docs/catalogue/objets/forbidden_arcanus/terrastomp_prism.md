@@ -1,7 +1,7 @@
 # Terrastomp Prism
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/terrastomp_prism.png" alt="Terrastomp Prism">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/terrastomp_prism.png" alt="Terrastomp Prism">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Terrastomp Prism</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

@@ -1,7 +1,7 @@
 # Trophée du Summonateur
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/summoner_trophy.png" alt="Trophée du Summonateur">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/summoner_trophy.png" alt="Trophée du Summonateur">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Trophée du Summonateur</div>
 <div class="mc-tooltip-card__alias">Summoner Trophy</div>

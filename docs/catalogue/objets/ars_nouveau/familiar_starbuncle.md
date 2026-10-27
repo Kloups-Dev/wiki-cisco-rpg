@@ -1,7 +1,7 @@
 # Estoirboucle
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/familiar_starbuncle.png" alt="Estoirboucle">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/familiar_starbuncle.png" alt="Estoirboucle">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Estoirboucle</div>
 <div class="mc-tooltip-card__alias">Starbuncle</div>

@@ -1,7 +1,7 @@
 # Pousse de crépuscubois
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/dusk_sapling.png" alt="Pousse de crépuscubois">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/dusk_sapling.png" alt="Pousse de crépuscubois">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pousse de crépuscubois</div>
 <div class="mc-tooltip-card__alias">Dusk Sapling</div>

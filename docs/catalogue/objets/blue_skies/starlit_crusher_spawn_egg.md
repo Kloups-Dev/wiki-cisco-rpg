@@ -1,7 +1,7 @@
 # Oeuf d'apparition du Déstructeur des Étoiles
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/starlit_crusher_spawn_egg.png" alt="Oeuf d&#x27;apparition du Déstructeur des Étoiles">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/starlit_crusher_spawn_egg.png" alt="Oeuf d&#x27;apparition du Déstructeur des Étoiles">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Oeuf d&#x27;apparition du Déstructeur des Étoiles</div>
 <div class="mc-tooltip-card__alias">Starlit Crusher Spawn Egg</div>

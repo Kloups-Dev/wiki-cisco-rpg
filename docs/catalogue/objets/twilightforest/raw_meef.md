@@ -1,7 +1,7 @@
 # Viande de Meef crue
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/raw_meef.png" alt="Viande de Meef crue">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/raw_meef.png" alt="Viande de Meef crue">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Viande de Meef crue</div>
 <div class="mc-tooltip-card__alias">Raw Meef</div>

@@ -1,7 +1,7 @@
 # Pilier en nâgastone en ruine
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/cracked_nagastone_pillar.png" alt="Pilier en nâgastone en ruine">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/cracked_nagastone_pillar.png" alt="Pilier en nâgastone en ruine">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pilier en nâgastone en ruine</div>
 <div class="mc-tooltip-card__alias">Ruined Nagastone Pillar</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Four</strong><span>twilightforest:nagastone/smelted_cracked_nagastone_pillar</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/twilightforest/nagastone_pillar.md" title="Pilier de nâgastone (twilightforest:nagastone_pillar)"><img src="../../../assets/generated/items/twilightforest/nagastone_pillar.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/cracked_nagastone_pillar.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Four</strong><span>twilightforest:nagastone/smelted_cracked_nagastone_pillar</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/nagastone_pillar/" title="Pilier de nâgastone (twilightforest:nagastone_pillar)"><img src="../../../../assets/generated/items/twilightforest/nagastone_pillar.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/cracked_nagastone_pillar.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

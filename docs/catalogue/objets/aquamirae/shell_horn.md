@@ -1,7 +1,7 @@
 # Shell Horn
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/shell_horn.png" alt="Shell Horn">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/shell_horn.png" alt="Shell Horn">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Shell Horn</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

@@ -1,7 +1,7 @@
 # Hache en bois de lumibleu
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/bluebright_axe.png" alt="Hache en bois de lumibleu">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/bluebright_axe.png" alt="Hache en bois de lumibleu">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hache en bois de lumibleu</div>
 <div class="mc-tooltip-card__alias">Bluebright Wood Axe</div>

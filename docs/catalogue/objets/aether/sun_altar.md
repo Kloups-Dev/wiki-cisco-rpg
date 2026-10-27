@@ -1,7 +1,7 @@
 # Sun Altar
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/sun_altar.png" alt="Sun Altar">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/sun_altar.png" alt="Sun Altar">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sun Altar</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

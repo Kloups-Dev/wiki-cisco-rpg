@@ -1,7 +1,7 @@
 # Dark Core
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/dark_core.png" alt="Dark Core">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/dark_core.png" alt="Dark Core">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Dark Core</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

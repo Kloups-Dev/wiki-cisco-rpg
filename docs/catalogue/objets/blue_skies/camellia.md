@@ -1,7 +1,7 @@
 # Camélia
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/camellia.png" alt="Camélia">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/camellia.png" alt="Camélia">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Camélia</div>
 <div class="mc-tooltip-card__alias">Camellia</div>

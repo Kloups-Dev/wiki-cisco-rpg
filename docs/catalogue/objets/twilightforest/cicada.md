@@ -1,7 +1,7 @@
 # Cigale
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/cicada.png" alt="Cigale">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/cicada.png" alt="Cigale">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cigale</div>
 <div class="mc-tooltip-card__alias">Cicada</div>

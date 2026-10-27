@@ -1,7 +1,7 @@
 # Emblem of Bloodstained Valor
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/berserk_charm.png" alt="Emblem of Bloodstained Valor">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/berserk_charm.png" alt="Emblem of Bloodstained Valor">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Emblem of Bloodstained Valor</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticlegacy:berserk_charm</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Crimson Fungus (minecraft:crimson_fungus)">?</span><span class="jei-slot" title="Golden Sword (minecraft:golden_sword)">?</span><span class="jei-slot" title="Crimson Fungus (minecraft:crimson_fungus)">?</span><span class="jei-slot" title="Blaze Powder (minecraft:blaze_powder)">?</span><a class="jei-slot" href="../../../catalogue/objets/enigmaticlegacy/twisted_heart.md" title="Twisted Heart (enigmaticlegacy:twisted_heart)"><img src="../../../assets/generated/items/enigmaticlegacy/twisted_heart.png" alt="" loading="lazy"></a><span class="jei-slot" title="Blaze Powder (minecraft:blaze_powder)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/enigmaticlegacy/berserk_charm.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticlegacy:berserk_charm</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Crimson Fungus (minecraft:crimson_fungus)">?</span><span class="jei-slot" title="Golden Sword (minecraft:golden_sword)">?</span><span class="jei-slot" title="Crimson Fungus (minecraft:crimson_fungus)">?</span><span class="jei-slot" title="Blaze Powder (minecraft:blaze_powder)">?</span><a class="jei-slot" href="../../../../catalogue/objets/enigmaticlegacy/twisted_heart/" title="Twisted Heart (enigmaticlegacy:twisted_heart)"><img src="../../../../assets/generated/items/enigmaticlegacy/twisted_heart.png" alt="" loading="lazy"></a><span class="jei-slot" title="Blaze Powder (minecraft:blaze_powder)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/enigmaticlegacy/berserk_charm.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
 
 ## Utilisé dans
 

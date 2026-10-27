@@ -1,7 +1,7 @@
 # Nuage vaporeux
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/wispy_cloud.png" alt="Nuage vaporeux">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/wispy_cloud.png" alt="Nuage vaporeux">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Nuage vaporeux</div>
 <div class="mc-tooltip-card__alias">Wispy Cloud</div>

@@ -1,7 +1,7 @@
 # Iron's Crown
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/gold_crown.png" alt="Iron&#x27;s Crown">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/gold_crown.png" alt="Iron&#x27;s Crown">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Iron&#x27;s Crown</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

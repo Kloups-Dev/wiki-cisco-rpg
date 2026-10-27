@@ -1,7 +1,7 @@
 # Brimstone Nectar
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/bosses_of_mass_destruction/brimstone_nectar.png" alt="Brimstone Nectar">
+<img class="mc-item-icon" src="../../../../assets/generated/items/bosses_of_mass_destruction/brimstone_nectar.png" alt="Brimstone Nectar">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brimstone Nectar</div>
 <div class="mc-tooltip-card__mod">Bosses of Mass Destruction</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>bosses_of_mass_destruction:brimstone_nectar</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Netherite Scrap (minecraft:netherite_scrap)">?</span><span class="jei-slot" title="Dragon Breath (minecraft:dragon_breath)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/bosses_of_mass_destruction/brimstone_nectar.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : BOMD-Forge-1.19.2-1.0.6.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>bosses_of_mass_destruction:brimstone_nectar</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Netherite Scrap (minecraft:netherite_scrap)">?</span><span class="jei-slot" title="Dragon Breath (minecraft:dragon_breath)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/bosses_of_mass_destruction/brimstone_nectar.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : BOMD-Forge-1.19.2-1.0.6.jar</div></div>
 
 ## Utilisé dans
 

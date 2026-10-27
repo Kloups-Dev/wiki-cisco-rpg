@@ -1,7 +1,7 @@
 # Stripped Twilight Oak Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/stripped_twilight_oak_log.png" alt="Stripped Twilight Oak Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/stripped_twilight_oak_log.png" alt="Stripped Twilight Oak Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Twilight Oak Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Stripped Twilight Oak Wood](../../../catalogue/objets/twilightforest/stripped_twilight_oak_wood.md) — <code>twilightforest:stripped_twilight_oak_wood</code>
 - [Planches de bois de chêne Twilight](../../../catalogue/objets/twilightforest/twilight_oak_planks.md) — <code>twilightforest:twilight_oak_planks</code>
+- [Stripped Twilight Oak Wood](../../../catalogue/objets/twilightforest/stripped_twilight_oak_wood.md) — <code>twilightforest:stripped_twilight_oak_wood</code>
 
 ## Effets et caractéristiques
 

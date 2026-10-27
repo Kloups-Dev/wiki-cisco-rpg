@@ -1,7 +1,7 @@
 # Apotheotic Coin
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheotic_additions/apotheotic_coin.png" alt="Apotheotic Coin">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheotic_additions/apotheotic_coin.png" alt="Apotheotic Coin">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Apotheotic Coin</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

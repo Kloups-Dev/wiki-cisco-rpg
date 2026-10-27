@@ -1,7 +1,7 @@
 # Music Disc
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/music_disc_motion.png" alt="Music Disc">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/music_disc_motion.png" alt="Music Disc">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Music Disc</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

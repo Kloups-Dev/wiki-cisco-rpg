@@ -1,7 +1,7 @@
 # Iron Ring
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/iron_ring.png" alt="Iron Ring">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/iron_ring.png" alt="Iron Ring">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Iron Ring</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -14,13 +14,13 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticlegacy:iron_ring</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/enigmaticlegacy/iron_ring.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticlegacy:iron_ring</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/enigmaticlegacy/iron_ring.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
 
 ## Utilisé dans
 
 - **Iron Ingot** — <code>minecraft:iron_ingot</code>
-- [Exquisite Ring](../../../catalogue/objets/enigmaticlegacy/golden_ring.md) — <code>enigmaticlegacy:golden_ring</code>
 - [Ring of Ender](../../../catalogue/objets/enigmaticlegacy/ender_ring.md) — <code>enigmaticlegacy:ender_ring</code>
+- [Exquisite Ring](../../../catalogue/objets/enigmaticlegacy/golden_ring.md) — <code>enigmaticlegacy:golden_ring</code>
 - [Magnetic Ring](../../../catalogue/objets/enigmaticlegacy/magnet_ring.md) — <code>enigmaticlegacy:magnet_ring</code>
 
 ## Effets et caractéristiques

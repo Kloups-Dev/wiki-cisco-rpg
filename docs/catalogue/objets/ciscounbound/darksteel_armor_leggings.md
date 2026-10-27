@@ -1,7 +1,7 @@
 # Darksteel Leggings
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/darksteel_armor_leggings.png" alt="Darksteel Leggings">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/darksteel_armor_leggings.png" alt="Darksteel Leggings">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Darksteel Leggings</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

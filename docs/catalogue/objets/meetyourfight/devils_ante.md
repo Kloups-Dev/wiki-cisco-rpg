@@ -1,7 +1,7 @@
 # Ante du diable
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/meetyourfight/devils_ante.png" alt="Ante du diable">
+<img class="mc-item-icon" src="../../../../assets/generated/items/meetyourfight/devils_ante.png" alt="Ante du diable">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ante du diable</div>
 <div class="mc-tooltip-card__alias">Devil&#x27;s Ante</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>meetyourfight:devils_ante</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:netherrack">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:netherrack">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:netherrack">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:netherrack">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/meetyourfight/devils_ante.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>meetyourfight:devils_ante</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:netherrack">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:netherrack">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:netherrack">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:netherrack">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/meetyourfight/devils_ante.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
 
 ## Utilisé dans
 

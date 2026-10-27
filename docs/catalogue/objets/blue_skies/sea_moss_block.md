@@ -1,7 +1,7 @@
 # Bloc de mousse sous-marine
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/sea_moss_block.png" alt="Bloc de mousse sous-marine">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/sea_moss_block.png" alt="Bloc de mousse sous-marine">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bloc de mousse sous-marine</div>
 <div class="mc-tooltip-card__alias">Sea Moss Block</div>

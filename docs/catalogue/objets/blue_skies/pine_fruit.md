@@ -1,7 +1,7 @@
 # Sapipomme
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/pine_fruit.png" alt="Sapipomme">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/pine_fruit.png" alt="Sapipomme">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sapipomme</div>
 <div class="mc-tooltip-card__alias">Corn</div>

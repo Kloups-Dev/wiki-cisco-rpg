@@ -1,7 +1,7 @@
 # Artifact Shards
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheotic_additions/artifact_material.png" alt="Artifact Shards">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheotic_additions/artifact_material.png" alt="Artifact Shards">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Artifact Shards</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

@@ -1,7 +1,7 @@
 # Yagroot Sapling
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/yagroot_sapling.png" alt="Yagroot Sapling">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/yagroot_sapling.png" alt="Yagroot Sapling">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Yagroot Sapling</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

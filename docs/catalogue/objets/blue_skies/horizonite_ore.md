@@ -1,7 +1,7 @@
 # Minerai d'horizonite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/horizonite_ore.png" alt="Minerai d&#x27;horizonite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/horizonite_ore.png" alt="Minerai d&#x27;horizonite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Minerai d&#x27;horizonite</div>
 <div class="mc-tooltip-card__alias">Horizonite Ore</div>

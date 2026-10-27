@@ -1,7 +1,7 @@
 # Frozen snowball
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/solid_snowball.png" alt="Frozen snowball">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/solid_snowball.png" alt="Frozen snowball">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Frozen snowball</div>
 <div class="mc-tooltip-card__mod">Relics</div>

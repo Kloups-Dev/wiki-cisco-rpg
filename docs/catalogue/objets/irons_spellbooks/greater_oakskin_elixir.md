@@ -1,7 +1,7 @@
 # Greater Oakskin Elixir
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/greater_oakskin_elixir.png" alt="Greater Oakskin Elixir">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/greater_oakskin_elixir.png" alt="Greater Oakskin Elixir">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Greater Oakskin Elixir</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

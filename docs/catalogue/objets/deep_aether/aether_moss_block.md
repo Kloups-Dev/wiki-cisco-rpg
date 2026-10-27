@@ -1,7 +1,7 @@
 # Aether Moss Block
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/aether_moss_block.png" alt="Aether Moss Block">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/aether_moss_block.png" alt="Aether Moss Block">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aether Moss Block</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -20,9 +20,9 @@
 ## Utilisé dans
 
 - [Aether Moss Carpet](../../../catalogue/objets/deep_aether/aether_moss_carpet.md) — <code>deep_aether:aether_moss_carpet</code>
-- [Mossy Holystone Tiles](../../../catalogue/objets/deep_aether/mossy_holystone_tiles.md) — <code>deep_aether:mossy_holystone_tiles</code>
-- [Mossy Holystone](../../../catalogue/objets/aether/mossy_holystone.md) — <code>aether:mossy_holystone</code>
 - [Mossy Holystone Bricks](../../../catalogue/objets/deep_aether/mossy_holystone_bricks.md) — <code>deep_aether:mossy_holystone_bricks</code>
+- [Mossy Holystone](../../../catalogue/objets/aether/mossy_holystone.md) — <code>aether:mossy_holystone</code>
+- [Mossy Holystone Tiles](../../../catalogue/objets/deep_aether/mossy_holystone_tiles.md) — <code>deep_aether:mossy_holystone_tiles</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Pollux
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/pollux.png" alt="Pollux">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/pollux.png" alt="Pollux">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pollux</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

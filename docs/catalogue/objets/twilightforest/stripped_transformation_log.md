@@ -1,7 +1,7 @@
 # Stripped Transwood Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/stripped_transformation_log.png" alt="Stripped Transwood Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/stripped_transformation_log.png" alt="Stripped Transwood Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Transwood Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

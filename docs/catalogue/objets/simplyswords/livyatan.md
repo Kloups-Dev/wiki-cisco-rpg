@@ -1,7 +1,7 @@
 # Livyatan
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/livyatan.png" alt="Livyatan">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/livyatan.png" alt="Livyatan">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Livyatan</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

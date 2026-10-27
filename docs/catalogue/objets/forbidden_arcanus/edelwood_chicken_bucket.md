@@ -1,7 +1,7 @@
 # Edelwood Bucket of Chicken
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/edelwood_chicken_bucket.png" alt="Edelwood Bucket of Chicken">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/edelwood_chicken_bucket.png" alt="Edelwood Bucket of Chicken">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Edelwood Bucket of Chicken</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

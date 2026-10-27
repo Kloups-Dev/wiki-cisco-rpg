@@ -1,7 +1,7 @@
 # Ice Skates
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/ice_skates.png" alt="Ice Skates">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/ice_skates.png" alt="Ice Skates">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ice Skates</div>
 <div class="mc-tooltip-card__mod">Relics</div>

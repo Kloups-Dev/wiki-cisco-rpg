@@ -1,7 +1,7 @@
 # Mangrove Roots
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/mangrove_root.png" alt="Mangrove Roots">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/mangrove_root.png" alt="Mangrove Roots">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mangrove Roots</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

@@ -1,7 +1,7 @@
 # Broadhead Arrow
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/broadhead_arrow.png" alt="Broadhead Arrow">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/broadhead_arrow.png" alt="Broadhead Arrow">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Broadhead Arrow</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Fletching</strong><span>apotheosis:fletching/broadhead_arrow</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Stick (minecraft:stick)">?</span><span class="jei-slot" title="Feather (minecraft:feather)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/apotheosis/broadhead_arrow.png" alt=""><span class="jei-count">6</span></span></div><div class="jei-recipe__source">Source exacte : Apotheosis-1.19.2-6.5.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Fletching</strong><span>apotheosis:fletching/broadhead_arrow</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Stick (minecraft:stick)">?</span><span class="jei-slot" title="Feather (minecraft:feather)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/apotheosis/broadhead_arrow.png" alt=""><span class="jei-count">6</span></span></div><div class="jei-recipe__source">Source exacte : Apotheosis-1.19.2-6.5.2.jar</div></div>
 
 ## Utilisé dans
 

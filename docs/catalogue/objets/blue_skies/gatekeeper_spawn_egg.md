@@ -1,7 +1,7 @@
 # Oeuf d'apparition de gardien du portail
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/gatekeeper_spawn_egg.png" alt="Oeuf d&#x27;apparition de gardien du portail">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/gatekeeper_spawn_egg.png" alt="Oeuf d&#x27;apparition de gardien du portail">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Oeuf d&#x27;apparition de gardien du portail</div>
 <div class="mc-tooltip-card__alias">Gatekeeper Spawn Egg</div>

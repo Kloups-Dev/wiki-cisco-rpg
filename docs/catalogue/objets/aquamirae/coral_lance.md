@@ -1,7 +1,7 @@
 # Coral Lance
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/coral_lance.png" alt="Coral Lance">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/coral_lance.png" alt="Coral Lance">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Coral Lance</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

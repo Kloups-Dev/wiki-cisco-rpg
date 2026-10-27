@@ -1,7 +1,7 @@
 # Shield of Repulsion
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/shield_of_repulsion.png" alt="Shield of Repulsion">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/shield_of_repulsion.png" alt="Shield of Repulsion">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Shield of Repulsion</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

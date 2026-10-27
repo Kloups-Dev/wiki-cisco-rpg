@@ -1,7 +1,7 @@
 # Reine du ver de lune
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/moonworm_queen.png" alt="Reine du ver de lune">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/moonworm_queen.png" alt="Reine du ver de lune">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Reine du ver de lune</div>
 <div class="mc-tooltip-card__alias">Moonworm Queen</div>

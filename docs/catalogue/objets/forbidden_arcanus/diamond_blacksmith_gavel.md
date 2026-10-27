@@ -1,7 +1,7 @@
 # Diamond Blacksmith Gavel
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/diamond_blacksmith_gavel.png" alt="Diamond Blacksmith Gavel">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/diamond_blacksmith_gavel.png" alt="Diamond Blacksmith Gavel">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Diamond Blacksmith Gavel</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>forbidden_arcanus:diamond_blacksmith_gavel</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><a class="jei-slot" href="../../../catalogue/objets/forbidden_arcanus/blacksmith_gavel_head.md" title="Blacksmith Gavel Head (forbidden_arcanus:blacksmith_gavel_head)"><img src="../../../assets/generated/items/forbidden_arcanus/blacksmith_gavel_head.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/forbidden_arcanus/diamond_blacksmith_gavel.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>forbidden_arcanus:diamond_blacksmith_gavel</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><a class="jei-slot" href="../../../../catalogue/objets/forbidden_arcanus/blacksmith_gavel_head/" title="Blacksmith Gavel Head (forbidden_arcanus:blacksmith_gavel_head)"><img src="../../../../assets/generated/items/forbidden_arcanus/blacksmith_gavel_head.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/forbidden_arcanus/diamond_blacksmith_gavel.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
 
 ## Utilisé dans
 

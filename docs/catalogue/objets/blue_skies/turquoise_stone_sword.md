@@ -1,7 +1,7 @@
 # Épée en pierre turquoise
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/turquoise_stone_sword.png" alt="Épée en pierre turquoise">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/turquoise_stone_sword.png" alt="Épée en pierre turquoise">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épée en pierre turquoise</div>
 <div class="mc-tooltip-card__alias">Turquoise Stone Sword</div>

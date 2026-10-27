@@ -1,7 +1,7 @@
 # Aurum Sapling
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/aurum_sapling.png" alt="Aurum Sapling">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/aurum_sapling.png" alt="Aurum Sapling">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aurum Sapling</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

@@ -1,7 +1,7 @@
 # Brique de château
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/castle_brick.png" alt="Brique de château">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/castle_brick.png" alt="Brique de château">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brique de château</div>
 <div class="mc-tooltip-card__alias">Castle Brick</div>
@@ -21,11 +21,11 @@
 ## Utilisé dans
 
 - [Escaliers en pierre de château](../../../catalogue/objets/twilightforest/castle_brick_stairs.md) — <code>twilightforest:castle_brick_stairs</code>
+- [Pilier de brique de château recouvert](../../../catalogue/objets/twilightforest/encased_castle_brick_pillar.md) — <code>twilightforest:encased_castle_brick_pillar</code>
 - [Brique de château moussue](../../../catalogue/objets/twilightforest/mossy_castle_brick.md) — <code>twilightforest:mossy_castle_brick</code>
 - [Brique de château craquelée](../../../catalogue/objets/twilightforest/cracked_castle_brick.md) — <code>twilightforest:cracked_castle_brick</code>
-- [Pilier de brique de château recouvert](../../../catalogue/objets/twilightforest/encased_castle_brick_pillar.md) — <code>twilightforest:encased_castle_brick_pillar</code>
-- [Brique de château usée](../../../catalogue/objets/twilightforest/worn_castle_brick.md) — <code>twilightforest:worn_castle_brick</code>
 - [Brique de château épaisse](../../../catalogue/objets/twilightforest/thick_castle_brick.md) — <code>twilightforest:thick_castle_brick</code>
+- [Brique de château usée](../../../catalogue/objets/twilightforest/worn_castle_brick.md) — <code>twilightforest:worn_castle_brick</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Netherite Greathammer
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/netherite_greathammer.png" alt="Netherite Greathammer">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/netherite_greathammer.png" alt="Netherite Greathammer">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Netherite Greathammer</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>simplyswords:netherite_greathammer</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/simplyswords/diamond_greathammer.md" title="Diamond Greathammer (simplyswords:diamond_greathammer)"><img src="../../../assets/generated/items/simplyswords/diamond_greathammer.png" alt="" loading="lazy"></a><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/simplyswords/netherite_greathammer.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : simplyswords-forge-1.47.0-1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>simplyswords:netherite_greathammer</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/simplyswords/diamond_greathammer/" title="Diamond Greathammer (simplyswords:diamond_greathammer)"><img src="../../../../assets/generated/items/simplyswords/diamond_greathammer.png" alt="" loading="lazy"></a><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/simplyswords/netherite_greathammer.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : simplyswords-forge-1.47.0-1.19.2.jar</div></div>
 
 ## Utilisé dans
 

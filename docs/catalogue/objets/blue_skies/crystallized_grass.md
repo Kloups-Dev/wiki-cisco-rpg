@@ -1,7 +1,7 @@
 # Herbe cristallisée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/crystallized_grass.png" alt="Herbe cristallisée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/crystallized_grass.png" alt="Herbe cristallisée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Herbe cristallisée</div>
 <div class="mc-tooltip-card__alias">Crystallized Grass</div>

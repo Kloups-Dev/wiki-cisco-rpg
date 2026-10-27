@@ -1,7 +1,7 @@
 # Nipa
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/nipa.png" alt="Nipa">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/nipa.png" alt="Nipa">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Nipa</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

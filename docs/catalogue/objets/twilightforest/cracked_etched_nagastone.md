@@ -1,7 +1,7 @@
 # Nâgastone gravée en ruine
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/cracked_etched_nagastone.png" alt="Nâgastone gravée en ruine">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/cracked_etched_nagastone.png" alt="Nâgastone gravée en ruine">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Nâgastone gravée en ruine</div>
 <div class="mc-tooltip-card__alias">Ruined Etched Nagastone</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Four</strong><span>twilightforest:nagastone/smelted_cracked_etched_nagastone</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/twilightforest/etched_nagastone.md" title="Nâgastone gravée (twilightforest:etched_nagastone)"><img src="../../../assets/generated/items/twilightforest/etched_nagastone.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/cracked_etched_nagastone.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Four</strong><span>twilightforest:nagastone/smelted_cracked_etched_nagastone</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/etched_nagastone/" title="Nâgastone gravée (twilightforest:etched_nagastone)"><img src="../../../../assets/generated/items/twilightforest/etched_nagastone.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/cracked_etched_nagastone.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

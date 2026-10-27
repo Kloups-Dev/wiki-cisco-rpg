@@ -1,7 +1,7 @@
 # Necronomicon
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/necronomicon_spell_book.png" alt="Necronomicon">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/necronomicon_spell_book.png" alt="Necronomicon">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Necronomicon</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

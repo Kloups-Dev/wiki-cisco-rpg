@@ -1,7 +1,7 @@
 # Inscrutable Eye
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/enigmatic_eye_active.png" alt="Inscrutable Eye">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/enigmatic_eye_active.png" alt="Inscrutable Eye">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Inscrutable Eye</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

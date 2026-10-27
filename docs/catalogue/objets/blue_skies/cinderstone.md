@@ -1,7 +1,7 @@
 # Pierre de cendres
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/cinderstone.png" alt="Pierre de cendres">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/cinderstone.png" alt="Pierre de cendres">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre de cendres</div>
 <div class="mc-tooltip-card__alias">Cinderstone</div>
@@ -20,10 +20,10 @@
 
 ## Utilisé dans
 
+- [Dalle de pierre de cendres](../../../catalogue/objets/blue_skies/cinderstone_slab.md) — <code>blue_skies:cinderstone_slab</code>
 - [Escalier de pierre de cendres](../../../catalogue/objets/blue_skies/cinderstone_stairs.md) — <code>blue_skies:cinderstone_stairs</code>
 - [Muret de pierre de cendres](../../../catalogue/objets/blue_skies/cinderstone_wall.md) — <code>blue_skies:cinderstone_wall</code>
 - [Pierre de cendres polie](../../../catalogue/objets/blue_skies/polished_cinderstone.md) — <code>blue_skies:polished_cinderstone</code>
-- [Dalle de pierre de cendres](../../../catalogue/objets/blue_skies/cinderstone_slab.md) — <code>blue_skies:cinderstone_slab</code>
 
 ## Effets et caractéristiques
 

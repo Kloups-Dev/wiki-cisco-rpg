@@ -1,7 +1,7 @@
 # Aether Portal Frame
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/aether_portal_frame.png" alt="Aether Portal Frame">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/aether_portal_frame.png" alt="Aether Portal Frame">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aether Portal Frame</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

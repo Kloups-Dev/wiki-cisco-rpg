@@ -1,7 +1,7 @@
 # Dagger of Greed
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/dagger_of_greed.png" alt="Dagger of Greed">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/dagger_of_greed.png" alt="Dagger of Greed">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Dagger of Greed</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

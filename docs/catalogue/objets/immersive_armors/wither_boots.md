@@ -1,7 +1,7 @@
 # Bottes de flétrissement
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/immersive_armors/wither_boots.png" alt="Bottes de flétrissement">
+<img class="mc-item-icon" src="../../../../assets/generated/items/immersive_armors/wither_boots.png" alt="Bottes de flétrissement">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bottes de flétrissement</div>
 <div class="mc-tooltip-card__alias">Wither Boots</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>immersive_armors:wither_boots</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Nether Brick (minecraft:nether_brick)">?</span><a class="jei-slot" href="../../../catalogue/objets/immersive_armors/bone_boots.md" title="Bottes en os (immersive_armors:bone_boots)"><img src="../../../assets/generated/items/immersive_armors/bone_boots.png" alt="" loading="lazy"></a><span class="jei-slot" title="Nether Brick (minecraft:nether_brick)">?</span><span class="jei-slot" title="Nether Brick (minecraft:nether_brick)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Nether Brick (minecraft:nether_brick)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/immersive_armors/wither_boots.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : immersive_armors-1.5.6+1.19.2-forge.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>immersive_armors:wither_boots</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Nether Brick (minecraft:nether_brick)">?</span><a class="jei-slot" href="../../../../catalogue/objets/immersive_armors/bone_boots/" title="Bottes en os (immersive_armors:bone_boots)"><img src="../../../../assets/generated/items/immersive_armors/bone_boots.png" alt="" loading="lazy"></a><span class="jei-slot" title="Nether Brick (minecraft:nether_brick)">?</span><span class="jei-slot" title="Nether Brick (minecraft:nether_brick)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Nether Brick (minecraft:nether_brick)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/immersive_armors/wither_boots.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : immersive_armors-1.5.6+1.19.2-forge.jar</div></div>
 
 ## Utilisé dans
 

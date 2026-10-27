@@ -1,7 +1,7 @@
 # Bright Essence
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/bright_essence.png" alt="Bright Essence">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/bright_essence.png" alt="Bright Essence">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bright Essence</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

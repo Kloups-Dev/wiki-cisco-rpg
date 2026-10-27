@@ -1,7 +1,7 @@
 # Forgotten Ice Crystal
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticaddons/forgotten_ice.png" alt="Forgotten Ice Crystal">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticaddons/forgotten_ice.png" alt="Forgotten Ice Crystal">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Forgotten Ice Crystal</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

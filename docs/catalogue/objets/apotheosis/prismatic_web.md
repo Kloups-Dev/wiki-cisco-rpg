@@ -1,7 +1,7 @@
 # Prismatic Cobweb
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/prismatic_web.png" alt="Prismatic Cobweb">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/prismatic_web.png" alt="Prismatic Cobweb">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Prismatic Cobweb</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

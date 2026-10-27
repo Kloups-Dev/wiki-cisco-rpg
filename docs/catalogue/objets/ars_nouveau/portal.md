@@ -1,7 +1,7 @@
 # Portail de distorsion
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/portal.png" alt="Portail de distorsion">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/portal.png" alt="Portail de distorsion">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Portail de distorsion</div>
 <div class="mc-tooltip-card__alias">Warp Portal</div>

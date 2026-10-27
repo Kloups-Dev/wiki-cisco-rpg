@@ -1,7 +1,7 @@
 # Hache en pierre turquoise
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/turquoise_stone_axe.png" alt="Hache en pierre turquoise">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/turquoise_stone_axe.png" alt="Hache en pierre turquoise">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hache en pierre turquoise</div>
 <div class="mc-tooltip-card__alias">Turquoise Stone Axe</div>

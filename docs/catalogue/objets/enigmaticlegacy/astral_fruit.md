@@ -1,7 +1,7 @@
 # Celestial Fruit
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/astral_fruit.png" alt="Celestial Fruit">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/astral_fruit.png" alt="Celestial Fruit">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Celestial Fruit</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

@@ -1,7 +1,7 @@
 # Pedestal
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/pedestal.png" alt="Pedestal">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/pedestal.png" alt="Pedestal">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pedestal</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

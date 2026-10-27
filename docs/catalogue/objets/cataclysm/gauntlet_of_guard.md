@@ -1,7 +1,7 @@
 # Gantelet de garde
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/gauntlet_of_guard.png" alt="Gantelet de garde">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/gauntlet_of_guard.png" alt="Gantelet de garde">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Gantelet de garde</div>
 <div class="mc-tooltip-card__alias">Gauntlet of Guard</div>

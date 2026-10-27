@@ -1,7 +1,7 @@
 # Pierre de vie lumineuse
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/glowing_life_stone.png" alt="Pierre de vie lumineuse">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/glowing_life_stone.png" alt="Pierre de vie lumineuse">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre de vie lumineuse</div>
 <div class="mc-tooltip-card__alias">Glowing Life Stone</div>

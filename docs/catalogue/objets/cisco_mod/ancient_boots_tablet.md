@@ -1,7 +1,7 @@
 # Ancient Boots Tablet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/ancient_boots_tablet.png" alt="Ancient Boots Tablet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cisco_mod/ancient_boots_tablet.png" alt="Ancient Boots Tablet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ancient Boots Tablet</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Sovereign Ascendant Boots](../../../catalogue/objets/cisco_mod/sovereign_ascendant_boots.md) — <code>cisco_mod:sovereign_ascendant_boots</code>
 - [Descended Hero Boots](../../../catalogue/objets/cisco_mod/descended_hero_boots.md) — <code>cisco_mod:descended_hero_boots</code>
+- [Sovereign Ascendant Boots](../../../catalogue/objets/cisco_mod/sovereign_ascendant_boots.md) — <code>cisco_mod:sovereign_ascendant_boots</code>
 
 ## Effets et caractéristiques
 

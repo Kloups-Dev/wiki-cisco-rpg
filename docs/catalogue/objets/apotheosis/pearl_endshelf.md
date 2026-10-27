@@ -1,7 +1,7 @@
 # Pearlescent Endshelf
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/pearl_endshelf.png" alt="Pearlescent Endshelf">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/pearl_endshelf.png" alt="Pearlescent Endshelf">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pearlescent Endshelf</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

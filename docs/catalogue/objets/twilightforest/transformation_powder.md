@@ -1,7 +1,7 @@
 # Poudre de transformation
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/transformation_powder.png" alt="Poudre de transformation">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/transformation_powder.png" alt="Poudre de transformation">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Poudre de transformation</div>
 <div class="mc-tooltip-card__alias">Transformation Powder</div>
@@ -20,9 +20,9 @@
 
 ## Utilisé dans
 
+- **Moss Block** — <code>minecraft:moss_block</code>
 - **Lily Pad** — <code>minecraft:lily_pad</code>
 - [Énorme nénuphar](../../../catalogue/objets/twilightforest/huge_lily_pad.md) — <code>twilightforest:huge_lily_pad</code>
-- **Moss Block** — <code>minecraft:moss_block</code>
 - [Mousse](../../../catalogue/objets/twilightforest/moss_patch.md) — <code>twilightforest:moss_patch</code>
 
 ## Effets et caractéristiques

@@ -1,7 +1,7 @@
 # Arcanethyst
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/arcanethyst.png" alt="Arcanethyst">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/arcanethyst.png" alt="Arcanethyst">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Arcanethyst</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

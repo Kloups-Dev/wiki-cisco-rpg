@@ -1,7 +1,7 @@
 # Charme du wyrm des livres
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/bookwyrm_charm.png" alt="Charme du wyrm des livres">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/bookwyrm_charm.png" alt="Charme du wyrm des livres">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Charme du wyrm des livres</div>
 <div class="mc-tooltip-card__alias">Bookwyrm Charm</div>

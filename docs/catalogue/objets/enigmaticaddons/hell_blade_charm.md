@@ -1,7 +1,7 @@
 # Charm of Hell Blade
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticaddons/hell_blade_charm.png" alt="Charm of Hell Blade">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticaddons/hell_blade_charm.png" alt="Charm of Hell Blade">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Charm of Hell Blade</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

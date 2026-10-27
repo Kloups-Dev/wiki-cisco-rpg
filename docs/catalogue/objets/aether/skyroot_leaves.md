@@ -1,7 +1,7 @@
 # Skyroot Leaves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/skyroot_leaves.png" alt="Skyroot Leaves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/skyroot_leaves.png" alt="Skyroot Leaves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Skyroot Leaves</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

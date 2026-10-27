@@ -1,7 +1,7 @@
 # Poisson moki cru
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/charscale_moki.png" alt="Poisson moki cru">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/charscale_moki.png" alt="Poisson moki cru">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Poisson moki cru</div>
 <div class="mc-tooltip-card__alias">Raw Charscale Moki</div>

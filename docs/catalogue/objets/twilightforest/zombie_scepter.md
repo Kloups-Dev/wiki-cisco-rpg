@@ -1,7 +1,7 @@
 # Sceptre du zombie
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/zombie_scepter.png" alt="Sceptre du zombie">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/zombie_scepter.png" alt="Sceptre du zombie">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sceptre du zombie</div>
 <div class="mc-tooltip-card__alias">Zombie Scepter</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>twilightforest:equipment/zombie_scepter</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Potion (minecraft:potion)">?</span><a class="jei-slot" href="../../../catalogue/objets/twilightforest/zombie_scepter.md" title="Sceptre du zombie (twilightforest:zombie_scepter)"><img src="../../../assets/generated/items/twilightforest/zombie_scepter.png" alt="" loading="lazy"></a><span class="jei-slot" title="Rotten Flesh (minecraft:rotten_flesh)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/zombie_scepter.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>twilightforest:equipment/zombie_scepter</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Potion (minecraft:potion)">?</span><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/zombie_scepter/" title="Sceptre du zombie (twilightforest:zombie_scepter)"><img src="../../../../assets/generated/items/twilightforest/zombie_scepter.png" alt="" loading="lazy"></a><span class="jei-slot" title="Rotten Flesh (minecraft:rotten_flesh)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/zombie_scepter.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

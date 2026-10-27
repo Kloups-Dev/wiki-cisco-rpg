@@ -1,7 +1,7 @@
 # Feuilles de l'hiver
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/winter_leaves.png" alt="Feuilles de l&#x27;hiver">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/winter_leaves.png" alt="Feuilles de l&#x27;hiver">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles de l&#x27;hiver</div>
 <div class="mc-tooltip-card__alias">Cabbage</div>

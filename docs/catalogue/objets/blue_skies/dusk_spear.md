@@ -1,7 +1,7 @@
 # Lance en crépuscubois
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/dusk_spear.png" alt="Lance en crépuscubois">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/dusk_spear.png" alt="Lance en crépuscubois">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Lance en crépuscubois</div>
 <div class="mc-tooltip-card__alias">Dusk Spear</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>blue_skies:dusk_spear</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../catalogue/objets/blue_skies/moonstone_shard.md" title="Fragment de pierre de lune (blue_skies:moonstone_shard)"><img src="../../../assets/generated/items/blue_skies/moonstone_shard.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../catalogue/objets/blue_skies/dusk_stick.md" title="Bâton en crépuscubois (blue_skies:dusk_stick)"><img src="../../../assets/generated/items/blue_skies/dusk_stick.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../catalogue/objets/blue_skies/dusk_stick.md" title="Bâton en crépuscubois (blue_skies:dusk_stick)"><img src="../../../assets/generated/items/blue_skies/dusk_stick.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/blue_skies/dusk_spear.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>blue_skies:dusk_spear</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../../catalogue/objets/blue_skies/moonstone_shard/" title="Fragment de pierre de lune (blue_skies:moonstone_shard)"><img src="../../../../assets/generated/items/blue_skies/moonstone_shard.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../../catalogue/objets/blue_skies/dusk_stick/" title="Bâton en crépuscubois (blue_skies:dusk_stick)"><img src="../../../../assets/generated/items/blue_skies/dusk_stick.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../../catalogue/objets/blue_skies/dusk_stick/" title="Bâton en crépuscubois (blue_skies:dusk_stick)"><img src="../../../../assets/generated/items/blue_skies/dusk_stick.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/blue_skies/dusk_spear.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
 
 ## Utilisé dans
 

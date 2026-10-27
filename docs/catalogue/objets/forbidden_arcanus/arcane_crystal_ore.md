@@ -1,7 +1,7 @@
 # Arcane Crystal Ore
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/arcane_crystal_ore.png" alt="Arcane Crystal Ore">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/arcane_crystal_ore.png" alt="Arcane Crystal Ore">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Arcane Crystal Ore</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

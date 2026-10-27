@@ -1,7 +1,7 @@
 # Stripped Canopy Tree Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/stripped_canopy_log.png" alt="Stripped Canopy Tree Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/stripped_canopy_log.png" alt="Stripped Canopy Tree Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Canopy Tree Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Stripped Canopy Tree Wood](../../../catalogue/objets/twilightforest/stripped_canopy_wood.md) — <code>twilightforest:stripped_canopy_wood</code>
 - [Planches de canopée](../../../catalogue/objets/twilightforest/canopy_planks.md) — <code>twilightforest:canopy_planks</code>
+- [Stripped Canopy Tree Wood](../../../catalogue/objets/twilightforest/stripped_canopy_wood.md) — <code>twilightforest:stripped_canopy_wood</code>
 
 ## Effets et caractéristiques
 

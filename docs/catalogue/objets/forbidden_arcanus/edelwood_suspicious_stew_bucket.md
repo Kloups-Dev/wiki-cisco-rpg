@@ -1,7 +1,7 @@
 # Edelwood Bucket of Suspicious Stew
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/edelwood_suspicious_stew_bucket.png" alt="Edelwood Bucket of Suspicious Stew">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/edelwood_suspicious_stew_bucket.png" alt="Edelwood Bucket of Suspicious Stew">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Edelwood Bucket of Suspicious Stew</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

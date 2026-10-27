@@ -1,7 +1,7 @@
 # Bouclier chevaleresque
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/knightmetal_shield.png" alt="Bouclier chevaleresque">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/knightmetal_shield.png" alt="Bouclier chevaleresque">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bouclier chevaleresque</div>
 <div class="mc-tooltip-card__alias">Knightmetal Shield</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>twilightforest:equipment/knightmetal_shield</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:ingots/knightmetal">#</span><span class="jei-slot jei-slot--tag" title="#twilightforest:towerwood">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:ingots/knightmetal">#</span><a class="jei-slot" href="../../../catalogue/objets/twilightforest/knightmetal_ring.md" title="Boucle de métal de chevalier (twilightforest:knightmetal_ring)"><img src="../../../assets/generated/items/twilightforest/knightmetal_ring.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:ingots/knightmetal">#</span><span class="jei-slot jei-slot--tag" title="#twilightforest:towerwood">#</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/knightmetal_shield.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>twilightforest:equipment/knightmetal_shield</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:ingots/knightmetal">#</span><span class="jei-slot jei-slot--tag" title="#twilightforest:towerwood">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:ingots/knightmetal">#</span><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/knightmetal_ring/" title="Boucle de métal de chevalier (twilightforest:knightmetal_ring)"><img src="../../../../assets/generated/items/twilightforest/knightmetal_ring.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:ingots/knightmetal">#</span><span class="jei-slot jei-slot--tag" title="#twilightforest:towerwood">#</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/knightmetal_shield.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

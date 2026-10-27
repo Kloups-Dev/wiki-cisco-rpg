@@ -1,7 +1,7 @@
 # Conberry Sapling
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/conberry_sapling.png" alt="Conberry Sapling">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/conberry_sapling.png" alt="Conberry Sapling">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Conberry Sapling</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

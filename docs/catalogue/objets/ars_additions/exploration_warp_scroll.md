@@ -1,7 +1,7 @@
 # Explorer's Warp Scroll
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_additions/exploration_warp_scroll.png" alt="Explorer&#x27;s Warp Scroll">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_additions/exploration_warp_scroll.png" alt="Explorer&#x27;s Warp Scroll">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Explorer&#x27;s Warp Scroll</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

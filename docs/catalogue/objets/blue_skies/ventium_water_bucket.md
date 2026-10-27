@@ -1,7 +1,7 @@
 # Seau d'eau en ventium
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/ventium_water_bucket.png" alt="Seau d&#x27;eau en ventium">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/ventium_water_bucket.png" alt="Seau d&#x27;eau en ventium">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Seau d&#x27;eau en ventium</div>
 <div class="mc-tooltip-card__alias">Ventium Water Bucket</div>

@@ -1,7 +1,7 @@
 # Ascendant Violet Helmet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/ascended_hero_violet_helmet.png" alt="Ascendant Violet Helmet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/ascended_hero_violet_helmet.png" alt="Ascendant Violet Helmet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ascendant Violet Helmet</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

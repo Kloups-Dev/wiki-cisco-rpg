@@ -1,7 +1,7 @@
 # Bombe glacée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/ice_bomb.png" alt="Bombe glacée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/ice_bomb.png" alt="Bombe glacée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bombe glacée</div>
 <div class="mc-tooltip-card__alias">Ice Bomb</div>

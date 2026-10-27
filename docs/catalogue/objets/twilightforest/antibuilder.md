@@ -1,7 +1,7 @@
 # Anti-constructeur
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/antibuilder.png" alt="Anti-constructeur">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/antibuilder.png" alt="Anti-constructeur">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Anti-constructeur</div>
 <div class="mc-tooltip-card__alias">Anti-builder</div>

@@ -1,7 +1,7 @@
 # Reflecting Necklace
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/reflection_necklace.png" alt="Reflecting Necklace">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/reflection_necklace.png" alt="Reflecting Necklace">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Reflecting Necklace</div>
 <div class="mc-tooltip-card__mod">Relics</div>

@@ -1,7 +1,7 @@
 # Cerise
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/cherry.png" alt="Cerise">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/cherry.png" alt="Cerise">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cerise</div>
 <div class="mc-tooltip-card__alias">Cosmic Cherry</div>

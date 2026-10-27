@@ -1,7 +1,7 @@
 # Uncommon Ink
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/uncommon_ink.png" alt="Uncommon Ink">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/uncommon_ink.png" alt="Uncommon Ink">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Uncommon Ink</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

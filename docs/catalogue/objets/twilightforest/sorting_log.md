@@ -1,7 +1,7 @@
 # Sortingwood Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/sorting_log.png" alt="Sortingwood Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/sorting_log.png" alt="Sortingwood Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sortingwood Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

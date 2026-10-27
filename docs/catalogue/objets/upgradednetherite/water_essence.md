@@ -1,7 +1,7 @@
 # Prismarite Essence
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/upgradednetherite/water_essence.png" alt="Prismarite Essence">
+<img class="mc-item-icon" src="../../../../assets/generated/items/upgradednetherite/water_essence.png" alt="Prismarite Essence">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Prismarite Essence</div>
 <div class="mc-tooltip-card__mod">Upgraded Netherite</div>
@@ -14,23 +14,23 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>upgradednetherite:water_essence</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Dragon Breath (minecraft:dragon_breath)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><span class="jei-slot" title="Prismarine Crystals (minecraft:prismarine_crystals)">?</span><span class="jei-slot" title="Prismarine Crystals (minecraft:prismarine_crystals)">?</span><span class="jei-slot" title="Prismarine Crystals (minecraft:prismarine_crystals)">?</span><span class="jei-slot" title="Prismarine Crystals (minecraft:prismarine_crystals)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/upgradednetherite/water_essence.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : upgradednetherite-1.19.2-5.1.0.9-release.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>upgradednetherite:water_essence</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Dragon Breath (minecraft:dragon_breath)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><span class="jei-slot" title="Prismarine Crystals (minecraft:prismarine_crystals)">?</span><span class="jei-slot" title="Prismarine Crystals (minecraft:prismarine_crystals)">?</span><span class="jei-slot" title="Prismarine Crystals (minecraft:prismarine_crystals)">?</span><span class="jei-slot" title="Prismarine Crystals (minecraft:prismarine_crystals)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/upgradednetherite/water_essence.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : upgradednetherite-1.19.2-5.1.0.9-release.jar</div></div>
 
 ## Utilisé dans
 
-- [Prismarite Leggings](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_leggings.md) — <code>upgradednetherite:water_upgraded_netherite_leggings</code>
-- [Prismarite Pickaxe](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_pickaxe.md) — <code>upgradednetherite:water_upgraded_netherite_pickaxe</code>
 - [Prismarite Axe](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_axe.md) — <code>upgradednetherite:water_upgraded_netherite_axe</code>
 - [Prismarite Boots](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_boots.md) — <code>upgradednetherite:water_upgraded_netherite_boots</code>
-- [Prismarite Helmet](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_helmet.md) — <code>upgradednetherite:water_upgraded_netherite_helmet</code>
-- [Prismarite Crossbow](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_crossbow.md) — <code>upgradednetherite:water_upgraded_netherite_crossbow</code>
-- [Prismarite Chestplate](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_chestplate.md) — <code>upgradednetherite:water_upgraded_netherite_chestplate</code>
-- [Prismarite Shield](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_shield.md) — <code>upgradednetherite:water_upgraded_netherite_shield</code>
-- [Prismarite Ingot](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_ingot.md) — <code>upgradednetherite:water_upgraded_netherite_ingot</code>
-- [Prismarite Shovel](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_shovel.md) — <code>upgradednetherite:water_upgraded_netherite_shovel</code>
 - [Prismarite Bow](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_bow.md) — <code>upgradednetherite:water_upgraded_netherite_bow</code>
-- [Prismarite Sword](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_sword.md) — <code>upgradednetherite:water_upgraded_netherite_sword</code>
+- [Prismarite Chestplate](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_chestplate.md) — <code>upgradednetherite:water_upgraded_netherite_chestplate</code>
+- [Prismarite Crossbow](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_crossbow.md) — <code>upgradednetherite:water_upgraded_netherite_crossbow</code>
+- [Prismarite Helmet](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_helmet.md) — <code>upgradednetherite:water_upgraded_netherite_helmet</code>
 - [Prismarite Horse Armor](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_horse_armor.md) — <code>upgradednetherite:water_upgraded_netherite_horse_armor</code>
+- [Prismarite Ingot](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_ingot.md) — <code>upgradednetherite:water_upgraded_netherite_ingot</code>
+- [Prismarite Leggings](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_leggings.md) — <code>upgradednetherite:water_upgraded_netherite_leggings</code>
+- [Prismarite Pickaxe](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_pickaxe.md) — <code>upgradednetherite:water_upgraded_netherite_pickaxe</code>
+- [Prismarite Shield](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_shield.md) — <code>upgradednetherite:water_upgraded_netherite_shield</code>
+- [Prismarite Shovel](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_shovel.md) — <code>upgradednetherite:water_upgraded_netherite_shovel</code>
+- [Prismarite Sword](../../../catalogue/objets/upgradednetherite/water_upgraded_netherite_sword.md) — <code>upgradednetherite:water_upgraded_netherite_sword</code>
 - [Prismarite Totem of Undying](../../../catalogue/objets/upgradednetherite_items/water_upgraded_netherite_totem.md) — <code>upgradednetherite_items:water_upgraded_netherite_totem</code>
 - [Ultimerite Essence](../../../catalogue/objets/upgradednetherite_ultimate/ultimate_essence.md) — <code>upgradednetherite_ultimate:ultimate_essence</code>
 

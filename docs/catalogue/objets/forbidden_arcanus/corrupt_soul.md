@@ -1,7 +1,7 @@
 # Corrupt Soul
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/corrupt_soul.png" alt="Corrupt Soul">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/corrupt_soul.png" alt="Corrupt Soul">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Corrupt Soul</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

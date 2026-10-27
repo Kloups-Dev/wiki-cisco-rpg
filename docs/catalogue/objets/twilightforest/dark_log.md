@@ -1,7 +1,7 @@
 # Darkwood Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/dark_log.png" alt="Darkwood Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/dark_log.png" alt="Darkwood Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Darkwood Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>
@@ -20,8 +20,8 @@
 ## Utilisé dans
 
 - [Hollow Darkwood Log](../../../catalogue/objets/twilightforest/hollow_dark_log_vertical.md) — <code>twilightforest:hollow_dark_log_vertical</code>
-- [Planches de bois sombre](../../../catalogue/objets/twilightforest/dark_planks.md) — <code>twilightforest:dark_planks</code>
 - [Planches de Towerwood](../../../catalogue/objets/twilightforest/towerwood.md) — <code>twilightforest:towerwood</code>
+- [Planches de bois sombre](../../../catalogue/objets/twilightforest/dark_planks.md) — <code>twilightforest:dark_planks</code>
 - [Bois sombre](../../../catalogue/objets/twilightforest/dark_wood.md) — <code>twilightforest:dark_wood</code>
 
 ## Effets et caractéristiques

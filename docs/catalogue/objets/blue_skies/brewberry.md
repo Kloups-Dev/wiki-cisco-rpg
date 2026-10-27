@@ -1,7 +1,7 @@
 # Brassebaies
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/brewberry.png" alt="Brassebaies">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/brewberry.png" alt="Brassebaies">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brassebaies</div>
 <div class="mc-tooltip-card__alias">Raspberry</div>

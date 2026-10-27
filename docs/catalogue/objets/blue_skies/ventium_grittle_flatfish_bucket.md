@@ -1,7 +1,7 @@
 # Poisson plat dans un seau en ventium
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/ventium_grittle_flatfish_bucket.png" alt="Poisson plat dans un seau en ventium">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/ventium_grittle_flatfish_bucket.png" alt="Poisson plat dans un seau en ventium">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Poisson plat dans un seau en ventium</div>
 <div class="mc-tooltip-card__alias">Ventium Bucket of Grittle Flatfish</div>

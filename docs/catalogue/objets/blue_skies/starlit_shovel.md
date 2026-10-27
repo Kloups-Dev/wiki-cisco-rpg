@@ -1,7 +1,7 @@
 # Pelle en étoilibois
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/starlit_shovel.png" alt="Pelle en étoilibois">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/starlit_shovel.png" alt="Pelle en étoilibois">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pelle en étoilibois</div>
 <div class="mc-tooltip-card__alias">Starlit Wood Shovel</div>

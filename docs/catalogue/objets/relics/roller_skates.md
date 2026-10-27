@@ -1,7 +1,7 @@
 # Roller Skates
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/roller_skates.png" alt="Roller Skates">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/roller_skates.png" alt="Roller Skates">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Roller Skates</div>
 <div class="mc-tooltip-card__mod">Relics</div>

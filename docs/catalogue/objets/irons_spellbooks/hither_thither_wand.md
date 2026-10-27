@@ -1,7 +1,7 @@
 # Hither-Thither Wand
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/hither_thither_wand.png" alt="Hither-Thither Wand">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/hither_thither_wand.png" alt="Hither-Thither Wand">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hither-Thither Wand</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

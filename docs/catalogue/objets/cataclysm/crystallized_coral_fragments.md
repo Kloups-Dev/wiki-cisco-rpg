@@ -1,7 +1,7 @@
 # Crystallized Coral Fragments
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/crystallized_coral_fragments.png" alt="Crystallized Coral Fragments">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/crystallized_coral_fragments.png" alt="Crystallized Coral Fragments">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Crystallized Coral Fragments</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

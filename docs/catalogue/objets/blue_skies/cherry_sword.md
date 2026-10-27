@@ -1,7 +1,7 @@
 # Épée en bois de cerisier
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/cherry_sword.png" alt="Épée en bois de cerisier">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/cherry_sword.png" alt="Épée en bois de cerisier">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épée en bois de cerisier</div>
 <div class="mc-tooltip-card__alias">Cherry Wood Sword</div>

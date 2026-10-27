@@ -1,7 +1,7 @@
 # Bjorn's Leggings
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/bjorn_leggings.png" alt="Bjorn&#x27;s Leggings">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/bjorn_leggings.png" alt="Bjorn&#x27;s Leggings">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bjorn&#x27;s Leggings</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

@@ -1,7 +1,7 @@
 # Obsidian Chestplate
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/obsidian_chestplate.png" alt="Obsidian Chestplate">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/obsidian_chestplate.png" alt="Obsidian Chestplate">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Obsidian Chestplate</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

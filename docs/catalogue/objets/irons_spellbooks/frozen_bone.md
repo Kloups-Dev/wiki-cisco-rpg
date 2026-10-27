@@ -1,7 +1,7 @@
 # Frozen Bone
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/frozen_bone.png" alt="Frozen Bone">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/frozen_bone.png" alt="Frozen Bone">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Frozen Bone</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

@@ -1,7 +1,7 @@
 # Pierre aquatique
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/aquatic_stone.png" alt="Pierre aquatique">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/aquatic_stone.png" alt="Pierre aquatique">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre aquatique</div>
 <div class="mc-tooltip-card__alias">Aquatic Stone</div>

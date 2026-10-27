@@ -1,7 +1,7 @@
 # Écailles de Nâga
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/naga_scale.png" alt="Écailles de Nâga">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/naga_scale.png" alt="Écailles de Nâga">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Écailles de Nâga</div>
 <div class="mc-tooltip-card__alias">Naga Scale</div>
@@ -20,8 +20,8 @@
 
 ## Utilisé dans
 
-- [Jambières en écailles de Nâga](../../../catalogue/objets/twilightforest/naga_leggings.md) — <code>twilightforest:naga_leggings</code>
 - [Plastron en écailles de Nâga](../../../catalogue/objets/twilightforest/naga_chestplate.md) — <code>twilightforest:naga_chestplate</code>
+- [Jambières en écailles de Nâga](../../../catalogue/objets/twilightforest/naga_leggings.md) — <code>twilightforest:naga_leggings</code>
 
 ## Effets et caractéristiques
 

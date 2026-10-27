@@ -1,7 +1,7 @@
 # Lightning Knife
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/lightning_knife.png" alt="Lightning Knife">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/lightning_knife.png" alt="Lightning Knife">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Lightning Knife</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

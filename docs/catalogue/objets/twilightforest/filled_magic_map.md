@@ -1,7 +1,7 @@
 # Carte magique
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/filled_magic_map.png" alt="Carte magique">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/filled_magic_map.png" alt="Carte magique">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Carte magique</div>
 <div class="mc-tooltip-card__alias">Magic Map</div>

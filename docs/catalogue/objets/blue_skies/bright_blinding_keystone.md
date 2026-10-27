@@ -1,7 +1,7 @@
 # Serrure aveuglante (Everbright)
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/bright_blinding_keystone.png" alt="Serrure aveuglante (Everbright)">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/bright_blinding_keystone.png" alt="Serrure aveuglante (Everbright)">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Serrure aveuglante (Everbright)</div>
 <div class="mc-tooltip-card__alias">Blinding Keystone (Everbright)</div>

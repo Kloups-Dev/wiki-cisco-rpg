@@ -1,7 +1,7 @@
 # Esprit fleurissant
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/meetyourfight/blossoming_mind.png" alt="Esprit fleurissant">
+<img class="mc-item-icon" src="../../../../assets/generated/items/meetyourfight/blossoming_mind.png" alt="Esprit fleurissant">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Esprit fleurissant</div>
 <div class="mc-tooltip-card__alias">Blossoming Mind</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>meetyourfight:blossoming_mind</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../catalogue/objets/meetyourfight/violet_bloom.md" title="Floraison violette (meetyourfight:violet_bloom)"><img src="../../../assets/generated/items/meetyourfight/violet_bloom.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:gems/amethyst">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/lapis">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/amethyst">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/amethyst">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/lapis">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/amethyst">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/meetyourfight/blossoming_mind.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>meetyourfight:blossoming_mind</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../../catalogue/objets/meetyourfight/violet_bloom/" title="Floraison violette (meetyourfight:violet_bloom)"><img src="../../../../assets/generated/items/meetyourfight/violet_bloom.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:gems/amethyst">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/lapis">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/amethyst">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/amethyst">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/lapis">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/amethyst">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/meetyourfight/blossoming_mind.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : meetyourfight-1.19.2-1.3.4.jar</div></div>
 
 ## Utilisé dans
 

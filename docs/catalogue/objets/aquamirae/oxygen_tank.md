@@ -1,7 +1,7 @@
 # Oxygen Tank
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/oxygen_tank.png" alt="Oxygen Tank">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/oxygen_tank.png" alt="Oxygen Tank">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Oxygen Tank</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>aquamirae:oxygen_tank</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><a class="jei-slot" href="../../../catalogue/objets/aquamirae/oxygelium.md" title="Oxygelium (aquamirae:oxygelium)"><img src="../../../assets/generated/items/aquamirae/oxygelium.png" alt="" loading="lazy"></a><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><a class="jei-slot" href="../../../catalogue/objets/aquamirae/oxygelium.md" title="Oxygelium (aquamirae:oxygelium)"><img src="../../../assets/generated/items/aquamirae/oxygelium.png" alt="" loading="lazy"></a><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><a class="jei-slot" href="../../../catalogue/objets/aquamirae/oxygelium.md" title="Oxygelium (aquamirae:oxygelium)"><img src="../../../assets/generated/items/aquamirae/oxygelium.png" alt="" loading="lazy"></a><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/aquamirae/oxygen_tank.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : aquamirae-6.API15.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>aquamirae:oxygen_tank</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><a class="jei-slot" href="../../../../catalogue/objets/aquamirae/oxygelium/" title="Oxygelium (aquamirae:oxygelium)"><img src="../../../../assets/generated/items/aquamirae/oxygelium.png" alt="" loading="lazy"></a><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><a class="jei-slot" href="../../../../catalogue/objets/aquamirae/oxygelium/" title="Oxygelium (aquamirae:oxygelium)"><img src="../../../../assets/generated/items/aquamirae/oxygelium.png" alt="" loading="lazy"></a><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><a class="jei-slot" href="../../../../catalogue/objets/aquamirae/oxygelium/" title="Oxygelium (aquamirae:oxygelium)"><img src="../../../../assets/generated/items/aquamirae/oxygelium.png" alt="" loading="lazy"></a><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/aquamirae/oxygen_tank.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : aquamirae-6.API15.jar</div></div>
 
 ## Utilisé dans
 

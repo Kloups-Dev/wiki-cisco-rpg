@@ -1,7 +1,7 @@
 # Azure Seastone Brick Wall
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/azure_seastone_brick_wall.png" alt="Azure Seastone Brick Wall">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/azure_seastone_brick_wall.png" alt="Azure Seastone Brick Wall">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Azure Seastone Brick Wall</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

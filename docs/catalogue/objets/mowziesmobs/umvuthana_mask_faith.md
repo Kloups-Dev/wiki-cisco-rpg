@@ -1,7 +1,7 @@
 # Mask of Faith
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/umvuthana_mask_faith.png" alt="Mask of Faith">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/umvuthana_mask_faith.png" alt="Mask of Faith">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mask of Faith</div>
 <div class="mc-tooltip-card__mod">Mowzie&#x27;s Mobs</div>

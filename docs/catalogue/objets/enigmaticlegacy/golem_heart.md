@@ -1,7 +1,7 @@
 # Heart of the Golem
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/golem_heart.png" alt="Heart of the Golem">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/golem_heart.png" alt="Heart of the Golem">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Heart of the Golem</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

@@ -1,7 +1,7 @@
 # Conberry Leaves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/conberry_leaves.png" alt="Conberry Leaves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/conberry_leaves.png" alt="Conberry Leaves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Conberry Leaves</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

@@ -1,7 +1,7 @@
 # Blocage de mage
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/mage_block.png" alt="Blocage de mage">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/mage_block.png" alt="Blocage de mage">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Blocage de mage</div>
 <div class="mc-tooltip-card__alias">Mage Block</div>

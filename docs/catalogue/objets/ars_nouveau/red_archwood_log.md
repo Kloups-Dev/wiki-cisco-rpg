@@ -1,7 +1,7 @@
 # Rondin d'Archwood flamboyant
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/red_archwood_log.png" alt="Rondin d&#x27;Archwood flamboyant">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/red_archwood_log.png" alt="Rondin d&#x27;Archwood flamboyant">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Rondin d&#x27;Archwood flamboyant</div>
 <div class="mc-tooltip-card__alias">Blazing Archwood Log</div>
@@ -21,9 +21,9 @@
 ## Utilisé dans
 
 - [Bois d'Archwood flamboyant](../../../catalogue/objets/ars_nouveau/red_archwood_wood.md) — <code>ars_nouveau:red_archwood_wood</code>
-- [Lever du soleil](../../../catalogue/objets/ars_nouveau/ritual_sunrise.md) — <code>ars_nouveau:ritual_sunrise</code>
 - [Invoquer l'île : Désert](../../../catalogue/objets/ars_nouveau/ritual_conjure_island_desert.md) — <code>ars_nouveau:ritual_conjure_island_desert</code>
 - [Désintégration](../../../catalogue/objets/ars_nouveau/ritual_disintegration.md) — <code>ars_nouveau:ritual_disintegration</code>
+- [Lever du soleil](../../../catalogue/objets/ars_nouveau/ritual_sunrise.md) — <code>ars_nouveau:ritual_sunrise</code>
 
 ## Effets et caractéristiques
 

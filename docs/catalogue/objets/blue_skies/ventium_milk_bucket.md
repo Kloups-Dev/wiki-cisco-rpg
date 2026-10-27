@@ -1,7 +1,7 @@
 # Seau de lait en ventium
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/ventium_milk_bucket.png" alt="Seau de lait en ventium">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/ventium_milk_bucket.png" alt="Seau de lait en ventium">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Seau de lait en ventium</div>
 <div class="mc-tooltip-card__alias">Ventium Milk Bucket</div>

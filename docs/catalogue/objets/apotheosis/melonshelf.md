@@ -1,7 +1,7 @@
 # Melonshelf
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/melonshelf.png" alt="Melonshelf">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/melonshelf.png" alt="Melonshelf">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Melonshelf</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

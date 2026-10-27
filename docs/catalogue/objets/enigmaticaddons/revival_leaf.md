@@ -1,7 +1,7 @@
 # Revival Leaves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticaddons/revival_leaf.png" alt="Revival Leaves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticaddons/revival_leaf.png" alt="Revival Leaves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Revival Leaves</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

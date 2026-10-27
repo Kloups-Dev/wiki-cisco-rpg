@@ -1,7 +1,7 @@
 # Iron Ring
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/iron_ring.png" alt="Iron Ring">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/iron_ring.png" alt="Iron Ring">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Iron Ring</div>
 <div class="mc-tooltip-card__mod">The Aether</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>aether:iron_ring</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/aether/iron_ring.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : aether-1.19.2-1.4.2-forge.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>aether:iron_ring</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/aether/iron_ring.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : aether-1.19.2-1.4.2-forge.jar</div></div>
 
 ## Utilisé dans
 

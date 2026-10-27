@@ -1,7 +1,7 @@
 # Sang ardent
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/fiery_blood.png" alt="Sang ardent">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/fiery_blood.png" alt="Sang ardent">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sang ardent</div>
 <div class="mc-tooltip-card__alias">Fiery Blood</div>

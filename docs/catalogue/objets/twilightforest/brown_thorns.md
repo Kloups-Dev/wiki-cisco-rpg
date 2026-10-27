@@ -1,7 +1,7 @@
 # Épines
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/brown_thorns.png" alt="Épines">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/brown_thorns.png" alt="Épines">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épines</div>
 <div class="mc-tooltip-card__alias">Thorns</div>

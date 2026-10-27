@@ -1,7 +1,7 @@
 # Quail Egg
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/quail_egg.png" alt="Quail Egg">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/quail_egg.png" alt="Quail Egg">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Quail Egg</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

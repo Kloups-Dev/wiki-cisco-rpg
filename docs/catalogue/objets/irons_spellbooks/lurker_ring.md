@@ -1,7 +1,7 @@
 # Ring of the Lurker
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/lurker_ring.png" alt="Ring of the Lurker">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/lurker_ring.png" alt="Ring of the Lurker">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ring of the Lurker</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

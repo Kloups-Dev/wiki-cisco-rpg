@@ -1,7 +1,7 @@
 # Piège à glissière
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/slider.png" alt="Piège à glissière">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/slider.png" alt="Piège à glissière">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Piège à glissière</div>
 <div class="mc-tooltip-card__alias">Slide Trap</div>

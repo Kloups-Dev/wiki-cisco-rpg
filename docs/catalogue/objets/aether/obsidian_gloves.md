@@ -1,7 +1,7 @@
 # Obsidian Gloves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/obsidian_gloves.png" alt="Obsidian Gloves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/obsidian_gloves.png" alt="Obsidian Gloves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Obsidian Gloves</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

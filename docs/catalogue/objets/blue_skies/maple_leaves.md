@@ -1,7 +1,7 @@
 # Feuilles d'érable
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/maple_leaves.png" alt="Feuilles d&#x27;érable">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/maple_leaves.png" alt="Feuilles d&#x27;érable">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles d&#x27;érable</div>
 <div class="mc-tooltip-card__alias">Maple Leaves</div>

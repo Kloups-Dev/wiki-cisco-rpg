@@ -1,7 +1,7 @@
 # Dague en dent de naga
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/naga_fang_dagger.png" alt="Dague en dent de naga">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/naga_fang_dagger.png" alt="Dague en dent de naga">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Dague en dent de naga</div>
 <div class="mc-tooltip-card__alias">Naga Fang Dagger</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>mowziesmobs:naga_fang_dagger</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/mowziesmobs/naga_fang.md" title="Dent de Naga (mowziesmobs:naga_fang)"><img src="../../../assets/generated/items/mowziesmobs/naga_fang.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Stick (minecraft:stick)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/mowziesmobs/naga_fang_dagger.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : mowziesmobs-1.6.3.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>mowziesmobs:naga_fang_dagger</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/mowziesmobs/naga_fang/" title="Dent de Naga (mowziesmobs:naga_fang)"><img src="../../../../assets/generated/items/mowziesmobs/naga_fang.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Ingot (minecraft:iron_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Stick (minecraft:stick)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/mowziesmobs/naga_fang_dagger.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : mowziesmobs-1.6.3.jar</div></div>
 
 ## Utilisé dans
 

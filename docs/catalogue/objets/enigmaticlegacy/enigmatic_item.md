@@ -1,7 +1,7 @@
 # Heart of Creation
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/enigmatic_item.png" alt="Heart of Creation">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/enigmatic_item.png" alt="Heart of Creation">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Heart of Creation</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

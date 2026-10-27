@@ -1,7 +1,7 @@
 # Ascendant Azure Chestplate
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/ascended_hero_chestplate.png" alt="Ascendant Azure Chestplate">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/ascended_hero_chestplate.png" alt="Ascendant Azure Chestplate">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ascendant Azure Chestplate</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

@@ -1,7 +1,7 @@
 # Watching Warglaive
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/watching_warglaive.png" alt="Watching Warglaive">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/watching_warglaive.png" alt="Watching Warglaive">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Watching Warglaive</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

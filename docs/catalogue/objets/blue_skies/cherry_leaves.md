@@ -1,7 +1,7 @@
 # Feuilles de cerisier
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/cherry_leaves.png" alt="Feuilles de cerisier">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/cherry_leaves.png" alt="Feuilles de cerisier">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles de cerisier</div>
 <div class="mc-tooltip-card__alias">Cherry Leaves</div>

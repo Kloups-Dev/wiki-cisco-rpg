@@ -1,7 +1,7 @@
 # Greater Potion of Healing
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/greater_healing_potion.png" alt="Greater Potion of Healing">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/greater_healing_potion.png" alt="Greater Potion of Healing">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Greater Potion of Healing</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

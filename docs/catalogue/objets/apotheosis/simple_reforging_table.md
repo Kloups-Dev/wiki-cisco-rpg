@@ -1,7 +1,7 @@
 # Simple Reforging Table
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/simple_reforging_table.png" alt="Simple Reforging Table">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/simple_reforging_table.png" alt="Simple Reforging Table">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Simple Reforging Table</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>apotheosis:simple_reforging_table</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:ingots/iron">#</span><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../catalogue/objets/apotheosis/gem_dust.md" title="Gem Dust (apotheosis:gem_dust)"><img src="../../../assets/generated/items/apotheosis/gem_dust.png" alt="" loading="lazy"></a><span class="jei-slot" title="Enchanting Table (minecraft:enchanting_table)">?</span><a class="jei-slot" href="../../../catalogue/objets/apotheosis/gem_dust.md" title="Gem Dust (apotheosis:gem_dust)"><img src="../../../assets/generated/items/apotheosis/gem_dust.png" alt="" loading="lazy"></a><span class="jei-slot" title="Smooth Stone (minecraft:smooth_stone)">?</span><span class="jei-slot" title="Smooth Stone (minecraft:smooth_stone)">?</span><span class="jei-slot" title="Smooth Stone (minecraft:smooth_stone)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/apotheosis/simple_reforging_table.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : Apotheosis-1.19.2-6.5.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>apotheosis:simple_reforging_table</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:ingots/iron">#</span><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../../catalogue/objets/apotheosis/gem_dust/" title="Gem Dust (apotheosis:gem_dust)"><img src="../../../../assets/generated/items/apotheosis/gem_dust.png" alt="" loading="lazy"></a><span class="jei-slot" title="Enchanting Table (minecraft:enchanting_table)">?</span><a class="jei-slot" href="../../../../catalogue/objets/apotheosis/gem_dust/" title="Gem Dust (apotheosis:gem_dust)"><img src="../../../../assets/generated/items/apotheosis/gem_dust.png" alt="" loading="lazy"></a><span class="jei-slot" title="Smooth Stone (minecraft:smooth_stone)">?</span><span class="jei-slot" title="Smooth Stone (minecraft:smooth_stone)">?</span><span class="jei-slot" title="Smooth Stone (minecraft:smooth_stone)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/apotheosis/simple_reforging_table.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : Apotheosis-1.19.2-6.5.2.jar</div></div>
 
 ## Utilisé dans
 

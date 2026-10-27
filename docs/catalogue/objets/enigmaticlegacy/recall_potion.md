@@ -1,7 +1,7 @@
 # Potion of Recall
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/recall_potion.png" alt="Potion of Recall">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/recall_potion.png" alt="Potion of Recall">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Potion of Recall</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Twisted Mirror](../../../catalogue/objets/enigmaticlegacy/twisted_mirror.md) — <code>enigmaticlegacy:twisted_mirror</code>
 - [Scroll of Postmortal Recall](../../../catalogue/objets/enigmaticlegacy/escape_scroll.md) — <code>enigmaticlegacy:escape_scroll</code>
+- [Twisted Mirror](../../../catalogue/objets/enigmaticlegacy/twisted_mirror.md) — <code>enigmaticlegacy:twisted_mirror</code>
 
 ## Effets et caractéristiques
 

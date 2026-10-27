@@ -1,7 +1,7 @@
 # Belt of Bracing
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/beltof_bracing.png" alt="Belt of Bracing">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/beltof_bracing.png" alt="Belt of Bracing">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Belt of Bracing</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

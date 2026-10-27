@@ -1,7 +1,7 @@
 # Brimble grimpant
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/brumble_vine_top.png" alt="Brimble grimpant">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/brumble_vine_top.png" alt="Brimble grimpant">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brimble grimpant</div>
 <div class="mc-tooltip-card__alias">Brumble Vine</div>
@@ -20,8 +20,8 @@
 
 ## Utilisé dans
 
-- [Lanterne en brimble](../../../catalogue/objets/blue_skies/brumble_lantern.md) — <code>blue_skies:brumble_lantern</code>
 - [Bloc de brimble](../../../catalogue/objets/blue_skies/brumble_block.md) — <code>blue_skies:brumble_block</code>
+- [Lanterne en brimble](../../../catalogue/objets/blue_skies/brumble_lantern.md) — <code>blue_skies:brumble_lantern</code>
 
 ## Effets et caractéristiques
 

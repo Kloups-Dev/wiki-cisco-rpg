@@ -1,7 +1,7 @@
 # Cristal de Glace
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/ice_crystal.png" alt="Cristal de Glace">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/ice_crystal.png" alt="Cristal de Glace">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cristal de Glace</div>
 <div class="mc-tooltip-card__alias">Ice Crystal</div>

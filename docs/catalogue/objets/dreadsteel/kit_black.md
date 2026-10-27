@@ -1,7 +1,7 @@
 # Black Kit
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/dreadsteel/kit_black.png" alt="Black Kit">
+<img class="mc-item-icon" src="../../../../assets/generated/items/dreadsteel/kit_black.png" alt="Black Kit">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Black Kit</div>
 <div class="mc-tooltip-card__mod">Dreadsteel</div>

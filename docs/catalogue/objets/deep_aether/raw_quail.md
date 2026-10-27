@@ -1,7 +1,7 @@
 # Raw Quail
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/raw_quail.png" alt="Raw Quail">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/raw_quail.png" alt="Raw Quail">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Raw Quail</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

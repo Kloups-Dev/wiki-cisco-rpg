@@ -1,7 +1,7 @@
 # Ancient Knowledge Fragment
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/ancient_knowledge_fragment.png" alt="Ancient Knowledge Fragment">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/ancient_knowledge_fragment.png" alt="Ancient Knowledge Fragment">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ancient Knowledge Fragment</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

@@ -1,7 +1,7 @@
 # Épée en étoilibois
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/starlit_sword.png" alt="Épée en étoilibois">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/starlit_sword.png" alt="Épée en étoilibois">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épée en étoilibois</div>
 <div class="mc-tooltip-card__alias">Starlit Wood Sword</div>

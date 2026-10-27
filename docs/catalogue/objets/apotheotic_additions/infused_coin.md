@@ -1,7 +1,7 @@
 # Infused Coin
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheotic_additions/infused_coin.png" alt="Infused Coin">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheotic_additions/infused_coin.png" alt="Infused Coin">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Infused Coin</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting</strong><span>apotheotic_additions:enchanting/infused_coin</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/apotheotic_additions/apotheotic_coin.md" title="Apotheotic Coin (apotheotic_additions:apotheotic_coin)"><img src="../../../assets/generated/items/apotheotic_additions/apotheotic_coin.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/apotheotic_additions/infused_coin.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : apotheotic_additions1.0.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting</strong><span>apotheotic_additions:enchanting/infused_coin</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/apotheotic_additions/apotheotic_coin/" title="Apotheotic Coin (apotheotic_additions:apotheotic_coin)"><img src="../../../../assets/generated/items/apotheotic_additions/apotheotic_coin.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/apotheotic_additions/infused_coin.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : apotheotic_additions1.0.4.jar</div></div>
 
 ## Utilisé dans
 

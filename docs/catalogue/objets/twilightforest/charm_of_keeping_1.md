@@ -1,7 +1,7 @@
 # Charme de Keeping I
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/charm_of_keeping_1.png" alt="Charme de Keeping I">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/charm_of_keeping_1.png" alt="Charme de Keeping I">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Charme de Keeping I</div>
 <div class="mc-tooltip-card__alias">Charm of Keeping I</div>

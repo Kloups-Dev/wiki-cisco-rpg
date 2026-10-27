@@ -1,7 +1,7 @@
 # Nightfall
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/nightfall.png" alt="Nightfall">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/nightfall.png" alt="Nightfall">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Nightfall</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

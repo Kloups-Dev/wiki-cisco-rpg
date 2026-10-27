@@ -1,7 +1,7 @@
 # Divine Ruby
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/divine_core.png" alt="Divine Ruby">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/divine_core.png" alt="Divine Ruby">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Divine Ruby</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

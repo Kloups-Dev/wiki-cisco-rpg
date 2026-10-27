@@ -1,7 +1,7 @@
 # Valkyrie Shovel
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/valkyrie_shovel.png" alt="Valkyrie Shovel">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/valkyrie_shovel.png" alt="Valkyrie Shovel">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Valkyrie Shovel</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

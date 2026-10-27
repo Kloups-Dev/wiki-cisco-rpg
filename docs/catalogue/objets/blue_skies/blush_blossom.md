@@ -1,7 +1,7 @@
 # Buisson de fraîcheur
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/blush_blossom.png" alt="Buisson de fraîcheur">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/blush_blossom.png" alt="Buisson de fraîcheur">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Buisson de fraîcheur</div>
 <div class="mc-tooltip-card__alias">Blush Blossom</div>

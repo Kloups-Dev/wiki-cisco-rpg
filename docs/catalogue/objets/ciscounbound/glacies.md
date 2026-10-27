@@ -1,7 +1,7 @@
 # Glacies
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/glacies.png" alt="Glacies">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/glacies.png" alt="Glacies">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Glacies</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

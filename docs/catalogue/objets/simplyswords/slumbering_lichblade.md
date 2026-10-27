@@ -1,7 +1,7 @@
 # Slumbering Lichblade
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/slumbering_lichblade.png" alt="Slumbering Lichblade">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/slumbering_lichblade.png" alt="Slumbering Lichblade">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Slumbering Lichblade</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

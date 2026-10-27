@@ -1,7 +1,7 @@
 # Clé empoisonnée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/poison_key.png" alt="Clé empoisonnée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/poison_key.png" alt="Clé empoisonnée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Clé empoisonnée</div>
 <div class="mc-tooltip-card__alias">Poison Dungeon Key</div>

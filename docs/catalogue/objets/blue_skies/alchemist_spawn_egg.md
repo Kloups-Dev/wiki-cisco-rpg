@@ -1,7 +1,7 @@
 # Oeuf d'apparition de l'Alchimiste
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/alchemist_spawn_egg.png" alt="Oeuf d&#x27;apparition de l&#x27;Alchimiste">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/alchemist_spawn_egg.png" alt="Oeuf d&#x27;apparition de l&#x27;Alchimiste">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Oeuf d&#x27;apparition de l&#x27;Alchimiste</div>
 <div class="mc-tooltip-card__alias">Alchemist Spawn Egg</div>

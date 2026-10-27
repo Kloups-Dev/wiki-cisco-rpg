@@ -1,7 +1,7 @@
 # Pousse d'arbre de transformation
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/transformation_sapling.png" alt="Pousse d&#x27;arbre de transformation">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/transformation_sapling.png" alt="Pousse d&#x27;arbre de transformation">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pousse d&#x27;arbre de transformation</div>
 <div class="mc-tooltip-card__alias">Tree of Transformation Sapling</div>

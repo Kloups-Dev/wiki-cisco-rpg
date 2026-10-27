@@ -1,7 +1,7 @@
 # Tome de lanceur de sorts
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/caster_tome.png" alt="Tome de lanceur de sorts">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/caster_tome.png" alt="Tome de lanceur de sorts">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tome de lanceur de sorts</div>
 <div class="mc-tooltip-card__alias">Caster Tome</div>

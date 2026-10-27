@@ -1,7 +1,7 @@
 # Enigmatic Amulet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/enigmatic_amulet.png" alt="Enigmatic Amulet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/enigmatic_amulet.png" alt="Enigmatic Amulet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Enigmatic Amulet</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

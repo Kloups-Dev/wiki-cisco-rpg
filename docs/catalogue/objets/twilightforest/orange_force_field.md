@@ -1,7 +1,7 @@
 # Champ de force orange
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/orange_force_field.png" alt="Champ de force orange">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/orange_force_field.png" alt="Champ de force orange">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Champ de force orange</div>
 <div class="mc-tooltip-card__alias">Orange Force Field</div>

@@ -1,7 +1,7 @@
 # Deceleration Prism Lens
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_elemental/deceleration_prism_lens.png" alt="Deceleration Prism Lens">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_elemental/deceleration_prism_lens.png" alt="Deceleration Prism Lens">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Deceleration Prism Lens</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Imbuement</strong><span>ars_elemental:imbuement_deceleration_prism_lens</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot jei-slot--tag" title="#forge:gems/quartz">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_elemental/deceleration_prism_lens.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_elemental-1.19.2-0.5.9.4.1.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Imbuement</strong><span>ars_elemental:imbuement_deceleration_prism_lens</span></div><div class="jei-recipe__body"><div class="jei-inputs"><span class="jei-slot jei-slot--tag" title="#forge:gems/quartz">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_elemental/deceleration_prism_lens.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_elemental-1.19.2-0.5.9.4.1.jar</div></div>
 
 ## Utilisé dans
 

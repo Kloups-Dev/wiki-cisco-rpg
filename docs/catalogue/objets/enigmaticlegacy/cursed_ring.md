@@ -1,7 +1,7 @@
 # Ring of the Seven Curses
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/cursed_ring.png" alt="Ring of the Seven Curses">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/cursed_ring.png" alt="Ring of the Seven Curses">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ring of the Seven Curses</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

@@ -1,7 +1,7 @@
 # Phoenix Gloves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/phoenix_gloves.png" alt="Phoenix Gloves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/phoenix_gloves.png" alt="Phoenix Gloves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Phoenix Gloves</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

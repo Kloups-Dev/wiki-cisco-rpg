@@ -1,7 +1,7 @@
 # Pierres turquoises
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/turquoise_cobblestone.png" alt="Pierres turquoises">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/turquoise_cobblestone.png" alt="Pierres turquoises">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierres turquoises</div>
 <div class="mc-tooltip-card__alias">Turquoise Cobblestone</div>
@@ -20,12 +20,12 @@
 
 ## Utilisé dans
 
-- [Dalle de pierres turquoises](../../../catalogue/objets/blue_skies/turquoise_cobblestone_slab.md) — <code>blue_skies:turquoise_cobblestone_slab</code>
-- [Turquoise Cobblestone Wall](../../../catalogue/objets/blue_skies/turquoise_cobblestone_wall.md) — <code>blue_skies:turquoise_cobblestone_wall</code>
-- [Escalier de pierres turquoies](../../../catalogue/objets/blue_skies/turquoise_cobblestone_stairs.md) — <code>blue_skies:turquoise_cobblestone_stairs</code>
-- [Levier en roche turquoise](../../../catalogue/objets/blue_skies/turquoise_lever.md) — <code>blue_skies:turquoise_lever</code>
 - [Pierres turquoises moussues](../../../catalogue/objets/blue_skies/mossy_turquoise_cobblestone.md) — <code>blue_skies:mossy_turquoise_cobblestone</code>
 - [Four gelé](../../../catalogue/objets/blue_skies/snowcap_oven.md) — <code>blue_skies:snowcap_oven</code>
+- [Dalle de pierres turquoises](../../../catalogue/objets/blue_skies/turquoise_cobblestone_slab.md) — <code>blue_skies:turquoise_cobblestone_slab</code>
+- [Escalier de pierres turquoies](../../../catalogue/objets/blue_skies/turquoise_cobblestone_stairs.md) — <code>blue_skies:turquoise_cobblestone_stairs</code>
+- [Turquoise Cobblestone Wall](../../../catalogue/objets/blue_skies/turquoise_cobblestone_wall.md) — <code>blue_skies:turquoise_cobblestone_wall</code>
+- [Levier en roche turquoise](../../../catalogue/objets/blue_skies/turquoise_lever.md) — <code>blue_skies:turquoise_lever</code>
 - [Roche turquoise](../../../catalogue/objets/blue_skies/turquoise_stone.md) — <code>blue_skies:turquoise_stone</code>
 
 ## Effets et caractéristiques

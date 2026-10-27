@@ -1,7 +1,7 @@
 # Skyroot Bucket of Cod
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/skyroot_cod_bucket.png" alt="Skyroot Bucket of Cod">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/skyroot_cod_bucket.png" alt="Skyroot Bucket of Cod">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Skyroot Bucket of Cod</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

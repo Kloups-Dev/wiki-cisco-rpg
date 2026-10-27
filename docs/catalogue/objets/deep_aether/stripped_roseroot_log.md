@@ -1,7 +1,7 @@
 # Stripped Roseroot Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/stripped_roseroot_log.png" alt="Stripped Roseroot Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/stripped_roseroot_log.png" alt="Stripped Roseroot Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Roseroot Log</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Stripped Roseroot Wood](../../../catalogue/objets/deep_aether/stripped_roseroot_wood.md) — <code>deep_aether:stripped_roseroot_wood</code>
 - [Stripped Roseroot Wall](../../../catalogue/objets/deep_aether/stripped_roseroot_wall.md) — <code>deep_aether:stripped_roseroot_wall</code>
+- [Stripped Roseroot Wood](../../../catalogue/objets/deep_aether/stripped_roseroot_wood.md) — <code>deep_aether:stripped_roseroot_wood</code>
 
 ## Effets et caractéristiques
 

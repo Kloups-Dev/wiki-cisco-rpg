@@ -1,7 +1,7 @@
 # Cherry Peach
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/cherry_peach.png" alt="Cherry Peach">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/cherry_peach.png" alt="Cherry Peach">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cherry Peach</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

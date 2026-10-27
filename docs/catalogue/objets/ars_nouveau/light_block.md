@@ -1,7 +1,7 @@
 # Magelight
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/light_block.png" alt="Magelight">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/light_block.png" alt="Magelight">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Magelight</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

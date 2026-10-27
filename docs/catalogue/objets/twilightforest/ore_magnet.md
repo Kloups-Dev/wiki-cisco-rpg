@@ -1,7 +1,7 @@
 # Aimant à minerais
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/ore_magnet.png" alt="Aimant à minerais">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/ore_magnet.png" alt="Aimant à minerais">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aimant à minerais</div>
 <div class="mc-tooltip-card__alias">Ore Magnet</div>

@@ -1,7 +1,7 @@
 # Skyroot Boat with Chest
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/skyroot_chest_boat.png" alt="Skyroot Boat with Chest">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/skyroot_chest_boat.png" alt="Skyroot Boat with Chest">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Skyroot Boat with Chest</div>
 <div class="mc-tooltip-card__mod">The Aether</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>aether:skyroot_chest_boat</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:chests/wooden">#</span><a class="jei-slot" href="../../../catalogue/objets/aether/skyroot_boat.md" title="Skyroot Boat (aether:skyroot_boat)"><img src="../../../assets/generated/items/aether/skyroot_boat.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/aether/skyroot_chest_boat.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : aether-1.19.2-1.4.2-forge.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>aether:skyroot_chest_boat</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:chests/wooden">#</span><a class="jei-slot" href="../../../../catalogue/objets/aether/skyroot_boat/" title="Skyroot Boat (aether:skyroot_boat)"><img src="../../../../assets/generated/items/aether/skyroot_boat.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/aether/skyroot_chest_boat.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : aether-1.19.2-1.4.2-forge.jar</div></div>
 
 ## Utilisé dans
 

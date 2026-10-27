@@ -1,7 +1,7 @@
 # Fire Ale
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/fire_ale.png" alt="Fire Ale">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/fire_ale.png" alt="Fire Ale">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fire Ale</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

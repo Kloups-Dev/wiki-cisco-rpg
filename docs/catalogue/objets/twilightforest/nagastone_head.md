@@ -1,7 +1,7 @@
 # Tête de nâgastone
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/nagastone_head.png" alt="Tête de nâgastone">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/nagastone_head.png" alt="Tête de nâgastone">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tête de nâgastone</div>
 <div class="mc-tooltip-card__alias">Nagastone Head</div>

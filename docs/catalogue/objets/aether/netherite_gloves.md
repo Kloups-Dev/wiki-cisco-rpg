@@ -1,7 +1,7 @@
 # Netherite Gloves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/netherite_gloves.png" alt="Netherite Gloves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/netherite_gloves.png" alt="Netherite Gloves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Netherite Gloves</div>
 <div class="mc-tooltip-card__mod">The Aether</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>aether:old_netherite_gloves_smithing</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/aether/diamond_gloves.md" title="Diamond Gloves (aether:diamond_gloves)"><img src="../../../assets/generated/items/aether/diamond_gloves.png" alt="" loading="lazy"></a><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/aether/netherite_gloves.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : aether-1.19.2-1.4.2-forge.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>aether:old_netherite_gloves_smithing</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/aether/diamond_gloves/" title="Diamond Gloves (aether:diamond_gloves)"><img src="../../../../assets/generated/items/aether/diamond_gloves.png" alt="" loading="lazy"></a><span class="jei-slot" title="Netherite Ingot (minecraft:netherite_ingot)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/aether/netherite_gloves.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : aether-1.19.2-1.4.2-forge.jar</div></div>
 
 ## Utilisé dans
 

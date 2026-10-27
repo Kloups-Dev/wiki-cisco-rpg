@@ -1,7 +1,7 @@
 # Charm Golem d'améthyste
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/amethyst_golem_charm.png" alt="Charm Golem d&#x27;améthyste">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/amethyst_golem_charm.png" alt="Charm Golem d&#x27;améthyste">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Charm Golem d&#x27;améthyste</div>
 <div class="mc-tooltip-card__alias">Amethyst Golem Charm</div>

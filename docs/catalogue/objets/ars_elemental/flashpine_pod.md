@@ -1,7 +1,7 @@
 # Flashpine
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_elemental/flashpine_pod.png" alt="Flashpine">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_elemental/flashpine_pod.png" alt="Flashpine">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Flashpine</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

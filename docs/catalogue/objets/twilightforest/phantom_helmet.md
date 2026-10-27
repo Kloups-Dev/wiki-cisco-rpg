@@ -1,7 +1,7 @@
 # Casque de fantôme
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/phantom_helmet.png" alt="Casque de fantôme">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/phantom_helmet.png" alt="Casque de fantôme">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Casque de fantôme</div>
 <div class="mc-tooltip-card__alias">Phantom Helmet</div>

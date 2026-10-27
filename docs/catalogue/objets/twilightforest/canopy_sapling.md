@@ -1,7 +1,7 @@
 # Pousse d'arbre de canopée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/canopy_sapling.png" alt="Pousse d&#x27;arbre de canopée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/canopy_sapling.png" alt="Pousse d&#x27;arbre de canopée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pousse d&#x27;arbre de canopée</div>
 <div class="mc-tooltip-card__alias">Canopy Tree Sapling</div>

@@ -1,7 +1,7 @@
 # White Apple
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/white_apple.png" alt="White Apple">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/white_apple.png" alt="White Apple">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">White Apple</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

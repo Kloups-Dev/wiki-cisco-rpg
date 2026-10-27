@@ -1,7 +1,7 @@
 # Deepshelf
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/deepshelf.png" alt="Deepshelf">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/deepshelf.png" alt="Deepshelf">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Deepshelf</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>
@@ -14,12 +14,12 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting</strong><span>apotheosis:enchanting/deepshelf</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/apotheosis/dormant_deepshelf.md" title="Dormant Deepshelf (apotheosis:dormant_deepshelf)">?</a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/apotheosis/deepshelf.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : Apotheosis-1.19.2-6.5.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting</strong><span>apotheosis:enchanting/deepshelf</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/apotheosis/dormant_deepshelf/" title="Dormant Deepshelf (apotheosis:dormant_deepshelf)">?</a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/apotheosis/deepshelf.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : Apotheosis-1.19.2-6.5.2.jar</div></div>
 
 ## Utilisé dans
 
-- [Soul-Touched Deepshelf](../../../catalogue/objets/apotheosis/soul_touched_deepshelf.md) — <code>apotheosis:soul_touched_deepshelf</code>
 - [Echoing Deepshelf](../../../catalogue/objets/apotheosis/echoing_deepshelf.md) — <code>apotheosis:echoing_deepshelf</code>
+- [Soul-Touched Deepshelf](../../../catalogue/objets/apotheosis/soul_touched_deepshelf.md) — <code>apotheosis:soul_touched_deepshelf</code>
 
 ## Effets et caractéristiques
 

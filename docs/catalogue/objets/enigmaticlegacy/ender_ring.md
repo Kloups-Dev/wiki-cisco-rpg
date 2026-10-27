@@ -1,7 +1,7 @@
 # Ring of Ender
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/ender_ring.png" alt="Ring of Ender">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/ender_ring.png" alt="Ring of Ender">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ring of Ender</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticlegacy:ender_ring</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Ender Chest (minecraft:ender_chest)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Gold Ingot (minecraft:gold_ingot)">?</span><a class="jei-slot" href="../../../catalogue/objets/enigmaticlegacy/iron_ring.md" title="Iron Ring (enigmaticlegacy:iron_ring)"><img src="../../../assets/generated/items/enigmaticlegacy/iron_ring.png" alt="" loading="lazy"></a><span class="jei-slot" title="Gold Ingot (minecraft:gold_ingot)">?</span><span class="jei-slot" title="Gold Nugget (minecraft:gold_nugget)">?</span><span class="jei-slot" title="Ender Pearl (minecraft:ender_pearl)">?</span><span class="jei-slot" title="Gold Nugget (minecraft:gold_nugget)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/enigmaticlegacy/ender_ring.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticlegacy:ender_ring</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Ender Chest (minecraft:ender_chest)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Gold Ingot (minecraft:gold_ingot)">?</span><a class="jei-slot" href="../../../../catalogue/objets/enigmaticlegacy/iron_ring/" title="Iron Ring (enigmaticlegacy:iron_ring)"><img src="../../../../assets/generated/items/enigmaticlegacy/iron_ring.png" alt="" loading="lazy"></a><span class="jei-slot" title="Gold Ingot (minecraft:gold_ingot)">?</span><span class="jei-slot" title="Gold Nugget (minecraft:gold_nugget)">?</span><span class="jei-slot" title="Ender Pearl (minecraft:ender_pearl)">?</span><span class="jei-slot" title="Gold Nugget (minecraft:gold_nugget)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/enigmaticlegacy/ender_ring.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
 
 ## Utilisé dans
 

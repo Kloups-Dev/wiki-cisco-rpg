@@ -1,7 +1,7 @@
 # Will of the Ocean
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/ocean_stone.png" alt="Will of the Ocean">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/ocean_stone.png" alt="Will of the Ocean">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Will of the Ocean</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

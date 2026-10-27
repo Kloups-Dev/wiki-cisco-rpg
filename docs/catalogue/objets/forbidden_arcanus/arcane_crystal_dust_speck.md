@@ -1,7 +1,7 @@
 # Arcane Crystal Dust Speck
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/arcane_crystal_dust_speck.png" alt="Arcane Crystal Dust Speck">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/arcane_crystal_dust_speck.png" alt="Arcane Crystal Dust Speck">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Arcane Crystal Dust Speck</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

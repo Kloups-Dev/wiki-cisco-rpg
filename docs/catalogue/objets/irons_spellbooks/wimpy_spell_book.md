@@ -1,7 +1,7 @@
 # Wimpy Spell Book
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/wimpy_spell_book.png" alt="Wimpy Spell Book">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/wimpy_spell_book.png" alt="Wimpy Spell Book">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Wimpy Spell Book</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

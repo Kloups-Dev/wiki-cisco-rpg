@@ -1,7 +1,7 @@
 # Neptune Boots
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/neptune_boots.png" alt="Neptune Boots">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/neptune_boots.png" alt="Neptune Boots">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Neptune Boots</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

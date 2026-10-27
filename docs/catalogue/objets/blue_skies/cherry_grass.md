@@ -1,7 +1,7 @@
 # Herbe de chrose
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/cherry_grass.png" alt="Herbe de chrose">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/cherry_grass.png" alt="Herbe de chrose">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Herbe de chrose</div>
 <div class="mc-tooltip-card__alias">Cherry Grass</div>

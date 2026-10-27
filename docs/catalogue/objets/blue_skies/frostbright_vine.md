@@ -1,7 +1,7 @@
 # Lianes de nifrisque
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/frostbright_vine.png" alt="Lianes de nifrisque">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/frostbright_vine.png" alt="Lianes de nifrisque">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Lianes de nifrisque</div>
 <div class="mc-tooltip-card__alias">Frostbright Vines</div>

@@ -1,7 +1,7 @@
 # Arcane Sands
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/epic_material.png" alt="Arcane Sands">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/epic_material.png" alt="Arcane Sands">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Arcane Sands</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

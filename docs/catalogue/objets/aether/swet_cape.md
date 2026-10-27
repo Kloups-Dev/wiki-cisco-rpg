@@ -1,7 +1,7 @@
 # Swet Cape
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/swet_cape.png" alt="Swet Cape">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/swet_cape.png" alt="Swet Cape">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Swet Cape</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

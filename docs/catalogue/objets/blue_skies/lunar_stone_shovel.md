@@ -1,7 +1,7 @@
 # Pelle en pierre lunaire
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/lunar_stone_shovel.png" alt="Pelle en pierre lunaire">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/lunar_stone_shovel.png" alt="Pelle en pierre lunaire">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pelle en pierre lunaire</div>
 <div class="mc-tooltip-card__alias">Lunar Stone Shovel</div>

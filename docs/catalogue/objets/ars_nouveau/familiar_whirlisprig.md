@@ -1,7 +1,7 @@
 # Tourbillon
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/familiar_whirlisprig.png" alt="Tourbillon">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/familiar_whirlisprig.png" alt="Tourbillon">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tourbillon</div>
 <div class="mc-tooltip-card__alias">Whirlisprig</div>

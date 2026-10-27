@@ -1,7 +1,7 @@
 # Hache des milles métaux
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/wrought_axe.png" alt="Hache des milles métaux">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/wrought_axe.png" alt="Hache des milles métaux">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hache des milles métaux</div>
 <div class="mc-tooltip-card__alias">Axe of a Thousand Metals</div>

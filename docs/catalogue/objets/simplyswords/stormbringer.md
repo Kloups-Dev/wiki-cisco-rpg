@@ -1,7 +1,7 @@
 # Stormbringer
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/stormbringer.png" alt="Stormbringer">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/stormbringer.png" alt="Stormbringer">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stormbringer</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

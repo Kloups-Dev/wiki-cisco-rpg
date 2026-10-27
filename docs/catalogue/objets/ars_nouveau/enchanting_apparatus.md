@@ -1,7 +1,7 @@
 # Appareil enchanteur
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/enchanting_apparatus.png" alt="Appareil enchanteur">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/enchanting_apparatus.png" alt="Appareil enchanteur">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Appareil enchanteur</div>
 <div class="mc-tooltip-card__alias">Enchanting Apparatus</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>ars_nouveau:enchanting_apparatus</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><a class="jei-slot" href="../../../catalogue/objets/ars_nouveau/sourcestone.md" title="Pierre de source (ars_nouveau:sourcestone)"><img src="../../../assets/generated/items/ars_nouveau/sourcestone.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><a class="jei-slot" href="../../../catalogue/objets/ars_nouveau/sourcestone.md" title="Pierre de source (ars_nouveau:sourcestone)"><img src="../../../assets/generated/items/ars_nouveau/sourcestone.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_nouveau/enchanting_apparatus.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>ars_nouveau:enchanting_apparatus</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><a class="jei-slot" href="../../../../catalogue/objets/ars_nouveau/sourcestone/" title="Pierre de source (ars_nouveau:sourcestone)"><img src="../../../../assets/generated/items/ars_nouveau/sourcestone.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:gems/diamond">#</span><span class="jei-slot jei-slot--tag" title="#forge:ingots/gold">#</span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span><a class="jei-slot" href="../../../../catalogue/objets/ars_nouveau/sourcestone/" title="Pierre de source (ars_nouveau:sourcestone)"><img src="../../../../assets/generated/items/ars_nouveau/sourcestone.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:nuggets/gold">#</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_nouveau/enchanting_apparatus.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
 
 ## Utilisé dans
 

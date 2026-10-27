@@ -1,7 +1,7 @@
 # Edelwood Powder Snow Bucket
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/edelwood_powder_snow_bucket.png" alt="Edelwood Powder Snow Bucket">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/edelwood_powder_snow_bucket.png" alt="Edelwood Powder Snow Bucket">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Edelwood Powder Snow Bucket</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

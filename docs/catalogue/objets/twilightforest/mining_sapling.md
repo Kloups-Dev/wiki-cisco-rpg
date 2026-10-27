@@ -1,7 +1,7 @@
 # Pousse d'arbre du mineur
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/mining_sapling.png" alt="Pousse d&#x27;arbre du mineur">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/mining_sapling.png" alt="Pousse d&#x27;arbre du mineur">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pousse d&#x27;arbre du mineur</div>
 <div class="mc-tooltip-card__alias">Miner&#x27;s Tree Sapling</div>

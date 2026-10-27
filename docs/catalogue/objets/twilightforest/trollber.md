@@ -1,7 +1,7 @@
 # Trollber
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/trollber.png" alt="Trollber">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/trollber.png" alt="Trollber">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Trollber</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

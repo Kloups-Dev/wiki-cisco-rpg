@@ -1,7 +1,7 @@
 # Sac de récompenses
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/loot_bag.png" alt="Sac de récompenses">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/loot_bag.png" alt="Sac de récompenses">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sac de récompenses</div>
 <div class="mc-tooltip-card__alias">Loot Bag</div>

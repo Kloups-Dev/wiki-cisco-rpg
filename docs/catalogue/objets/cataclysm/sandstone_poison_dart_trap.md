@@ -1,7 +1,7 @@
 # Sandstone Poison Dart Trap
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/sandstone_poison_dart_trap.png" alt="Sandstone Poison Dart Trap">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/sandstone_poison_dart_trap.png" alt="Sandstone Poison Dart Trap">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sandstone Poison Dart Trap</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

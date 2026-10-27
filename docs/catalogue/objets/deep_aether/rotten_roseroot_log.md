@@ -1,7 +1,7 @@
 # Rotten Roseroot Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/rotten_roseroot_log.png" alt="Rotten Roseroot Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/rotten_roseroot_log.png" alt="Rotten Roseroot Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Rotten Roseroot Log</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

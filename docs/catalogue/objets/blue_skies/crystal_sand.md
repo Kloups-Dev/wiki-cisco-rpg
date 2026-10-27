@@ -1,7 +1,7 @@
 # Sable cristallisé
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/crystal_sand.png" alt="Sable cristallisé">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/crystal_sand.png" alt="Sable cristallisé">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sable cristallisé</div>
 <div class="mc-tooltip-card__alias">Crystal Sand</div>

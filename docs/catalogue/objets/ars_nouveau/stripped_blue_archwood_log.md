@@ -1,7 +1,7 @@
 # Bûche Archwood en cascade dépouillée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/stripped_blue_archwood_log.png" alt="Bûche Archwood en cascade dépouillée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/stripped_blue_archwood_log.png" alt="Bûche Archwood en cascade dépouillée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bûche Archwood en cascade dépouillée</div>
 <div class="mc-tooltip-card__alias">Stripped Cascading Archwood Log</div>

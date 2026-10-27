@@ -1,7 +1,7 @@
 # Hache en aquite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/aquite_axe.png" alt="Hache en aquite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/aquite_axe.png" alt="Hache en aquite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hache en aquite</div>
 <div class="mc-tooltip-card__alias">Aquite Axe</div>

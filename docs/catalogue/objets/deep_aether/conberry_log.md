@@ -1,7 +1,7 @@
 # Conberry Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/conberry_log.png" alt="Conberry Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/conberry_log.png" alt="Conberry Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Conberry Log</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Conberry Wood](../../../catalogue/objets/deep_aether/conberry_wood.md) — <code>deep_aether:conberry_wood</code>
 - [Conberry Wall](../../../catalogue/objets/deep_aether/conberry_wall.md) — <code>deep_aether:conberry_wall</code>
+- [Conberry Wood](../../../catalogue/objets/deep_aether/conberry_wood.md) — <code>deep_aether:conberry_wood</code>
 
 ## Effets et caractéristiques
 

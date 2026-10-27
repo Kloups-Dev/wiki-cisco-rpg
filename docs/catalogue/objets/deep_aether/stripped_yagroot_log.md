@@ -1,7 +1,7 @@
 # Stripped Yagroot Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/stripped_yagroot_log.png" alt="Stripped Yagroot Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/stripped_yagroot_log.png" alt="Stripped Yagroot Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Yagroot Log</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Stripped Yagroot Wood](../../../catalogue/objets/deep_aether/stripped_yagroot_wood.md) — <code>deep_aether:stripped_yagroot_wood</code>
 - [Stripped Yagroot Wall](../../../catalogue/objets/deep_aether/stripped_yagroot_wall.md) — <code>deep_aether:stripped_yagroot_wall</code>
+- [Stripped Yagroot Wood](../../../catalogue/objets/deep_aether/stripped_yagroot_wood.md) — <code>deep_aether:stripped_yagroot_wood</code>
 
 ## Effets et caractéristiques
 

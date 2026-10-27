@@ -1,7 +1,7 @@
 # Blue Berry
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/blue_berry.png" alt="Blue Berry">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/blue_berry.png" alt="Blue Berry">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Blue Berry</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

@@ -1,7 +1,7 @@
 # Plastron de fantôme
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/phantom_chestplate.png" alt="Plastron de fantôme">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/phantom_chestplate.png" alt="Plastron de fantôme">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Plastron de fantôme</div>
 <div class="mc-tooltip-card__alias">Phantom Chestplate</div>

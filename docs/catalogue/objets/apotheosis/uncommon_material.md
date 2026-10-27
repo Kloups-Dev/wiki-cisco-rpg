@@ -1,7 +1,7 @@
 # Timeworn Fabric
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/uncommon_material.png" alt="Timeworn Fabric">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/uncommon_material.png" alt="Timeworn Fabric">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Timeworn Fabric</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

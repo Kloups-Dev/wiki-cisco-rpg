@@ -1,7 +1,7 @@
 # Sky Tulips
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/sky_tulips.png" alt="Sky Tulips">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/sky_tulips.png" alt="Sky Tulips">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sky Tulips</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

@@ -1,7 +1,7 @@
 # Charm of %s
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/potion_charm.png" alt="Charm of %s">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/potion_charm.png" alt="Charm of %s">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Charm of %s</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

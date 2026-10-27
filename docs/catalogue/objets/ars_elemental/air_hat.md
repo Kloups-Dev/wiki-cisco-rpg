@@ -1,7 +1,7 @@
 # Aethermancer's Hat
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_elemental/air_hat.png" alt="Aethermancer&#x27;s Hat">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_elemental/air_hat.png" alt="Aethermancer&#x27;s Hat">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aethermancer&#x27;s Hat</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Armor Upgrade</strong><span>ars_elemental:air_hat</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_elemental/air_hat.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_elemental-1.19.2-0.5.9.4.1.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Armor Upgrade</strong><span>ars_elemental:air_hat</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_elemental/air_hat.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_elemental-1.19.2-0.5.9.4.1.jar</div></div>
 
 ## Utilisé dans
 

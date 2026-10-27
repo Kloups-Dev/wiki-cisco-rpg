@@ -1,7 +1,7 @@
 # Midnight Robe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/midnight_robe.png" alt="Midnight Robe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/midnight_robe.png" alt="Midnight Robe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Midnight Robe</div>
 <div class="mc-tooltip-card__mod">Relics</div>

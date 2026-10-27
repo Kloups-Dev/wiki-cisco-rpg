@@ -1,7 +1,7 @@
 # Candy Cane Sword
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/candy_cane_sword.png" alt="Candy Cane Sword">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/candy_cane_sword.png" alt="Candy Cane Sword">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Candy Cane Sword</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

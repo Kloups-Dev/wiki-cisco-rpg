@@ -1,7 +1,7 @@
 # Bois de cendres [NYI]
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/cinder_log.png" alt="Bois de cendres [NYI]">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/cinder_log.png" alt="Bois de cendres [NYI]">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bois de cendres [NYI]</div>
 <div class="mc-tooltip-card__alias">Cinder Log</div>

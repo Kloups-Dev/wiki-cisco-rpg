@@ -1,7 +1,7 @@
 # Dormant Relic
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/dormant_relic.png" alt="Dormant Relic">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/dormant_relic.png" alt="Dormant Relic">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Dormant Relic</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Tainted Relic](../../../catalogue/objets/simplyswords/tainted_relic.md) — <code>simplyswords:tainted_relic</code>
 - [Righteous Relic](../../../catalogue/objets/simplyswords/righteous_relic.md) — <code>simplyswords:righteous_relic</code>
+- [Tainted Relic](../../../catalogue/objets/simplyswords/tainted_relic.md) — <code>simplyswords:tainted_relic</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Pelle en pyrope
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/pyrope_shovel.png" alt="Pelle en pyrope">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/pyrope_shovel.png" alt="Pelle en pyrope">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pelle en pyrope</div>
 <div class="mc-tooltip-card__alias">Pyrope Shovel</div>

@@ -1,7 +1,7 @@
 # Splash Aureal Bottle
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/splash_aureal_bottle.png" alt="Splash Aureal Bottle">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/splash_aureal_bottle.png" alt="Splash Aureal Bottle">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Splash Aureal Bottle</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

@@ -1,7 +1,7 @@
 # Haie
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/hedge.png" alt="Haie">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/hedge.png" alt="Haie">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Haie</div>
 <div class="mc-tooltip-card__alias">Hedge</div>

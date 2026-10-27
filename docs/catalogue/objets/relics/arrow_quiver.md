@@ -1,7 +1,7 @@
 # Quiver
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/arrow_quiver.png" alt="Quiver">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/arrow_quiver.png" alt="Quiver">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Quiver</div>
 <div class="mc-tooltip-card__mod">Relics</div>

@@ -1,7 +1,7 @@
 # Blazing Flask
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/blazing_flask.png" alt="Blazing Flask">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/blazing_flask.png" alt="Blazing Flask">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Blazing Flask</div>
 <div class="mc-tooltip-card__mod">Relics</div>

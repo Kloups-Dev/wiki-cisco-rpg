@@ -1,7 +1,7 @@
 # Coral Spear
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/coral_spear.png" alt="Coral Spear">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/coral_spear.png" alt="Coral Spear">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Coral Spear</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

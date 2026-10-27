@@ -1,7 +1,7 @@
 # Graine de Foliaath
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/foliaath_seed.png" alt="Graine de Foliaath">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/foliaath_seed.png" alt="Graine de Foliaath">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Graine de Foliaath</div>
 <div class="mc-tooltip-card__alias">Foliaath Seed</div>

@@ -1,7 +1,7 @@
 # Frigidium Ingot
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/frigidiumingot.png" alt="Frigidium Ingot">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/frigidiumingot.png" alt="Frigidium Ingot">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Frigidium Ingot</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

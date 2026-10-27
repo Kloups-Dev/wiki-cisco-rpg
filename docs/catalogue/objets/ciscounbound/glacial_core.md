@@ -1,7 +1,7 @@
 # Glacial Core
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/glacial_core.png" alt="Glacial Core">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/glacial_core.png" alt="Glacial Core">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Glacial Core</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

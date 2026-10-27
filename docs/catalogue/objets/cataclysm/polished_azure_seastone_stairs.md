@@ -1,7 +1,7 @@
 # Polished Azure Seastone Stairs
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/polished_azure_seastone_stairs.png" alt="Polished Azure Seastone Stairs">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/polished_azure_seastone_stairs.png" alt="Polished Azure Seastone Stairs">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Polished Azure Seastone Stairs</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

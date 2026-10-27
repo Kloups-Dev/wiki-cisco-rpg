@@ -1,7 +1,7 @@
 # Lost Engine
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticaddons/lost_engine.png" alt="Lost Engine">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticaddons/lost_engine.png" alt="Lost Engine">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Lost Engine</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

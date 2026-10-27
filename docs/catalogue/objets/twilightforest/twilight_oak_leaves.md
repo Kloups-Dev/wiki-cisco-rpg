@@ -1,7 +1,7 @@
 # Feuilles de chêne Twilight
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/twilight_oak_leaves.png" alt="Feuilles de chêne Twilight">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/twilight_oak_leaves.png" alt="Feuilles de chêne Twilight">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles de chêne Twilight</div>
 <div class="mc-tooltip-card__alias">Twilight Oak Leaves</div>

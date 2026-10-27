@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Weapon Fusion</strong><span>cataclysm:weapon_infusion/wrath_of_the_desert</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/cataclysm/cursed_bow.md" title="Cursed Bow (cataclysm:cursed_bow)"><img src="../../../assets/generated/items/cataclysm/cursed_bow.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/cataclysm/sandstorm_in_a_bottle.md" title="Sandstorm in a Bottle (cataclysm:sandstorm_in_a_bottle)"><img src="../../../assets/generated/items/cataclysm/sandstorm_in_a_bottle.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result">?</span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Weapon Fusion</strong><span>cataclysm:weapon_infusion/wrath_of_the_desert</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/cataclysm/cursed_bow/" title="Cursed Bow (cataclysm:cursed_bow)"><img src="../../../../assets/generated/items/cataclysm/cursed_bow.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../../catalogue/objets/cataclysm/sandstorm_in_a_bottle/" title="Sandstorm in a Bottle (cataclysm:sandstorm_in_a_bottle)"><img src="../../../../assets/generated/items/cataclysm/sandstorm_in_a_bottle.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result">?</span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
 
 ## Utilisé dans
 

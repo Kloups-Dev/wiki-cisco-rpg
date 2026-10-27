@@ -1,7 +1,7 @@
 # Bloc de purpur piégé
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/purpur_void_rune_trap_block.png" alt="Bloc de purpur piégé">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/purpur_void_rune_trap_block.png" alt="Bloc de purpur piégé">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bloc de purpur piégé</div>
 <div class="mc-tooltip-card__alias">Purpur Trap Block</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>cataclysm:purpur_void_rune_trap_block</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><a class="jei-slot" href="../../../catalogue/objets/cataclysm/void_stone.md" title="Pierre du vide (cataclysm:void_stone)"><img src="../../../assets/generated/items/cataclysm/void_stone.png" alt="" loading="lazy"></a><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/cataclysm/purpur_void_rune_trap_block.png" alt=""><span class="jei-count">8</span></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>cataclysm:purpur_void_rune_trap_block</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><a class="jei-slot" href="../../../../catalogue/objets/cataclysm/void_stone/" title="Pierre du vide (cataclysm:void_stone)"><img src="../../../../assets/generated/items/cataclysm/void_stone.png" alt="" loading="lazy"></a><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span><span class="jei-slot" title="Purpur Block (minecraft:purpur_block)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/cataclysm/purpur_void_rune_trap_block.png" alt=""><span class="jei-count">8</span></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
 
 ## Utilisé dans
 

@@ -1,7 +1,7 @@
 # Light Core
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/light_core.png" alt="Light Core">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/light_core.png" alt="Light Core">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Light Core</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

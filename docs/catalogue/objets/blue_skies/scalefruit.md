@@ -1,7 +1,7 @@
 # Fruit écaillé
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/scalefruit.png" alt="Fruit écaillé">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/scalefruit.png" alt="Fruit écaillé">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fruit écaillé</div>
 <div class="mc-tooltip-card__alias">Tomato</div>

@@ -1,7 +1,7 @@
 # Runic Deepslate
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/runic_deepslate.png" alt="Runic Deepslate">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/runic_deepslate.png" alt="Runic Deepslate">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Runic Deepslate</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

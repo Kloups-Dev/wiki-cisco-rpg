@@ -1,7 +1,7 @@
 # Purple Flower
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/purple_flower.png" alt="Purple Flower">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/purple_flower.png" alt="Purple Flower">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Purple Flower</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

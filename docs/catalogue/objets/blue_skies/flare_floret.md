@@ -1,7 +1,7 @@
 # Gerbe étoilée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/flare_floret.png" alt="Gerbe étoilée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/flare_floret.png" alt="Gerbe étoilée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Gerbe étoilée</div>
 <div class="mc-tooltip-card__alias">Flare Floret</div>

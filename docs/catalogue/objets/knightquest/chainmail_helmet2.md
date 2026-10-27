@@ -1,7 +1,7 @@
 # Casque en Cotte de Mailles
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/knightquest/chainmail_helmet2.png" alt="Casque en Cotte de Mailles">
+<img class="mc-item-icon" src="../../../../assets/generated/items/knightquest/chainmail_helmet2.png" alt="Casque en Cotte de Mailles">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Casque en Cotte de Mailles</div>
 <div class="mc-tooltip-card__alias">Chainmail Helmet</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:chainmail_helmet2</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Iron Axe (minecraft:iron_axe)">?</span><span class="jei-slot" title="Wheat Seeds (minecraft:wheat_seeds)">?</span><span class="jei-slot" title="Apple (minecraft:apple)">?</span><a class="jei-slot" href="../../../catalogue/objets/knightquest/filled_goblet.md" title="Gobelet Rempli (knightquest:filled_goblet)"><img src="../../../assets/generated/items/knightquest/filled_goblet.png" alt="" loading="lazy"></a><span class="jei-slot" title="Iron Helmet (minecraft:iron_helmet)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/knightquest/chainmail_helmet2.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>knightquest:chainmail_helmet2</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Iron Axe (minecraft:iron_axe)">?</span><span class="jei-slot" title="Wheat Seeds (minecraft:wheat_seeds)">?</span><span class="jei-slot" title="Apple (minecraft:apple)">?</span><a class="jei-slot" href="../../../../catalogue/objets/knightquest/filled_goblet/" title="Gobelet Rempli (knightquest:filled_goblet)"><img src="../../../../assets/generated/items/knightquest/filled_goblet.png" alt="" loading="lazy"></a><span class="jei-slot" title="Iron Helmet (minecraft:iron_helmet)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/knightquest/chainmail_helmet2.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : knightquest-1.8.5.jar</div></div>
 
 ## Utilisé dans
 

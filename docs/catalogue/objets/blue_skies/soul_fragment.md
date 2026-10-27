@@ -1,7 +1,7 @@
 # Éclat d'âme
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/soul_fragment.png" alt="Éclat d&#x27;âme">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/soul_fragment.png" alt="Éclat d&#x27;âme">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Éclat d&#x27;âme</div>
 <div class="mc-tooltip-card__alias">Soul Fragment</div>

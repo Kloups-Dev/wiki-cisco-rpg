@@ -1,7 +1,7 @@
 # Cooked Aerglow Fish
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/cooked_aerglow_fish.png" alt="Cooked Aerglow Fish">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/cooked_aerglow_fish.png" alt="Cooked Aerglow Fish">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cooked Aerglow Fish</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -14,8 +14,8 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Fumoir</strong><span>deep_aether:cooked_aerglow_fish_from_smoker</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/deep_aether/raw_aerglow_fish.md" title="Raw Aerglow Fish (deep_aether:raw_aerglow_fish)"><img src="../../../assets/generated/items/deep_aether/raw_aerglow_fish.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/deep_aether/cooked_aerglow_fish.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Four</strong><span>deep_aether:cooked_aerglow_fish</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/deep_aether/raw_aerglow_fish.md" title="Raw Aerglow Fish (deep_aether:raw_aerglow_fish)"><img src="../../../assets/generated/items/deep_aether/raw_aerglow_fish.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/deep_aether/cooked_aerglow_fish.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Four</strong><span>deep_aether:cooked_aerglow_fish</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/deep_aether/raw_aerglow_fish/" title="Raw Aerglow Fish (deep_aether:raw_aerglow_fish)"><img src="../../../../assets/generated/items/deep_aether/raw_aerglow_fish.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/deep_aether/cooked_aerglow_fish.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Fumoir</strong><span>deep_aether:cooked_aerglow_fish_from_smoker</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/deep_aether/raw_aerglow_fish/" title="Raw Aerglow Fish (deep_aether:raw_aerglow_fish)"><img src="../../../../assets/generated/items/deep_aether/raw_aerglow_fish.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/deep_aether/cooked_aerglow_fish.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
 
 ## Utilisé dans
 

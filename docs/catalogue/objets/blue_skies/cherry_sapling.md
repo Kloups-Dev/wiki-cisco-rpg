@@ -1,7 +1,7 @@
 # Pousse de cerisier
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/cherry_sapling.png" alt="Pousse de cerisier">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/cherry_sapling.png" alt="Pousse de cerisier">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pousse de cerisier</div>
 <div class="mc-tooltip-card__alias">Cherry Sapling</div>

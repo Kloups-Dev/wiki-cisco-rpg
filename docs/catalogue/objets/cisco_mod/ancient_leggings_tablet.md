@@ -1,7 +1,7 @@
 # Ancient Leggings Tablet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/ancient_leggings_tablet.png" alt="Ancient Leggings Tablet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cisco_mod/ancient_leggings_tablet.png" alt="Ancient Leggings Tablet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ancient Leggings Tablet</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Sovereign Ascendant Leggings](../../../catalogue/objets/cisco_mod/sovereign_ascendant_leggings.md) — <code>cisco_mod:sovereign_ascendant_leggings</code>
 - [Descended Hero Leggings](../../../catalogue/objets/cisco_mod/descended_hero_leggings.md) — <code>cisco_mod:descended_hero_leggings</code>
+- [Sovereign Ascendant Leggings](../../../catalogue/objets/cisco_mod/sovereign_ascendant_leggings.md) — <code>cisco_mod:sovereign_ascendant_leggings</code>
 
 ## Effets et caractéristiques
 

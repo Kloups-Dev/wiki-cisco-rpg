@@ -1,7 +1,7 @@
 # Valkyrie Leggings
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/valkyrie_leggings.png" alt="Valkyrie Leggings">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/valkyrie_leggings.png" alt="Valkyrie Leggings">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Valkyrie Leggings</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

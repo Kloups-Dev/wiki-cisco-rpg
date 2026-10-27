@@ -1,7 +1,7 @@
 # Gland des saisons
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/solnut.png" alt="Gland des saisons">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/solnut.png" alt="Gland des saisons">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Gland des saisons</div>
 <div class="mc-tooltip-card__alias">Peanut</div>

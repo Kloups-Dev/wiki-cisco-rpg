@@ -1,7 +1,7 @@
 # Gold Key
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/gold_dungeon_key.png" alt="Gold Key">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/gold_dungeon_key.png" alt="Gold Key">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Gold Key</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

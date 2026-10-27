@@ -1,7 +1,7 @@
 # Fin
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/fin.png" alt="Fin">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/fin.png" alt="Fin">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fin</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>
@@ -19,12 +19,12 @@
 
 ## Utilisé dans
 
-- [Sea Stew](../../../catalogue/objets/aquamirae/sea_stew.md) — <code>aquamirae:sea_stew</code>
-- [Terrible Leggings](../../../catalogue/objets/aquamirae/terrible_leggings.md) — <code>aquamirae:terrible_leggings</code>
-- [Terrible Helmet](../../../catalogue/objets/aquamirae/terrible_helmet.md) — <code>aquamirae:terrible_helmet</code>
-- [Terrible Boots](../../../catalogue/objets/aquamirae/terrible_boots.md) — <code>aquamirae:terrible_boots</code>
 - [Fin Cutter](../../../catalogue/objets/aquamirae/fin_cutter.md) — <code>aquamirae:fin_cutter</code>
+- [Sea Stew](../../../catalogue/objets/aquamirae/sea_stew.md) — <code>aquamirae:sea_stew</code>
+- [Terrible Boots](../../../catalogue/objets/aquamirae/terrible_boots.md) — <code>aquamirae:terrible_boots</code>
 - [Terrible Chestplate](../../../catalogue/objets/aquamirae/terrible_chestplate.md) — <code>aquamirae:terrible_chestplate</code>
+- [Terrible Helmet](../../../catalogue/objets/aquamirae/terrible_helmet.md) — <code>aquamirae:terrible_helmet</code>
+- [Terrible Leggings](../../../catalogue/objets/aquamirae/terrible_leggings.md) — <code>aquamirae:terrible_leggings</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Knight Phantom Boss Spawner
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/knight_phantom_boss_spawner.png" alt="Knight Phantom Boss Spawner">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/knight_phantom_boss_spawner.png" alt="Knight Phantom Boss Spawner">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Knight Phantom Boss Spawner</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

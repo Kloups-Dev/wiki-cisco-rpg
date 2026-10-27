@@ -1,7 +1,7 @@
 # Warden Tendril
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/warden_tendril.png" alt="Warden Tendril">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/warden_tendril.png" alt="Warden Tendril">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Warden Tendril</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

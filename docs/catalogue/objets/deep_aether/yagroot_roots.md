@@ -1,7 +1,7 @@
 # Yagroot Roots
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/yagroot_roots.png" alt="Yagroot Roots">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/yagroot_roots.png" alt="Yagroot Roots">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Yagroot Roots</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

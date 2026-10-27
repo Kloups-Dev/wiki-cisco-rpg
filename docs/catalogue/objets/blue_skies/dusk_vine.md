@@ -1,7 +1,7 @@
 # Lianes de crépuscubois
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/dusk_vine.png" alt="Lianes de crépuscubois">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/dusk_vine.png" alt="Lianes de crépuscubois">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Lianes de crépuscubois</div>
 <div class="mc-tooltip-card__alias">Dusk Vines</div>
@@ -20,8 +20,8 @@
 
 ## Utilisé dans
 
-- [Pierre taillée lunaire moussue](../../../catalogue/objets/blue_skies/mossy_lunar_stonebrick.md) — <code>blue_skies:mossy_lunar_stonebrick</code>
 - [Pierres lunaires moussues](../../../catalogue/objets/blue_skies/mossy_lunar_cobblestone.md) — <code>blue_skies:mossy_lunar_cobblestone</code>
+- [Pierre taillée lunaire moussue](../../../catalogue/objets/blue_skies/mossy_lunar_stonebrick.md) — <code>blue_skies:mossy_lunar_stonebrick</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Flèche de dispersion du vide
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/void_scatter_arrow.png" alt="Flèche de dispersion du vide">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/void_scatter_arrow.png" alt="Flèche de dispersion du vide">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Flèche de dispersion du vide</div>
 <div class="mc-tooltip-card__alias">Void Scatter Arrow</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>cataclysm:void_scatter_arrow</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/cataclysm/void_jaw.md" title="Machoire du vide (cataclysm:void_jaw)"><img src="../../../assets/generated/items/cataclysm/void_jaw.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Spectral Arrow (minecraft:spectral_arrow)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/cataclysm/void_scatter_arrow.png" alt=""><span class="jei-count">2</span></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>cataclysm:void_scatter_arrow</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/cataclysm/void_jaw/" title="Machoire du vide (cataclysm:void_jaw)"><img src="../../../../assets/generated/items/cataclysm/void_jaw.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Spectral Arrow (minecraft:spectral_arrow)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/cataclysm/void_scatter_arrow.png" alt=""><span class="jei-count">2</span></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
 
 ## Utilisé dans
 

@@ -1,7 +1,7 @@
 # Arc-tri
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/triple_bow.png" alt="Arc-tri">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/triple_bow.png" alt="Arc-tri">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Arc-tri</div>
 <div class="mc-tooltip-card__alias">Tri-bow</div>

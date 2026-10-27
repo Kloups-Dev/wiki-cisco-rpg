@@ -1,7 +1,7 @@
 # Ruined Book
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/ruined_book.png" alt="Ruined Book">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/ruined_book.png" alt="Ruined Book">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ruined Book</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Ancient Codex](../../../catalogue/objets/irons_spellbooks/netherite_spell_book.md) — <code>irons_spellbooks:netherite_spell_book</code>
 - [Dragonskin Spell Book](../../../catalogue/objets/irons_spellbooks/dragonskin_spell_book.md) — <code>irons_spellbooks:dragonskin_spell_book</code>
+- [Ancient Codex](../../../catalogue/objets/irons_spellbooks/netherite_spell_book.md) — <code>irons_spellbooks:netherite_spell_book</code>
 
 ## Effets et caractéristiques
 

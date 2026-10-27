@@ -1,7 +1,7 @@
 # Tall Aerlavender
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/tall_aerlavender.png" alt="Tall Aerlavender">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/tall_aerlavender.png" alt="Tall Aerlavender">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tall Aerlavender</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

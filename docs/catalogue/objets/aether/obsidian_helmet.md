@@ -1,7 +1,7 @@
 # Obsidian Helmet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/obsidian_helmet.png" alt="Obsidian Helmet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/obsidian_helmet.png" alt="Obsidian Helmet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Obsidian Helmet</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

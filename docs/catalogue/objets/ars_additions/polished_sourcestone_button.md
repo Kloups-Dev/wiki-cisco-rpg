@@ -1,7 +1,7 @@
 # Polished Sourcestone Button
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_additions/polished_sourcestone_button.png" alt="Polished Sourcestone Button">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_additions/polished_sourcestone_button.png" alt="Polished Sourcestone Button">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Polished Sourcestone Button</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>ars_additions:polished_sourcestone_button</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/ars_nouveau/smooth_sourcestone.md" title="Pierre de source lisse (ars_nouveau:smooth_sourcestone)"><img src="../../../assets/generated/items/ars_nouveau/smooth_sourcestone.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_additions/polished_sourcestone_button.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_additions-1.19.2-1.4.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>ars_additions:polished_sourcestone_button</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/ars_nouveau/smooth_sourcestone/" title="Pierre de source lisse (ars_nouveau:smooth_sourcestone)"><img src="../../../../assets/generated/items/ars_nouveau/smooth_sourcestone.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_additions/polished_sourcestone_button.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_additions-1.19.2-1.4.0.jar</div></div>
 
 ## Utilisé dans
 

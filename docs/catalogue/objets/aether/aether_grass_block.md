@@ -1,7 +1,7 @@
 # Aether Grass Block
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/aether_grass_block.png" alt="Aether Grass Block">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/aether_grass_block.png" alt="Aether Grass Block">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aether Grass Block</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

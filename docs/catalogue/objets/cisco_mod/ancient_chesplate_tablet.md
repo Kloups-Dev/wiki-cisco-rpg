@@ -1,7 +1,7 @@
 # Ancient Chestplate Tablet
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/ancient_chesplate_tablet.png" alt="Ancient Chestplate Tablet">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cisco_mod/ancient_chesplate_tablet.png" alt="Ancient Chestplate Tablet">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ancient Chestplate Tablet</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

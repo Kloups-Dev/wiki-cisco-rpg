@@ -1,7 +1,7 @@
 # Brightsteel Alloy
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/brightsteel_ingot.png" alt="Brightsteel Alloy">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/brightsteel_ingot.png" alt="Brightsteel Alloy">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brightsteel Alloy</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

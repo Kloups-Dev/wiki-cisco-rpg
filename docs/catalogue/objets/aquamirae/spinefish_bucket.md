@@ -1,7 +1,7 @@
 # Bucket of Spinefish
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/spinefish_bucket.png" alt="Bucket of Spinefish">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/spinefish_bucket.png" alt="Bucket of Spinefish">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bucket of Spinefish</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

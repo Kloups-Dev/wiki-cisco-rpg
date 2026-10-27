@@ -1,7 +1,7 @@
 # Echaisy
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/echaisy.png" alt="Echaisy">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/echaisy.png" alt="Echaisy">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Echaisy</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

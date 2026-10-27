@@ -1,7 +1,7 @@
 # Neptune Gloves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/neptune_gloves.png" alt="Neptune Gloves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/neptune_gloves.png" alt="Neptune Gloves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Neptune Gloves</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

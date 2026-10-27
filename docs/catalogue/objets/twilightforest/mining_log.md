@@ -1,7 +1,7 @@
 # Minewood Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/mining_log.png" alt="Minewood Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/mining_log.png" alt="Minewood Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Minewood Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

@@ -1,7 +1,7 @@
 # Bramble Wall
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/bosses_of_mass_destruction/vine_wall.png" alt="Bramble Wall">
+<img class="mc-item-icon" src="../../../../assets/generated/items/bosses_of_mass_destruction/vine_wall.png" alt="Bramble Wall">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bramble Wall</div>
 <div class="mc-tooltip-card__mod">Bosses of Mass Destruction</div>

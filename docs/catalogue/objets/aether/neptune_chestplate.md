@@ -1,7 +1,7 @@
 # Neptune Chestplate
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/neptune_chestplate.png" alt="Neptune Chestplate">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/neptune_chestplate.png" alt="Neptune Chestplate">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Neptune Chestplate</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

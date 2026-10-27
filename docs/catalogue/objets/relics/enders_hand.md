@@ -1,7 +1,7 @@
 # Ender Hand
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/enders_hand.png" alt="Ender Hand">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/enders_hand.png" alt="Ender Hand">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ender Hand</div>
 <div class="mc-tooltip-card__mod">Relics</div>

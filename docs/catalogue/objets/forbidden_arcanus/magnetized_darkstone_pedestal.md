@@ -1,7 +1,7 @@
 # Magnetized Darkstone Pedestal
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/magnetized_darkstone_pedestal.png" alt="Magnetized Darkstone Pedestal">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/magnetized_darkstone_pedestal.png" alt="Magnetized Darkstone Pedestal">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Magnetized Darkstone Pedestal</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

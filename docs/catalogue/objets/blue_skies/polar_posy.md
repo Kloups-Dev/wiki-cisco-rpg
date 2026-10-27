@@ -1,7 +1,7 @@
 # Posie polaire
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/polar_posy.png" alt="Posie polaire">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/polar_posy.png" alt="Posie polaire">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Posie polaire</div>
 <div class="mc-tooltip-card__alias">Polar Posy</div>

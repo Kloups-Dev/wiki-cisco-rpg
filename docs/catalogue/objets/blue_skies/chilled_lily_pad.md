@@ -1,7 +1,7 @@
 # Nénuphar gelé
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/chilled_lily_pad.png" alt="Nénuphar gelé">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/chilled_lily_pad.png" alt="Nénuphar gelé">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Nénuphar gelé</div>
 <div class="mc-tooltip-card__alias">Chilled Lily Pad</div>

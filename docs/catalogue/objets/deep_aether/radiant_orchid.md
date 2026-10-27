@@ -1,7 +1,7 @@
 # Radiant Orchid
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/radiant_orchid.png" alt="Radiant Orchid">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/radiant_orchid.png" alt="Radiant Orchid">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Radiant Orchid</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

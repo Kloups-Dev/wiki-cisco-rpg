@@ -1,7 +1,7 @@
 # Intestins d'instectes
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/bug_guts.png" alt="Intestins d&#x27;instectes">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/bug_guts.png" alt="Intestins d&#x27;instectes">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Intestins d&#x27;instectes</div>
 <div class="mc-tooltip-card__alias">Bug Guts</div>

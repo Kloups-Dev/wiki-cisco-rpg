@@ -1,7 +1,7 @@
 # Tome of Chestplates
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/chestplate_tome.png" alt="Tome of Chestplates">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/chestplate_tome.png" alt="Tome of Chestplates">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tome of Chestplates</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

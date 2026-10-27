@@ -1,7 +1,7 @@
 # Zephyr Deposit
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/celestisynth/zephyr_deposit.png" alt="Zephyr Deposit">
+<img class="mc-item-icon" src="../../../../assets/generated/items/celestisynth/zephyr_deposit.png" alt="Zephyr Deposit">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Zephyr Deposit</div>
 <div class="mc-tooltip-card__mod">Celestisynth</div>

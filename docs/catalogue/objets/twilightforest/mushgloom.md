@@ -1,7 +1,7 @@
 # Champignon lumineux
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/mushgloom.png" alt="Champignon lumineux">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/mushgloom.png" alt="Champignon lumineux">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Champignon lumineux</div>
 <div class="mc-tooltip-card__alias">Mushgloom</div>

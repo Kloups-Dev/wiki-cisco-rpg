@@ -1,7 +1,7 @@
 # Tranche de labyrinthe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/maze_wafer.png" alt="Tranche de labyrinthe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/maze_wafer.png" alt="Tranche de labyrinthe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tranche de labyrinthe</div>
 <div class="mc-tooltip-card__alias">Maze Wafer</div>

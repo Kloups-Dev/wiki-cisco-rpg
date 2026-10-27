@@ -1,7 +1,7 @@
 # Feuilles d'Archwood flamboyantes
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/red_archwood_leaves.png" alt="Feuilles d&#x27;Archwood flamboyantes">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/red_archwood_leaves.png" alt="Feuilles d&#x27;Archwood flamboyantes">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles d&#x27;Archwood flamboyantes</div>
 <div class="mc-tooltip-card__alias">Blazing Archwood Leaves</div>

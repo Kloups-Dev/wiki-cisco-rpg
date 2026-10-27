@@ -1,7 +1,7 @@
 # Torche des baies
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/torchberries.png" alt="Torche des baies">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/torchberries.png" alt="Torche des baies">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Torche des baies</div>
 <div class="mc-tooltip-card__alias">Torchberries</div>

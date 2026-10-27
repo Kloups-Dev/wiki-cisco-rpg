@@ -1,7 +1,7 @@
 # Tranche d'Hydre
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/hydra_chop.png" alt="Tranche d&#x27;Hydre">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/hydra_chop.png" alt="Tranche d&#x27;Hydre">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tranche d&#x27;Hydre</div>
 <div class="mc-tooltip-card__alias">Hydra Chop</div>

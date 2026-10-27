@@ -1,7 +1,7 @@
 # Feuilles de mangrove
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/mangrove_leaves.png" alt="Feuilles de mangrove">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/mangrove_leaves.png" alt="Feuilles de mangrove">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles de mangrove</div>
 <div class="mc-tooltip-card__alias">Mangrove Leaves</div>

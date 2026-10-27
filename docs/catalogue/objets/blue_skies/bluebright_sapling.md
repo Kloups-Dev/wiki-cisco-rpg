@@ -1,7 +1,7 @@
 # Pousse de lumibleu
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/bluebright_sapling.png" alt="Pousse de lumibleu">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/bluebright_sapling.png" alt="Pousse de lumibleu">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pousse de lumibleu</div>
 <div class="mc-tooltip-card__alias">Bluebright Sapling</div>

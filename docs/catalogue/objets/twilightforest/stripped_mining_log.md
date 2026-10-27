@@ -1,7 +1,7 @@
 # Stripped Minewood Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/stripped_mining_log.png" alt="Stripped Minewood Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/stripped_mining_log.png" alt="Stripped Minewood Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Minewood Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Stripped Minewood](../../../catalogue/objets/twilightforest/stripped_mining_wood.md) — <code>twilightforest:stripped_mining_wood</code>
 - [Planches de bois de mine](../../../catalogue/objets/twilightforest/mining_planks.md) — <code>twilightforest:mining_planks</code>
+- [Stripped Minewood](../../../catalogue/objets/twilightforest/stripped_mining_wood.md) — <code>twilightforest:stripped_mining_wood</code>
 
 ## Effets et caractéristiques
 

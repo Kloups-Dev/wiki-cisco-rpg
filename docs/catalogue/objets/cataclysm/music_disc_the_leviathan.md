@@ -1,7 +1,7 @@
 # Music Disc
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/music_disc_the_leviathan.png" alt="Music Disc">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/music_disc_the_leviathan.png" alt="Music Disc">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Music Disc</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

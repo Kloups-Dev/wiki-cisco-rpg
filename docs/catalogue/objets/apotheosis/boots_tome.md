@@ -1,7 +1,7 @@
 # Tome of Boots
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/boots_tome.png" alt="Tome of Boots">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/boots_tome.png" alt="Tome of Boots">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tome of Boots</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

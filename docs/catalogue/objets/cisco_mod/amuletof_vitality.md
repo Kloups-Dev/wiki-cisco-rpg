@@ -1,7 +1,7 @@
 # Amulet of Vitality
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/amuletof_vitality.png" alt="Amulet of Vitality">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cisco_mod/amuletof_vitality.png" alt="Amulet of Vitality">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Amulet of Vitality</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

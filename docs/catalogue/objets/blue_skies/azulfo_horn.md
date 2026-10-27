@@ -1,7 +1,7 @@
 # Corne d'azélufo
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/azulfo_horn.png" alt="Corne d&#x27;azélufo">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/azulfo_horn.png" alt="Corne d&#x27;azélufo">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Corne d&#x27;azélufo</div>
 <div class="mc-tooltip-card__alias">Azulfo Horn</div>

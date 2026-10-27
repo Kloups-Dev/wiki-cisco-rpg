@@ -1,7 +1,7 @@
 # Minerai de pierre de lune
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/everbright_moonstone_ore.png" alt="Minerai de pierre de lune">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/everbright_moonstone_ore.png" alt="Minerai de pierre de lune">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Minerai de pierre de lune</div>
 <div class="mc-tooltip-card__alias">Moonstone Ore</div>

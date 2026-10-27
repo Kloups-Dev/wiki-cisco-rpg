@@ -1,7 +1,7 @@
 # Phantoplasme
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/meetyourfight/phantoplasm.png" alt="Phantoplasme">
+<img class="mc-item-icon" src="../../../../assets/generated/items/meetyourfight/phantoplasm.png" alt="Phantoplasme">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Phantoplasme</div>
 <div class="mc-tooltip-card__alias">Phantoplasm</div>
@@ -20,11 +20,11 @@
 
 ## Utilisé dans
 
-- [Poigne du spectre](../../../catalogue/objets/meetyourfight/spectres_grasp.md) — <code>meetyourfight:spectres_grasp</code>
-- [Tribut du passage](../../../catalogue/objets/meetyourfight/passages_toll.md) — <code>meetyourfight:passages_toll</code>
-- [Oeuil du spectre](../../../catalogue/objets/meetyourfight/spectres_eye.md) — <code>meetyourfight:spectres_eye</code>
-- [Fusil fantasmal](../../../catalogue/objets/meetyourfight/phantasmal_rifle.md) — <code>meetyourfight:phantasmal_rifle</code>
 - [Cupcake glacé d'éther](../../../catalogue/objets/meetyourfight/aether_glazed_cupcake.md) — <code>meetyourfight:aether_glazed_cupcake</code>
+- [Tribut du passage](../../../catalogue/objets/meetyourfight/passages_toll.md) — <code>meetyourfight:passages_toll</code>
+- [Fusil fantasmal](../../../catalogue/objets/meetyourfight/phantasmal_rifle.md) — <code>meetyourfight:phantasmal_rifle</code>
+- [Oeuil du spectre](../../../catalogue/objets/meetyourfight/spectres_eye.md) — <code>meetyourfight:spectres_eye</code>
+- [Poigne du spectre](../../../catalogue/objets/meetyourfight/spectres_grasp.md) — <code>meetyourfight:spectres_grasp</code>
 
 ## Effets et caractéristiques
 

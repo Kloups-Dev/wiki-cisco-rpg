@@ -1,7 +1,7 @@
 # Aether Mud Bricks
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/aether_mud_bricks.png" alt="Aether Mud Bricks">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/aether_mud_bricks.png" alt="Aether Mud Bricks">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aether Mud Bricks</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -14,13 +14,13 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>deep_aether:aether_mud_bricks</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/deep_aether/packed_aether_mud.md" title="Packed Aether Mud (deep_aether:packed_aether_mud)"><img src="../../../assets/generated/items/deep_aether/packed_aether_mud.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/deep_aether/packed_aether_mud.md" title="Packed Aether Mud (deep_aether:packed_aether_mud)"><img src="../../../assets/generated/items/deep_aether/packed_aether_mud.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../catalogue/objets/deep_aether/packed_aether_mud.md" title="Packed Aether Mud (deep_aether:packed_aether_mud)"><img src="../../../assets/generated/items/deep_aether/packed_aether_mud.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/deep_aether/packed_aether_mud.md" title="Packed Aether Mud (deep_aether:packed_aether_mud)"><img src="../../../assets/generated/items/deep_aether/packed_aether_mud.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/deep_aether/aether_mud_bricks.png" alt=""><span class="jei-count">4</span></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>deep_aether:aether_mud_bricks</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/deep_aether/packed_aether_mud/" title="Packed Aether Mud (deep_aether:packed_aether_mud)"><img src="../../../../assets/generated/items/deep_aether/packed_aether_mud.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../../catalogue/objets/deep_aether/packed_aether_mud/" title="Packed Aether Mud (deep_aether:packed_aether_mud)"><img src="../../../../assets/generated/items/deep_aether/packed_aether_mud.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><a class="jei-slot" href="../../../../catalogue/objets/deep_aether/packed_aether_mud/" title="Packed Aether Mud (deep_aether:packed_aether_mud)"><img src="../../../../assets/generated/items/deep_aether/packed_aether_mud.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../../catalogue/objets/deep_aether/packed_aether_mud/" title="Packed Aether Mud (deep_aether:packed_aether_mud)"><img src="../../../../assets/generated/items/deep_aether/packed_aether_mud.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/deep_aether/aether_mud_bricks.png" alt=""><span class="jei-count">4</span></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
 
 ## Utilisé dans
 
-- [Aether Mud Brick Wall](../../../catalogue/objets/deep_aether/aether_mud_bricks_wall.md) — <code>deep_aether:aether_mud_bricks_wall</code>
-- [Aether Mud Brick Stairs](../../../catalogue/objets/deep_aether/aether_mud_bricks_stairs.md) — <code>deep_aether:aether_mud_bricks_stairs</code>
 - [Aether Mud Brick Slab](../../../catalogue/objets/deep_aether/aether_mud_bricks_slab.md) — <code>deep_aether:aether_mud_bricks_slab</code>
+- [Aether Mud Brick Stairs](../../../catalogue/objets/deep_aether/aether_mud_bricks_stairs.md) — <code>deep_aether:aether_mud_bricks_stairs</code>
+- [Aether Mud Brick Wall](../../../catalogue/objets/deep_aether/aether_mud_bricks_wall.md) — <code>deep_aether:aether_mud_bricks_wall</code>
 
 ## Effets et caractéristiques
 

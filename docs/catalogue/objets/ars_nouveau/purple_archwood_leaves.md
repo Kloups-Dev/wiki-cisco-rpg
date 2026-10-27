@@ -1,7 +1,7 @@
 # Feuilles vexatoires d'Archwood
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/purple_archwood_leaves.png" alt="Feuilles vexatoires d&#x27;Archwood">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/purple_archwood_leaves.png" alt="Feuilles vexatoires d&#x27;Archwood">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles vexatoires d&#x27;Archwood</div>
 <div class="mc-tooltip-card__alias">Vexing Archwood Leaves</div>

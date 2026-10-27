@@ -1,7 +1,7 @@
 # Magehunter
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/magehunter.png" alt="Magehunter">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/magehunter.png" alt="Magehunter">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Magehunter</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

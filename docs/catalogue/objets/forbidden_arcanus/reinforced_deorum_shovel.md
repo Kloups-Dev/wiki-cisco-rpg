@@ -1,7 +1,7 @@
 # Reinforced Deorum Shovel
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/reinforced_deorum_shovel.png" alt="Reinforced Deorum Shovel">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/reinforced_deorum_shovel.png" alt="Reinforced Deorum Shovel">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Reinforced Deorum Shovel</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

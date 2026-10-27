@@ -1,7 +1,7 @@
 # Ascendant Rouge Boots
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/ascended_hero_rouge_boots.png" alt="Ascendant Rouge Boots">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/ascended_hero_rouge_boots.png" alt="Ascendant Rouge Boots">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ascendant Rouge Boots</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

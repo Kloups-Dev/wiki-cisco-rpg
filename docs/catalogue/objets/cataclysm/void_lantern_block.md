@@ -1,7 +1,7 @@
 # Bloc de lanterne du vide
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/void_lantern_block.png" alt="Bloc de lanterne du vide">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/void_lantern_block.png" alt="Bloc de lanterne du vide">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bloc de lanterne du vide</div>
 <div class="mc-tooltip-card__alias">Void Lantern Block</div>

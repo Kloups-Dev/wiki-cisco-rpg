@@ -1,7 +1,7 @@
 # Aechor Petal
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/aechor_petal.png" alt="Aechor Petal">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/aechor_petal.png" alt="Aechor Petal">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aechor Petal</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

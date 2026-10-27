@@ -1,7 +1,7 @@
 # Obsidian Boots
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/obsidian_boots.png" alt="Obsidian Boots">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/obsidian_boots.png" alt="Obsidian Boots">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Obsidian Boots</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

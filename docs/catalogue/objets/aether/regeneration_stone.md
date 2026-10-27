@@ -1,7 +1,7 @@
 # Regeneration Stone
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/regeneration_stone.png" alt="Regeneration Stone">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/regeneration_stone.png" alt="Regeneration Stone">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Regeneration Stone</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

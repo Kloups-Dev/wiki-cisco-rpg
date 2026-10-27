@@ -1,7 +1,7 @@
 # Infinity Ham
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/infinity_ham.png" alt="Infinity Ham">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/infinity_ham.png" alt="Infinity Ham">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Infinity Ham</div>
 <div class="mc-tooltip-card__mod">Relics</div>

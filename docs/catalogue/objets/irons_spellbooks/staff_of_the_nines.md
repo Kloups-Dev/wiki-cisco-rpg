@@ -1,7 +1,7 @@
 # Staff of the Nines
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/staff_of_the_nines.png" alt="Staff of the Nines">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/staff_of_the_nines.png" alt="Staff of the Nines">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Staff of the Nines</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

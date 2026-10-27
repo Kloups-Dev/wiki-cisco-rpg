@@ -1,7 +1,7 @@
 # Astrolabe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/astrolabe.png" alt="Astrolabe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/astrolabe.png" alt="Astrolabe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Astrolabe</div>
 <div class="mc-tooltip-card__mod">Blue Skies</div>

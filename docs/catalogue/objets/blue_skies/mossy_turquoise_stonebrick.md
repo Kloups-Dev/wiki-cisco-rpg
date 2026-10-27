@@ -1,7 +1,7 @@
 # Pierre taillée turquoise moussue
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/mossy_turquoise_stonebrick.png" alt="Pierre taillée turquoise moussue">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/mossy_turquoise_stonebrick.png" alt="Pierre taillée turquoise moussue">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre taillée turquoise moussue</div>
 <div class="mc-tooltip-card__alias">Mossy Turquoise Stone Bricks</div>
@@ -15,13 +15,13 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>blue_skies:mossy_turquoise_stonebrick</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/blue_skies/turquoise_stonebrick.md" title="Pierre taillée turquoise (blue_skies:turquoise_stonebrick)"><img src="../../../assets/generated/items/blue_skies/turquoise_stonebrick.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/blue_skies/bluebright_vine.md" title="Lianes de lumibleu (blue_skies:bluebright_vine)"><img src="../../../assets/generated/items/blue_skies/bluebright_vine.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/blue_skies/mossy_turquoise_stonebrick.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>blue_skies:mossy_turquoise_stonebrick</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/blue_skies/turquoise_stonebrick/" title="Pierre taillée turquoise (blue_skies:turquoise_stonebrick)"><img src="../../../../assets/generated/items/blue_skies/turquoise_stonebrick.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../../catalogue/objets/blue_skies/bluebright_vine/" title="Lianes de lumibleu (blue_skies:bluebright_vine)"><img src="../../../../assets/generated/items/blue_skies/bluebright_vine.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/blue_skies/mossy_turquoise_stonebrick.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
 
 ## Utilisé dans
 
-- [Muret de pierre taillée turquoise moussue](../../../catalogue/objets/blue_skies/mossy_turquoise_stonebrick_wall.md) — <code>blue_skies:mossy_turquoise_stonebrick_wall</code>
-- [Escalier de pierre taillée turquoise moussue](../../../catalogue/objets/blue_skies/mossy_turquoise_stonebrick_stairs.md) — <code>blue_skies:mossy_turquoise_stonebrick_stairs</code>
 - [Dalle de pierre taillée turquoise moussue](../../../catalogue/objets/blue_skies/mossy_turquoise_stonebrick_slab.md) — <code>blue_skies:mossy_turquoise_stonebrick_slab</code>
+- [Escalier de pierre taillée turquoise moussue](../../../catalogue/objets/blue_skies/mossy_turquoise_stonebrick_stairs.md) — <code>blue_skies:mossy_turquoise_stonebrick_stairs</code>
+- [Muret de pierre taillée turquoise moussue](../../../catalogue/objets/blue_skies/mossy_turquoise_stonebrick_wall.md) — <code>blue_skies:mossy_turquoise_stonebrick_wall</code>
 
 ## Effets et caractéristiques
 

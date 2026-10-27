@@ -1,7 +1,7 @@
 # Bloc d'aurore
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/aurora_block.png" alt="Bloc d&#x27;aurore">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/aurora_block.png" alt="Bloc d&#x27;aurore">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bloc d&#x27;aurore</div>
 <div class="mc-tooltip-card__alias">Aurora Block</div>

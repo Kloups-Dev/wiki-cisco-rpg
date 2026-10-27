@@ -1,7 +1,7 @@
 # Unholy Grail
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/unholy_grail.png" alt="Unholy Grail">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/unholy_grail.png" alt="Unholy Grail">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Unholy Grail</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

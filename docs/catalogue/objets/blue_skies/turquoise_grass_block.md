@@ -1,7 +1,7 @@
 # Bloc d'herbe turquoise
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/turquoise_grass_block.png" alt="Bloc d&#x27;herbe turquoise">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/turquoise_grass_block.png" alt="Bloc d&#x27;herbe turquoise">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bloc d&#x27;herbe turquoise</div>
 <div class="mc-tooltip-card__alias">Turquoise Grass Block</div>

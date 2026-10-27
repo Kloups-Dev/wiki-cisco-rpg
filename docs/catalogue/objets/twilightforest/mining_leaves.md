@@ -1,7 +1,7 @@
 # Feuilles d'arbre du mineur
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/mining_leaves.png" alt="Feuilles d&#x27;arbre du mineur">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/mining_leaves.png" alt="Feuilles d&#x27;arbre du mineur">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles d&#x27;arbre du mineur</div>
 <div class="mc-tooltip-card__alias">Miner&#x27;s Leaves</div>

@@ -1,7 +1,7 @@
 # Horse Flute
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/relics/horse_flute.png" alt="Horse Flute">
+<img class="mc-item-icon" src="../../../../assets/generated/items/relics/horse_flute.png" alt="Horse Flute">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Horse Flute</div>
 <div class="mc-tooltip-card__mod">Relics</div>

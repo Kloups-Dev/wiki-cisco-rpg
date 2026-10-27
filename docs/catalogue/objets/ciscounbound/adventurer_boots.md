@@ -1,7 +1,7 @@
 # Adventurer Boots
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/adventurer_boots.png" alt="Adventurer Boots">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/adventurer_boots.png" alt="Adventurer Boots">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Adventurer Boots</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

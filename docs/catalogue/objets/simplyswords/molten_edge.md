@@ -1,7 +1,7 @@
 # Molten Edge
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/molten_edge.png" alt="Molten Edge">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/molten_edge.png" alt="Molten Edge">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Molten Edge</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

@@ -1,7 +1,7 @@
 # Frosted Holystone Brick Wall
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/frosted_holystone_brick_wall.png" alt="Frosted Holystone Brick Wall">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/frosted_holystone_brick_wall.png" alt="Frosted Holystone Brick Wall">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Frosted Holystone Brick Wall</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

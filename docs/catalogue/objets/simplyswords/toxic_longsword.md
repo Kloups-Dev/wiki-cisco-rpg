@@ -1,7 +1,7 @@
 # Longsword of the Plague
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/toxic_longsword.png" alt="Longsword of the Plague">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/toxic_longsword.png" alt="Longsword of the Plague">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Longsword of the Plague</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

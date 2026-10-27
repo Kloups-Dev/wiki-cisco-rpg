@@ -1,7 +1,7 @@
 # Feuilles d'arbre canopée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/canopy_leaves.png" alt="Feuilles d&#x27;arbre canopée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/canopy_leaves.png" alt="Feuilles d&#x27;arbre canopée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles d&#x27;arbre canopée</div>
 <div class="mc-tooltip-card__alias">Canopy Tree Leaves</div>

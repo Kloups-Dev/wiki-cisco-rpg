@@ -1,7 +1,7 @@
 # Edelwood Oil
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/edelwood_oil.png" alt="Edelwood Oil">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/edelwood_oil.png" alt="Edelwood Oil">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Edelwood Oil</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

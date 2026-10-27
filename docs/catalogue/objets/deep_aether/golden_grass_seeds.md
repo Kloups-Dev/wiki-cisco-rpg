@@ -1,7 +1,7 @@
 # Golden Grass Seeds
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/golden_grass_seeds.png" alt="Golden Grass Seeds">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/golden_grass_seeds.png" alt="Golden Grass Seeds">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Golden Grass Seeds</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

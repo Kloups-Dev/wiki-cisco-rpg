@@ -1,7 +1,7 @@
 # Ancient Codex Entry
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_additions/ancient_codex_entry.png" alt="Ancient Codex Entry">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_additions/ancient_codex_entry.png" alt="Ancient Codex Entry">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ancient Codex Entry</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

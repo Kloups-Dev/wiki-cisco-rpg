@@ -1,7 +1,7 @@
 # Orbe d'origine
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/origins/orb_of_origin.png" alt="Orbe d&#x27;origine">
+<img class="mc-item-icon" src="../../../../assets/generated/items/origins/orb_of_origin.png" alt="Orbe d&#x27;origine">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Orbe d&#x27;origine</div>
 <div class="mc-tooltip-card__alias">Orb of Origin</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Crafting Shaped</strong><span>strictly:orb_of_origin</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/origins/orb_of_origin.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : strictly_origins_v9.2.1_1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Crafting Shaped</strong><span>strictly:orb_of_origin</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/origins/orb_of_origin.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : strictly_origins_v9.2.1_1.19.2.jar</div></div>
 
 ## Utilisé dans
 

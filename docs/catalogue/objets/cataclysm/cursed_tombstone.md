@@ -1,7 +1,7 @@
 # Cursed Tombstone
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/cursed_tombstone.png" alt="Cursed Tombstone">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/cursed_tombstone.png" alt="Cursed Tombstone">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cursed Tombstone</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

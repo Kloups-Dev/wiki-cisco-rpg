@@ -1,7 +1,7 @@
 # Épée en horizonite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/horizonite_sword.png" alt="Épée en horizonite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/horizonite_sword.png" alt="Épée en horizonite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épée en horizonite</div>
 <div class="mc-tooltip-card__alias">Horizonite Sword</div>

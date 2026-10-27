@@ -1,7 +1,7 @@
 # Sandstorm in a Bottle
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/sandstorm_in_a_bottle.png" alt="Sandstorm in a Bottle">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/sandstorm_in_a_bottle.png" alt="Sandstorm in a Bottle">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sandstorm in a Bottle</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Wrath of the Desert](../../../catalogue/objets/cataclysm/wrath_of_the_desert.md) — <code>cataclysm:wrath_of_the_desert</code>
 - [Gauntlet of Maelstrom](../../../catalogue/objets/cataclysm/gauntlet_of_maelstrom.md) — <code>cataclysm:gauntlet_of_maelstrom</code>
+- [Wrath of the Desert](../../../catalogue/objets/cataclysm/wrath_of_the_desert.md) — <code>cataclysm:wrath_of_the_desert</code>
 
 ## Effets et caractéristiques
 

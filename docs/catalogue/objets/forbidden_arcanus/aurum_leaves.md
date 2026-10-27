@@ -1,7 +1,7 @@
 # Aurum Leaves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/aurum_leaves.png" alt="Aurum Leaves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/aurum_leaves.png" alt="Aurum Leaves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Aurum Leaves</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

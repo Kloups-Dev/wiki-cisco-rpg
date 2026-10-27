@@ -1,7 +1,7 @@
 # Bouquet de demi-journée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/midday_bayhop.png" alt="Bouquet de demi-journée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/midday_bayhop.png" alt="Bouquet de demi-journée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bouquet de demi-journée</div>
 <div class="mc-tooltip-card__alias">Midday Bayhop</div>

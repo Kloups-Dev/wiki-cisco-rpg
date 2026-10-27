@@ -1,7 +1,7 @@
 # Tall Aether Cattails
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/tall_aether_cattails.png" alt="Tall Aether Cattails">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/tall_aether_cattails.png" alt="Tall Aether Cattails">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tall Aether Cattails</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

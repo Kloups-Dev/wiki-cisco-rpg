@@ -1,7 +1,7 @@
 # Trophée de l'Arachnarque
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/arachnarch_trophy.png" alt="Trophée de l&#x27;Arachnarque">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/arachnarch_trophy.png" alt="Trophée de l&#x27;Arachnarque">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Trophée de l&#x27;Arachnarque</div>
 <div class="mc-tooltip-card__alias">Arachnarch Trophy</div>

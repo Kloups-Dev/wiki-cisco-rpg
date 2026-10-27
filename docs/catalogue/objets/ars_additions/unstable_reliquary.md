@@ -1,7 +1,7 @@
 # Unstable Reliquary
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_additions/unstable_reliquary.png" alt="Unstable Reliquary">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_additions/unstable_reliquary.png" alt="Unstable Reliquary">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Unstable Reliquary</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting Apparatus</strong><span>ars_additions:unstable_reliquary</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_additions/unstable_reliquary.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_additions-1.19.2-1.4.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting Apparatus</strong><span>ars_additions:unstable_reliquary</span></div><div class="jei-recipe__body"><div class="jei-inputs"></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_additions/unstable_reliquary.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_additions-1.19.2-1.4.0.jar</div></div>
 
 ## Utilisé dans
 

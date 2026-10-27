@@ -1,7 +1,7 @@
 # Éclats de drygmée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/drygmy_shard.png" alt="Éclats de drygmée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/drygmy_shard.png" alt="Éclats de drygmée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Éclats de drygmée</div>
 <div class="mc-tooltip-card__alias">Drygmy Shards</div>

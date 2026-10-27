@@ -1,7 +1,7 @@
 # Lich Boss Spawner
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/lich_boss_spawner.png" alt="Lich Boss Spawner">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/lich_boss_spawner.png" alt="Lich Boss Spawner">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Lich Boss Spawner</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

@@ -1,7 +1,7 @@
 # Core of the Family
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheotic_additions/heirloom_material.png" alt="Core of the Family">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheotic_additions/heirloom_material.png" alt="Core of the Family">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Core of the Family</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

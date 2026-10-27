@@ -1,7 +1,7 @@
 # Lampe de cendres
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/lamp_of_cinders.png" alt="Lampe de cendres">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/lamp_of_cinders.png" alt="Lampe de cendres">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Lampe de cendres</div>
 <div class="mc-tooltip-card__alias">Lamp of Cinders</div>

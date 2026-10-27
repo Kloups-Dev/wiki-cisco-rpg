@@ -1,7 +1,7 @@
 # Cherry Leaves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/cherry_leaves.png" alt="Cherry Leaves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/cherry_leaves.png" alt="Cherry Leaves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cherry Leaves</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

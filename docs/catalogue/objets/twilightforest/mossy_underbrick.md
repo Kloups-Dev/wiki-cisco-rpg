@@ -1,7 +1,7 @@
 # Brique des dessous moussue
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/mossy_underbrick.png" alt="Brique des dessous moussue">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/mossy_underbrick.png" alt="Brique des dessous moussue">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brique des dessous moussue</div>
 <div class="mc-tooltip-card__alias">Mossy Underbrick</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>twilightforest:mossy_underbrick</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Vine (minecraft:vine)">?</span><a class="jei-slot" href="../../../catalogue/objets/twilightforest/underbrick.md" title="Brique des dessous (twilightforest:underbrick)"><img src="../../../assets/generated/items/twilightforest/underbrick.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/mossy_underbrick.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>twilightforest:mossy_underbrick</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Vine (minecraft:vine)">?</span><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/underbrick/" title="Brique des dessous (twilightforest:underbrick)"><img src="../../../../assets/generated/items/twilightforest/underbrick.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/mossy_underbrick.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

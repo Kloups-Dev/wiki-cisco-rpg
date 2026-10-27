@@ -1,7 +1,7 @@
 # Brique de pierre moussue du labyrinthe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/mossy_mazestone.png" alt="Brique de pierre moussue du labyrinthe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/mossy_mazestone.png" alt="Brique de pierre moussue du labyrinthe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brique de pierre moussue du labyrinthe</div>
 <div class="mc-tooltip-card__alias">Mossy Mazestone Brick</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>twilightforest:maze_stone/mossy_mazestone</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Vine (minecraft:vine)">?</span><a class="jei-slot" href="../../../catalogue/objets/twilightforest/mazestone_brick.md" title="Brique du labyrinthe (twilightforest:mazestone_brick)"><img src="../../../assets/generated/items/twilightforest/mazestone_brick.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/mossy_mazestone.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>twilightforest:maze_stone/mossy_mazestone</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Vine (minecraft:vine)">?</span><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/mazestone_brick/" title="Brique du labyrinthe (twilightforest:mazestone_brick)"><img src="../../../../assets/generated/items/twilightforest/mazestone_brick.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/mossy_mazestone.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

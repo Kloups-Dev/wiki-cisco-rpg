@@ -1,7 +1,7 @@
 # Sol de brique des dessous
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/underbrick_floor.png" alt="Sol de brique des dessous">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/underbrick_floor.png" alt="Sol de brique des dessous">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sol de brique des dessous</div>
 <div class="mc-tooltip-card__alias">Underbrick Floor</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>twilightforest:stonecutting/underbrick/underbrick_floor</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/twilightforest/underbrick.md" title="Brique des dessous (twilightforest:underbrick)"><img src="../../../assets/generated/items/twilightforest/underbrick.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/twilightforest/underbrick_floor.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>twilightforest:stonecutting/underbrick/underbrick_floor</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/twilightforest/underbrick/" title="Brique des dessous (twilightforest:underbrick)"><img src="../../../../assets/generated/items/twilightforest/underbrick.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/twilightforest/underbrick_floor.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : twilightforest-1.19.2-4.2.1518-universal.jar</div></div>
 
 ## Utilisé dans
 

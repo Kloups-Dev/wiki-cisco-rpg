@@ -1,7 +1,7 @@
 # Sol herbeux
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/uberous_soil.png" alt="Sol herbeux">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/uberous_soil.png" alt="Sol herbeux">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sol herbeux</div>
 <div class="mc-tooltip-card__alias">Uberous Soil</div>

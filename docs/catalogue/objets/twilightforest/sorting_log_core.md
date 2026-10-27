@@ -1,7 +1,7 @@
 # Moteur du bois de Sorting
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/sorting_log_core.png" alt="Moteur du bois de Sorting">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/sorting_log_core.png" alt="Moteur du bois de Sorting">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Moteur du bois de Sorting</div>
 <div class="mc-tooltip-card__alias">Sortingwood Engine</div>

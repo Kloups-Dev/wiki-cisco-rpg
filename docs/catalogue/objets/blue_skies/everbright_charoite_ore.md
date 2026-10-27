@@ -1,7 +1,7 @@
 # Minerai de charoite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/everbright_charoite_ore.png" alt="Minerai de charoite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/everbright_charoite_ore.png" alt="Minerai de charoite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Minerai de charoite</div>
 <div class="mc-tooltip-card__alias">Charoite Ore</div>

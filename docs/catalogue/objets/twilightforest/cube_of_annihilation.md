@@ -1,7 +1,7 @@
 # Cube d'annihilation
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/cube_of_annihilation.png" alt="Cube d&#x27;annihilation">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/cube_of_annihilation.png" alt="Cube d&#x27;annihilation">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cube d&#x27;annihilation</div>
 <div class="mc-tooltip-card__alias">Cube of Annihilation</div>

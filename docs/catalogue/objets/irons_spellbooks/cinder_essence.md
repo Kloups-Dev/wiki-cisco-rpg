@@ -1,7 +1,7 @@
 # Cinder Essence
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/cinder_essence.png" alt="Cinder Essence">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/cinder_essence.png" alt="Cinder Essence">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cinder Essence</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>
@@ -20,8 +20,8 @@
 ## Utilisé dans
 
 - [Alchemist Cauldron](../../../catalogue/objets/irons_spellbooks/alchemist_cauldron.md) — <code>irons_spellbooks:alchemist_cauldron</code>
-- [Empty Upgrade Orb](../../../catalogue/objets/irons_spellbooks/upgrade_orb.md) — <code>irons_spellbooks:upgrade_orb</code>
 - [Fireward Ring](../../../catalogue/objets/irons_spellbooks/fireward_ring.md) — <code>irons_spellbooks:fireward_ring</code>
+- [Empty Upgrade Orb](../../../catalogue/objets/irons_spellbooks/upgrade_orb.md) — <code>irons_spellbooks:upgrade_orb</code>
 
 ## Effets et caractéristiques
 

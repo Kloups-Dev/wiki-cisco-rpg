@@ -1,7 +1,7 @@
 # Warp Nexus
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_additions/warp_nexus.png" alt="Warp Nexus">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_additions/warp_nexus.png" alt="Warp Nexus">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Warp Nexus</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

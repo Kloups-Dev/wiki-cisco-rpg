@@ -1,7 +1,7 @@
 # Stripped Timewood Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/stripped_time_log.png" alt="Stripped Timewood Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/stripped_time_log.png" alt="Stripped Timewood Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Timewood Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Stripped Timewood](../../../catalogue/objets/twilightforest/stripped_time_wood.md) — <code>twilightforest:stripped_time_wood</code>
 - [Planches de bois du temps](../../../catalogue/objets/twilightforest/time_planks.md) — <code>twilightforest:time_planks</code>
+- [Stripped Timewood](../../../catalogue/objets/twilightforest/stripped_time_wood.md) — <code>twilightforest:stripped_time_wood</code>
 
 ## Effets et caractéristiques
 

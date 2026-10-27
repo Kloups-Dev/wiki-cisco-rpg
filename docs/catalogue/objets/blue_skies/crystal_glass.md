@@ -1,7 +1,7 @@
 # Verre de cristal
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/crystal_glass.png" alt="Verre de cristal">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/crystal_glass.png" alt="Verre de cristal">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Verre de cristal</div>
 <div class="mc-tooltip-card__alias">Crystal Glass</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Four</strong><span>blue_skies:crystal_glass_from_smelting_crystal_sand</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/blue_skies/crystal_sand.md" title="Sable cristallisé (blue_skies:crystal_sand)"><img src="../../../assets/generated/items/blue_skies/crystal_sand.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/blue_skies/crystal_glass.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Four</strong><span>blue_skies:crystal_glass_from_smelting_crystal_sand</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/blue_skies/crystal_sand/" title="Sable cristallisé (blue_skies:crystal_sand)"><img src="../../../../assets/generated/items/blue_skies/crystal_sand.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/blue_skies/crystal_glass.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
 
 ## Utilisé dans
 

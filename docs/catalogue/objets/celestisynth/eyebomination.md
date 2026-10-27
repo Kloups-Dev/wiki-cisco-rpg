@@ -1,7 +1,7 @@
 # Eyebomination
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/celestisynth/eyebomination.png" alt="Eyebomination">
+<img class="mc-item-icon" src="../../../../assets/generated/items/celestisynth/eyebomination.png" alt="Eyebomination">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Eyebomination</div>
 <div class="mc-tooltip-card__mod">Celestisynth</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>celestisynth:eyebomination</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Blaze Powder (minecraft:blaze_powder)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/celestisynth/eyebomination.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : celestisynth-1.19.2-1.1.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>celestisynth:eyebomination</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Blaze Powder (minecraft:blaze_powder)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/celestisynth/eyebomination.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : celestisynth-1.19.2-1.1.5.jar</div></div>
 
 ## Utilisé dans
 

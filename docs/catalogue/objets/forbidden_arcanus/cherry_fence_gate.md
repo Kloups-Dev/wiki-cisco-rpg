@@ -1,7 +1,7 @@
 # Cherry Fence Gate
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/cherry_fence_gate.png" alt="Cherry Fence Gate">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/cherry_fence_gate.png" alt="Cherry Fence Gate">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cherry Fence Gate</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>forbidden_arcanus:cherry_fence_gate</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><a class="jei-slot" href="../../../catalogue/objets/forbidden_arcanus/cherry_planks.md" title="Cherry Planks (forbidden_arcanus:cherry_planks)"><img src="../../../assets/generated/items/forbidden_arcanus/cherry_planks.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><a class="jei-slot" href="../../../catalogue/objets/forbidden_arcanus/cherry_planks.md" title="Cherry Planks (forbidden_arcanus:cherry_planks)"><img src="../../../assets/generated/items/forbidden_arcanus/cherry_planks.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/forbidden_arcanus/cherry_fence_gate.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>forbidden_arcanus:cherry_fence_gate</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><a class="jei-slot" href="../../../../catalogue/objets/forbidden_arcanus/cherry_planks/" title="Cherry Planks (forbidden_arcanus:cherry_planks)"><img src="../../../../assets/generated/items/forbidden_arcanus/cherry_planks.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><a class="jei-slot" href="../../../../catalogue/objets/forbidden_arcanus/cherry_planks/" title="Cherry Planks (forbidden_arcanus:cherry_planks)"><img src="../../../../assets/generated/items/forbidden_arcanus/cherry_planks.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:rods/wooden">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/forbidden_arcanus/cherry_fence_gate.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
 
 ## Utilisé dans
 

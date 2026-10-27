@@ -1,7 +1,7 @@
 # Greater Evasion Elixir
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/greater_evasion_elixir.png" alt="Greater Evasion Elixir">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/greater_evasion_elixir.png" alt="Greater Evasion Elixir">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Greater Evasion Elixir</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

@@ -1,7 +1,7 @@
 # Eye Of The Slider
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/slider_eye.png" alt="Eye Of The Slider">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/slider_eye.png" alt="Eye Of The Slider">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Eye Of The Slider</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

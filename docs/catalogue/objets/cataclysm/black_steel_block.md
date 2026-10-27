@@ -1,7 +1,7 @@
 # Black Steel Block
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/black_steel_block.png" alt="Black Steel Block">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/black_steel_block.png" alt="Black Steel Block">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Black Steel Block</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

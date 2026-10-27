@@ -1,7 +1,7 @@
 # Épines brûlées
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/burnt_thorns.png" alt="Épines brûlées">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/burnt_thorns.png" alt="Épines brûlées">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épines brûlées</div>
 <div class="mc-tooltip-card__alias">Burnt Thorns</div>

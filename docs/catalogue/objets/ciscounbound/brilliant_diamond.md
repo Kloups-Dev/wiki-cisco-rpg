@@ -1,7 +1,7 @@
 # Brilliant Diamond
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/brilliant_diamond.png" alt="Brilliant Diamond">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/brilliant_diamond.png" alt="Brilliant Diamond">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brilliant Diamond</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

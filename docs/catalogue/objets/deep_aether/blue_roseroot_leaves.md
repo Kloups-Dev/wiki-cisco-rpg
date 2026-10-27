@@ -1,7 +1,7 @@
 # Blue Roseroot Leaves
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/blue_roseroot_leaves.png" alt="Blue Roseroot Leaves">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/blue_roseroot_leaves.png" alt="Blue Roseroot Leaves">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Blue Roseroot Leaves</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

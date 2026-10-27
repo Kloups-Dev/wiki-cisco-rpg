@@ -1,7 +1,7 @@
 # Feuilles d'arbre du temps
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/time_leaves.png" alt="Feuilles d&#x27;arbre du temps">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/time_leaves.png" alt="Feuilles d&#x27;arbre du temps">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles d&#x27;arbre du temps</div>
 <div class="mc-tooltip-card__alias">Timewood Leaves</div>

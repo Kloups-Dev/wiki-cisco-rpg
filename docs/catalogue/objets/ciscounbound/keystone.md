@@ -1,7 +1,7 @@
 # Keystone 
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/keystone.png" alt="Keystone ">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/keystone.png" alt="Keystone ">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Keystone </div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

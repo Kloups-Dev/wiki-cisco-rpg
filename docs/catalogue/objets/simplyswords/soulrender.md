@@ -1,7 +1,7 @@
 # Soulrender
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/soulrender.png" alt="Soulrender">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/soulrender.png" alt="Soulrender">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Soulrender</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

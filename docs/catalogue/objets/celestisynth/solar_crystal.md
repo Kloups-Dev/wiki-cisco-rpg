@@ -1,7 +1,7 @@
 # Solar Crystal
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/celestisynth/solar_crystal.png" alt="Solar Crystal">
+<img class="mc-item-icon" src="../../../../assets/generated/items/celestisynth/solar_crystal.png" alt="Solar Crystal">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Solar Crystal</div>
 <div class="mc-tooltip-card__mod">Celestisynth</div>

@@ -1,7 +1,7 @@
 # Etherium Ore
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/etherium_ore.png" alt="Etherium Ore">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/etherium_ore.png" alt="Etherium Ore">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Etherium Ore</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

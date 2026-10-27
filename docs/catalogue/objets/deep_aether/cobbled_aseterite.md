@@ -1,7 +1,7 @@
 # Cobbled Aseterite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/cobbled_aseterite.png" alt="Cobbled Aseterite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/cobbled_aseterite.png" alt="Cobbled Aseterite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cobbled Aseterite</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -19,10 +19,10 @@
 
 ## Utilisé dans
 
-- [Cobbled Aseterite Slab](../../../catalogue/objets/deep_aether/cobbled_aseterite_slab.md) — <code>deep_aether:cobbled_aseterite_slab</code>
-- [Cobbled Aseterite Wall](../../../catalogue/objets/deep_aether/cobbled_aseterite_wall.md) — <code>deep_aether:cobbled_aseterite_wall</code>
-- [Cobbled Aseterite Stairs](../../../catalogue/objets/deep_aether/cobbled_aseterite_stairs.md) — <code>deep_aether:cobbled_aseterite_stairs</code>
 - [Aseterite](../../../catalogue/objets/deep_aether/aseterite.md) — <code>deep_aether:aseterite</code>
+- [Cobbled Aseterite Slab](../../../catalogue/objets/deep_aether/cobbled_aseterite_slab.md) — <code>deep_aether:cobbled_aseterite_slab</code>
+- [Cobbled Aseterite Stairs](../../../catalogue/objets/deep_aether/cobbled_aseterite_stairs.md) — <code>deep_aether:cobbled_aseterite_stairs</code>
+- [Cobbled Aseterite Wall](../../../catalogue/objets/deep_aether/cobbled_aseterite_wall.md) — <code>deep_aether:cobbled_aseterite_wall</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Bloc fumant
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/smoker.png" alt="Bloc fumant">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/smoker.png" alt="Bloc fumant">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bloc fumant</div>
 <div class="mc-tooltip-card__alias">Smoker</div>

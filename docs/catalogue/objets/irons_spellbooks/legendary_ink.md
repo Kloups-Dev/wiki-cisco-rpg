@@ -1,7 +1,7 @@
 # Legendary Ink
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/legendary_ink.png" alt="Legendary Ink">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/legendary_ink.png" alt="Legendary Ink">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Legendary Ink</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

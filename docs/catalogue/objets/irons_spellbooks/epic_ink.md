@@ -1,7 +1,7 @@
 # Epic Ink
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/epic_ink.png" alt="Epic Ink">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/epic_ink.png" alt="Epic Ink">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Epic Ink</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

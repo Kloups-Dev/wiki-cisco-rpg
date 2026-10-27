@@ -1,7 +1,7 @@
 # Horloge de bois du temps
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/time_log_core.png" alt="Horloge de bois du temps">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/time_log_core.png" alt="Horloge de bois du temps">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Horloge de bois du temps</div>
 <div class="mc-tooltip-card__alias">Timewood Clock</div>

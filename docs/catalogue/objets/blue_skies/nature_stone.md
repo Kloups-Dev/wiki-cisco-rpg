@@ -1,7 +1,7 @@
 # Pierre naturelle
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/nature_stone.png" alt="Pierre naturelle">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/nature_stone.png" alt="Pierre naturelle">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre naturelle</div>
 <div class="mc-tooltip-card__alias">Nature Stone</div>
@@ -20,15 +20,15 @@
 
 ## Utilisé dans
 
-- [Escalier de pierre naturelle taillée](../../../catalogue/objets/blue_skies/nature_stonebrick_stairs.md) — <code>blue_skies:nature_stonebrick_stairs</code>
-- [Dalle de pierre naturelle](../../../catalogue/objets/blue_skies/nature_stone_slab.md) — <code>blue_skies:nature_stone_slab</code>
 - [Pierre naturelle sculptée](../../../catalogue/objets/blue_skies/carved_nature_stonebrick.md) — <code>blue_skies:carved_nature_stonebrick</code>
-- [Escalier de pierre naturelle](../../../catalogue/objets/blue_skies/nature_stone_stairs.md) — <code>blue_skies:nature_stone_stairs</code>
-- [Muret de pierre naturelle taillée](../../../catalogue/objets/blue_skies/nature_stonebrick_wall.md) — <code>blue_skies:nature_stonebrick_wall</code>
 - [Pierre naturelle lumineuse](../../../catalogue/objets/blue_skies/glowing_nature_stone.md) — <code>blue_skies:glowing_nature_stone</code>
-- [Dalle de pierre naturelle taillée](../../../catalogue/objets/blue_skies/nature_stonebrick_slab.md) — <code>blue_skies:nature_stonebrick_slab</code>
-- [Pierre naturelle taillée](../../../catalogue/objets/blue_skies/nature_stonebrick.md) — <code>blue_skies:nature_stonebrick</code>
 - [Pilier de pierre naturelle](../../../catalogue/objets/blue_skies/nature_stone_pillar.md) — <code>blue_skies:nature_stone_pillar</code>
+- [Dalle de pierre naturelle](../../../catalogue/objets/blue_skies/nature_stone_slab.md) — <code>blue_skies:nature_stone_slab</code>
+- [Escalier de pierre naturelle](../../../catalogue/objets/blue_skies/nature_stone_stairs.md) — <code>blue_skies:nature_stone_stairs</code>
+- [Pierre naturelle taillée](../../../catalogue/objets/blue_skies/nature_stonebrick.md) — <code>blue_skies:nature_stonebrick</code>
+- [Dalle de pierre naturelle taillée](../../../catalogue/objets/blue_skies/nature_stonebrick_slab.md) — <code>blue_skies:nature_stonebrick_slab</code>
+- [Escalier de pierre naturelle taillée](../../../catalogue/objets/blue_skies/nature_stonebrick_stairs.md) — <code>blue_skies:nature_stonebrick_stairs</code>
+- [Muret de pierre naturelle taillée](../../../catalogue/objets/blue_skies/nature_stonebrick_wall.md) — <code>blue_skies:nature_stonebrick_wall</code>
 
 ## Effets et caractéristiques
 

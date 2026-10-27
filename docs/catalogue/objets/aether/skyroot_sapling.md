@@ -1,7 +1,7 @@
 # Skyroot Sapling
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/skyroot_sapling.png" alt="Skyroot Sapling">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/skyroot_sapling.png" alt="Skyroot Sapling">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Skyroot Sapling</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

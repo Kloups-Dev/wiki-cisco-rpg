@@ -1,7 +1,7 @@
 # Bat Wing
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/bat_wing.png" alt="Bat Wing">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/bat_wing.png" alt="Bat Wing">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bat Wing</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

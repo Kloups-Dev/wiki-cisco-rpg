@@ -1,7 +1,7 @@
 # Artéfact éthéré
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/ethereal_arc.png" alt="Artéfact éthéré">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/ethereal_arc.png" alt="Artéfact éthéré">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Artéfact éthéré</div>
 <div class="mc-tooltip-card__alias">Ethereal Arc</div>

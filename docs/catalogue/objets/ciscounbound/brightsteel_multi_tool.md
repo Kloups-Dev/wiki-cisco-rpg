@@ -1,7 +1,7 @@
 # Brightsteel Multitool
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/brightsteel_multi_tool.png" alt="Brightsteel Multitool">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/brightsteel_multi_tool.png" alt="Brightsteel Multitool">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brightsteel Multitool</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

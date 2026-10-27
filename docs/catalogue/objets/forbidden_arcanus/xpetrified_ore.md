@@ -1,7 +1,7 @@
 # Xpetrified Ore
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/xpetrified_ore.png" alt="Xpetrified Ore">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/xpetrified_ore.png" alt="Xpetrified Ore">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Xpetrified Ore</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

@@ -1,7 +1,7 @@
 # Draconic Endshelf
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/draconic_endshelf.png" alt="Draconic Endshelf">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/draconic_endshelf.png" alt="Draconic Endshelf">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Draconic Endshelf</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

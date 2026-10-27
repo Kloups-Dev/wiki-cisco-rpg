@@ -1,7 +1,7 @@
 # Cryo-racines
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/cryo_root.png" alt="Cryo-racines">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/cryo_root.png" alt="Cryo-racines">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cryo-racines</div>
 <div class="mc-tooltip-card__alias">Cryo Root</div>

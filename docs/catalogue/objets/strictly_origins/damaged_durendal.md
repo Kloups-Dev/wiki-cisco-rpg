@@ -1,7 +1,7 @@
 # Durendal Endommagé
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/strictly_origins/damaged_durendal.png" alt="Durendal Endommagé">
+<img class="mc-item-icon" src="../../../../assets/generated/items/strictly_origins/damaged_durendal.png" alt="Durendal Endommagé">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Durendal Endommagé</div>
 <div class="mc-tooltip-card__alias">Damaged Durendal</div>

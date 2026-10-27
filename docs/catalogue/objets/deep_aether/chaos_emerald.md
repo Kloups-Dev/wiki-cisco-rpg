@@ -1,7 +1,7 @@
 # Chaos Emerald
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/chaos_emerald.png" alt="Chaos Emerald">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/chaos_emerald.png" alt="Chaos Emerald">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Chaos Emerald</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

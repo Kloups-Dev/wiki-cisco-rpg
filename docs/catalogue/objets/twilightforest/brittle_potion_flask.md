@@ -1,7 +1,7 @@
 # Brittle Potion Flask
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/brittle_potion_flask.png" alt="Brittle Potion Flask">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/brittle_potion_flask.png" alt="Brittle Potion Flask">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brittle Potion Flask</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

@@ -1,7 +1,7 @@
 # Épée infusée d'artéfacts
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/infused_arc_sword.png" alt="Épée infusée d&#x27;artéfacts">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/infused_arc_sword.png" alt="Épée infusée d&#x27;artéfacts">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épée infusée d&#x27;artéfacts</div>
 <div class="mc-tooltip-card__alias">Infused Arc Sword</div>

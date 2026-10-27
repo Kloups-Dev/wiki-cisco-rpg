@@ -1,7 +1,7 @@
 # Music Disc
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/music_disc_petiole.png" alt="Music Disc">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/music_disc_petiole.png" alt="Music Disc">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Music Disc</div>
 <div class="mc-tooltip-card__mod">Mowzie&#x27;s Mobs</div>

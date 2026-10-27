@@ -1,7 +1,7 @@
 # Arc du chercheur
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/seeker_bow.png" alt="Arc du chercheur">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/seeker_bow.png" alt="Arc du chercheur">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Arc du chercheur</div>
 <div class="mc-tooltip-card__alias">Seeker Bow</div>

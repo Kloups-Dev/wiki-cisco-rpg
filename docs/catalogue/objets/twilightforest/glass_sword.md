@@ -1,7 +1,7 @@
 # Épée en verre
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/glass_sword.png" alt="Épée en verre">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/glass_sword.png" alt="Épée en verre">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épée en verre</div>
 <div class="mc-tooltip-card__alias">Glass Sword</div>

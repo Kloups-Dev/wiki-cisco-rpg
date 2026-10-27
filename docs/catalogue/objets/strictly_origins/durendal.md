@@ -1,7 +1,7 @@
 # Durendal
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/strictly_origins/durendal.png" alt="Durendal">
+<img class="mc-item-icon" src="../../../../assets/generated/items/strictly_origins/durendal.png" alt="Durendal">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Durendal</div>
 <div class="mc-tooltip-card__mod">Origins et classes</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>strictly_origins:durendalcraft</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/strictly_origins/damaged_durendal.md" title="Durendal Endommagé (strictly_origins:damaged_durendal)"><img src="../../../assets/generated/items/strictly_origins/damaged_durendal.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/strictly_origins/scroll.md" title="Parchemin du Paladin (strictly_origins:scroll)"><img src="../../../assets/generated/items/strictly_origins/scroll.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/strictly_origins/durendal.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : strictly_origins_v9.2.1_1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Table de forge</strong><span>strictly_origins:durendalcraft</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/strictly_origins/damaged_durendal/" title="Durendal Endommagé (strictly_origins:damaged_durendal)"><img src="../../../../assets/generated/items/strictly_origins/damaged_durendal.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../../catalogue/objets/strictly_origins/scroll/" title="Parchemin du Paladin (strictly_origins:scroll)"><img src="../../../../assets/generated/items/strictly_origins/scroll.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/strictly_origins/durendal.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : strictly_origins_v9.2.1_1.19.2.jar</div></div>
 
 ## Utilisé dans
 

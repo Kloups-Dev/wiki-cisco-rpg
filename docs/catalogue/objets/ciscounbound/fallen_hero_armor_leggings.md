@@ -1,7 +1,7 @@
 # Fallen Hero Leggings
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/fallen_hero_armor_leggings.png" alt="Fallen Hero Leggings">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/fallen_hero_armor_leggings.png" alt="Fallen Hero Leggings">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Fallen Hero Leggings</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

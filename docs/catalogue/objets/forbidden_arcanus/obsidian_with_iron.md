@@ -1,7 +1,7 @@
 # Obsidian With Iron
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/obsidian_with_iron.png" alt="Obsidian With Iron">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/obsidian_with_iron.png" alt="Obsidian With Iron">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Obsidian With Iron</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>forbidden_arcanus:obsidian_with_iron</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot" title="Obsidian (minecraft:obsidian)">?</span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/forbidden_arcanus/obsidian_with_iron.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>forbidden_arcanus:obsidian_with_iron</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot" title="Obsidian (minecraft:obsidian)">?</span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/forbidden_arcanus/obsidian_with_iron.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : forbidden_arcanus-1.19.2-2.1.5.jar</div></div>
 
 ## Utilisé dans
 

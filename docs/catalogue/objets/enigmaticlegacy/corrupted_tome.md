@@ -1,7 +1,7 @@
 # Corrupted Tome
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/corrupted_tome.png" alt="Corrupted Tome">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/corrupted_tome.png" alt="Corrupted Tome">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Corrupted Tome</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

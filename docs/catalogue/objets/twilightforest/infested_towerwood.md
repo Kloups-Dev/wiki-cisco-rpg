@@ -1,7 +1,7 @@
 # Towerwood infesté
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/infested_towerwood.png" alt="Towerwood infesté">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/infested_towerwood.png" alt="Towerwood infesté">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Towerwood infesté</div>
 <div class="mc-tooltip-card__alias">Infested Towerwood</div>

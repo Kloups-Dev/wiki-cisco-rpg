@@ -1,7 +1,7 @@
 # Pousse de mangrove de la Twilight
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/mangrove_sapling.png" alt="Pousse de mangrove de la Twilight">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/mangrove_sapling.png" alt="Pousse de mangrove de la Twilight">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pousse de mangrove de la Twilight</div>
 <div class="mc-tooltip-card__alias">Mangrove Sapling</div>

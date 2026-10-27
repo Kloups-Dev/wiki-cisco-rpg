@@ -1,7 +1,7 @@
 # Tome of Void
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticaddons/void_tome.png" alt="Tome of Void">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticaddons/void_tome.png" alt="Tome of Void">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tome of Void</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

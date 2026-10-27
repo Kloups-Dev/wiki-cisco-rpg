@@ -1,7 +1,7 @@
 # Serrure naturelle
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/nature_keystone.png" alt="Serrure naturelle">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/nature_keystone.png" alt="Serrure naturelle">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Serrure naturelle</div>
 <div class="mc-tooltip-card__alias">Nature Keystone</div>

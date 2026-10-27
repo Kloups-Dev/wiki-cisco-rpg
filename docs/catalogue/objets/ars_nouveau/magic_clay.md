@@ -1,7 +1,7 @@
 # Argile Magique
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/magic_clay.png" alt="Argile Magique">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/magic_clay.png" alt="Argile Magique">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Argile Magique</div>
 <div class="mc-tooltip-card__alias">Magic Clay</div>

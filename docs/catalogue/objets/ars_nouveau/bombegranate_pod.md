@@ -1,7 +1,7 @@
 # Bombegranate
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/bombegranate_pod.png" alt="Bombegranate">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/bombegranate_pod.png" alt="Bombegranate">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bombegranate</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

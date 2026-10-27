@@ -1,7 +1,7 @@
 # Spell Book
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/spell_book.png" alt="Spell Book">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/spell_book.png" alt="Spell Book">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Spell Book</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

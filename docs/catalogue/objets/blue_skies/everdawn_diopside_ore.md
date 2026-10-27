@@ -1,7 +1,7 @@
 # Minerai de diopside
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/everdawn_diopside_ore.png" alt="Minerai de diopside">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/everdawn_diopside_ore.png" alt="Minerai de diopside">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Minerai de diopside</div>
 <div class="mc-tooltip-card__alias">Diopside Ore</div>

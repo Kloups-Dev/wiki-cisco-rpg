@@ -1,7 +1,7 @@
 # Tuile de toit de château
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/castle_roof_tile.png" alt="Tuile de toit de château">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/castle_roof_tile.png" alt="Tuile de toit de château">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tuile de toit de château</div>
 <div class="mc-tooltip-card__alias">Castle Roof Tile</div>

@@ -1,7 +1,7 @@
 # Tome of Helmets
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/helmet_tome.png" alt="Tome of Helmets">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/helmet_tome.png" alt="Tome of Helmets">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tome of Helmets</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

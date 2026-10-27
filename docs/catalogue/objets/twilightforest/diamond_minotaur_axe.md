@@ -1,7 +1,7 @@
 # Hache en diamant du Minotaure
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/diamond_minotaur_axe.png" alt="Hache en diamant du Minotaure">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/diamond_minotaur_axe.png" alt="Hache en diamant du Minotaure">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hache en diamant du Minotaure</div>
 <div class="mc-tooltip-card__alias">Diamond Minotaur Axe</div>

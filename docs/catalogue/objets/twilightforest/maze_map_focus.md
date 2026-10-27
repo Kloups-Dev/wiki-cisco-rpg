@@ -1,7 +1,7 @@
 # Foyer de carte de labyrinthe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/maze_map_focus.png" alt="Foyer de carte de labyrinthe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/maze_map_focus.png" alt="Foyer de carte de labyrinthe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Foyer de carte de labyrinthe</div>
 <div class="mc-tooltip-card__alias">Maze Map Focus</div>
@@ -20,8 +20,8 @@
 
 ## Utilisé dans
 
-- [Établi de défabrication](../../../catalogue/objets/twilightforest/uncrafting_table.md) — <code>twilightforest:uncrafting_table</code>
 - [Carte de labyrinthe vierge](../../../catalogue/objets/twilightforest/maze_map.md) — <code>twilightforest:maze_map</code>
+- [Établi de défabrication](../../../catalogue/objets/twilightforest/uncrafting_table.md) — <code>twilightforest:uncrafting_table</code>
 
 ## Effets et caractéristiques
 

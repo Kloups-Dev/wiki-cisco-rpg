@@ -1,7 +1,7 @@
 # Brightsteel Leggings
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/brightsteel_leggings.png" alt="Brightsteel Leggings">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/brightsteel_leggings.png" alt="Brightsteel Leggings">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brightsteel Leggings</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

@@ -1,7 +1,7 @@
 # Leggings Slime
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/immersive_armors/slime_leggings.png" alt="Leggings Slime">
+<img class="mc-item-icon" src="../../../../assets/generated/items/immersive_armors/slime_leggings.png" alt="Leggings Slime">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Leggings Slime</div>
 <div class="mc-tooltip-card__alias">Slime Leggings</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>immersive_armors:slime_leggings</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Slime Ball (minecraft:slime_ball)">?</span><span class="jei-slot" title="Slime Ball (minecraft:slime_ball)">?</span><span class="jei-slot" title="Slime Ball (minecraft:slime_ball)">?</span><span class="jei-slot" title="Slime Ball (minecraft:slime_ball)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Slime Ball (minecraft:slime_ball)">?</span><span class="jei-slot" title="Slime Ball (minecraft:slime_ball)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Slime Ball (minecraft:slime_ball)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/immersive_armors/slime_leggings.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : immersive_armors-1.5.6+1.19.2-forge.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>immersive_armors:slime_leggings</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Slime Ball (minecraft:slime_ball)">?</span><span class="jei-slot" title="Slime Ball (minecraft:slime_ball)">?</span><span class="jei-slot" title="Slime Ball (minecraft:slime_ball)">?</span><span class="jei-slot" title="Slime Ball (minecraft:slime_ball)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Slime Ball (minecraft:slime_ball)">?</span><span class="jei-slot" title="Slime Ball (minecraft:slime_ball)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Slime Ball (minecraft:slime_ball)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/immersive_armors/slime_leggings.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : immersive_armors-1.5.6+1.19.2-forge.jar</div></div>
 
 ## Utilisé dans
 

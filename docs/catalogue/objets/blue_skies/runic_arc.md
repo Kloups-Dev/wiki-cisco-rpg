@@ -1,7 +1,7 @@
 # Artéfact runique
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/runic_arc.png" alt="Artéfact runique">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/runic_arc.png" alt="Artéfact runique">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Artéfact runique</div>
 <div class="mc-tooltip-card__alias">Runic Arc</div>

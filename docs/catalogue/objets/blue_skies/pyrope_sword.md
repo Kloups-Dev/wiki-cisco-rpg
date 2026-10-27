@@ -1,7 +1,7 @@
 # Épée en pyrope
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/pyrope_sword.png" alt="Épée en pyrope">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/pyrope_sword.png" alt="Épée en pyrope">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Épée en pyrope</div>
 <div class="mc-tooltip-card__alias">Pyrope Sword</div>

@@ -1,7 +1,7 @@
 # Hellfire Stone
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/hellfire_stone.png" alt="Hellfire Stone">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/hellfire_stone.png" alt="Hellfire Stone">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hellfire Stone</div>
 <div class="mc-tooltip-card__mod">The Aether</div>
@@ -14,14 +14,14 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>aether:hellfire_stone_from_light_hellfire_stone_stonecutting</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/aether/light_hellfire_stone.md" title="Light Hellfire Stone (aether:light_hellfire_stone)"><img src="../../../assets/generated/items/aether/light_hellfire_stone.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/aether/hellfire_stone.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : aether-1.19.2-1.4.2-forge.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>aether:hellfire_stone_from_light_hellfire_stone_stonecutting</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/aether/light_hellfire_stone/" title="Light Hellfire Stone (aether:light_hellfire_stone)"><img src="../../../../assets/generated/items/aether/light_hellfire_stone.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/aether/hellfire_stone.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : aether-1.19.2-1.4.2-forge.jar</div></div>
 
 ## Utilisé dans
 
-- [Light Hellfire Stone](../../../catalogue/objets/aether/light_hellfire_stone.md) — <code>aether:light_hellfire_stone</code>
-- [Hellfire Wall](../../../catalogue/objets/aether/hellfire_wall.md) — <code>aether:hellfire_wall</code>
-- [Hellfire Stairs](../../../catalogue/objets/aether/hellfire_stairs.md) — <code>aether:hellfire_stairs</code>
 - [Hellfire Slab](../../../catalogue/objets/aether/hellfire_slab.md) — <code>aether:hellfire_slab</code>
+- [Hellfire Stairs](../../../catalogue/objets/aether/hellfire_stairs.md) — <code>aether:hellfire_stairs</code>
+- [Hellfire Wall](../../../catalogue/objets/aether/hellfire_wall.md) — <code>aether:hellfire_wall</code>
+- [Light Hellfire Stone](../../../catalogue/objets/aether/light_hellfire_stone.md) — <code>aether:light_hellfire_stone</code>
 
 ## Effets et caractéristiques
 

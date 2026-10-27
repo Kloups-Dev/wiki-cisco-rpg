@@ -1,7 +1,7 @@
 # Chiseled Stone Altar
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/bosses_of_mass_destruction/chiseled_stone_altar.png" alt="Chiseled Stone Altar">
+<img class="mc-item-icon" src="../../../../assets/generated/items/bosses_of_mass_destruction/chiseled_stone_altar.png" alt="Chiseled Stone Altar">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Chiseled Stone Altar</div>
 <div class="mc-tooltip-card__mod">Bosses of Mass Destruction</div>

@@ -1,7 +1,7 @@
 # Minerai d'aquite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/everbright_aquite_ore.png" alt="Minerai d&#x27;aquite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/everbright_aquite_ore.png" alt="Minerai d&#x27;aquite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Minerai d&#x27;aquite</div>
 <div class="mc-tooltip-card__alias">Aquite Ore</div>

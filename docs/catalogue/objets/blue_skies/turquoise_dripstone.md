@@ -1,7 +1,7 @@
 # Spéléothème turquoise pointu
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/turquoise_dripstone.png" alt="Spéléothème turquoise pointu">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/turquoise_dripstone.png" alt="Spéléothème turquoise pointu">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Spéléothème turquoise pointu</div>
 <div class="mc-tooltip-card__alias">Turquoise Dripstone</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>blue_skies:turquoise_dripstone_stonecutting_turquoise_stone</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/blue_skies/turquoise_stone.md" title="Roche turquoise (blue_skies:turquoise_stone)"><img src="../../../assets/generated/items/blue_skies/turquoise_stone.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/blue_skies/turquoise_dripstone.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>blue_skies:turquoise_dripstone_stonecutting_turquoise_stone</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/blue_skies/turquoise_stone/" title="Roche turquoise (blue_skies:turquoise_stone)"><img src="../../../../assets/generated/items/blue_skies/turquoise_stone.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/blue_skies/turquoise_dripstone.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : blue_skies-1.19.2-1.3.20.jar</div></div>
 
 ## Utilisé dans
 

@@ -1,7 +1,7 @@
 # Charme de la vie I
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/charm_of_life_1.png" alt="Charme de la vie I">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/charm_of_life_1.png" alt="Charme de la vie I">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Charme de la vie I</div>
 <div class="mc-tooltip-card__alias">Charm of Life I</div>

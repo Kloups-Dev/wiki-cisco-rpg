@@ -1,7 +1,7 @@
 # Golden Chain
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_additions/golden_chain.png" alt="Golden Chain">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_additions/golden_chain.png" alt="Golden Chain">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Golden Chain</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>ars_additions:golden_chain</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Gold Ingot (minecraft:gold_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_additions/golden_chain.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_additions-1.19.2-1.4.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>ars_additions:golden_chain</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Gold Ingot (minecraft:gold_ingot)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot" title="Iron Nugget (minecraft:iron_nugget)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_additions/golden_chain.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_additions-1.19.2-1.4.0.jar</div></div>
 
 ## Utilisé dans
 

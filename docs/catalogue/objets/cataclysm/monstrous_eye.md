@@ -1,7 +1,7 @@
 # Eye of Monstrous
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/monstrous_eye.png" alt="Eye of Monstrous">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/monstrous_eye.png" alt="Eye of Monstrous">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Eye of Monstrous</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>cataclysm:monstrous_eye</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Lava Bucket (minecraft:lava_bucket)">?</span><span class="jei-slot" title="Netherite Scrap (minecraft:netherite_scrap)">?</span><span class="jei-slot" title="Lava Bucket (minecraft:lava_bucket)">?</span><span class="jei-slot" title="Blackstone (minecraft:blackstone)">?</span><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Blackstone (minecraft:blackstone)">?</span><span class="jei-slot" title="Lava Bucket (minecraft:lava_bucket)">?</span><span class="jei-slot" title="Netherite Scrap (minecraft:netherite_scrap)">?</span><span class="jei-slot" title="Lava Bucket (minecraft:lava_bucket)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/cataclysm/monstrous_eye.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>cataclysm:monstrous_eye</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot" title="Lava Bucket (minecraft:lava_bucket)">?</span><span class="jei-slot" title="Netherite Scrap (minecraft:netherite_scrap)">?</span><span class="jei-slot" title="Lava Bucket (minecraft:lava_bucket)">?</span><span class="jei-slot" title="Blackstone (minecraft:blackstone)">?</span><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Blackstone (minecraft:blackstone)">?</span><span class="jei-slot" title="Lava Bucket (minecraft:lava_bucket)">?</span><span class="jei-slot" title="Netherite Scrap (minecraft:netherite_scrap)">?</span><span class="jei-slot" title="Lava Bucket (minecraft:lava_bucket)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/cataclysm/monstrous_eye.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : L_Enders_Cataclysm-2.46-1.19.2.jar</div></div>
 
 ## Utilisé dans
 

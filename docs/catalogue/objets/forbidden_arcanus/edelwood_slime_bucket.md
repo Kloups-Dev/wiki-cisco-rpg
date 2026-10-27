@@ -1,7 +1,7 @@
 # Edelwood Bucket of Slime
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/edelwood_slime_bucket.png" alt="Edelwood Bucket of Slime">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/edelwood_slime_bucket.png" alt="Edelwood Bucket of Slime">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Edelwood Bucket of Slime</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

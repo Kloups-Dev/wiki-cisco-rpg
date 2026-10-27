@@ -1,7 +1,7 @@
 # Ambrosium Ore
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/ambrosium_ore.png" alt="Ambrosium Ore">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/ambrosium_ore.png" alt="Ambrosium Ore">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ambrosium Ore</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

@@ -1,7 +1,7 @@
 # Cruderoot Chest Boat
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/cruderoot_chest_boat.png" alt="Cruderoot Chest Boat">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/cruderoot_chest_boat.png" alt="Cruderoot Chest Boat">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Cruderoot Chest Boat</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>deep_aether:cruderoot_chest_boat</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/deep_aether/cruderoot_chest_boat.md" title="Cruderoot Chest Boat (deep_aether:cruderoot_chest_boat)"><img src="../../../assets/generated/items/deep_aether/cruderoot_chest_boat.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:chests/wooden">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/deep_aether/cruderoot_chest_boat.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>deep_aether:cruderoot_chest_boat</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/deep_aether/cruderoot_chest_boat/" title="Cruderoot Chest Boat (deep_aether:cruderoot_chest_boat)"><img src="../../../../assets/generated/items/deep_aether/cruderoot_chest_boat.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#forge:chests/wooden">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/deep_aether/cruderoot_chest_boat.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : deep_aether-1.19.2-1.0.4.jar</div></div>
 
 ## Utilisé dans
 

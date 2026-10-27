@@ -1,7 +1,7 @@
 # Seau de dériveur en ventium
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/ventium_drifter_bucket.png" alt="Seau de dériveur en ventium">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/ventium_drifter_bucket.png" alt="Seau de dériveur en ventium">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Seau de dériveur en ventium</div>
 <div class="mc-tooltip-card__alias">Ventium Bucket of Jelly Drifter</div>

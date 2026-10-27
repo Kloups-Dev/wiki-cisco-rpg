@@ -1,7 +1,7 @@
 # Ender Lead
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/ender_lead.png" alt="Ender Lead">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/ender_lead.png" alt="Ender Lead">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ender Lead</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>

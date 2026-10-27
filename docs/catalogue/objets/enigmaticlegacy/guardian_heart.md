@@ -1,7 +1,7 @@
 # Heart of the Guardian
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/guardian_heart.png" alt="Heart of the Guardian">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/guardian_heart.png" alt="Heart of the Guardian">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Heart of the Guardian</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

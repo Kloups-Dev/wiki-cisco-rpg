@@ -1,7 +1,7 @@
 # Anneau de Cuivre
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/skilltree/copper_ring.png" alt="Anneau de Cuivre">
+<img class="mc-item-icon" src="../../../../assets/generated/items/skilltree/copper_ring.png" alt="Anneau de Cuivre">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Anneau de Cuivre</div>
 <div class="mc-tooltip-card__alias">Copper Ring</div>
@@ -15,7 +15,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>skilltree:copper_ring</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/copper">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/copper">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/copper">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/copper">#</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/skilltree/copper_ring.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : PassiveSkillTree-1.19.2-BETA-0.6.14b-all.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>skilltree:copper_ring</span></div><div class="jei-recipe__body"><div class="jei-grid"><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/copper">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/copper">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/copper">#</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--tag" title="#forge:nuggets/copper">#</span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/skilltree/copper_ring.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : PassiveSkillTree-1.19.2-BETA-0.6.14b-all.jar</div></div>
 
 ## Utilisé dans
 

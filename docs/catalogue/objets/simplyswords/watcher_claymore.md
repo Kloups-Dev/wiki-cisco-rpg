@@ -1,7 +1,7 @@
 # The Watcher
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/simplyswords/watcher_claymore.png" alt="The Watcher">
+<img class="mc-item-icon" src="../../../../assets/generated/items/simplyswords/watcher_claymore.png" alt="The Watcher">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">The Watcher</div>
 <div class="mc-tooltip-card__mod">Simply Swords</div>

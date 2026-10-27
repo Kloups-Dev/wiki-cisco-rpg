@@ -1,7 +1,7 @@
 # Potion of Twisted Mercy
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/twisted_potion.png" alt="Potion of Twisted Mercy">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/twisted_potion.png" alt="Potion of Twisted Mercy">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Potion of Twisted Mercy</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

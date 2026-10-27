@@ -1,7 +1,7 @@
 # Tome of Extraction
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/apotheosis/extraction_tome.png" alt="Tome of Extraction">
+<img class="mc-item-icon" src="../../../../assets/generated/items/apotheosis/extraction_tome.png" alt="Tome of Extraction">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Tome of Extraction</div>
 <div class="mc-tooltip-card__mod">Apotheosis</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting</strong><span>apotheosis:enchanting/extraction_tome</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/apotheosis/improved_scrap_tome.md" title="Tome of Superior Scrapping (apotheosis:improved_scrap_tome)"><img src="../../../assets/generated/items/apotheosis/improved_scrap_tome.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/apotheosis/extraction_tome.png" alt=""><span class="jei-count">4</span></span></div><div class="jei-recipe__source">Source exacte : Apotheosis-1.19.2-6.5.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Enchanting</strong><span>apotheosis:enchanting/extraction_tome</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/apotheosis/improved_scrap_tome/" title="Tome of Superior Scrapping (apotheosis:improved_scrap_tome)"><img src="../../../../assets/generated/items/apotheosis/improved_scrap_tome.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/apotheosis/extraction_tome.png" alt=""><span class="jei-count">4</span></span></div><div class="jei-recipe__source">Source exacte : Apotheosis-1.19.2-6.5.2.jar</div></div>
 
 ## Utilisé dans
 

@@ -1,7 +1,7 @@
 # Terre turquoise labourée
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/turquoise_farmland.png" alt="Terre turquoise labourée">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/turquoise_farmland.png" alt="Terre turquoise labourée">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Terre turquoise labourée</div>
 <div class="mc-tooltip-card__alias">Turquoise Farmland</div>

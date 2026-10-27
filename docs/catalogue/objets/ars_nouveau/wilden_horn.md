@@ -1,7 +1,7 @@
 # Corne sauvage
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/wilden_horn.png" alt="Corne sauvage">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/wilden_horn.png" alt="Corne sauvage">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Corne sauvage</div>
 <div class="mc-tooltip-card__alias">Wilden Horn</div>
@@ -20,8 +20,8 @@
 
 ## Utilisé dans
 
-- **Bone Meal** — <code>minecraft:bone_meal</code>
 - [Défi](../../../catalogue/objets/ars_nouveau/ritual_challenge.md) — <code>ars_nouveau:ritual_challenge</code>
+- **Bone Meal** — <code>minecraft:bone_meal</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Nâgastone
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/nagastone.png" alt="Nâgastone">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/nagastone.png" alt="Nâgastone">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Nâgastone</div>
 <div class="mc-tooltip-card__alias">Nagastone</div>

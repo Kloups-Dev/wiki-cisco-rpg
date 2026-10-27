@@ -1,7 +1,7 @@
 # The Testament of Contempt
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/eldritch_amulet.png" alt="The Testament of Contempt">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/eldritch_amulet.png" alt="The Testament of Contempt">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">The Testament of Contempt</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

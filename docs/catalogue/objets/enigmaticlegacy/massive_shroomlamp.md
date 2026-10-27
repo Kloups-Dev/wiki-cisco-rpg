@@ -1,7 +1,7 @@
 # Encased Shroomlamp
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/massive_shroomlamp.png" alt="Encased Shroomlamp">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/massive_shroomlamp.png" alt="Encased Shroomlamp">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Encased Shroomlamp</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>enigmaticlegacy:lamps/massive_shroomlamp</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/enigmaticlegacy/big_shroomlamp.md" title="Shroomlamp (enigmaticlegacy:big_shroomlamp)"><img src="../../../assets/generated/items/enigmaticlegacy/big_shroomlamp.png" alt="" loading="lazy"></a><span class="jei-slot" title="Glass (minecraft:glass)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/enigmaticlegacy/massive_shroomlamp.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>enigmaticlegacy:lamps/massive_shroomlamp</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/enigmaticlegacy/big_shroomlamp/" title="Shroomlamp (enigmaticlegacy:big_shroomlamp)"><img src="../../../../assets/generated/items/enigmaticlegacy/big_shroomlamp.png" alt="" loading="lazy"></a><span class="jei-slot" title="Glass (minecraft:glass)">?</span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/enigmaticlegacy/massive_shroomlamp.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
 
 ## Utilisé dans
 

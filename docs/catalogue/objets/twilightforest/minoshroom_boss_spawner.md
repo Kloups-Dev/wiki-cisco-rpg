@@ -1,7 +1,7 @@
 # Minoshroom Boss Spawner
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/minoshroom_boss_spawner.png" alt="Minoshroom Boss Spawner">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/minoshroom_boss_spawner.png" alt="Minoshroom Boss Spawner">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Minoshroom Boss Spawner</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>

@@ -1,7 +1,7 @@
 # The Ender Slayer
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/ender_slayer.png" alt="The Ender Slayer">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/ender_slayer.png" alt="The Ender Slayer">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">The Ender Slayer</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>
@@ -14,7 +14,7 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticlegacy:ender_slayer</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/enigmaticlegacy/evil_essence.md" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot" title="Obsidian (minecraft:obsidian)">?</span><a class="jei-slot" href="../../../catalogue/objets/enigmaticlegacy/evil_essence.md" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Obsidian (minecraft:obsidian)">?</span><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><span class="jei-slot" title="Stick (minecraft:stick)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/enigmaticlegacy/ender_slayer.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>enigmaticlegacy:ender_slayer</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../../catalogue/objets/enigmaticlegacy/evil_essence/" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot" title="Obsidian (minecraft:obsidian)">?</span><a class="jei-slot" href="../../../../catalogue/objets/enigmaticlegacy/evil_essence/" title="Nefarious Essence (enigmaticlegacy:evil_essence)"><img src="../../../../assets/generated/items/enigmaticlegacy/evil_essence.png" alt="" loading="lazy"></a><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Obsidian (minecraft:obsidian)">?</span><span class="jei-slot" title="Ender Eye (minecraft:ender_eye)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span><span class="jei-slot" title="Stick (minecraft:stick)">?</span><span class="jei-slot" title="Ghast Tear (minecraft:ghast_tear)">?</span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/enigmaticlegacy/ender_slayer.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : EnigmaticLegacy-2.26.5.jar</div></div>
 
 ## Utilisé dans
 

@@ -1,7 +1,7 @@
 # Parchemin du Paladin
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/strictly_origins/scroll.png" alt="Parchemin du Paladin">
+<img class="mc-item-icon" src="../../../../assets/generated/items/strictly_origins/scroll.png" alt="Parchemin du Paladin">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Parchemin du Paladin</div>
 <div class="mc-tooltip-card__alias">Paladin Scroll</div>

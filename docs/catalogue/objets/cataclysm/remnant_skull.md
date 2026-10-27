@@ -1,7 +1,7 @@
 # Remnant's Skull
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/remnant_skull.png" alt="Remnant&#x27;s Skull">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/remnant_skull.png" alt="Remnant&#x27;s Skull">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Remnant&#x27;s Skull</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

@@ -1,7 +1,7 @@
 # Golden Amber
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/golden_amber.png" alt="Golden Amber">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/golden_amber.png" alt="Golden Amber">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Golden Amber</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

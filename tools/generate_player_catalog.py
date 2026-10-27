@@ -72,7 +72,7 @@ def pick_jars(mods_dir: Path) -> tuple[list[Path], dict[str, list[str]]]:
 def resource_index(archives: list[Archive]) -> dict[str, Archive]:
     result = {}
     for archive in archives:
-        for name in archive.names:
+        for name in sorted(archive.names):
             if name.startswith(("assets/", "data/")):
                 result.setdefault(name, archive)
     return result
@@ -82,7 +82,7 @@ def translations(archives: list[Archive], locale: str) -> dict[str, str]:
     result = {}
     suffix = f"/lang/{locale}.json"
     for archive in archives:
-        for name in archive.names:
+        for name in sorted(archive.names):
             if not name.endswith(suffix):
                 continue
             data = read_json(archive, name)
@@ -225,7 +225,7 @@ def parse_recipe(data: dict[str, Any], recipe_id: str, source: str) -> dict[str,
 def jar_recipes(archives: list[Archive]) -> list[dict[str, Any]]:
     result = []
     for archive in archives:
-        for name in archive.names:
+        for name in sorted(archive.names):
             match = re.fullmatch(r"data/([^/]+)/recipes/(.+)\.json", name)
             if not match:
                 continue
@@ -292,6 +292,14 @@ def item_link(item_id: str, known: set[str], prefix="../") -> str | None:
     return f"{prefix}{ns}/{path}.md"
 
 
+def item_web_link(item_id: str, known: set[str], prefix="../") -> str | None:
+    """Return a browser URL for raw HTML rendered with MkDocs directory URLs."""
+    if item_id not in known:
+        return None
+    ns, path = item_id.split(":", 1)
+    return f"{prefix}{ns}/{path}/"
+
+
 def slot_html(
     slot: dict[str, Any], names: dict[str, str], icons: dict[str, str], known: set[str],
     item_prefix: str = "../", icon_prefix: str = "../../../",
@@ -305,7 +313,7 @@ def slot_html(
         icon = icons.get(item_id)
         content = f'<img src="{icon_prefix}{html.escape(icon)}" alt="" loading="lazy">' if icon else "?"
         title = html.escape(f"{label} ({item_id})", quote=True)
-        href = item_link(item_id, known, item_prefix)
+        href = item_web_link(item_id, known, item_prefix)
         tag = "a" if href else "span"
         link = f' href="{href}"' if href else ""
         return f'<{tag} class="jei-slot"{link} title="{title}">{content}</{tag}>'
@@ -354,11 +362,13 @@ def write_pages(
         target = item_root / ns / f"{path}.md"
         target.parent.mkdir(parents=True, exist_ok=True)
         depth = len(target.relative_to(ROOT / "docs").parent.parts)
-        root_prefix = "../" * depth
-        item_prefix = f"{root_prefix}catalogue/objets/"
+        source_root_prefix = "../" * depth
+        web_root_prefix = "../" * (depth + 1)
+        source_item_prefix = f"{source_root_prefix}catalogue/objets/"
+        web_item_prefix = f"{web_root_prefix}catalogue/objets/"
         name, english = names[item_id], english_names[item_id]
         icon = (
-            f'<img class="mc-item-icon" src="{root_prefix}{icons[item_id]}" alt="{html.escape(name, quote=True)}">'
+            f'<img class="mc-item-icon" src="{web_root_prefix}{icons[item_id]}" alt="{html.escape(name, quote=True)}">'
             if item_id in icons else '<div class="mc-item-icon mc-item-icon--missing">?</div>'
         )
         lines = [
@@ -375,7 +385,7 @@ def write_pages(
         ]
         found = recipes_by_result.get(item_id, [])
         lines += [
-            recipe_html(recipe, names, icons, known, item_prefix, root_prefix) for recipe in found
+            recipe_html(recipe, names, icons, known, web_item_prefix, web_root_prefix) for recipe in found
         ] if found else [
             '!!! warning "Pas de recette directe trouvée"',
             "    L'objet peut provenir d'un boss, d'un coffre, d'un échange ou d'une mécanique spéciale visible dans JEI.",
@@ -388,7 +398,7 @@ def write_pages(
                 continue
             seen.add(output)
             label = names.get(output, humanize(output.split(":")[-1]))
-            href = item_link(output, known, item_prefix)
+            href = item_link(output, known, source_item_prefix)
             lines.append(f"- [{label}]({href}) — <code>{output}</code>" if href else f"- **{label}** — <code>{output}</code>")
         if not seen:
             lines.append("Aucun usage direct trouvé dans les recettes statiques analysées.")
@@ -396,7 +406,7 @@ def write_pages(
             "", "## Effets et caractéristiques", "",
             '!!! info "À confirmer dans la partie"',
             "    Les dégâts, attributs, sorts, affixes, sockets et valeurs NBT dynamiques seront ajoutés après vérification de l'infobulle réelle en jeu.",
-            "", f"[Tous les objets de {group['name']}]({root_prefix}contenu/{group['slug']}.md)", "",
+            "", f"[Tous les objets de {group['name']}]({source_root_prefix}contenu/{group['slug']}.md)", "",
         ]
         target.write_text("\n".join(lines), encoding="utf-8")
 
@@ -424,9 +434,9 @@ def write_pages(
         ]
         for item_id in group_items:
             ns, path = item_id.split(":")
-            picture = f'<img src="../{icons[item_id]}" alt="" loading="lazy">' if item_id in icons else '<span class="catalog-missing">?</span>'
+            picture = f'<img src="../../{icons[item_id]}" alt="" loading="lazy">' if item_id in icons else '<span class="catalog-missing">?</span>'
             lines.append(
-                f'<a class="catalog-item" href="../catalogue/objets/{ns}/{path}.md" title="{item_id}">'
+                f'<a class="catalog-item" href="../../catalogue/objets/{ns}/{path}/" title="{item_id}">'
                 f'{picture}<span>{html.escape(names[item_id])}</span></a>'
             )
         lines += ["</div>", ""]
@@ -460,7 +470,7 @@ def write_pages(
             ns, path = item_id.split(":")
             picture = f'<img src="../{icons[item_id]}" alt="" loading="lazy">' if item_id in icons else '<span class="catalog-missing">?</span>'
             lines.append(
-                f'<a href="objets/{ns}/{path}.md">{picture}<span><strong>{html.escape(names[item_id])}</strong>'
+                f'<a href="objets/{ns}/{path}/">{picture}<span><strong>{html.escape(names[item_id])}</strong>'
                 f'<small>{html.escape(GROUP_BY_NS[ns]["name"])}</small></span></a>'
             )
         lines += ["</div>", ""]

@@ -1,7 +1,7 @@
 # Parchemin d'alchimie
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/alchemy_scroll.png" alt="Parchemin d&#x27;alchimie">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/alchemy_scroll.png" alt="Parchemin d&#x27;alchimie">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Parchemin d&#x27;alchimie</div>
 <div class="mc-tooltip-card__alias">Alchemy Scroll</div>

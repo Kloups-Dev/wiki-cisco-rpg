@@ -1,7 +1,7 @@
 # Pierre de source lisse : grosses briques
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/smooth_sourcestone_large_bricks.png" alt="Pierre de source lisse : grosses briques">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/smooth_sourcestone_large_bricks.png" alt="Pierre de source lisse : grosses briques">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pierre de source lisse : grosses briques</div>
 <div class="mc-tooltip-card__alias">Smooth Sourcestone: Large Bricks</div>
@@ -15,13 +15,13 @@
 
 ## Obtention et fabrication
 
-<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>ars_nouveau:sourcestone_9</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../catalogue/objets/ars_nouveau/sourcestone.md" title="Pierre de source (ars_nouveau:sourcestone)"><img src="../../../assets/generated/items/ars_nouveau/sourcestone.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/ars_nouveau/smooth_sourcestone_large_bricks.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Tailleur de pierre</strong><span>ars_nouveau:sourcestone_9</span></div><div class="jei-recipe__body"><div class="jei-inputs"><a class="jei-slot" href="../../../../catalogue/objets/ars_nouveau/sourcestone/" title="Pierre de source (ars_nouveau:sourcestone)"><img src="../../../../assets/generated/items/ars_nouveau/sourcestone.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../../assets/generated/items/ars_nouveau/smooth_sourcestone_large_bricks.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ars_nouveau-1.19.2-3.23.0.jar</div></div>
 
 ## Utilisé dans
 
-- [Pierre de source](../../../catalogue/objets/ars_nouveau/sourcestone.md) — <code>ars_nouveau:sourcestone</code>
-- [Smooth Sourcestone: Large Bricks Stairs](../../../catalogue/objets/ars_nouveau/smooth_sourcestone_large_bricks_stairs.md) — <code>ars_nouveau:smooth_sourcestone_large_bricks_stairs</code>
 - [Smooth Sourcestone: Large Bricks Slab](../../../catalogue/objets/ars_nouveau/smooth_sourcestone_large_bricks_slab.md) — <code>ars_nouveau:smooth_sourcestone_large_bricks_slab</code>
+- [Smooth Sourcestone: Large Bricks Stairs](../../../catalogue/objets/ars_nouveau/smooth_sourcestone_large_bricks_stairs.md) — <code>ars_nouveau:smooth_sourcestone_large_bricks_stairs</code>
+- [Pierre de source](../../../catalogue/objets/ars_nouveau/sourcestone.md) — <code>ars_nouveau:sourcestone</code>
 
 ## Effets et caractéristiques
 

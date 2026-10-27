@@ -1,7 +1,7 @@
 # Ring of Invisibility
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/invisibility_ring.png" alt="Ring of Invisibility">
+<img class="mc-item-icon" src="../../../../assets/generated/items/irons_spellbooks/invisibility_ring.png" alt="Ring of Invisibility">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ring of Invisibility</div>
 <div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>

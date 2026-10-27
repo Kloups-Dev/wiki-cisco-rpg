@@ -1,7 +1,7 @@
 # Golden Aspess
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/golden_aspess.png" alt="Golden Aspess">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/golden_aspess.png" alt="Golden Aspess">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Golden Aspess</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

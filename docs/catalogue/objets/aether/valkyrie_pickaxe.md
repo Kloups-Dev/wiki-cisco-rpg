@@ -1,7 +1,7 @@
 # Valkyrie Pickaxe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/valkyrie_pickaxe.png" alt="Valkyrie Pickaxe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/valkyrie_pickaxe.png" alt="Valkyrie Pickaxe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Valkyrie Pickaxe</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

@@ -1,7 +1,7 @@
 # Énorme fleur à nénuphar
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/huge_water_lily.png" alt="Énorme fleur à nénuphar">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/huge_water_lily.png" alt="Énorme fleur à nénuphar">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Énorme fleur à nénuphar</div>
 <div class="mc-tooltip-card__alias">Huge Water Lily</div>

@@ -1,7 +1,7 @@
 # Antique Book Bag
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticaddons/antique_bag.png" alt="Antique Book Bag">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticaddons/antique_bag.png" alt="Antique Book Bag">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Antique Book Bag</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

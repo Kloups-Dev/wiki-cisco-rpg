@@ -1,7 +1,7 @@
 # Dying Ember
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/dying_ember.png" alt="Dying Ember">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/dying_ember.png" alt="Dying Ember">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Dying Ember</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

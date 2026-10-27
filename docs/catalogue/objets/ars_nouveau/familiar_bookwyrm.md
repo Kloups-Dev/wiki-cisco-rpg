@@ -1,7 +1,7 @@
 # Dragolivre
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_nouveau/familiar_bookwyrm.png" alt="Dragolivre">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_nouveau/familiar_bookwyrm.png" alt="Dragolivre">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Dragolivre</div>
 <div class="mc-tooltip-card__alias">Bookwyrm</div>

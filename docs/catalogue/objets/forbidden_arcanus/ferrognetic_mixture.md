@@ -1,7 +1,7 @@
 # Ferrognetic Mixture
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/ferrognetic_mixture.png" alt="Ferrognetic Mixture">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/ferrognetic_mixture.png" alt="Ferrognetic Mixture">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Ferrognetic Mixture</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

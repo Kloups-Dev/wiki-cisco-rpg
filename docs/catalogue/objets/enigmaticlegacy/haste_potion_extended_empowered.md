@@ -1,7 +1,7 @@
 # Potion of Haste [Deprecated]
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/enigmaticlegacy/haste_potion_extended_empowered.png" alt="Potion of Haste [Deprecated]">
+<img class="mc-item-icon" src="../../../../assets/generated/items/enigmaticlegacy/haste_potion_extended_empowered.png" alt="Potion of Haste [Deprecated]">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Potion of Haste [Deprecated]</div>
 <div class="mc-tooltip-card__mod">Enigmatic Legacy et extensions</div>

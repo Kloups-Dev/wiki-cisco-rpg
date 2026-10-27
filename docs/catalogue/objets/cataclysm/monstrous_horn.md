@@ -1,7 +1,7 @@
 # Corne Monstrueuse
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/monstrous_horn.png" alt="Corne Monstrueuse">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/monstrous_horn.png" alt="Corne Monstrueuse">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Corne Monstrueuse</div>
 <div class="mc-tooltip-card__alias">Monstrous Horn</div>

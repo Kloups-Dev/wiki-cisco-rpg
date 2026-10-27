@@ -1,7 +1,7 @@
 # Agility Cape
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/agility_cape.png" alt="Agility Cape">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/agility_cape.png" alt="Agility Cape">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Agility Cape</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

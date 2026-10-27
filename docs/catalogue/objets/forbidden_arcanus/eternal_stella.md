@@ -1,7 +1,7 @@
 # Eternal Stella
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/forbidden_arcanus/eternal_stella.png" alt="Eternal Stella">
+<img class="mc-item-icon" src="../../../../assets/generated/items/forbidden_arcanus/eternal_stella.png" alt="Eternal Stella">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Eternal Stella</div>
 <div class="mc-tooltip-card__mod">Forbidden &amp; Arcanus</div>

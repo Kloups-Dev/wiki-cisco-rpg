@@ -1,7 +1,7 @@
 # Sac de récompenses d'Arachnarque
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/loot_bag_arachnarch.png" alt="Sac de récompenses d&#x27;Arachnarque">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/loot_bag_arachnarch.png" alt="Sac de récompenses d&#x27;Arachnarque">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sac de récompenses d&#x27;Arachnarque</div>
 <div class="mc-tooltip-card__alias">Arachnarch Loot Bag</div>

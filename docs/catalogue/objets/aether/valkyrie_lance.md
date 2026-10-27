@@ -1,7 +1,7 @@
 # Valkyrie Lance
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aether/valkyrie_lance.png" alt="Valkyrie Lance">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aether/valkyrie_lance.png" alt="Valkyrie Lance">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Valkyrie Lance</div>
 <div class="mc-tooltip-card__mod">The Aether</div>

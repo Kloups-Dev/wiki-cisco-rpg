@@ -1,7 +1,7 @@
 # Azure Seastone Fence
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/cataclysm/azure_seastone_fence.png" alt="Azure Seastone Fence">
+<img class="mc-item-icon" src="../../../../assets/generated/items/cataclysm/azure_seastone_fence.png" alt="Azure Seastone Fence">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Azure Seastone Fence</div>
 <div class="mc-tooltip-card__mod">L&#x27;Ender&#x27;s Cataclysm</div>

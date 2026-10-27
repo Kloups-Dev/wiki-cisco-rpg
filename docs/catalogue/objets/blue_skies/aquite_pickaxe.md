@@ -1,7 +1,7 @@
 # Pioche en aquite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/aquite_pickaxe.png" alt="Pioche en aquite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/aquite_pickaxe.png" alt="Pioche en aquite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Pioche en aquite</div>
 <div class="mc-tooltip-card__alias">Aquite Pickaxe</div>

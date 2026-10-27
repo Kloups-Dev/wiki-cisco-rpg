@@ -1,7 +1,7 @@
 # Sable de minuit
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/midnight_sand.png" alt="Sable de minuit">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/midnight_sand.png" alt="Sable de minuit">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Sable de minuit</div>
 <div class="mc-tooltip-card__alias">Midnight Sand</div>
@@ -20,8 +20,8 @@
 
 ## Utilisé dans
 
-- [Grès de minuit](../../../catalogue/objets/blue_skies/midnight_sandstone.md) — <code>blue_skies:midnight_sandstone</code>
 - [Herbe de minuit](../../../catalogue/objets/blue_skies/midnight_glass.md) — <code>blue_skies:midnight_glass</code>
+- [Grès de minuit](../../../catalogue/objets/blue_skies/midnight_sandstone.md) — <code>blue_skies:midnight_sandstone</code>
 
 ## Effets et caractéristiques
 

@@ -1,7 +1,7 @@
 # Golden Dirt Path
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/golden_heights_dirt_path.png" alt="Golden Dirt Path">
+<img class="mc-item-icon" src="../../../../assets/generated/items/deep_aether/golden_heights_dirt_path.png" alt="Golden Dirt Path">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Golden Dirt Path</div>
 <div class="mc-tooltip-card__mod">Deep Aether</div>

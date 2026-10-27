@@ -1,7 +1,7 @@
 # Podophyllum
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/mayapple.png" alt="Podophyllum">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/mayapple.png" alt="Podophyllum">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Podophyllum</div>
 <div class="mc-tooltip-card__alias">Mayapple</div>

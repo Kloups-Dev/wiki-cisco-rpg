@@ -1,7 +1,7 @@
 # Hache lunaire
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/lunar_axe.png" alt="Hache lunaire">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/lunar_axe.png" alt="Hache lunaire">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Hache lunaire</div>
 <div class="mc-tooltip-card__alias">Lunar Wood Axe</div>

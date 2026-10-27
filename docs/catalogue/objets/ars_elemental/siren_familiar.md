@@ -1,7 +1,7 @@
 # Bound Script: Siren
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_elemental/siren_familiar.png" alt="Bound Script: Siren">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_elemental/siren_familiar.png" alt="Bound Script: Siren">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Bound Script: Siren</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

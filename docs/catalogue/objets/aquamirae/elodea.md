@@ -1,7 +1,7 @@
 # Elodea
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/aquamirae/elodea.png" alt="Elodea">
+<img class="mc-item-icon" src="../../../../assets/generated/items/aquamirae/elodea.png" alt="Elodea">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Elodea</div>
 <div class="mc-tooltip-card__mod">Aquamirae</div>

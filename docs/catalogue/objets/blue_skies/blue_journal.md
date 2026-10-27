@@ -1,7 +1,7 @@
 # Encyclopédie bleue
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/blue_journal.png" alt="Encyclopédie bleue">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/blue_journal.png" alt="Encyclopédie bleue">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Encyclopédie bleue</div>
 <div class="mc-tooltip-card__alias">Blue Journal</div>

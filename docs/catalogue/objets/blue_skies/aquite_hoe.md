@@ -1,7 +1,7 @@
 # Houe en aquite
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/aquite_hoe.png" alt="Houe en aquite">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/aquite_hoe.png" alt="Houe en aquite">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Houe en aquite</div>
 <div class="mc-tooltip-card__alias">Aquite Hoe</div>

@@ -1,7 +1,7 @@
 # Artéfact empoisonné
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/poison_arc.png" alt="Artéfact empoisonné">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/poison_arc.png" alt="Artéfact empoisonné">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Artéfact empoisonné</div>
 <div class="mc-tooltip-card__alias">Poisonous Arc</div>

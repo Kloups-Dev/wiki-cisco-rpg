@@ -1,7 +1,7 @@
 # Mask of Rage
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/mowziesmobs/umvuthana_mask_rage.png" alt="Mask of Rage">
+<img class="mc-item-icon" src="../../../../assets/generated/items/mowziesmobs/umvuthana_mask_rage.png" alt="Mask of Rage">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Mask of Rage</div>
 <div class="mc-tooltip-card__mod">Mowzie&#x27;s Mobs</div>

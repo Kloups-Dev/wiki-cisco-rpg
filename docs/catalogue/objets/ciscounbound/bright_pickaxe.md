@@ -1,7 +1,7 @@
 # Brightsteel Pickaxe
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ciscounbound/bright_pickaxe.png" alt="Brightsteel Pickaxe">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ciscounbound/bright_pickaxe.png" alt="Brightsteel Pickaxe">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Brightsteel Pickaxe</div>
 <div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>

@@ -1,7 +1,7 @@
 # Feuilles cristallisées
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/blue_skies/crystallized_leaves.png" alt="Feuilles cristallisées">
+<img class="mc-item-icon" src="../../../../assets/generated/items/blue_skies/crystallized_leaves.png" alt="Feuilles cristallisées">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Feuilles cristallisées</div>
 <div class="mc-tooltip-card__alias">Crystallized Leaves</div>

@@ -1,7 +1,7 @@
 # Caster Tome of Anima
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/ars_elemental/anima_caster_tome.png" alt="Caster Tome of Anima">
+<img class="mc-item-icon" src="../../../../assets/generated/items/ars_elemental/anima_caster_tome.png" alt="Caster Tome of Anima">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Caster Tome of Anima</div>
 <div class="mc-tooltip-card__mod">Ars Nouveau et extensions</div>

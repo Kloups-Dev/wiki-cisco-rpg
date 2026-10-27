@@ -1,7 +1,7 @@
 # Stripped Sortingwood Log
 
 <div class="mc-item-showcase">
-<img class="mc-item-icon" src="../../../assets/generated/items/twilightforest/stripped_sorting_log.png" alt="Stripped Sortingwood Log">
+<img class="mc-item-icon" src="../../../../assets/generated/items/twilightforest/stripped_sorting_log.png" alt="Stripped Sortingwood Log">
 <div class="mc-tooltip-card">
 <div class="mc-tooltip-card__name">Stripped Sortingwood Log</div>
 <div class="mc-tooltip-card__mod">The Twilight Forest</div>
@@ -19,8 +19,8 @@
 
 ## Utilisé dans
 
-- [Stripped Sortingwood](../../../catalogue/objets/twilightforest/stripped_sorting_wood.md) — <code>twilightforest:stripped_sorting_wood</code>
 - [Planches de Sortingwood](../../../catalogue/objets/twilightforest/sorting_planks.md) — <code>twilightforest:sorting_planks</code>
+- [Stripped Sortingwood](../../../catalogue/objets/twilightforest/stripped_sorting_wood.md) — <code>twilightforest:stripped_sorting_wood</code>
 
 ## Effets et caractéristiques
 
