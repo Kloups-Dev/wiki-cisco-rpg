@@ -1,0 +1,3215 @@
+[
+  {
+    "file": "AdvancementPlaques-1.19.2-1.4.7.jar",
+    "name": "Advancement Plaques",
+    "mod_ids": [
+      "advancementplaques"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "aeroblender-1.19.2-1.0.1.jar",
+    "name": "AeroBlender",
+    "mod_ids": [
+      "aeroblender"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "AI-Improvements-1.19.2-0.5.2.jar",
+    "name": "AI-Improvements",
+    "mod_ids": [
+      "aiimprovements"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "alexsdelight-1.4.1.jar",
+    "name": "Alex's Delight",
+    "mod_ids": [
+      "alexsdelight"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "alexsmobs-1.21.1.jar",
+    "name": "Alex's Mobs",
+    "mod_ids": [
+      "alexsmobs"
+    ],
+    "version_metadata": "1.21.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Apotheosis-1.19.2-6.5.2.jar",
+    "name": "Apotheosis",
+    "mod_ids": [
+      "apotheosis"
+    ],
+    "version_metadata": "6.5.2",
+    "metadata_source": "mods.toml",
+    "status": "Guide vérifié",
+    "guide": "../apotheosis/gemmes.md"
+  },
+  {
+    "file": "apotheotic_additions1.0.4.jar",
+    "name": "apotheotic_additions",
+    "mod_ids": [
+      "apotheotic_additions"
+    ],
+    "version_metadata": "1.0.4",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ApothicCurios-1.19.2-1.0.3c.jar",
+    "name": "Apothic Curios",
+    "mod_ids": [
+      "apothiccurios"
+    ],
+    "version_metadata": "1.0.3c",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "apothsb-1.0.0.jar",
+    "name": "ApothSB",
+    "mod_ids": [
+      "apothsb"
+    ],
+    "version_metadata": "1.0.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "appleskin-forge-mc1.19-2.4.2.jar",
+    "name": "AppleSkin",
+    "mod_ids": [
+      "appleskin"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Aquaculture-1.19.2-2.4.17.jar",
+    "name": "Aquaculture 2",
+    "mod_ids": [
+      "aquaculture"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "aquamirae-6.API15.jar",
+    "name": "Aquamirae",
+    "mod_ids": [
+      "aquamirae"
+    ],
+    "version_metadata": "6.API15",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "architectury-6.6.92-forge.jar",
+    "name": "Architectury",
+    "mod_ids": [
+      "architectury"
+    ],
+    "version_metadata": "6.6.92",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ArmorDamageLimit-1.19.2-1.0.0.jar",
+    "name": "Armor Damage Limit",
+    "mod_ids": [
+      "armordamagelimit"
+    ],
+    "version_metadata": "1.19.2-1.0.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ars_additions-1.19.2-1.4.0.jar",
+    "name": "Ars Additions",
+    "mod_ids": [
+      "ars_additions"
+    ],
+    "version_metadata": "1.19.2-1.4.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ars_elemental-1.19.2-0.5.9.4.1.jar",
+    "name": "Ars Elemental",
+    "mod_ids": [
+      "ars_elemental"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ars_nouveau-1.19.2-3.23.0.jar",
+    "name": "Ars Nouveau",
+    "mod_ids": [
+      "ars_nouveau"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "atmospheric-1.19.2-5.1.2.jar",
+    "name": "Atmospheric",
+    "mod_ids": [
+      "atmospheric"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "AttributeFix-Forge-1.19.2-17.2.8.jar",
+    "name": "AttributeFix",
+    "mod_ids": [
+      "attributefix"
+    ],
+    "version_metadata": "17.2.8",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "AutoLeveling-1.19.2-1.19b.jar",
+    "name": "Auto Leveling",
+    "mod_ids": [
+      "autoleveling"
+    ],
+    "version_metadata": "1.19b",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "AutoRegLib-1.8.2-55.jar",
+    "name": "AutoRegLib",
+    "mod_ids": [
+      "autoreglib"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "awesomedungeonnether-forge-1.19.2-3.1.1.jar",
+    "name": "Awesome dungeon nether",
+    "mod_ids": [
+      "awesomedungeonnether"
+    ],
+    "version_metadata": "3.1.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "awesomedungeonend-forge-1.19.2-3.1.1.jar",
+    "name": "Awesome dungeon the end",
+    "mod_ids": [
+      "awesomedungeonend"
+    ],
+    "version_metadata": "3.1.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "azurelib-forge-1.19.2-3.2.2.jar",
+    "name": "AzureLib",
+    "mod_ids": [
+      "azurelib"
+    ],
+    "version_metadata": "3.2.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "BadMobs-1.19.2-16.1.3.jar",
+    "name": "BadMobs",
+    "mod_ids": [
+      "badmobs"
+    ],
+    "version_metadata": "16.1.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "BadOptimizations-2.1.4-1.19.1-19.2.jar",
+    "name": "BadOptimizations",
+    "mod_ids": [
+      "badoptimizations"
+    ],
+    "version_metadata": "2.1.4",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "letsdo-bakery-forge-1.0.6.jar",
+    "name": "Bakery",
+    "mod_ids": [
+      "bakery"
+    ],
+    "version_metadata": "1.0.6",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "balm-forge-1.19.2-4.6.0.jar",
+    "name": "Balm",
+    "mod_ids": [
+      "balm"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "BetterAdvancements-1.19.2-0.2.2.142.jar",
+    "name": "Better Advancements",
+    "mod_ids": [
+      "betteradvancements"
+    ],
+    "version_metadata": "0.2.2.142",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "bettercombat-forge-1.7.1+1.19.jar",
+    "name": "Better Combat",
+    "mod_ids": [
+      "bettercombat"
+    ],
+    "version_metadata": "1.7.1+1.19",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "BetterThirdPerson-Forge-1.19-1.9.0.jar",
+    "name": "Better Third Person",
+    "mod_ids": [
+      "betterthirdperson"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "betterwithminecolonies-1.19-1.18.19.jar",
+    "name": "Better With Minecolonies",
+    "mod_ids": [
+      "betterwithminecolonies"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "betterfpsdist-1.19.2-4.1.jar",
+    "name": "betterfpsdist mod",
+    "mod_ids": [
+      "betterfpsdist"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "BHMenu-Forge-1.19.2-2.4.3.jar",
+    "name": "BHMenu",
+    "mod_ids": [
+      "bhmenu"
+    ],
+    "version_metadata": "2.4.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "biomemusic-1.19.2-2.2.jar",
+    "name": "biomemusic mod",
+    "mod_ids": [
+      "biomemusic"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "blue_skies-1.19.2-1.3.20.jar",
+    "name": "Blue Skies",
+    "mod_ids": [
+      "blue_skies"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "blueprint-1.19.2-6.2.0.jar",
+    "name": "Blueprint",
+    "mod_ids": [
+      "blueprint"
+    ],
+    "version_metadata": "6.2.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "bocchium-1.19.2-0.0.3.jar",
+    "name": "Bocchium",
+    "mod_ids": [
+      "bocchium"
+    ],
+    "version_metadata": "1.19.2-0.0.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Bookshelf-Forge-1.19.2-16.3.20.jar",
+    "name": "Bookshelf",
+    "mod_ids": [
+      "bookshelf"
+    ],
+    "version_metadata": "16.3.20",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "BOMD-Forge-1.19.2-1.0.6.jar",
+    "name": "Bosses of Mass Destruction",
+    "mod_ids": [
+      "bosses_of_mass_destruction"
+    ],
+    "version_metadata": "1.0.6",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "BrewinAndChewin-1.19-2.0.jar",
+    "name": "Brewin' and Chewin'",
+    "mod_ids": [
+      "brewinandchewin"
+    ],
+    "version_metadata": "1.19-2.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "brutalbosses-1.19.2-6.8.jar",
+    "name": "brutalbosses mod",
+    "mod_ids": [
+      "brutalbosses"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "bygonenether-1.3.2-1.19.2.jar",
+    "name": "Bygone Nether",
+    "mod_ids": [
+      "bygonenether"
+    ],
+    "version_metadata": "1.3.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "caelus-forge-1.19.2-3.0.0.6.jar",
+    "name": "Caelus API",
+    "mod_ids": [
+      "caelus"
+    ],
+    "version_metadata": "1.19.2-3.0.0.6",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "canary-mc1.19.2-0.3.3.jar",
+    "name": "Canary",
+    "mod_ids": [
+      "canary"
+    ],
+    "version_metadata": "0.3.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "carryon-forge-1.19.2-2.1.2.23.jar",
+    "name": "Carry On",
+    "mod_ids": [
+      "carryon"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "L_Enders_Cataclysm-2.46-1.19.2.jar",
+    "name": "Cataclysm Mod",
+    "mod_ids": [
+      "cataclysm"
+    ],
+    "version_metadata": "2.46",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "celestisynth-1.19.2-1.1.5.jar",
+    "name": "Celestisynth",
+    "mod_ids": [
+      "celestisynth"
+    ],
+    "version_metadata": "1.19.2-1.1.5",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "celestweaks-beta-0.9.7-1.19.2.jar",
+    "name": "Celestweaks",
+    "mod_ids": [
+      "celestweaks"
+    ],
+    "version_metadata": "0.9.7",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ctov-3.2.6c.jar",
+    "name": "ChoiceTheorem's Overhauled Village",
+    "mod_ids": [
+      "ctov"
+    ],
+    "version_metadata": "3.2.6c",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "chunksending-1.19.2-2.8.jar",
+    "name": "chunksending mod",
+    "mod_ids": [
+      "chunksending"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "cisco_mod_9.6.jar",
+    "name": "Cisco's Content",
+    "mod_ids": [
+      "cisco_mod"
+    ],
+    "version_metadata": "5.8",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ciscounbound-1.2.jar",
+    "name": "Ciscos Content Unbound",
+    "mod_ids": [
+      "ciscounbound"
+    ],
+    "version_metadata": "0.0.1-1.19.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "citadel-2.1.4-1.19.jar",
+    "name": "Citadel",
+    "mod_ids": [
+      "citadel"
+    ],
+    "version_metadata": "2.1.4",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "clayworks-1.19.2-2.1.0.jar",
+    "name": "Clayworks",
+    "mod_ids": [
+      "clayworks"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "cloth-config-8.3.134-forge.jar",
+    "name": "Cloth Config v8 API",
+    "mod_ids": [
+      "cloth_config"
+    ],
+    "version_metadata": "8.3.134",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Clumps-forge-1.19.2-9.0.0+14.jar",
+    "name": "Clumps",
+    "mod_ids": [
+      "clumps"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "collection-of-singiro-1.19.x-1.1.4.jar",
+    "name": "Collection of Singiro",
+    "mod_ids": [
+      "collectionofsingiro"
+    ],
+    "version_metadata": "1.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "combatroll-forge-1.1.5+1.19.jar",
+    "name": "Combat Roll",
+    "mod_ids": [
+      "combatroll"
+    ],
+    "version_metadata": "1.1.5+1.19",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "comforts-forge-6.0.7+1.19.2.jar",
+    "name": "Comforts",
+    "mod_ids": [
+      "comforts"
+    ],
+    "version_metadata": "6.0.7+1.19.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "connectivity-1.19.2-4.6.jar",
+    "name": "Connectivity Mod",
+    "mod_ids": [
+      "connectivity"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "constructionwand-1.19.2-2.10.jar",
+    "name": "Construction Wand",
+    "mod_ids": [
+      "constructionwand"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Controlling-forge-1.19.2-10.0+7.jar",
+    "name": "Controlling",
+    "mod_ids": [
+      "controlling"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "Guide disponible",
+    "guide": "../guide/debuter.md"
+  },
+  {
+    "file": "CorgiLib-forge-1.19.2-1.0.0.34.jar",
+    "name": "CorgiLib",
+    "mod_ids": [
+      "corgilib"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "corpse-forge-1.19.2-1.0.17.jar",
+    "name": "Corpse",
+    "mod_ids": [
+      "corpse"
+    ],
+    "version_metadata": "1.19.2-1.0.17",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.2.jar",
+    "name": "corpsecurioscompat",
+    "mod_ids": [
+      "corpsecurioscompat"
+    ],
+    "version_metadata": "2.2.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "CraftTweaker-forge-1.19.2-10.1.56.jar",
+    "name": "CraftTweaker",
+    "mod_ids": [
+      "crafttweaker"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "CrashAssistant-forge-1.19-1.20.1-1.11.9.jar",
+    "name": "Crash Assistant",
+    "mod_ids": [
+      "crash_assistant"
+    ],
+    "version_metadata": "1.11.9",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "CraterLib-Forge-1.19.2-3.0.1.jar",
+    "name": "CraterLib",
+    "mod_ids": [
+      "craterlib"
+    ],
+    "version_metadata": "3.0.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "CullLessLeaves-Reforged-1.0.5.jar",
+    "name": "Cull Less Leaves Reforged",
+    "mod_ids": [
+      "culllessleaves"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "cupboard-1.19.2-2.6.jar",
+    "name": "Cupboard utilities",
+    "mod_ids": [
+      "cupboard"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "curios-forge-1.19.2-5.1.6.4.jar",
+    "name": "Curios API",
+    "mod_ids": [
+      "curios"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "DarkerDepths-1.19.2-1.0.0.jar",
+    "name": "Darker Depths",
+    "mod_ids": [
+      "darkerdepths"
+    ],
+    "version_metadata": "1.19-1.0.7",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Decorative Blocks-forge-1.19.2-3.0.0.jar",
+    "name": "Decorative Blocks",
+    "mod_ids": [
+      "decorative_blocks"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "deep_aether-1.19.2-1.0.4.jar",
+    "name": "Deep Aether",
+    "mod_ids": [
+      "deep_aether"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "deeperdarker-forge-1.19.2-1.2.2.jar",
+    "name": "Deeper and Darker",
+    "mod_ids": [
+      "deeperdarker"
+    ],
+    "version_metadata": "1.2.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "defaultoptions-forge-1.19-15.0.2.jar",
+    "name": "Default Options",
+    "mod_ids": [
+      "defaultoptions"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Delightful-1.19.2-3.4.1.jar",
+    "name": "Delightful",
+    "mod_ids": [
+      "delightful"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "doespotatotick-1.19.2-5.3.4.jar",
+    "name": "DoesPotatoTick",
+    "mod_ids": [
+      "doespotatotick"
+    ],
+    "version_metadata": "1.19.2-5.3.4",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "domum_ornamentum-1.19-1.0.146-BETA-universal.jar",
+    "name": "Domum Ornamentum",
+    "mod_ids": [
+      "domum_ornamentum"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "dragon_enchants-1.0.4-1.19.2.jar",
+    "name": "Dragon Enchants",
+    "mod_ids": [
+      "dragonenchants"
+    ],
+    "version_metadata": "1.0.4",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "DramaticDoors-QuiFabrge-1.19.2-3.2.7.jar",
+    "name": "Dramatic Doors",
+    "mod_ids": [
+      "dramaticdoors"
+    ],
+    "version_metadata": "1.19.2-3.2.7",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "dreadsteel-1.19.2-1.1.6.jar",
+    "name": "Dreadsteel",
+    "mod_ids": [
+      "dreadsteel"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "DungeonCrawl-1.19-2.3.12.jar",
+    "name": "Dungeon Crawl",
+    "mod_ids": [
+      "dungeoncrawl"
+    ],
+    "version_metadata": "2.3.12",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "dungeons-and-taverns-2.0.2 forge.jar",
+    "name": "Dungeons and Taverns",
+    "mod_ids": [
+      "dungeons_andtaverns_mr"
+    ],
+    "version_metadata": "2.0.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "dungeons_enhanced-1.19.2-4.1.jar",
+    "name": "Dungeons Enhanced",
+    "mod_ids": [
+      "dungeons_enhanced"
+    ],
+    "version_metadata": "4.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "dungeons_plus-1.19.2-1.3.1.jar",
+    "name": "Dungeons Plus",
+    "mod_ids": [
+      "dungeons_plus"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "dynamic-fps-3.9.5+minecraft-1.19.0-forge.jar",
+    "name": "Dynamic FPS",
+    "mod_ids": [
+      "dynamic_fps"
+    ],
+    "version_metadata": "3.9.5",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "easy-villagers-forge-1.19.2-1.1.23.jar",
+    "name": "Easy Villagers",
+    "mod_ids": [
+      "easy_villagers"
+    ],
+    "version_metadata": "1.19.2-1.1.23",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "eccentrictome-1.19.2-1.10.2.jar",
+    "name": "Eccentric Tome",
+    "mod_ids": [
+      "eccentrictome"
+    ],
+    "version_metadata": "1.19.2-1.10.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ecologics-forge-1.19.2-2.1.11.jar",
+    "name": "Ecologics",
+    "mod_ids": [
+      "ecologics"
+    ],
+    "version_metadata": "2.1.11",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "elevatorid-1.19.2-1.8.10.jar",
+    "name": "Elevator Mod",
+    "mod_ids": [
+      "elevatorid"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "elytraslot-forge-6.1.2+1.19.2.jar",
+    "name": "Elytra Slot",
+    "mod_ids": [
+      "elytraslot"
+    ],
+    "version_metadata": "6.1.2+1.19.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar",
+    "name": "EnchantmentDescriptions",
+    "mod_ids": [
+      "enchdesc"
+    ],
+    "version_metadata": "13.0.14",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "endrem_forge-5.2.1-R-1.19.X.jar",
+    "name": "End Remastered",
+    "mod_ids": [
+      "endrem"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "End's Phantasm - BETAv1.2.10.5 - 1.19.2.jar",
+    "name": "End's Phantasm",
+    "mod_ids": [
+      "phantasm"
+    ],
+    "version_metadata": "1.2.10.5",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "EndlessBiomes 1.4s - 1.19.2 (Server-friendly).jar",
+    "name": "EndlessBiomes",
+    "mod_ids": [
+      "endlessbiomes"
+    ],
+    "version_metadata": "1.0.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "enemyexpansion-2.4.0-forge-1.19.2.jar",
+    "name": "Enemy Expansion",
+    "mod_ids": [
+      "enemyexpansion"
+    ],
+    "version_metadata": "2.4.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "enigmaticaddons-1.19.2-1.2.2.jar",
+    "name": "Enigmatic Addons",
+    "mod_ids": [
+      "enigmaticaddons"
+    ],
+    "version_metadata": "1.19.2-1.2.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "EnigmaticLegacy-2.26.5.jar",
+    "name": "Enigmatic Legacy",
+    "mod_ids": [
+      "enigmaticlegacy"
+    ],
+    "version_metadata": "2.26.5",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Entity_Collision_FPS_Fix-forge-1.19-2.0.0.0.jar",
+    "name": "Entity Collision FPS Fix",
+    "mod_ids": [
+      "entitycollisionfpsfix"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "entityculling-forge-1.6.1-mc1.19.2.jar",
+    "name": "EntityCulling",
+    "mod_ids": [
+      "entityculling"
+    ],
+    "version_metadata": "1.6.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ExplorersCompass-1.19.2-1.3.0-forge.jar",
+    "name": "Explorer's Compass",
+    "mod_ids": [
+      "explorerscompass"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "Guide disponible",
+    "guide": "../guide/exploration.md"
+  },
+  {
+    "file": "Explorify v1.6.3 f10-88.mod.jar",
+    "name": "Explorify",
+    "mod_ids": [
+      "explorify"
+    ],
+    "version_metadata": "1.6.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "fancymenu_forge_3.8.1_MC_1.19.2.jar",
+    "name": "FancyMenu",
+    "mod_ids": [
+      "fancymenu"
+    ],
+    "version_metadata": "3.8.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "fantasyfurniture-1.19.2-6.7.0.jar",
+    "name": "Fantasy's Furniture",
+    "mod_ids": [
+      "fantasyfurniture"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "FarmersDelight-1.19.2-1.2.4.jar",
+    "name": "Farmer's Delight",
+    "mod_ids": [
+      "farmersdelight"
+    ],
+    "version_metadata": "1.19.2-1.2.4",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "FarmersRespite-1.19-2.0.jar",
+    "name": "Farmer's Respite",
+    "mod_ids": [
+      "farmersrespite"
+    ],
+    "version_metadata": "1.19-2.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "fastpaintings-1.19-1.1.3.jar",
+    "name": "Fast Paintings",
+    "mod_ids": [
+      "fastpaintings"
+    ],
+    "version_metadata": "1.19-1.1.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "fastasyncworldsave-1.19.2-2.0.jar",
+    "name": "fastasyncworldsave mod",
+    "mod_ids": [
+      "fastasyncworldsave"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ferritecore-5.0.3-forge.jar",
+    "name": "Ferrite Core",
+    "mod_ids": [
+      "ferritecore"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "forbidden_arcanus-1.19.2-2.1.5.jar",
+    "name": "Forbidden & Arcanus",
+    "mod_ids": [
+      "forbidden_arcanus"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ftb-chunks-forge-1902.4.7-build.420.jar",
+    "name": "FTB Chunks",
+    "mod_ids": [
+      "ftbchunks"
+    ],
+    "version_metadata": "1902.4.7-build.420",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ftb-library-forge-1902.4.1-build.236.jar",
+    "name": "FTB Library",
+    "mod_ids": [
+      "ftblibrary"
+    ],
+    "version_metadata": "1902.4.1-build.236",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ftb-quests-forge-1902.5.10-build.497.jar",
+    "name": "FTB Quests",
+    "mod_ids": [
+      "ftbquests"
+    ],
+    "version_metadata": "1902.5.10-build.497",
+    "metadata_source": "mods.toml",
+    "status": "Guide disponible",
+    "guide": "../guide/progression.md"
+  },
+  {
+    "file": "ftb-teams-forge-1902.2.14-build.123.jar",
+    "name": "FTB Teams",
+    "mod_ids": [
+      "ftbteams"
+    ],
+    "version_metadata": "1902.2.14-build.123",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ftb-ultimine-forge-1902.4.2-build.14.jar",
+    "name": "FTB Ultimine",
+    "mod_ids": [
+      "ftbultimine"
+    ],
+    "version_metadata": "1902.4.2-build.14",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ftb-xmod-compat-forge-1.2.4.jar",
+    "name": "FTB XMod Compat",
+    "mod_ids": [
+      "ftbxmodcompat"
+    ],
+    "version_metadata": "1.2.4",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Galosphere-1.19.2-1.3.0-Forge.jar",
+    "name": "Galosphere",
+    "mod_ids": [
+      "galosphere"
+    ],
+    "version_metadata": "1.19.2-1.3.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "GameStages-Forge-1.19.2-11.1.4.jar",
+    "name": "GameStages",
+    "mod_ids": [
+      "gamestages"
+    ],
+    "version_metadata": "11.1.4",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "GatewaysToEternity-1.19.2-3.2.3.jar",
+    "name": "Gateways To Eternity",
+    "mod_ids": [
+      "gateways"
+    ],
+    "version_metadata": "3.2.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "geckolib-forge-1.19-3.1.40.jar",
+    "name": "GeckoLib",
+    "mod_ids": [
+      "geckolib3"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "getittogetherdrops-forge-1.19.2-1.3.jar",
+    "name": "Get It Together, Drops!",
+    "mod_ids": [
+      "getittogetherdrops"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "goblintraders-1.8.0-1.19.2.jar",
+    "name": "Goblin Traders",
+    "mod_ids": [
+      "goblintraders"
+    ],
+    "version_metadata": "1.8.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "gpumemleakfix-1.19.2-1.6.jar",
+    "name": "Gpu memory leak fix",
+    "mod_ids": [
+      "gpumemleakfix"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Highlighter-1.19.1-1.1.4.jar",
+    "name": "Highlighter",
+    "mod_ids": [
+      "highlighter"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "HopoBetterRuinedPortals-[1.19-1.19.3]-1.3.3b.jar",
+    "name": "HopoBetterRuinedPortals",
+    "mod_ids": [
+      "hoporp"
+    ],
+    "version_metadata": "1.3.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "humancompanions-1.19.2-1.7.4.jar",
+    "name": "Human Companions",
+    "mod_ids": [
+      "humancompanions"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Iceberg-1.19.2-forge-1.1.4.jar",
+    "name": "Iceberg",
+    "mod_ids": [
+      "iceberg"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ImmediatelyFast-Forge-1.4.0+1.19.2.jar",
+    "name": "ImmediatelyFast",
+    "mod_ids": [
+      "immediatelyfast"
+    ],
+    "version_metadata": "1.4.0+1.19.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "immersive_armors-1.5.6+1.19.2-forge.jar",
+    "name": "Immersive Armors",
+    "mod_ids": [
+      "immersive_armors"
+    ],
+    "version_metadata": "1.5.6+1.19.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "immersive_paintings-0.6.7+1.19.2-forge.jar",
+    "name": "Immersive Paintings",
+    "mod_ids": [
+      "immersive_paintings"
+    ],
+    "version_metadata": "0.6.7+1.19.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Incendium_1.19.3_v5.1.6.jar",
+    "name": "Incendium",
+    "mod_ids": [
+      "incendium"
+    ],
+    "version_metadata": "5.1.6",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "infernalmobs-1.19.2.4.jar",
+    "name": "Infernal Mobs",
+    "mod_ids": [
+      "infernalmobs"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "InsaneLib-1.7.5-mc1.19.2.jar",
+    "name": "InsaneLib",
+    "mod_ids": [
+      "insanelib"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ironchest-1.19.2-14.2.7.jar",
+    "name": "Iron Chests",
+    "mod_ids": [
+      "ironchest"
+    ],
+    "version_metadata": "1.19.2-14.2.7",
+    "metadata_source": "mods.toml",
+    "status": "Guide disponible",
+    "guide": "../guide/rangement.md"
+  },
+  {
+    "file": "ironfurnaces-1.19.2-3.6.5.jar",
+    "name": "Iron Furnaces",
+    "mod_ids": [
+      "ironfurnaces"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "irons_spellbooks-1.19.2-3.4.0.jar",
+    "name": "Iron's Spells 'n Spellbooks",
+    "mod_ids": [
+      "irons_spellbooks"
+    ],
+    "version_metadata": "1.19.2-3.4.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "takesapillage-1.0.3-1.19.2.jar",
+    "name": "It Takes A Pillage",
+    "mod_ids": [
+      "takesapillage"
+    ],
+    "version_metadata": "1.0.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "item-filters-forge-1902.2.9-build.51.jar",
+    "name": "Item Filters",
+    "mod_ids": [
+      "itemfilters"
+    ],
+    "version_metadata": "1902.2.9-build.51",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Item_Obliterator-FORGE-MC1.19.2-1.6.2.jar",
+    "name": "Item Obliterator",
+    "mod_ids": [
+      "item_obliterator"
+    ],
+    "version_metadata": "1.6.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ItemProductionLib-1.19.2-1.0.2a-all.jar",
+    "name": "Item Production Lib",
+    "mod_ids": [
+      "itemproductionlib"
+    ],
+    "version_metadata": "1.0.2a",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ItemStages-Forge-1.19.2-5.1.4.jar",
+    "name": "ItemStages",
+    "mod_ids": [
+      "itemstages"
+    ],
+    "version_metadata": "5.1.4",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "iterpg-0.5.0-1.19.2.jar",
+    "name": "Iter RPG",
+    "mod_ids": [
+      "iter_rpg"
+    ],
+    "version_metadata": "0.5.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Jade-1.19.1-forge-8.9.2.jar",
+    "name": "Jade",
+    "mod_ids": [
+      "jade"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "Guide disponible",
+    "guide": "../guide/debuter.md"
+  },
+  {
+    "file": "jei-1.19.2-forge-11.8.1.1034.jar",
+    "name": "Just Enough Items",
+    "mod_ids": [
+      "jei"
+    ],
+    "version_metadata": "11.8.1.1034",
+    "metadata_source": "mods.toml",
+    "status": "Guide disponible",
+    "guide": "../guide/recherche.md"
+  },
+  {
+    "file": "JustEnoughResources-1.19.2-1.2.3.243.jar",
+    "name": "Just Enough Resources",
+    "mod_ids": [
+      "jeresources"
+    ],
+    "version_metadata": "1.2.3.243",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "knightlib-forge-1.19.2-1.2.0.jar",
+    "name": "Knight Lib",
+    "mod_ids": [
+      "knightlib"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "knightquest-1.8.5.jar",
+    "name": "Knight Quest",
+    "mod_ids": [
+      "knightquest"
+    ],
+    "version_metadata": "1.8.5",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "konkrete_forge_1.8.0_MC_1.19-1.19.2.jar",
+    "name": "Konkrete",
+    "mod_ids": [
+      "konkrete"
+    ],
+    "version_metadata": "1.8.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "kubejs-forge-1902.6.2-build.73.jar",
+    "name": "KubeJS",
+    "mod_ids": [
+      "kubejs"
+    ],
+    "version_metadata": "1902.6.2-build.73",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "lazydfu-1.19-1.0.2.jar",
+    "name": "LazyDFU",
+    "mod_ids": [
+      "lazydfu"
+    ],
+    "version_metadata": "0.1.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "LeavesBeGone-v4.0.1-1.19.2-Forge.jar",
+    "name": "Leaves Be Gone",
+    "mod_ids": [
+      "leavesbegone"
+    ],
+    "version_metadata": "4.0.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "LegendaryTooltips-1.19.2-forge-1.4.0.jar",
+    "name": "Legendary Tooltips",
+    "mod_ids": [
+      "legendarytooltips"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "letmedespawn-forge-1.3.2b.jar",
+    "name": "Let Me Despawn",
+    "mod_ids": [
+      "letmedespawn"
+    ],
+    "version_metadata": "1.3.2b",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "doapi-1.1.0b.jar",
+    "name": "Lets Do Api + Terraform Wood Api Reforged",
+    "mod_ids": [
+      "doapi",
+      "terraform"
+    ],
+    "version_metadata": "1.1.0b, 4.2.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "libraryferret-forge-1.19.2-4.0.0.jar",
+    "name": "Library ferret",
+    "mod_ids": [
+      "libraryferret"
+    ],
+    "version_metadata": "4.0.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "lionfishapi-1.8.jar",
+    "name": "LionfishAPI",
+    "mod_ids": [
+      "lionfishapi"
+    ],
+    "version_metadata": "1.8",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "LongNbtKiller-Forge-1.19.2-1.0.0.jar",
+    "name": "LongNbtKiller",
+    "mod_ids": [
+      "longnbtkiller"
+    ],
+    "version_metadata": "1.0.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "lootintegrations-1.19.2-4.7.jar",
+    "name": "Lootintegrations mod",
+    "mod_ids": [
+      "lootintegrations"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "lootr-forge-1.19-0.4.29.76.jar",
+    "name": "Lootr",
+    "mod_ids": [
+      "lootr"
+    ],
+    "version_metadata": "0.4.28.75",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "majrusz-library-forge-1.19.2-7.0.5-backport.1.jar",
+    "name": "Majrusz Library",
+    "mod_ids": [
+      "majruszlibrary"
+    ],
+    "version_metadata": "7.0.5-backport.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "majruszs-accessories-forge-1.19.2-1.5.2-backport.2.jar",
+    "name": "Majrusz's Accessories",
+    "mod_ids": [
+      "majruszsaccessories"
+    ],
+    "version_metadata": "1.5.2-backport.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "majruszs-enchantments-forge-1.19.2-1.10.7-backport.1.jar",
+    "name": "Majrusz's Enchantments",
+    "mod_ids": [
+      "majruszsenchantments"
+    ],
+    "version_metadata": "1.10.7-backport.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "majruszs-difficulty-forge-1.19.2-1.9.9-backport.1.jar",
+    "name": "Majrusz's Progressive Difficulty",
+    "mod_ids": [
+      "majruszsdifficulty"
+    ],
+    "version_metadata": "1.9.9-backport.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "MaxHealthFix-Forge-1.19.2-8.0.2.jar",
+    "name": "MaxHealthFix",
+    "mod_ids": [
+      "maxhealthfix"
+    ],
+    "version_metadata": "8.0.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "mcsa-forge-3.1.4+1.19.jar",
+    "name": "MC Story Mode Armors",
+    "mod_ids": [
+      "mcsa"
+    ],
+    "version_metadata": "3.1.4+1.19",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "medieval_paintings-1.19.2-7.0.jar",
+    "name": "Medieval Paintings",
+    "mod_ids": [
+      "medieval_paintings"
+    ],
+    "version_metadata": "7.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "zmedievalmusic-1.19.2-2.0.jar",
+    "name": "medievalmusic mod",
+    "mod_ids": [
+      "medievalmusic"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "meetyourfight-1.19.2-1.3.4.jar",
+    "name": "Meet Your Fight",
+    "mod_ids": [
+      "meetyourfight"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "melody_forge_1.0.1_MC_1.19.2.jar",
+    "name": "Melody",
+    "mod_ids": [
+      "melody"
+    ],
+    "version_metadata": "1.0.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "memoryleakfix-forge-1.17+-1.0.0.jar",
+    "name": "Memory Leak Fix",
+    "mod_ids": [
+      "memoryleakfix"
+    ],
+    "version_metadata": "1.0.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "memorysettings-1.19.2-5.4.jar",
+    "name": "memorysettings mod",
+    "mod_ids": [
+      "memorysettings"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "minecolonies-1.19.2-1.1.516-BETA.jar",
+    "name": "MineColonies",
+    "mod_ids": [
+      "minecolonies"
+    ],
+    "version_metadata": "1.19.2-1.1.516-BETA",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "potfix-cataclysm-addon-1.0.6.jar",
+    "name": "mixample",
+    "mod_ids": [
+      "mixample"
+    ],
+    "version_metadata": "1.0.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "dummmmmmy-1.19.2-1.7.1.jar",
+    "name": "MmmMmmMmmmmm",
+    "mod_ids": [
+      "dummmmmmy"
+    ],
+    "version_metadata": "1.19.2-1.7.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "modernfix-forge-5.18.1+mc1.19.2.jar",
+    "name": "ModernFix",
+    "mod_ids": [
+      "modernfix"
+    ],
+    "version_metadata": "5.18.1+mc1.19.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "moonlight-1.19.2-2.3.7-forge.jar",
+    "name": "Moonlight Library",
+    "mod_ids": [
+      "moonlight"
+    ],
+    "version_metadata": "1.19.2-2.3.7",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "morevillagers-forge-1.19-4.0.3.jar",
+    "name": "More Villagers",
+    "mod_ids": [
+      "morevillagers"
+    ],
+    "version_metadata": "4.0.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "MouseTweaks-forge-mc1.19-2.23.jar",
+    "name": "Mouse Tweaks",
+    "mod_ids": [
+      "mousetweaks"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "mowziesmobs-1.6.3.jar",
+    "name": "Mowzie's Mobs",
+    "mod_ids": [
+      "mowziesmobs"
+    ],
+    "version_metadata": "1.6.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "multipiston-1.19.2-1.2.25-ALPHA.jar",
+    "name": "Multi-Piston",
+    "mod_ids": [
+      "multipiston"
+    ],
+    "version_metadata": "1.19.2-1.2.25-ALPHA",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "MutantMonsters-v4.0.6-1.19.2-Forge.jar",
+    "name": "Mutant Monsters",
+    "mod_ids": [
+      "mutantmonsters"
+    ],
+    "version_metadata": "4.0.6",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "MyServerIsCompatible-1.19-1.0.jar",
+    "name": "MyServerIsCompatible",
+    "mod_ids": [
+      "myserveriscompatible"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "mythicmounts-19.2-7.2.1-forge.jar",
+    "name": "MythicMounts",
+    "mod_ids": [
+      "mythicmounts"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "NaturesCompass-1.19.2-1.10.0-forge.jar",
+    "name": "Nature's Compass",
+    "mod_ids": [
+      "naturescompass"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "Guide disponible",
+    "guide": "../guide/exploration.md"
+  },
+  {
+    "file": "Necronomicon-Forge-1.4.2.jar",
+    "name": "Necronomicon",
+    "mod_ids": [
+      "necronomicon"
+    ],
+    "version_metadata": "1.4.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "NethersDelight-1.19-3.1.jar",
+    "name": "Nether's Delight",
+    "mod_ids": [
+      "nethersdelight"
+    ],
+    "version_metadata": "1.19-3.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "NightConfigFixes-v4.0.7-1.19.2-Forge.jar",
+    "name": "Night Config Fixes",
+    "mod_ids": [
+      "nightconfigfixes"
+    ],
+    "version_metadata": "4.0.7",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "noisium-1.0.2.jar",
+    "name": "Noisium",
+    "mod_ids": [
+      "noisium"
+    ],
+    "version_metadata": "1.0.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "nerb-1.19.2-0.3-FORGE.jar",
+    "name": "Not Enough Recipe Book",
+    "mod_ids": [
+      "nerb"
+    ],
+    "version_metadata": "0.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "obscure_api-15.jar",
+    "name": "Obscure API",
+    "mod_ids": [
+      "obscure_api"
+    ],
+    "version_metadata": "15",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "octolib-1.19.2-0.3.jar",
+    "name": "OctoLib",
+    "mod_ids": [
+      "octolib"
+    ],
+    "version_metadata": "0.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "oculus-mc1.19.2-1.6.9a.jar",
+    "name": "Oculus",
+    "mod_ids": [
+      "oculus"
+    ],
+    "version_metadata": "1.6.9a",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar",
+    "name": "Oh The Biomes You'll Go",
+    "mod_ids": [
+      "byg"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "origins-forge-1.19.2-1.7.1.7-all.jar",
+    "name": "Origins",
+    "mod_ids": [
+      "origins"
+    ],
+    "version_metadata": "1.19.2-1.7.1.7",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "origins-accessbilities-1.19.2-1.1.1.jar",
+    "name": "Origins: Accessibilities",
+    "mod_ids": [
+      "oriacs"
+    ],
+    "version_metadata": "1.1.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "origins-classes-forge-1.2.1.jar",
+    "name": "Origins: Classes",
+    "mod_ids": [
+      "origins_classes"
+    ],
+    "version_metadata": "1.2.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "OverflowingBars-v4.0.1-1.19.2-Forge.jar",
+    "name": "Overflowing Bars",
+    "mod_ids": [
+      "overflowingbars"
+    ],
+    "version_metadata": "4.0.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "packetfixer-3.1.4-1.18-1.20.4-merged.jar",
+    "name": "PacketFixer",
+    "mod_ids": [
+      "packetfixer"
+    ],
+    "version_metadata": "3.1.4",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "PassiveSkillTree-1.19.2-BETA-0.6.14b-all.jar",
+    "name": "Passive Skill Tree",
+    "mod_ids": [
+      "skilltree"
+    ],
+    "version_metadata": "0.6.14b",
+    "metadata_source": "mods.toml",
+    "status": "Guide disponible",
+    "guide": "../guide/progression.md"
+  },
+  {
+    "file": "Patchouli-1.19.2-77.jar",
+    "name": "Patchouli",
+    "mod_ids": [
+      "patchouli"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Paxi-1.19.2-Forge-3.0.1.jar",
+    "name": "Paxi",
+    "mod_ids": [
+      "paxi"
+    ],
+    "version_metadata": "1.19.2-Forge-3.0.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Pehkui-3.8.2+1.19.2-forge.jar",
+    "name": "Pehkui",
+    "mod_ids": [
+      "pehkui"
+    ],
+    "version_metadata": "3.8.2+1.19.2-forge",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Placebo-1.19.2-7.4.1.jar",
+    "name": "Placebo",
+    "mod_ids": [
+      "placebo"
+    ],
+    "version_metadata": "7.4.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "player-animation-lib-forge-1.0.2.jar",
+    "name": "Player Animator",
+    "mod_ids": [
+      "playeranimator"
+    ],
+    "version_metadata": "1.0.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "pluto-mc1.19.2-0.0.9.jar",
+    "name": "Pluto",
+    "mod_ids": [
+      "pluto"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "polymorph-forge-0.46.6+1.19.2.jar",
+    "name": "Polymorph",
+    "mod_ids": [
+      "polymorph"
+    ],
+    "version_metadata": "0.46.6+1.19.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Prism-1.19.1-1.0.2.jar",
+    "name": "Prism",
+    "mod_ids": [
+      "prism"
+    ],
+    "version_metadata": "1.0.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "ProgressiveBosses-3.7.6-mc1.19.2.jar",
+    "name": "Progressive Bosses",
+    "mod_ids": [
+      "progressivebosses"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "PuzzlesLib-v4.4.3-1.19.2-Forge.jar",
+    "name": "Puzzles Lib",
+    "mod_ids": [
+      "puzzleslib"
+    ],
+    "version_metadata": "4.4.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Quark-3.4-418.jar",
+    "name": "Quark",
+    "mod_ids": [
+      "quark"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Raided-1.19.2-0.1.6.jar",
+    "name": "Raided",
+    "mod_ids": [
+      "raided"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "recipeessentials-1.19.2-3.5.jar",
+    "name": "recipeessentials mod",
+    "mod_ids": [
+      "recipeessentials"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "redirector-5.0.0.jar",
+    "name": "Redirector",
+    "mod_ids": [
+      "redirector"
+    ],
+    "version_metadata": "5.0.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "relics-1.19.2-0.6.2.5.jar",
+    "name": "Relics",
+    "mod_ids": [
+      "relics"
+    ],
+    "version_metadata": "0.6.2.5",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "repurposed_structures_forge-6.3.29+1.19.2.jar",
+    "name": "Repurposed Structures",
+    "mod_ids": [
+      "repurposed_structures"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "rhino-forge-1902.2.3-build.284.jar",
+    "name": "Rhino",
+    "mod_ids": [
+      "rhino"
+    ],
+    "version_metadata": "1902.2.3-build.284",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "right-click-harvest-3.2.3+1.19.2-forge.jar",
+    "name": "Right Click Harvest",
+    "mod_ids": [
+      "rightclickharvest"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "RingsOfAscension-1.19-1.0.1.jar",
+    "name": "Rings of Ascension",
+    "mod_ids": [
+      "ringsofascension"
+    ],
+    "version_metadata": "1.0.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "royal_variations_[Forge]_1.19.2_1.0.jar",
+    "name": "Royal Variations",
+    "mod_ids": [
+      "royalvariations"
+    ],
+    "version_metadata": "1.0.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "rubidium-mc1.19.2-0.6.2c.jar",
+    "name": "Rubidium",
+    "mod_ids": [
+      "rubidium"
+    ],
+    "version_metadata": "0.6.2c",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "rubidium_extras-1.19.2_v1.4.3.jar",
+    "name": "Rubidium Extras",
+    "mod_ids": [
+      "rubidium_extras"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "saturn-mc1.19.2-0.1.4.jar",
+    "name": "Saturn",
+    "mod_ids": [
+      "saturn"
+    ],
+    "version_metadata": "0.1.4",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "savage_and_ravage-1.19.2-5.0.5.jar",
+    "name": "Savage & Ravage",
+    "mod_ids": [
+      "savage_and_ravage"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "servercore-forge-1.3.6+1.19.2.jar",
+    "name": "ServerCore",
+    "mod_ids": [
+      "servercore"
+    ],
+    "version_metadata": "1.3.6+1.19.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "shadowizardlib-1.19.2-1.0.8.jar",
+    "name": "ShadowizardLib",
+    "mod_ids": [
+      "shadowizardlib"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "SimpleLogin-1.19.2-1.0.1.jar",
+    "name": "Simple Login",
+    "mod_ids": [
+      "simplelogin"
+    ],
+    "version_metadata": "1.0.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "SimpleRPC-4.0.4.jar",
+    "name": "Simple RPC",
+    "mod_ids": [
+      "simplerpc"
+    ],
+    "version_metadata": "4.0.4",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "simplyswords-forge-1.47.0-1.19.2.jar",
+    "name": "Simply Swords",
+    "mod_ids": [
+      "simplyswords"
+    ],
+    "version_metadata": "1.47.0-1.19.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "SkyVillages-1.0.3-1.19.2-1.20.x-forge-release.jar",
+    "name": "Sky Villages",
+    "mod_ids": [
+      "skyvillages"
+    ],
+    "version_metadata": "1.0.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "smallships-forge-1.19.2-2.0.0-b1.3.1.jar",
+    "name": "Small Ships",
+    "mod_ids": [
+      "smallships"
+    ],
+    "version_metadata": "2.0.0-b1.3.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "smoothboot(reloaded)-mc1.19.2-0.0.4.jar",
+    "name": "Smooth Boot (Reloaded)",
+    "mod_ids": [
+      "smoothboot"
+    ],
+    "version_metadata": "0.0.4",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "sons-of-sins-1.19.2-2.1.6.jar",
+    "name": "Sons of Sins",
+    "mod_ids": [
+      "sons_of_sins"
+    ],
+    "version_metadata": "2.1.6",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "sophisticatedbackpacks-1.19.2-3.20.2.1035.jar",
+    "name": "Sophisticated Backpacks",
+    "mod_ids": [
+      "sophisticatedbackpacks"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "Guide disponible",
+    "guide": "../guide/rangement.md"
+  },
+  {
+    "file": "sophisticatedcore-1.19.2-0.6.4.730.jar",
+    "name": "Sophisticated Core",
+    "mod_ids": [
+      "sophisticatedcore"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "solapplepie-1.19.2-2.2.0.jar",
+    "name": "Spice of Life: Apple Pie Edition",
+    "mod_ids": [
+      "solapplepie"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "stalwart-dungeons-1.19.2-1.2.8.jar",
+    "name": "Stalwart Dungeons",
+    "mod_ids": [
+      "stalwart_dungeons"
+    ],
+    "version_metadata": "1.2.8",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "starlight-1.1.1+forge.cf5b10b.jar",
+    "name": "Starlight",
+    "mod_ids": [
+      "starlight"
+    ],
+    "version_metadata": "1.1.1+forge.a3aea74",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "StorageDrawers-1.19.2-11.4.1.jar",
+    "name": "Storage Drawers",
+    "mod_ids": [
+      "storagedrawers"
+    ],
+    "version_metadata": "11.4.1",
+    "metadata_source": "mods.toml",
+    "status": "Guide disponible",
+    "guide": "../guide/rangement.md"
+  },
+  {
+    "file": "strictly_origins_v9.2.1_1.19.2.jar",
+    "name": "Strictly Origins",
+    "mod_ids": [
+      "strictly_origins"
+    ],
+    "version_metadata": "8",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Structory_1.19.3_v1.3.1a.jar",
+    "name": "Structory",
+    "mod_ids": [
+      "structory"
+    ],
+    "version_metadata": "1.3.1a",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Structory_Towers_1.19.3_v1.0.2.jar",
+    "name": "Structory: Towers",
+    "mod_ids": [
+      "structorytowers"
+    ],
+    "version_metadata": "1.0.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "structureessentials-1.19.2-3.2.jar",
+    "name": "Structure Essentials mod",
+    "mod_ids": [
+      "structureessentials"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "structure_gel-1.19.2-2.7.3.jar",
+    "name": "Structure Gel API",
+    "mod_ids": [
+      "structure_gel"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "structurize-1.19.2-1.0.689-RELEASE.jar",
+    "name": "Structurize",
+    "mod_ids": [
+      "structurize"
+    ],
+    "version_metadata": "1.19.2-1.0.689-RELEASE",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "stylecolonies-1.2.2.jar",
+    "name": "stylecolonies mod",
+    "mod_ids": [
+      "stylecolonies"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "supplementaries-1.19.2-2.4.20.jar",
+    "name": "Supplementaries",
+    "mod_ids": [
+      "supplementaries"
+    ],
+    "version_metadata": "1.19.2-2.4.20",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "TerraBlender-forge-1.19.2-2.0.1.166.jar",
+    "name": "TerraBlender",
+    "mod_ids": [
+      "terrablender"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "TextruesRubidiumOptions-1.0.7-mc1.19.2.jar",
+    "name": "TexTrue's Rubidium Options",
+    "mod_ids": [
+      "reeses_sodium_options"
+    ],
+    "version_metadata": "1.0.7-mc1.19.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "aether-1.19.2-1.4.2-forge.jar",
+    "name": "The Aether",
+    "mod_ids": [
+      "aether"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "tlc_forge-1.0.2-R-1.19.2.jar",
+    "name": "The Lost Castle",
+    "mod_ids": [
+      "tlc"
+    ],
+    "version_metadata": "1.0.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "twilightforest-1.19.2-4.2.1518-universal.jar",
+    "name": "The Twilight Forest",
+    "mod_ids": [
+      "twilightforest"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "toms_storage-1.19-1.5.11.jar",
+    "name": "Tom's Simple Storage Mod",
+    "mod_ids": [
+      "toms_storage"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "Guide disponible",
+    "guide": "../guide/rangement.md"
+  },
+  {
+    "file": "toofast-1.19-0.2.2.4.jar",
+    "name": "Too Fast",
+    "mod_ids": [
+      "toofast"
+    ],
+    "version_metadata": "0.2.2.4",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "toomanyglyphs-1.19.2-2.2.376.1564.jar",
+    "name": "Too Many Glyphs",
+    "mod_ids": [
+      "toomanyglyphs"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "totw_modded-forge-1.19.2-1.0.5.jar",
+    "name": "Towers of the Wild Modded",
+    "mod_ids": [
+      "totw_modded"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Towns-and-Towers-v.1.10-_FORGE-1.19.2_.jar",
+    "name": "Towns and Towers",
+    "mod_ids": [
+      "t_and_t"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "towntalk-1.19.2-1.0.1.jar",
+    "name": "TownTalk",
+    "mod_ids": [
+      "towntalk"
+    ],
+    "version_metadata": "1.0.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "transmog-forge-1.2.2+1.19.2.jar",
+    "name": "Transmog",
+    "mod_ids": [
+      "transmog"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "TravelersTitles-1.19.2-Forge-3.1.2.jar",
+    "name": "Traveler's Titles",
+    "mod_ids": [
+      "travelerstitles"
+    ],
+    "version_metadata": "1.19.2-Forge-3.1.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "twigs-forge-1.19.2-3.0.1.jar",
+    "name": "Twigs",
+    "mod_ids": [
+      "twigs"
+    ],
+    "version_metadata": "1.19.2-3.0.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "blockui-1.19.2-1.0.140-BETA.jar",
+    "name": "UI Library Mod",
+    "mod_ids": [
+      "blockui"
+    ],
+    "version_metadata": "1.19.2-1.0.140-BETA",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "UndeadUnleashed-1.1.1-1.19.2.jar",
+    "name": "Undead Unleashed",
+    "mod_ids": [
+      "undead_unleashed"
+    ],
+    "version_metadata": "1.1.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "UndergroundVillages-1.19.2-1.2.0.jar",
+    "name": "Underground Villages Mod",
+    "mod_ids": [
+      "underground_villages"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "UnusualEnd1.19.2_V1.4.3.jar",
+    "name": "Unusual End",
+    "mod_ids": [
+      "unusualend"
+    ],
+    "version_metadata": "1.4.3",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "upgrade_aquatic-1.19.2-5.1.0.jar",
+    "name": "Upgrade Aquatic",
+    "mod_ids": [
+      "upgrade_aquatic"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "upgradedcore-1.19.2-4.1.0.1-release.jar",
+    "name": "Upgraded Core",
+    "mod_ids": [
+      "upgradedcore"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "upgradednetherite-1.19.2-5.1.0.9-release.jar",
+    "name": "Upgraded Netherite",
+    "mod_ids": [
+      "upgradednetherite"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "upgradednetherite_items-1.19.2-4.1.0.2-release.jar",
+    "name": "Upgraded Netherite : Items",
+    "mod_ids": [
+      "upgradednetherite_items"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "upgradednetherite_ultimate-1.19.2-4.1.0.4-release.jar",
+    "name": "Upgraded Netherite : Ultimerite",
+    "mod_ids": [
+      "upgradednetherite_ultimate"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "valhelsia_core-forge-1.19.2-0.5.0.jar",
+    "name": "Valhelsia Core",
+    "mod_ids": [
+      "valhelsia_core"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "letsdo-vinery-forge-1.3.12b.jar",
+    "name": "Vinery",
+    "mod_ids": [
+      "vinery"
+    ],
+    "version_metadata": "1.3.12",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "Wabi-Sabi-Structures-1.2.0-1.19-Forge.jar",
+    "name": "Wabi-Sabi Structures",
+    "mod_ids": [
+      "wabi_sabi_structures"
+    ],
+    "version_metadata": "1.2.0-1.19",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "waystones-forge-1.19.2-11.4.2.jar",
+    "name": "Waystones",
+    "mod_ids": [
+      "waystones"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "Guide disponible",
+    "guide": "../guide/exploration.md"
+  },
+  {
+    "file": "DungeonsArise-1.19.2-2.1.54-release.jar",
+    "name": "When Dungeons Arise",
+    "mod_ids": [
+      "dungeons_arise"
+    ],
+    "version_metadata": "2.1.54-1.19.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "DungeonsAriseSevenSeas-1.19.2-1.0.2-forge.jar",
+    "name": "When Dungeons Arise: Seven Seas",
+    "mod_ids": [
+      "dungeons_arise_seven_seas"
+    ],
+    "version_metadata": "1.0.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "whisperwoods-1.19-2.1.1-forge.jar",
+    "name": "Whisperwoods",
+    "mod_ids": [
+      "whisperwoods"
+    ],
+    "version_metadata": "1.19-2.1.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "woodworks-1.19.2-2.2.2.jar",
+    "name": "Woodworks",
+    "mod_ids": [
+      "woodworks"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "xaerominimap-forge-1.19.2-25.3.13.jar",
+    "name": "Xaero's Minimap",
+    "mod_ids": [
+      "xaerominimap"
+    ],
+    "version_metadata": "25.3.13",
+    "metadata_source": "mods.toml",
+    "status": "Guide disponible",
+    "guide": "../guide/exploration.md"
+  },
+  {
+    "file": "xaeroworldmap-forge-1.19.2-1.40.16.jar",
+    "name": "Xaero's World Map",
+    "mod_ids": [
+      "xaeroworldmap"
+    ],
+    "version_metadata": "1.40.16",
+    "metadata_source": "mods.toml",
+    "status": "Guide disponible",
+    "guide": "../guide/exploration.md"
+  },
+  {
+    "file": "xptome-1.19-2.1.7.jar",
+    "name": "XP Tome",
+    "mod_ids": [
+      "xpbook"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar",
+    "name": "Yeetus Experimentus",
+    "mod_ids": [
+      "yeetusexperimentus"
+    ],
+    "version_metadata": "1.0.1-build.2+mc1.19.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "YungsApi-1.19.2-Forge-3.8.10.jar",
+    "name": "YUNG's API",
+    "mod_ids": [
+      "yungsapi"
+    ],
+    "version_metadata": null,
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar",
+    "name": "YUNG's Better Desert Temples",
+    "mod_ids": [
+      "betterdeserttemples"
+    ],
+    "version_metadata": "1.19.2-Forge-2.2.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "YungsBetterDungeons-1.19.2-Forge-3.2.2.jar",
+    "name": "YUNG's Better Dungeons",
+    "mod_ids": [
+      "betterdungeons"
+    ],
+    "version_metadata": "1.19.2-Forge-3.2.2",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "YungsBetterEndIsland-1.19.2-Forge-1.0.jar",
+    "name": "YUNG's Better End Island",
+    "mod_ids": [
+      "betterendisland"
+    ],
+    "version_metadata": "1.19.2-Forge-1.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "YungsBetterJungleTemples-1.19.2-Forge-1.0.1.jar",
+    "name": "YUNG's Better Jungle Temples",
+    "mod_ids": [
+      "betterjungletemples"
+    ],
+    "version_metadata": "1.19.2-Forge-1.0.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "YungsBetterMineshafts-1.19.2-Forge-3.2.1.jar",
+    "name": "YUNG's Better Mineshafts",
+    "mod_ids": [
+      "bettermineshafts"
+    ],
+    "version_metadata": "1.19.2-Forge-3.2.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar",
+    "name": "YUNG's Better Nether Fortresses",
+    "mod_ids": [
+      "betterfortresses"
+    ],
+    "version_metadata": "1.19.2-Forge-1.0.6",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "YungsBetterOceanMonuments-1.19.2-Forge-2.1.1.jar",
+    "name": "YUNG's Better Ocean Monuments",
+    "mod_ids": [
+      "betteroceanmonuments"
+    ],
+    "version_metadata": "1.19.2-Forge-2.1.1",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  },
+  {
+    "file": "YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar",
+    "name": "YUNG's Better Strongholds",
+    "mod_ids": [
+      "betterstrongholds"
+    ],
+    "version_metadata": "1.19.2-Forge-3.2.0",
+    "metadata_source": "mods.toml",
+    "status": "À compléter",
+    "guide": null
+  }
+]

@@ -1,0 +1,83 @@
+site_name: Wiki Cisco RPG
+site_description: Guide joueur francophone pour Cisco's Fantasy Medieval RPG Ultimate
+site_author: Kloups-Dev
+site_url: https://kloups-dev.github.io/wiki-cisco-rpg/
+repo_url: https://github.com/Kloups-Dev/wiki-cisco-rpg
+repo_name: Kloups-Dev/wiki-cisco-rpg
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: fr
+  icon:
+    logo: material/sword-cross
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Passer au thème sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Passer au thème clair
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: fr
+      separator: '[\s\-_,:!=\[\]()"/]+'
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+not_in_nav: |
+  catalogue/objets/**
+  contenu/**
+  guide/debuter.md
+  guide/rangement.md
+  guide/exploration.md
+  guide/progression.md
+  mods/**
+
+nav:
+  - Accueil: index.md
+  - Magie: categories/magie.md
+  - Équipement: categories/equipement.md
+  - Boss et dimensions: categories/boss.md
+  - Progression: categories/progression.md
+  - Catalogue: catalogue/index.md
+  - Guides vérifiés:
+      - Gemmes Apotheosis: apotheosis/gemmes.md
+      - Utiliser JEI: guide/recherche.md
+  - Méthode:
+      - Recettes et infobulles: recettes.md
+      - Sources documentaires: sources.md
+      - Fiabilité: verification.md
+

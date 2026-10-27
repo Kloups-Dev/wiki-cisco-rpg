@@ -1,0 +1,31 @@
+# Arcane Ingot
+
+<div class="mc-item-showcase">
+<img class="mc-item-icon" src="../../../assets/generated/items/irons_spellbooks/arcane_ingot.png" alt="Arcane Ingot">
+<div class="mc-tooltip-card">
+<div class="mc-tooltip-card__name">Arcane Ingot</div>
+<div class="mc-tooltip-card__mod">Iron&#x27;s Spells &#x27;n Spellbooks</div>
+<div class="mc-tooltip-card__id">irons_spellbooks:arcane_ingot</div>
+</div>
+</div>
+
+!!! success "Présence vérifiée"
+    Objet fourni par les fichiers exacts de **Iron's Spells 'n Spellbooks**.
+
+## Obtention et fabrication
+
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>irons_spellbooks:arcane_ingot</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/irons_spellbooks/arcane_essence.md" title="Arcane Essence (irons_spellbooks:arcane_essence)"><img src="../../../assets/generated/items/irons_spellbooks/arcane_essence.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/irons_spellbooks/arcane_essence.md" title="Arcane Essence (irons_spellbooks:arcane_essence)"><img src="../../../assets/generated/items/irons_spellbooks/arcane_essence.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/irons_spellbooks/arcane_essence.md" title="Arcane Essence (irons_spellbooks:arcane_essence)"><img src="../../../assets/generated/items/irons_spellbooks/arcane_essence.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/irons_spellbooks/arcane_essence.md" title="Arcane Essence (irons_spellbooks:arcane_essence)"><img src="../../../assets/generated/items/irons_spellbooks/arcane_essence.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--tag" title="#irons_spellbooks:arcane_ingot_base">#</span><a class="jei-slot" href="../../../catalogue/objets/irons_spellbooks/arcane_essence.md" title="Arcane Essence (irons_spellbooks:arcane_essence)"><img src="../../../assets/generated/items/irons_spellbooks/arcane_essence.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/irons_spellbooks/arcane_essence.md" title="Arcane Essence (irons_spellbooks:arcane_essence)"><img src="../../../assets/generated/items/irons_spellbooks/arcane_essence.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/irons_spellbooks/arcane_essence.md" title="Arcane Essence (irons_spellbooks:arcane_essence)"><img src="../../../assets/generated/items/irons_spellbooks/arcane_essence.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/irons_spellbooks/arcane_essence.md" title="Arcane Essence (irons_spellbooks:arcane_essence)"><img src="../../../assets/generated/items/irons_spellbooks/arcane_essence.png" alt="" loading="lazy"></a></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/irons_spellbooks/arcane_ingot.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : irons_spellbooks-1.19.2-3.4.0.jar</div></div>
+
+## Utilisé dans
+
+- [Frosted Helve](../../../catalogue/objets/irons_spellbooks/frosted_helve.md) — <code>irons_spellbooks:frosted_helve</code>
+- [Weapon Parts](../../../catalogue/objets/irons_spellbooks/weapon_parts.md) — <code>irons_spellbooks:weapon_parts</code>
+- [Empty Upgrade Orb](../../../catalogue/objets/irons_spellbooks/upgrade_orb.md) — <code>irons_spellbooks:upgrade_orb</code>
+- [Ring of Mana](../../../catalogue/objets/irons_spellbooks/mana_ring.md) — <code>irons_spellbooks:mana_ring</code>
+
+## Effets et caractéristiques
+
+!!! info "À confirmer dans la partie"
+    Les dégâts, attributs, sorts, affixes, sockets et valeurs NBT dynamiques seront ajoutés après vérification de l'infobulle réelle en jeu.
+
+[Tous les objets de Iron's Spells 'n Spellbooks](../../../contenu/irons-spells.md)

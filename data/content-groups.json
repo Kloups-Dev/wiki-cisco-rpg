@@ -1,0 +1,236 @@
+[
+  {
+    "slug": "apotheosis",
+    "name": "Apotheosis",
+    "category": "equipement",
+    "patterns": ["Apotheosis-", "apotheotic_additions", "ApothicCurios"],
+    "namespaces": ["apotheosis", "apotheotic_additions", "apothiccurios"],
+    "source": "https://github.com/Shadows-of-Fire/Apotheosis",
+    "summary": "Gemmes, affixes, châsses, reforges, enchantement et butin amélioré."
+  },
+  {
+    "slug": "ars-nouveau",
+    "name": "Ars Nouveau et extensions",
+    "category": "magie",
+    "patterns": ["ars_nouveau-", "ars_elemental-", "ars_additions-", "TooManyGlyphs"],
+    "namespaces": ["ars_nouveau", "ars_elemental", "ars_additions", "toomanyglyphs"],
+    "source": "https://www.arsnouveau.wiki/",
+    "summary": "Création de sorts, glyphes, rituels, familiers et objets magiques."
+  },
+  {
+    "slug": "irons-spells",
+    "name": "Iron's Spells 'n Spellbooks",
+    "category": "magie",
+    "patterns": ["irons_spellbooks-"],
+    "namespaces": ["irons_spellbooks"],
+    "source": "https://iron.wiki/",
+    "summary": "Sorts, parchemins, grimoires, écoles de magie, armures et boss."
+  },
+  {
+    "slug": "forbidden-arcanus",
+    "name": "Forbidden & Arcanus",
+    "category": "magie",
+    "patterns": ["forbidden_arcanus-"],
+    "namespaces": ["forbidden_arcanus"],
+    "source": "https://wiki.valhelsia.net/external-mods/forbidden-and-arcanus",
+    "summary": "Ressources occultes, objets magiques, rituels et équipements."
+  },
+  {
+    "slug": "enigmatic-legacy",
+    "name": "Enigmatic Legacy et extensions",
+    "category": "magie",
+    "patterns": ["EnigmaticLegacy-", "enigmaticaddons-"],
+    "namespaces": ["enigmaticlegacy", "enigmaticaddons"],
+    "source": "https://github.com/Aizistral-Studios/Enigmatic-Legacy",
+    "summary": "Reliques, anneaux, pierres magiques et objets à effets particuliers."
+  },
+  {
+    "slug": "simply-swords",
+    "name": "Simply Swords",
+    "category": "equipement",
+    "patterns": ["simplyswords-"],
+    "namespaces": ["simplyswords"],
+    "source": "https://moddedmc.wiki/cs/project/simplyswords/latest/docs/main",
+    "summary": "Familles d'armes, armes uniques, pouvoirs runiques et gemmes."
+  },
+  {
+    "slug": "relics",
+    "name": "Relics",
+    "category": "equipement",
+    "patterns": ["relics-"],
+    "namespaces": ["relics"],
+    "source": "https://www.curseforge.com/minecraft/mc-mods/relics-mod",
+    "summary": "Reliques Curios évolutives, capacités actives et arbres d'amélioration."
+  },
+  {
+    "slug": "celestisynth",
+    "name": "Celestisynth",
+    "category": "equipement",
+    "patterns": ["celestisynth-"],
+    "namespaces": ["celestisynth"],
+    "source": "https://www.curseforge.com/minecraft/mc-mods/celestisynth",
+    "summary": "Armes célestes dotées de capacités et d'animations spéciales."
+  },
+  {
+    "slug": "dreadsteel",
+    "name": "Dreadsteel",
+    "category": "equipement",
+    "patterns": ["dreadsteel-"],
+    "namespaces": ["dreadsteel"],
+    "source": "https://www.curseforge.com/minecraft/mc-mods/dreadsteel",
+    "summary": "Lingot, armure et armes dont les recettes sont modifiées par Cisco."
+  },
+  {
+    "slug": "upgraded-netherite",
+    "name": "Upgraded Netherite",
+    "category": "equipement",
+    "patterns": ["upgradednetherite-1", "upgradednetherite_items", "upgradednetherite_ultimate"],
+    "namespaces": ["upgradednetherite", "upgradednetherite_items", "upgradednetherite_ultimate"],
+    "source": "https://www.curseforge.com/minecraft/mc-mods/upgraded-netherite",
+    "summary": "Variantes de netherite, effets d'équipement et niveaux d'amélioration."
+  },
+  {
+    "slug": "knight-quest",
+    "name": "Knight Quest",
+    "category": "equipement",
+    "patterns": ["knightquest-"],
+    "namespaces": ["knightquest"],
+    "source": "https://www.curseforge.com/minecraft/mc-mods/knight-quest",
+    "summary": "Armures, essences, chalice, créatures et progression."
+  },
+  {
+    "slug": "immersive-armors",
+    "name": "Immersive Armors",
+    "category": "equipement",
+    "patterns": ["immersive_armors-"],
+    "namespaces": ["immersive_armors"],
+    "source": "https://www.curseforge.com/minecraft/mc-mods/immersive-armors",
+    "summary": "Ensembles d'armures supplémentaires présents dans la progression."
+  },
+  {
+    "slug": "cisco-content",
+    "name": "Cisco's Content",
+    "category": "equipement",
+    "patterns": ["cisco_mod_", "ciscounbound-"],
+    "namespaces": ["cisco_mod", "ciscounbound"],
+    "source": "https://www.curseforge.com/minecraft/modpacks/ciscos-fantasy-medieval-rpg-ultimate",
+    "summary": "Matériaux, équipements et pouvoirs propres au modpack Cisco."
+  },
+  {
+    "slug": "cataclysm",
+    "name": "L'Ender's Cataclysm",
+    "category": "boss",
+    "patterns": ["L_Enders_Cataclysm-"],
+    "namespaces": ["cataclysm"],
+    "source": "https://lendercataclysm.wiki.gg/",
+    "summary": "Boss, structures, matériaux, armes et armures de fin de progression."
+  },
+  {
+    "slug": "aether",
+    "name": "The Aether",
+    "category": "boss",
+    "patterns": ["aether-1.19.2-"],
+    "namespaces": ["aether"],
+    "source": "https://aether.wiki.gg/",
+    "summary": "Dimension, donjons, boss, minerais et équipements."
+  },
+  {
+    "slug": "deep-aether",
+    "name": "Deep Aether",
+    "category": "boss",
+    "patterns": ["deep_aether-"],
+    "namespaces": ["deep_aether"],
+    "source": "https://aether.wiki.gg/wiki/Deep_Aether",
+    "summary": "Extension de l'Aether avec biomes, donjon, créatures et équipement."
+  },
+  {
+    "slug": "twilight-forest",
+    "name": "The Twilight Forest",
+    "category": "boss",
+    "patterns": ["twilightforest-"],
+    "namespaces": ["twilightforest"],
+    "source": "https://github.com/TeamTwilight/twilightforest",
+    "summary": "Progression de boss, donjons, butin et équipements de la dimension."
+  },
+  {
+    "slug": "blue-skies",
+    "name": "Blue Skies",
+    "category": "boss",
+    "patterns": ["blue_skies-"],
+    "namespaces": ["blue_skies"],
+    "source": "https://www.curseforge.com/minecraft/mc-mods/blue-skies",
+    "summary": "Deux dimensions, donjons, boss, ressources et équipement."
+  },
+  {
+    "slug": "aquamirae",
+    "name": "Aquamirae",
+    "category": "boss",
+    "patterns": ["aquamirae-"],
+    "namespaces": ["aquamirae"],
+    "source": "https://www.curseforge.com/minecraft/mc-mods/aquamirae",
+    "summary": "Labyrinthe océanique, boss, structures, armes et matériaux."
+  },
+  {
+    "slug": "mowzies-mobs",
+    "name": "Mowzie's Mobs",
+    "category": "boss",
+    "patterns": ["mowziesmobs-"],
+    "namespaces": ["mowziesmobs"],
+    "source": "https://www.curseforge.com/minecraft/mc-mods/mowziesmobs",
+    "summary": "Créatures et boss donnant des armes ou pouvoirs uniques."
+  },
+  {
+    "slug": "meet-your-fight",
+    "name": "Meet Your Fight",
+    "category": "boss",
+    "patterns": ["meetyourfight-"],
+    "namespaces": ["meetyourfight"],
+    "source": "https://www.curseforge.com/minecraft/mc-mods/meet-your-fight",
+    "summary": "Boss invoqués avec des objets fabriqués et récompenses Curios."
+  },
+  {
+    "slug": "bosses-mass-destruction",
+    "name": "Bosses of Mass Destruction",
+    "category": "boss",
+    "patterns": ["BOMD-"],
+    "namespaces": ["bosses_of_mass_destruction"],
+    "source": "https://github.com/barribob/bosses-of-mass-destruction",
+    "summary": "Boss, structures d'apparition, matériaux et récompenses."
+  },
+  {
+    "slug": "passive-skill-tree",
+    "name": "Passive Skill Tree",
+    "category": "progression",
+    "patterns": ["PassiveSkillTree-"],
+    "namespaces": ["skilltree"],
+    "source": "https://github.com/Daripher/Passive-Skill-Tree",
+    "summary": "Arbre passif, points de compétence et parchemins."
+  },
+  {
+    "slug": "origins",
+    "name": "Origins et classes",
+    "category": "progression",
+    "patterns": ["origins-forge-", "origins-classes-", "strictly_origins"],
+    "namespaces": ["origins", "origins_classes", "strictly_origins"],
+    "source": "https://origins.readthedocs.io/",
+    "summary": "Origines, classes, pouvoirs, avantages et contraintes."
+  },
+  {
+    "slug": "majrusz-enchantments",
+    "name": "Majrusz's Enchantments",
+    "category": "progression",
+    "patterns": ["majruszs-enchantments-"],
+    "namespaces": ["majruszsenchantments"],
+    "source": "https://www.curseforge.com/minecraft/mc-mods/majruszs-enchantments",
+    "summary": "Enchantements supplémentaires pour armes, outils et armures."
+  },
+  {
+    "slug": "dragon-enchants",
+    "name": "Dragon Enchants",
+    "category": "progression",
+    "patterns": ["dragon_enchants-"],
+    "namespaces": ["dragonenchants"],
+    "source": "https://www.curseforge.com/minecraft/mc-mods/dragon-enchants",
+    "summary": "Enchantements supplémentaires présents dans le pack."
+  }
+]

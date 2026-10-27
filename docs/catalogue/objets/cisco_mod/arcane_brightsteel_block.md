@@ -1,0 +1,50 @@
+# Arcane Brightsteel Block
+
+<div class="mc-item-showcase">
+<img class="mc-item-icon" src="../../../assets/generated/items/cisco_mod/arcane_brightsteel_block.png" alt="Arcane Brightsteel Block">
+<div class="mc-tooltip-card">
+<div class="mc-tooltip-card__name">Arcane Brightsteel Block</div>
+<div class="mc-tooltip-card__mod">Cisco&#x27;s Content</div>
+<div class="mc-tooltip-card__id">cisco_mod:arcane_brightsteel_block</div>
+</div>
+</div>
+
+!!! success "Présence vérifiée"
+    Objet fourni par les fichiers exacts de **Cisco's Content**.
+
+## Obtention et fabrication
+
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>cisco_mod:arcanebrightsteelrecipe</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/light_core.md" title="Light Core (cisco_mod:light_core)"><img src="../../../assets/generated/items/cisco_mod/light_core.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/brightsteelblock.md" title="Brightsteel Block (cisco_mod:brightsteelblock)"><img src="../../../assets/generated/items/cisco_mod/brightsteelblock.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/cisco_mod/arcane_brightsteel_block.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : cisco_mod_9.6.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>cisco_mod:multi_arcane</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/light_core.md" title="Light Core (cisco_mod:light_core)"><img src="../../../assets/generated/items/cisco_mod/light_core.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/light_core.md" title="Light Core (cisco_mod:light_core)"><img src="../../../assets/generated/items/cisco_mod/light_core.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/light_core.md" title="Light Core (cisco_mod:light_core)"><img src="../../../assets/generated/items/cisco_mod/light_core.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/brightsteelblock.md" title="Brightsteel Block (cisco_mod:brightsteelblock)"><img src="../../../assets/generated/items/cisco_mod/brightsteelblock.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/brightsteelblock.md" title="Brightsteel Block (cisco_mod:brightsteelblock)"><img src="../../../assets/generated/items/cisco_mod/brightsteelblock.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/brightsteelblock.md" title="Brightsteel Block (cisco_mod:brightsteelblock)"><img src="../../../assets/generated/items/cisco_mod/brightsteelblock.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/cisco_mod/arcane_brightsteel_block.png" alt=""><span class="jei-count">3</span></span></div><div class="jei-recipe__source">Source exacte : cisco_mod_9.6.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette ordonnée</strong><span>ciscounbound:multi_arcane</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/light_core.md" title="Light Core (cisco_mod:light_core)"><img src="../../../assets/generated/items/cisco_mod/light_core.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/light_core.md" title="Light Core (cisco_mod:light_core)"><img src="../../../assets/generated/items/cisco_mod/light_core.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/light_core.md" title="Light Core (cisco_mod:light_core)"><img src="../../../assets/generated/items/cisco_mod/light_core.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/brightsteelblock.md" title="Brightsteel Block (cisco_mod:brightsteelblock)"><img src="../../../assets/generated/items/cisco_mod/brightsteelblock.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/brightsteelblock.md" title="Brightsteel Block (cisco_mod:brightsteelblock)"><img src="../../../assets/generated/items/cisco_mod/brightsteelblock.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/brightsteelblock.md" title="Brightsteel Block (cisco_mod:brightsteelblock)"><img src="../../../assets/generated/items/cisco_mod/brightsteelblock.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/cisco_mod/arcane_brightsteel_block.png" alt=""><span class="jei-count">3</span></span></div><div class="jei-recipe__source">Source exacte : ciscounbound-1.2.jar</div></div>
+<div class="jei-recipe"><div class="jei-recipe__head"><strong>Établi — recette libre</strong><span>ciscounbound:arcanebrightsteelrecipe</span></div><div class="jei-recipe__body"><div class="jei-grid"><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/light_core.md" title="Light Core (cisco_mod:light_core)"><img src="../../../assets/generated/items/cisco_mod/light_core.png" alt="" loading="lazy"></a><a class="jei-slot" href="../../../catalogue/objets/cisco_mod/brightsteelblock.md" title="Brightsteel Block (cisco_mod:brightsteelblock)"><img src="../../../assets/generated/items/cisco_mod/brightsteelblock.png" alt="" loading="lazy"></a><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span><span class="jei-slot jei-slot--empty"></span></div><span class="jei-arrow">→</span><span class="jei-slot jei-slot--result"><img src="../../../assets/generated/items/cisco_mod/arcane_brightsteel_block.png" alt=""></span></div><div class="jei-recipe__source">Source exacte : ciscounbound-1.2.jar</div></div>
+
+## Utilisé dans
+
+- [Skysplitter](../../../catalogue/objets/cisco_mod/skysplitter.md) — <code>cisco_mod:skysplitter</code>
+- [Gilded Eagle Hood](../../../catalogue/objets/cisco_mod/gilded_eagle_helmet.md) — <code>cisco_mod:gilded_eagle_helmet</code>
+- [Gilded Eagle Boots](../../../catalogue/objets/cisco_mod/gilded_eagle_boots.md) — <code>cisco_mod:gilded_eagle_boots</code>
+- [Ascendant Rouge Helmet](../../../catalogue/objets/cisco_mod/ascended_hero_rouge_helmet.md) — <code>cisco_mod:ascended_hero_rouge_helmet</code>
+- [Ascendant Rouge Leggings](../../../catalogue/objets/cisco_mod/ascended_hero_rouge_leggings.md) — <code>cisco_mod:ascended_hero_rouge_leggings</code>
+- [Ascendant Violet Boots](../../../catalogue/objets/cisco_mod/ascended_hero_violet_boots.md) — <code>cisco_mod:ascended_hero_violet_boots</code>
+- [Adjudicator](../../../catalogue/objets/cisco_mod/adjudicator.md) — <code>cisco_mod:adjudicator</code>
+- [Ascendant Azure Helmet](../../../catalogue/objets/cisco_mod/ascended_hero_helmet.md) — <code>cisco_mod:ascended_hero_helmet</code>
+- [Gilded Eagle Pants](../../../catalogue/objets/cisco_mod/gilded_eagle_leggings.md) — <code>cisco_mod:gilded_eagle_leggings</code>
+- [Absolute Equillibrium](../../../catalogue/objets/cisco_mod/absolute_equillibrium.md) — <code>cisco_mod:absolute_equillibrium</code>
+- [Gilded Eagle Robes](../../../catalogue/objets/cisco_mod/gilded_eagle_chestplate.md) — <code>cisco_mod:gilded_eagle_chestplate</code>
+- [Ascendant Rouge Boots](../../../catalogue/objets/cisco_mod/ascended_hero_rouge_boots.md) — <code>cisco_mod:ascended_hero_rouge_boots</code>
+- [Ascendant Azure Leggings](../../../catalogue/objets/cisco_mod/ascended_hero_leggings.md) — <code>cisco_mod:ascended_hero_leggings</code>
+- [Ascendant Violet Helmet](../../../catalogue/objets/cisco_mod/ascended_hero_violet_helmet.md) — <code>cisco_mod:ascended_hero_violet_helmet</code>
+- [Ascendant Azure Boots](../../../catalogue/objets/cisco_mod/ascended_hero_boots.md) — <code>cisco_mod:ascended_hero_boots</code>
+- [Ascendant Violet Chestplate](../../../catalogue/objets/cisco_mod/ascended_hero_violet_chestplate.md) — <code>cisco_mod:ascended_hero_violet_chestplate</code>
+- [Ascendant Violet Leggings](../../../catalogue/objets/cisco_mod/ascended_hero_violet_leggings.md) — <code>cisco_mod:ascended_hero_violet_leggings</code>
+- [Pollux](../../../catalogue/objets/cisco_mod/pollux.md) — <code>cisco_mod:pollux</code>
+- [Ascendant Azure Chestplate](../../../catalogue/objets/cisco_mod/ascended_hero_chestplate.md) — <code>cisco_mod:ascended_hero_chestplate</code>
+- [Ascendant Rouge Chestplate](../../../catalogue/objets/cisco_mod/ascended_hero_rouge_chestplate.md) — <code>cisco_mod:ascended_hero_rouge_chestplate</code>
+
+## Effets et caractéristiques
+
+!!! info "À confirmer dans la partie"
+    Les dégâts, attributs, sorts, affixes, sockets et valeurs NBT dynamiques seront ajoutés après vérification de l'infobulle réelle en jeu.
+
+[Tous les objets de Cisco's Content](../../../contenu/cisco-content.md)

@@ -1,0 +1,504 @@
+{
+  "pack": "Cisco's Fantasy Medieval RPG [Ultimate]",
+  "minecraft": "1.19.2",
+  "selected_jars": [
+    "aether-1.19.2-1.4.2-forge.jar",
+    "Apotheosis-1.19.2-6.5.2.jar",
+    "apotheotic_additions1.0.4.jar",
+    "ApothicCurios-1.19.2-1.0.3c.jar",
+    "aquamirae-6.API15.jar",
+    "ars_additions-1.19.2-1.4.0.jar",
+    "ars_elemental-1.19.2-0.5.9.4.1.jar",
+    "ars_nouveau-1.19.2-3.23.0.jar",
+    "blue_skies-1.19.2-1.3.20.jar",
+    "BOMD-Forge-1.19.2-1.0.6.jar",
+    "celestisynth-1.19.2-1.1.5.jar",
+    "cisco_mod_9.6.jar",
+    "ciscounbound-1.2.jar",
+    "deep_aether-1.19.2-1.0.4.jar",
+    "dragon_enchants-1.0.4-1.19.2.jar",
+    "dreadsteel-1.19.2-1.1.6.jar",
+    "enigmaticaddons-1.19.2-1.2.2.jar",
+    "EnigmaticLegacy-2.26.5.jar",
+    "forbidden_arcanus-1.19.2-2.1.5.jar",
+    "immersive_armors-1.5.6+1.19.2-forge.jar",
+    "irons_spellbooks-1.19.2-3.4.0.jar",
+    "knightquest-1.8.5.jar",
+    "L_Enders_Cataclysm-2.46-1.19.2.jar",
+    "majruszs-enchantments-forge-1.19.2-1.10.7-backport.1.jar",
+    "meetyourfight-1.19.2-1.3.4.jar",
+    "mowziesmobs-1.6.3.jar",
+    "origins-classes-forge-1.2.1.jar",
+    "origins-forge-1.19.2-1.7.1.7-all.jar",
+    "PassiveSkillTree-1.19.2-BETA-0.6.14b-all.jar",
+    "relics-1.19.2-0.6.2.5.jar",
+    "simplyswords-forge-1.47.0-1.19.2.jar",
+    "strictly_origins_v9.2.1_1.19.2.jar",
+    "toomanyglyphs-1.19.2-2.2.376.1564.jar",
+    "twilightforest-1.19.2-4.2.1518-universal.jar",
+    "upgradednetherite-1.19.2-5.1.0.9-release.jar",
+    "upgradednetherite_items-1.19.2-4.1.0.2-release.jar",
+    "upgradednetherite_ultimate-1.19.2-4.1.0.4-release.jar"
+  ],
+  "removed_recipe_namespaces": [
+    "dreadsteel"
+  ],
+  "counts": {
+    "groups": 26,
+    "jars": 37,
+    "items": 4666,
+    "icons": 4096,
+    "recipes": 4106,
+    "crafttweaker_recipes": 13
+  },
+  "groups": [
+    {
+      "slug": "apotheosis",
+      "name": "Apotheosis",
+      "category": "equipement",
+      "patterns": [
+        "Apotheosis-",
+        "apotheotic_additions",
+        "ApothicCurios"
+      ],
+      "namespaces": [
+        "apotheosis",
+        "apotheotic_additions",
+        "apothiccurios"
+      ],
+      "source": "https://github.com/Shadows-of-Fire/Apotheosis",
+      "summary": "Gemmes, affixes, châsses, reforges, enchantement et butin amélioré.",
+      "jars": [
+        "Apotheosis-1.19.2-6.5.2.jar",
+        "apotheotic_additions1.0.4.jar",
+        "ApothicCurios-1.19.2-1.0.3c.jar"
+      ]
+    },
+    {
+      "slug": "ars-nouveau",
+      "name": "Ars Nouveau et extensions",
+      "category": "magie",
+      "patterns": [
+        "ars_nouveau-",
+        "ars_elemental-",
+        "ars_additions-",
+        "TooManyGlyphs"
+      ],
+      "namespaces": [
+        "ars_nouveau",
+        "ars_elemental",
+        "ars_additions",
+        "toomanyglyphs"
+      ],
+      "source": "https://www.arsnouveau.wiki/",
+      "summary": "Création de sorts, glyphes, rituels, familiers et objets magiques.",
+      "jars": [
+        "ars_additions-1.19.2-1.4.0.jar",
+        "ars_elemental-1.19.2-0.5.9.4.1.jar",
+        "ars_nouveau-1.19.2-3.23.0.jar",
+        "toomanyglyphs-1.19.2-2.2.376.1564.jar"
+      ]
+    },
+    {
+      "slug": "irons-spells",
+      "name": "Iron's Spells 'n Spellbooks",
+      "category": "magie",
+      "patterns": [
+        "irons_spellbooks-"
+      ],
+      "namespaces": [
+        "irons_spellbooks"
+      ],
+      "source": "https://iron.wiki/",
+      "summary": "Sorts, parchemins, grimoires, écoles de magie, armures et boss.",
+      "jars": [
+        "irons_spellbooks-1.19.2-3.4.0.jar"
+      ]
+    },
+    {
+      "slug": "forbidden-arcanus",
+      "name": "Forbidden & Arcanus",
+      "category": "magie",
+      "patterns": [
+        "forbidden_arcanus-"
+      ],
+      "namespaces": [
+        "forbidden_arcanus"
+      ],
+      "source": "https://wiki.valhelsia.net/external-mods/forbidden-and-arcanus",
+      "summary": "Ressources occultes, objets magiques, rituels et équipements.",
+      "jars": [
+        "forbidden_arcanus-1.19.2-2.1.5.jar"
+      ]
+    },
+    {
+      "slug": "enigmatic-legacy",
+      "name": "Enigmatic Legacy et extensions",
+      "category": "magie",
+      "patterns": [
+        "EnigmaticLegacy-",
+        "enigmaticaddons-"
+      ],
+      "namespaces": [
+        "enigmaticlegacy",
+        "enigmaticaddons"
+      ],
+      "source": "https://github.com/Aizistral-Studios/Enigmatic-Legacy",
+      "summary": "Reliques, anneaux, pierres magiques et objets à effets particuliers.",
+      "jars": [
+        "enigmaticaddons-1.19.2-1.2.2.jar",
+        "EnigmaticLegacy-2.26.5.jar"
+      ]
+    },
+    {
+      "slug": "simply-swords",
+      "name": "Simply Swords",
+      "category": "equipement",
+      "patterns": [
+        "simplyswords-"
+      ],
+      "namespaces": [
+        "simplyswords"
+      ],
+      "source": "https://moddedmc.wiki/cs/project/simplyswords/latest/docs/main",
+      "summary": "Familles d'armes, armes uniques, pouvoirs runiques et gemmes.",
+      "jars": [
+        "simplyswords-forge-1.47.0-1.19.2.jar"
+      ]
+    },
+    {
+      "slug": "relics",
+      "name": "Relics",
+      "category": "equipement",
+      "patterns": [
+        "relics-"
+      ],
+      "namespaces": [
+        "relics"
+      ],
+      "source": "https://www.curseforge.com/minecraft/mc-mods/relics-mod",
+      "summary": "Reliques Curios évolutives, capacités actives et arbres d'amélioration.",
+      "jars": [
+        "relics-1.19.2-0.6.2.5.jar"
+      ]
+    },
+    {
+      "slug": "celestisynth",
+      "name": "Celestisynth",
+      "category": "equipement",
+      "patterns": [
+        "celestisynth-"
+      ],
+      "namespaces": [
+        "celestisynth"
+      ],
+      "source": "https://www.curseforge.com/minecraft/mc-mods/celestisynth",
+      "summary": "Armes célestes dotées de capacités et d'animations spéciales.",
+      "jars": [
+        "celestisynth-1.19.2-1.1.5.jar"
+      ]
+    },
+    {
+      "slug": "dreadsteel",
+      "name": "Dreadsteel",
+      "category": "equipement",
+      "patterns": [
+        "dreadsteel-"
+      ],
+      "namespaces": [
+        "dreadsteel"
+      ],
+      "source": "https://www.curseforge.com/minecraft/mc-mods/dreadsteel",
+      "summary": "Lingot, armure et armes dont les recettes sont modifiées par Cisco.",
+      "jars": [
+        "dreadsteel-1.19.2-1.1.6.jar"
+      ]
+    },
+    {
+      "slug": "upgraded-netherite",
+      "name": "Upgraded Netherite",
+      "category": "equipement",
+      "patterns": [
+        "upgradednetherite-1",
+        "upgradednetherite_items",
+        "upgradednetherite_ultimate"
+      ],
+      "namespaces": [
+        "upgradednetherite",
+        "upgradednetherite_items",
+        "upgradednetherite_ultimate"
+      ],
+      "source": "https://www.curseforge.com/minecraft/mc-mods/upgraded-netherite",
+      "summary": "Variantes de netherite, effets d'équipement et niveaux d'amélioration.",
+      "jars": [
+        "upgradednetherite-1.19.2-5.1.0.9-release.jar",
+        "upgradednetherite_items-1.19.2-4.1.0.2-release.jar",
+        "upgradednetherite_ultimate-1.19.2-4.1.0.4-release.jar"
+      ]
+    },
+    {
+      "slug": "knight-quest",
+      "name": "Knight Quest",
+      "category": "equipement",
+      "patterns": [
+        "knightquest-"
+      ],
+      "namespaces": [
+        "knightquest"
+      ],
+      "source": "https://www.curseforge.com/minecraft/mc-mods/knight-quest",
+      "summary": "Armures, essences, chalice, créatures et progression.",
+      "jars": [
+        "knightquest-1.8.5.jar"
+      ]
+    },
+    {
+      "slug": "immersive-armors",
+      "name": "Immersive Armors",
+      "category": "equipement",
+      "patterns": [
+        "immersive_armors-"
+      ],
+      "namespaces": [
+        "immersive_armors"
+      ],
+      "source": "https://www.curseforge.com/minecraft/mc-mods/immersive-armors",
+      "summary": "Ensembles d'armures supplémentaires présents dans la progression.",
+      "jars": [
+        "immersive_armors-1.5.6+1.19.2-forge.jar"
+      ]
+    },
+    {
+      "slug": "cisco-content",
+      "name": "Cisco's Content",
+      "category": "equipement",
+      "patterns": [
+        "cisco_mod_",
+        "ciscounbound-"
+      ],
+      "namespaces": [
+        "cisco_mod",
+        "ciscounbound"
+      ],
+      "source": "https://www.curseforge.com/minecraft/modpacks/ciscos-fantasy-medieval-rpg-ultimate",
+      "summary": "Matériaux, équipements et pouvoirs propres au modpack Cisco.",
+      "jars": [
+        "cisco_mod_9.6.jar",
+        "ciscounbound-1.2.jar"
+      ]
+    },
+    {
+      "slug": "cataclysm",
+      "name": "L'Ender's Cataclysm",
+      "category": "boss",
+      "patterns": [
+        "L_Enders_Cataclysm-"
+      ],
+      "namespaces": [
+        "cataclysm"
+      ],
+      "source": "https://lendercataclysm.wiki.gg/",
+      "summary": "Boss, structures, matériaux, armes et armures de fin de progression.",
+      "jars": [
+        "L_Enders_Cataclysm-2.46-1.19.2.jar"
+      ]
+    },
+    {
+      "slug": "aether",
+      "name": "The Aether",
+      "category": "boss",
+      "patterns": [
+        "aether-1.19.2-"
+      ],
+      "namespaces": [
+        "aether"
+      ],
+      "source": "https://aether.wiki.gg/",
+      "summary": "Dimension, donjons, boss, minerais et équipements.",
+      "jars": [
+        "aether-1.19.2-1.4.2-forge.jar",
+        "deep_aether-1.19.2-1.0.4.jar"
+      ]
+    },
+    {
+      "slug": "deep-aether",
+      "name": "Deep Aether",
+      "category": "boss",
+      "patterns": [
+        "deep_aether-"
+      ],
+      "namespaces": [
+        "deep_aether"
+      ],
+      "source": "https://aether.wiki.gg/wiki/Deep_Aether",
+      "summary": "Extension de l'Aether avec biomes, donjon, créatures et équipement.",
+      "jars": []
+    },
+    {
+      "slug": "twilight-forest",
+      "name": "The Twilight Forest",
+      "category": "boss",
+      "patterns": [
+        "twilightforest-"
+      ],
+      "namespaces": [
+        "twilightforest"
+      ],
+      "source": "https://github.com/TeamTwilight/twilightforest",
+      "summary": "Progression de boss, donjons, butin et équipements de la dimension.",
+      "jars": [
+        "twilightforest-1.19.2-4.2.1518-universal.jar"
+      ]
+    },
+    {
+      "slug": "blue-skies",
+      "name": "Blue Skies",
+      "category": "boss",
+      "patterns": [
+        "blue_skies-"
+      ],
+      "namespaces": [
+        "blue_skies"
+      ],
+      "source": "https://www.curseforge.com/minecraft/mc-mods/blue-skies",
+      "summary": "Deux dimensions, donjons, boss, ressources et équipement.",
+      "jars": [
+        "blue_skies-1.19.2-1.3.20.jar"
+      ]
+    },
+    {
+      "slug": "aquamirae",
+      "name": "Aquamirae",
+      "category": "boss",
+      "patterns": [
+        "aquamirae-"
+      ],
+      "namespaces": [
+        "aquamirae"
+      ],
+      "source": "https://www.curseforge.com/minecraft/mc-mods/aquamirae",
+      "summary": "Labyrinthe océanique, boss, structures, armes et matériaux.",
+      "jars": [
+        "aquamirae-6.API15.jar"
+      ]
+    },
+    {
+      "slug": "mowzies-mobs",
+      "name": "Mowzie's Mobs",
+      "category": "boss",
+      "patterns": [
+        "mowziesmobs-"
+      ],
+      "namespaces": [
+        "mowziesmobs"
+      ],
+      "source": "https://www.curseforge.com/minecraft/mc-mods/mowziesmobs",
+      "summary": "Créatures et boss donnant des armes ou pouvoirs uniques.",
+      "jars": [
+        "mowziesmobs-1.6.3.jar"
+      ]
+    },
+    {
+      "slug": "meet-your-fight",
+      "name": "Meet Your Fight",
+      "category": "boss",
+      "patterns": [
+        "meetyourfight-"
+      ],
+      "namespaces": [
+        "meetyourfight"
+      ],
+      "source": "https://www.curseforge.com/minecraft/mc-mods/meet-your-fight",
+      "summary": "Boss invoqués avec des objets fabriqués et récompenses Curios.",
+      "jars": [
+        "meetyourfight-1.19.2-1.3.4.jar"
+      ]
+    },
+    {
+      "slug": "bosses-mass-destruction",
+      "name": "Bosses of Mass Destruction",
+      "category": "boss",
+      "patterns": [
+        "BOMD-"
+      ],
+      "namespaces": [
+        "bosses_of_mass_destruction"
+      ],
+      "source": "https://github.com/barribob/bosses-of-mass-destruction",
+      "summary": "Boss, structures d'apparition, matériaux et récompenses.",
+      "jars": [
+        "BOMD-Forge-1.19.2-1.0.6.jar"
+      ]
+    },
+    {
+      "slug": "passive-skill-tree",
+      "name": "Passive Skill Tree",
+      "category": "progression",
+      "patterns": [
+        "PassiveSkillTree-"
+      ],
+      "namespaces": [
+        "skilltree"
+      ],
+      "source": "https://github.com/Daripher/Passive-Skill-Tree",
+      "summary": "Arbre passif, points de compétence et parchemins.",
+      "jars": [
+        "PassiveSkillTree-1.19.2-BETA-0.6.14b-all.jar"
+      ]
+    },
+    {
+      "slug": "origins",
+      "name": "Origins et classes",
+      "category": "progression",
+      "patterns": [
+        "origins-forge-",
+        "origins-classes-",
+        "strictly_origins"
+      ],
+      "namespaces": [
+        "origins",
+        "origins_classes",
+        "strictly_origins"
+      ],
+      "source": "https://origins.readthedocs.io/",
+      "summary": "Origines, classes, pouvoirs, avantages et contraintes.",
+      "jars": [
+        "origins-classes-forge-1.2.1.jar",
+        "origins-forge-1.19.2-1.7.1.7-all.jar",
+        "strictly_origins_v9.2.1_1.19.2.jar"
+      ]
+    },
+    {
+      "slug": "majrusz-enchantments",
+      "name": "Majrusz's Enchantments",
+      "category": "progression",
+      "patterns": [
+        "majruszs-enchantments-"
+      ],
+      "namespaces": [
+        "majruszsenchantments"
+      ],
+      "source": "https://www.curseforge.com/minecraft/mc-mods/majruszs-enchantments",
+      "summary": "Enchantements supplémentaires pour armes, outils et armures.",
+      "jars": [
+        "majruszs-enchantments-forge-1.19.2-1.10.7-backport.1.jar"
+      ]
+    },
+    {
+      "slug": "dragon-enchants",
+      "name": "Dragon Enchants",
+      "category": "progression",
+      "patterns": [
+        "dragon_enchants-"
+      ],
+      "namespaces": [
+        "dragonenchants"
+      ],
+      "source": "https://www.curseforge.com/minecraft/mc-mods/dragon-enchants",
+      "summary": "Enchantements supplémentaires présents dans le pack.",
+      "jars": [
+        "dragon_enchants-1.0.4-1.19.2.jar"
+      ]
+    }
+  ]
+}

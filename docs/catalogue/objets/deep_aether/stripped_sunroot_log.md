@@ -1,0 +1,30 @@
+# Stripped Sunroot Log
+
+<div class="mc-item-showcase">
+<img class="mc-item-icon" src="../../../assets/generated/items/deep_aether/stripped_sunroot_log.png" alt="Stripped Sunroot Log">
+<div class="mc-tooltip-card">
+<div class="mc-tooltip-card__name">Stripped Sunroot Log</div>
+<div class="mc-tooltip-card__mod">Deep Aether</div>
+<div class="mc-tooltip-card__id">deep_aether:stripped_sunroot_log</div>
+</div>
+</div>
+
+!!! success "Présence vérifiée"
+    Objet fourni par les fichiers exacts de **Deep Aether**.
+
+## Obtention et fabrication
+
+!!! warning "Pas de recette directe trouvée"
+    L'objet peut provenir d'un boss, d'un coffre, d'un échange ou d'une mécanique spéciale visible dans JEI.
+
+## Utilisé dans
+
+- [Stripped Sunroot Wall](../../../catalogue/objets/deep_aether/stripped_sunroot_wall.md) — <code>deep_aether:stripped_sunroot_wall</code>
+- [Stripped Sunroot Wood](../../../catalogue/objets/deep_aether/stripped_sunroot_wood.md) — <code>deep_aether:stripped_sunroot_wood</code>
+
+## Effets et caractéristiques
+
+!!! info "À confirmer dans la partie"
+    Les dégâts, attributs, sorts, affixes, sockets et valeurs NBT dynamiques seront ajoutés après vérification de l'infobulle réelle en jeu.
+
+[Tous les objets de Deep Aether](../../../contenu/deep-aether.md)
